@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Para citar este repertorio, reconozca a Nina Patricia García Méndez como autora y compiladora."
+title: "Terminología Arquitectónica Histórica: repertorio vivo de voces documentadas en tratados y diccionarios históricos"
+type: dataset
+authors:
+  - family-names: "García Méndez"
+    given-names: "Nina Patricia"
+version: "1.0"
+date-released: "2026-08-02"
+url: "https://legado-npgm.github.io/terminologia-arquitectonica-historica/"
+repository-code: "https://github.com/legado-npgm/terminologia-arquitectonica-historica"
+keywords:
+  - terminología arquitectónica histórica
+  - tratados de arquitectura
+  - diccionarios históricos
+  - arquitectura histórica
+  - patrimonio documental
+  - historia de la arquitectura
+license: "proprietary"

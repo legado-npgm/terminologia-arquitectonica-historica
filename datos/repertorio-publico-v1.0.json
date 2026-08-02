@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "TAH-000001",
+    "term": "Ábaco",
+    "slug": "abaco",
+    "sense": "Miembro superior del capitel, ordinariamente dispuesto como tablero, que corona el conjunto y recibe el arquitrabe u otro elemento sustentado.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "Mariano Matallana",
+      "Eugène Viollet-le-Duc",
+      "J. Justin Storck"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil",
+      "Vocabulario de arquitectura civil",
+      "Diccionario razonado de la arquitectura francesa",
+      "Diccionario práctico citado en el comparador documental"
+    ],
+    "active_variants": [
+      "Abaco"
+    ],
+    "relations": [
+      "Capitel",
+      "Columna",
+      "Arquitrabe"
+    ]
+  },
+  {
+    "id": "TAH-000002",
+    "term": "Arco",
+    "slug": "arco",
+    "sense": "Fábrica de trazado curvo que salva un vano y conduce las cargas hacia sus apoyos, formada históricamente por dovelas o piezas orientadas hacia uno o varios centros.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "works": [
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Diccionario de arquitectura civil",
+      "Vocabulario de arquitectura civil"
+    ],
+    "active_variants": [
+      "arcos"
+    ],
+    "relations": [
+      "Dovela",
+      "Clave",
+      "Cimbra",
+      "Estribo",
+      "Machón",
+      "Montea"
+    ]
+  },
+  {
+    "id": "TAH-000003",
+    "term": "Arquitectura",
+    "slug": "arquitectura",
+    "sense": "Disciplina teórica y práctica que ordena, proyecta y dirige la construcción de edificios, integrando conocimientos diversos para alcanzar firmeza, adecuación al uso y calidad formal.",
+    "theme": "Sin clasificación temática forzada",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil",
+      "Vocabulario de arquitectura civil"
+    ],
+    "active_variants": [
+      "Architectura"
+    ],
+    "relations": [
+      "Proporción",
+      "Simetría",
+      "Orden",
+      "Decoro",
+      "Economía"
+    ]
+  },
+  {
+    "id": "TAH-000004",
+    "term": "Arquitrabe",
+    "slug": "arquitrabe",
+    "sense": "Miembro inferior del entablamento, dispuesto sobre los capiteles, que recibe los elementos superiores y transmite sus cargas hacia las columnas.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil",
+      "Vocabulario de arquitectura civil"
+    ],
+    "active_variants": [
+      "architrabe"
+    ],
+    "relations": [
+      "Entablamento",
+      "Friso",
+      "Capitel"
+    ]
+  },
+  {
+    "id": "TAH-000005",
+    "term": "Basa",
+    "slug": "basa",
+    "sense": "Miembro inferior de la columna, formado por molduras y apoyado sobre el plinto o asiento correspondiente, cuya composición varía según el orden.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "basa ática",
+      "basa aticurga"
+    ],
+    "relations": [
+      "Columna",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000006",
+    "term": "Bóveda",
+    "slug": "boveda",
+    "sense": "Estructura de fábrica curva que cubre un espacio o forma un suelo y transmite sus cargas hacia muros, pilares, machones, estribos o arcos.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "León Battista Alberti / Francisco Lozano",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Los diez libros de architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "boveda"
+    ],
+    "relations": [
+      "Arco",
+      "Dovela",
+      "Clave",
+      "Cimbra",
+      "Estribo",
+      "Machón",
+      "Montea"
+    ]
+  },
+  {
+    "id": "TAH-000007",
+    "term": "Capitel",
+    "slug": "capitel",
+    "sense": "Miembro superior de la columna que corona el fuste y transmite hacia él las cargas del arquitrabe o del elemento que descansa encima.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "capitél",
+      "capiteles"
+    ],
+    "relations": [
+      "Ábaco",
+      "Columna",
+      "Arquitrabe",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000008",
+    "term": "Cimbra",
+    "slug": "cimbra",
+    "sense": "Armazón provisional que reproduce la forma interior de un arco o bóveda y sostiene sus piezas hasta que la fábrica queda cerrada y estable.",
+    "theme": "Técnicas constructivas y procesos de ejecución",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "cimbria"
+    ],
+    "relations": [
+      "Arco",
+      "Bóveda",
+      "Dovela",
+      "Clave"
+    ]
+  },
+  {
+    "id": "TAH-000009",
+    "term": "Clave",
+    "slug": "clave",
+    "sense": "Dovela situada en la parte superior o central de un arco y, por extensión, pieza o conjunto de cierre de una bóveda de fábrica.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Benito Bails"
+    ],
+    "works": [
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Dovela",
+      "Arco",
+      "Bóveda"
+    ]
+  },
+  {
+    "id": "TAH-000010",
+    "term": "Columna",
+    "slug": "columna",
+    "sense": "Soporte vertical aislado que recibe y transmite cargas y que, en los órdenes históricos, se compone generalmente de basa, fuste y capitel.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "León Battista Alberti / Francisco Lozano",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "coluna",
+      "columnas"
+    ],
+    "relations": [
+      "Basa",
+      "Capitel",
+      "Intercolumnio",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000011",
+    "term": "Cornisa",
+    "slug": "cornisa",
+    "sense": "Miembro superior y proyectante del entablamento, dispuesto sobre el friso, que corona el conjunto y contribuye a proteger y rematar sus partes inferiores.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Entablamento",
+      "Friso"
+    ]
+  },
+  {
+    "id": "TAH-000012",
+    "term": "Decoro",
+    "slug": "decoro",
+    "sense": "Principio de adecuación que ajusta la forma, la disposición y el ornato de un edificio a su uso, condición, costumbre y emplazamiento.",
+    "theme": "Tipología, composición y espacio",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "León Battista Alberti / Francisco Lozano",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Los diez libros de architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "Propiedad"
+    ],
+    "relations": [
+      "Arquitectura",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000013",
+    "term": "Dovela",
+    "slug": "dovela",
+    "sense": "Pieza, ordinariamente labrada en forma de cuña, que integra un arco o una bóveda y transmite las cargas hacia las piezas contiguas y los apoyos.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "dovelas"
+    ],
+    "relations": [
+      "Arco",
+      "Bóveda",
+      "Clave"
+    ]
+  },
+  {
+    "id": "TAH-000014",
+    "term": "Economía",
+    "slug": "economia",
+    "sense": "Principio que ajusta dimensiones, disposición, materiales y gasto a las condiciones de la obra, del lugar y de los recursos disponibles.",
+    "theme": "Sin clasificación temática forzada",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Arquitectura",
+      "Mortero"
+    ]
+  },
+  {
+    "id": "TAH-000015",
+    "term": "Entablamento",
+    "slug": "entablamento",
+    "sense": "Conjunto horizontal dispuesto sobre columnas o pilastras, compuesto por arquitrabe, friso y cornisa, cuyas proporciones y miembros varían según el orden.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "entablamiento"
+    ],
+    "relations": [
+      "Arquitrabe",
+      "Friso",
+      "Cornisa",
+      "Orden",
+      "Columna"
+    ]
+  },
+  {
+    "id": "TAH-000016",
+    "term": "Estribo",
+    "slug": "estribo",
+    "sense": "Cuerpo de fábrica que recibe y contrarresta los empujes transmitidos por un arco, una bóveda u otra estructura de descarga.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Tercero y quarto libro de Architectura",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "estrivo"
+    ],
+    "relations": [
+      "Arco",
+      "Bóveda",
+      "Machón"
+    ]
+  },
+  {
+    "id": "TAH-000017",
+    "term": "Friso",
+    "slug": "friso",
+    "sense": "Miembro intermedio del entablamento, colocado sobre el arquitrabe y bajo la cornisa, que puede ser liso, ornamentado o articulado con triglifos y metopas.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "frisos"
+    ],
+    "relations": [
+      "Entablamento",
+      "Arquitrabe",
+      "Cornisa",
+      "Triglifo",
+      "Metopa"
+    ]
+  },
+  {
+    "id": "TAH-000018",
+    "term": "Intercolumnio",
+    "slug": "intercolumnio",
+    "sense": "Intervalo entre dos columnas contiguas, cuya dimensión y relación con el diámetro de la columna determinan distintos sistemas de disposición.",
+    "theme": "Geometría, trazado, medida y proporción",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "intercolunio",
+      "entrecolumnio"
+    ],
+    "relations": [
+      "Columna",
+      "Proporción",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000019",
+    "term": "Jaharro",
+    "slug": "jaharro",
+    "sense": "Capa preparatoria de mortero aplicada sobre una fábrica para regularizar su superficie y recibir posteriormente un enlucido u otro acabado.",
+    "theme": "Técnicas constructivas y procesos de ejecución",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "jaharrar",
+      "harrar",
+      "jarrado",
+      "japirado"
+    ],
+    "relations": [
+      "Mortero"
+    ]
+  },
+  {
+    "id": "TAH-000020",
+    "term": "Machón",
+    "slug": "machon",
+    "sense": "Cuerpo vertical macizo de fábrica o cantería que recibe arcos, refuerza muros o concentra cargas, aislado o incorporado a otro elemento.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "machon"
+    ],
+    "relations": [
+      "Arco",
+      "Bóveda",
+      "Estribo"
+    ]
+  },
+  {
+    "id": "TAH-000021",
+    "term": "Metopa",
+    "slug": "metopa",
+    "sense": "Espacio o tablero del friso dórico dispuesto entre dos triglifos, que puede permanecer liso o recibir ornamentación figurada.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "works": [
+      "Tercero y quarto libro de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "métopa",
+      "metopas"
+    ],
+    "relations": [
+      "Friso",
+      "Triglifo"
+    ]
+  },
+  {
+    "id": "TAH-000022",
+    "term": "Montea",
+    "slug": "montea",
+    "sense": "Traza geométrica, ordinariamente a escala natural, que determina la forma, el corte y el ensamblaje de las piezas de una obra de cantería.",
+    "theme": "Cantería, corte y estereotomía",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "montear",
+      "arte de la montea"
+    ],
+    "relations": [
+      "Sillería",
+      "Dovela",
+      "Arco",
+      "Bóveda"
+    ]
+  },
+  {
+    "id": "TAH-000023",
+    "term": "Mortero",
+    "slug": "mortero",
+    "sense": "Mezcla aglomerante preparada principalmente con cal, arena y agua, utilizada históricamente para unir piezas, rellenar juntas o formar revestimientos.",
+    "theme": "Materiales",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Sillería",
+      "Tapia/Tapial",
+      "Jaharro"
+    ]
+  },
+  {
+    "id": "TAH-000024",
+    "term": "Orden",
+    "slug": "orden",
+    "sense": "Sistema formal de arquitectura que regula las proporciones, los miembros y el ornato de columnas y entablamentos según caracteres históricos determinados.",
+    "theme": "Órdenes arquitectónicos y lenguaje clásico",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "órden",
+      "Orden de Arquitectura",
+      "órdenes"
+    ],
+    "relations": [
+      "Columna",
+      "Basa",
+      "Capitel",
+      "Entablamento"
+    ]
+  },
+  {
+    "id": "TAH-000025",
+    "term": "Proporción",
+    "slug": "proporcion",
+    "sense": "Relación de medida entre las partes de una obra y entre cada parte y el conjunto, establecida mediante un módulo o referencia común.",
+    "theme": "Geometría, trazado, medida y proporción",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego de Sagredo",
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Jacopo Barozzi da Vignola / Patricio Caxés",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Medidas del Romano, segunda edición consultada",
+      "Tercero y quarto libro de Architectura",
+      "Regla de las cinco órdenes de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Simetría",
+      "Orden",
+      "Columna",
+      "Intercolumnio"
+    ]
+  },
+  {
+    "id": "TAH-000026",
+    "term": "Sillería",
+    "slug": "silleria",
+    "sense": "Fábrica formada con sillares o piezas regulares de piedra labrada, asentadas en hiladas y trabadas de acuerdo con la disposición constructiva de la obra.",
+    "theme": "Técnicas constructivas y procesos de ejecución",
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Sebastiano Serlio / Francisco de Villalpando",
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Tercero y quarto libro de Architectura",
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [],
+    "relations": [
+      "Dovela",
+      "Montea",
+      "Mortero"
+    ]
+  },
+  {
+    "id": "TAH-000027",
+    "term": "Simetría",
+    "slug": "simetria",
+    "sense": "Correspondencia mensurable entre las partes de una obra y su totalidad, fundada en una medida común y en relaciones proporcionales.",
+    "theme": "Geometría, trazado, medida y proporción",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Simonin / Martínez de la Torre / Asensio",
+      "Benito Bails"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Tratado elemental de los cortes de cantería o Arte de la montea",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "Symmetria",
+      "Simetria"
+    ],
+    "relations": [
+      "Proporción",
+      "Orden"
+    ]
+  },
+  {
+    "id": "TAH-000028",
+    "term": "Tapia/Tapial",
+    "slug": "tapia-tapial",
+    "sense": "Sistema de construcción con tierra húmeda compactada entre tableros: la fábrica o porción ejecutada se denomina tapia y el molde o sus tableros, tapial.",
+    "theme": "Técnicas constructivas y procesos de ejecución",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "works": [
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil",
+      "Manual de construcciones de albañilería"
+    ],
+    "active_variants": [
+      "Tapia",
+      "tapial",
+      "tapias",
+      "tapiales",
+      "tapia acerada"
+    ],
+    "relations": [
+      "Mortero"
+    ]
+  },
+  {
+    "id": "TAH-000029",
+    "term": "Triglifo",
+    "slug": "triglifo",
+    "sense": "Miembro saliente del friso dórico, dispuesto según el ritmo de columnas e intercolumnios y caracterizado por dos canales completas y dos medias canales laterales.",
+    "theme": "Elementos y partes arquitectónicas",
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "authors": [
+      "Claude Perrault / Joseph Castañeda",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio",
+      "Los diez libros de Arquitectura",
+      "Diccionario de las Nobles Artes",
+      "Los cuatro libros de arquitectura",
+      "Diccionario de arquitectura civil"
+    ],
+    "active_variants": [
+      "triglypho",
+      "triglifos"
+    ],
+    "relations": [
+      "Friso",
+      "Metopa",
+      "Intercolumnio"
+    ]
+  }
+]
