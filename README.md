@@ -6,11 +6,9 @@ Investigación, compilación y estudio documental: **Nina Patricia García Ménd
 
 Este repositorio contiene la primera edición digital pública del Repertorio Vivo. La interfaz está formada por archivos HTML, CSS y JavaScript estáticos, una página por término, índices alfabéticos, autores, siglos, temas, variantes y relaciones.
 
-## Dirección pública candidata
+## Dirección del sitio
 
 `https://legado-npgm.github.io/terminologia-arquitectonica-historica/`
-
-El nombre de la organización de GitHub debe verificarse antes de la publicación. Si el nombre no estuviera disponible, todas las URL absolutas deberán actualizarse de forma controlada antes de activar GitHub Pages.
 
 ## Contenido
 
