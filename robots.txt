@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://legado-npgm.github.io/terminologia-arquitectonica-historica/sitemap.xml
