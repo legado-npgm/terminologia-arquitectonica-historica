@@ -8,7 +8,7 @@
 
   <meta
     name="description"
-    content="Fuentes históricas representadas en el repertorio acumulativo."
+    content="Catálogo acumulativo de fuentes históricas consultadas en el repertorio."
   >
 
   <meta
@@ -25,153 +25,81 @@
     rel="canonical"
     href="https://legado-npgm.github.io/terminologia-arquitectonica-historica/fuentes/"
   >
-
-  <meta
-    property="og:type"
-    content="website"
-  >
-
-  <meta
-    property="og:title"
-    content="Fuentes | Terminología Arquitectónica Histórica"
-  >
-
-  <meta
-    property="og:description"
-    content="Fuentes históricas representadas en el repertorio acumulativo."
-  >
-
-  <meta
-    property="og:url"
-    content="https://legado-npgm.github.io/terminologia-arquitectonica-historica/fuentes/"
-  >
 </head>
 
 <body>
 
-  <a
-    class="skip"
-    href="#contenido"
-  >
+  <a class="skip" href="#contenido">
     Saltar al contenido
   </a>
 
   <header class="site-header">
-
     <div class="header-inner">
 
-      <a
-        class="brand"
-        href="../index.html"
-      >
-        <strong>
-          TERMINOLOGÍA ARQUITECTÓNICA HISTÓRICA
-        </strong>
-
+      <a class="brand" href="../index.html">
+        <strong>TERMINOLOGÍA ARQUITECTÓNICA HISTÓRICA</strong>
         <span>
           Repertorio de voces documentadas en tratados y diccionarios históricos
         </span>
       </a>
 
-      <nav
-        class="nav"
-        aria-label="Navegación principal"
-      >
-        <a href="../index.html">
-          Consulta
-        </a>
-
-        <a href="../terminos/index.html">
-          Índice
-        </a>
-
-        <a href="../metodologia/index.html">
-          Metodología
-        </a>
-
-        <a href="../fuentes/index.html">
-          Fuentes
-        </a>
-
-        <a href="../autoria/index.html">
-          Autoría
-        </a>
-
-        <a href="../citar/index.html">
-          Cómo citar
-        </a>
+      <nav class="nav" aria-label="Navegación principal">
+        <a href="../index.html">Consulta</a>
+        <a href="../terminos/index.html">Índice</a>
+        <a href="../metodologia/index.html">Metodología</a>
+        <a href="../fuentes/index.html">Fuentes</a>
+        <a href="../autoria/index.html">Autoría</a>
+        <a href="../citar/index.html">Cómo citar</a>
       </nav>
 
     </div>
-
   </header>
 
   <main id="contenido">
 
     <div class="breadcrumb">
-      <a href="../index.html">
-        Inicio
-      </a>
-      /
-      Fuentes
+      <a href="../index.html">Inicio</a> / Fuentes
     </div>
 
     <article class="content-page">
 
       <div class="eyebrow">
-        Fuentes históricas representadas
+        Catálogo de fuentes históricas
       </div>
 
       <h1>
-        Autores, traductores y obras
+        Autores, ediciones y obras consultadas
       </h1>
 
       <p>
-        Esta relación se genera a partir de las fuentes efectivamente
-        representadas en las fichas publicadas del repertorio digital
-        acumulativo.
+        Esta relación presenta una sola vez cada fuente o edición histórica
+        identificada en las fichas publicadas del repertorio.
       </p>
 
       <p class="note">
-        La presencia de una obra en esta relación no implica que sostenga
-        todas las voces. Cada ficha identifica los testimonios y pasajes
-        efectivamente recuperados para el término correspondiente.
+        La presencia de una fuente en este catálogo no implica que aporte
+        testimonios para todas las voces. Cada ficha individual identifica
+        los pasajes efectivamente recuperados para el término correspondiente.
       </p>
 
-      <p
-        id="source-count"
-        class="note"
-        aria-live="polite"
-      ></p>
+      <p id="source-count" class="note" aria-live="polite"></p>
 
       <table>
-
         <thead>
           <tr>
-            <th>
-              Autor / traductor
-            </th>
-
-            <th>
-              Obra
-            </th>
-
-            <th>
-              Año
-            </th>
+            <th>Autor / traductor / editor</th>
+            <th>Obra o fuente</th>
+            <th>Año</th>
           </tr>
         </thead>
 
         <tbody id="source-table">
-
           <tr>
             <td colspan="3">
-              Cargando fuentes del repertorio…
+              Cargando catálogo de fuentes…
             </td>
           </tr>
-
         </tbody>
-
       </table>
 
     </article>
@@ -179,23 +107,13 @@
   </main>
 
   <footer>
-
     <div class="footer-inner">
-
-      <strong>
-        Terminología Arquitectónica Histórica
-      </strong>
-
+      <strong>Terminología Arquitectónica Histórica</strong>
       <br>
-
       Investigación, compilación y estudio documental:
       Nina Patricia García Méndez.
-
-      Repertorio acumulativo de términos documentados
-      en fuentes históricas.
-
+      Catálogo acumulativo de fuentes históricas consultadas.
     </div>
-
   </footer>
 
   <script>
@@ -209,15 +127,180 @@
         }
       );
 
-    function escapeHtml(value){
+    function norm(value){
+      return String(value || '')
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g,'')
+        .toLowerCase()
+        .replace(/\s+/g,' ')
+        .trim();
+    }
 
+    function escapeHtml(value){
       return String(value ?? '')
         .replace(/&/g,'&amp;')
         .replace(/</g,'&lt;')
         .replace(/>/g,'&gt;')
         .replace(/"/g,'&quot;')
         .replace(/'/g,'&#039;');
+    }
 
+    /*
+      Normaliza únicamente variantes editoriales evidentes
+      para evitar que una misma edición aparezca varias veces.
+      No altera las atribuciones dentro de las fichas.
+    */
+    function canonicalAuthor(value){
+
+      const raw =
+        String(value || '')
+          .replace(/\s+/g,' ')
+          .trim();
+
+      const key = norm(raw);
+
+      const aliases = new Map([
+
+        [
+          'leon battista alberti / francisco lozano',
+          'León Battista Alberti / Francisco Lozano'
+        ],
+
+        [
+          'jacopo barozzi da vignola / patricio caxes',
+          'Jacopo Barozzi da Vignola / Patricio Caxés'
+        ],
+
+        [
+          'iacome de vignola / patricio caxes',
+          'Jacopo Barozzi da Vignola / Patricio Caxés'
+        ],
+
+        [
+          'sebastiano serlio / francisco de villalpando',
+          'Sebastiano Serlio / Francisco de Villalpando'
+        ],
+
+        [
+          'andrea palladio / joseph francisco ortiz y sanz',
+          'Andrea Palladio / Joseph Francisco Ortiz y Sanz'
+        ],
+
+        [
+          'andrea palladio / joseph ortiz y sanz',
+          'Andrea Palladio / Joseph Francisco Ortiz y Sanz'
+        ],
+
+        [
+          'marco vitruvio polion / joseph ortiz y sanz',
+          'Marco Vitruvio Polión / Joseph Ortiz y Sanz'
+        ],
+
+        [
+          'claude perrault / joseph castaneda',
+          'Claude Perrault / Joseph Castañeda'
+        ],
+
+        [
+          'rejon de silva',
+          'Diego Antonio Rejón de Silva'
+        ],
+
+        [
+          'diego antonio rejon de silva',
+          'Diego Antonio Rejón de Silva'
+        ],
+
+        [
+          'bails',
+          'Benito Bails'
+        ]
+
+      ]);
+
+      return aliases.get(key) || raw;
+    }
+
+    function canonicalWork(value){
+
+      let raw =
+        String(value || '')
+          .replace(/\s+/g,' ')
+          .trim();
+
+      /*
+        Elimina añadidos bibliográficos variables
+        que no forman parte del título de la fuente.
+      */
+      raw = raw
+        .replace(/\s*,?\s*p(?:á|a)?gs?\..*$/i,'')
+        .replace(/\s*,?\s*pp?\..*$/i,'')
+        .replace(/\s*;\s*PDF.*$/i,'')
+        .replace(/\s*\(registro del comparador documental\).*$/i,'')
+        .trim();
+
+      const key = norm(raw);
+
+      const aliases = new Map([
+
+        [
+          'los diez libros de arquitectura de m. vitruvio polion',
+          'Los diez libros de Arquitectura de M. Vitruvio Polión'
+        ],
+
+        [
+          'los diez libros de arquitectura',
+          'Los diez libros de Arquitectura'
+        ],
+
+        [
+          'los diez libros de architectura',
+          'Los diez libros de architectura'
+        ],
+
+        [
+          'regla de las cinco ordenes de architectura',
+          'Regla de las cinco órdenes de Architectura'
+        ],
+
+        [
+          'tercero y quarto libro de architectura',
+          'Tercero y quarto libro de Architectura'
+        ],
+
+        [
+          'compendio de los diez libros de arquitectura de vitruvio',
+          'Compendio de los diez libros de Arquitectura de Vitruvio'
+        ],
+
+        [
+          'los cuatro libros de arquitectura',
+          'Los cuatro libros de arquitectura'
+        ],
+
+        [
+          'diccionario de arquitectura civil',
+          'Diccionario de arquitectura civil'
+        ],
+
+        [
+          'diccionario de las nobles artes',
+          'Diccionario de las Nobles Artes'
+        ],
+
+        [
+          'vocabulario de arquitectura civil',
+          'Vocabulario de arquitectura civil'
+        ],
+
+        [
+          'manual de construcciones de albanileria',
+          'Manual de construcciones de albañilería'
+        ]
+
+      ]);
+
+      return aliases.get(key) || raw;
     }
 
     async function renderSources(){
@@ -234,58 +317,66 @@
           await fetch('../data/terminos.json');
 
         if(!response.ok){
-
           throw new Error(
             `No se pudo cargar data/terminos.json: ${response.status}`
           );
-
         }
 
         const terms =
           await response.json();
 
-        const sources =
+        const catalog =
           new Map();
 
         terms.forEach(term=>{
 
-          const authors =
-            term.authors || [];
+          const authors = term.authors || [];
+          const years   = term.years   || [];
+          const works   = term.works   || [];
 
-          const years =
-            term.years || [];
-
-          const works =
-            term.works || [];
-
-          const total =
-            Math.min(
+          const maximum =
+            Math.max(
               authors.length,
               years.length,
               works.length
             );
 
-          for(let i=0;i<total;i++){
+          for(let i=0;i<maximum;i++){
 
             const author =
-              String(authors[i] || '').trim();
-
-            const year =
-              String(years[i] || '').trim();
+              canonicalAuthor(
+                authors[i] || ''
+              );
 
             const work =
-              String(works[i] || '').trim();
+              canonicalWork(
+                works[i] || ''
+              );
+
+            const year =
+              String(
+                years[i] || ''
+              ).trim();
 
             if(!author || !work){
               continue;
             }
 
+            /*
+              Clave normalizada:
+              una misma combinación fuente + edición
+              sólo puede aparecer una vez.
+            */
             const key =
-              `${author}|||${work}|||${year}`;
+              [
+                norm(author),
+                norm(work),
+                norm(year)
+              ].join('|||');
 
-            if(!sources.has(key)){
+            if(!catalog.has(key)){
 
-              sources.set(
+              catalog.set(
                 key,
                 {
                   author,
@@ -301,7 +392,7 @@
         });
 
         const rows =
-          [...sources.values()]
+          [...catalog.values()]
             .sort((a,b)=>{
 
               const ay =
@@ -332,8 +423,8 @@
             });
 
         counter.textContent =
-          `${rows.length} referencias editoriales ` +
-          `representadas actualmente en el repertorio.`;
+          `${rows.length} fuentes o ediciones ` +
+          `históricas identificadas actualmente.`;
 
         tbody.innerHTML =
           rows.length
@@ -361,11 +452,9 @@
           : `
 
               <tr>
-
                 <td colspan="3">
                   No hay fuentes disponibles.
                 </td>
-
               </tr>
 
             `;
@@ -376,16 +465,12 @@
         console.error(error);
 
         tbody.innerHTML = `
-
           <tr>
-
             <td colspan="3">
               No fue posible cargar temporalmente
-              la relación de fuentes.
+              el catálogo de fuentes.
             </td>
-
           </tr>
-
         `;
 
       }
