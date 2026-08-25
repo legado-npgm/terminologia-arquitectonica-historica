@@ -81500,5 +81500,1546 @@
     "search_text": "Cono\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSólido cuya superficie se genera por una línea recta que gira alrededor de una curva base manteniendo fijo uno de sus extremos en un vértice. La geometría cónica se aplica directamente al trazado y construcción de bóvedas y pechinas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2291 · CONO · 2 TESTIMONIOS\nBenito Bails · 1796\n1. Generación de la superficie cónica\n«...la superficie de un cono es el rastro de una linea recta AV, cuyo extremo A anda al rededor de una curva ARB... estando su otro extremo asegurado en un punto V.»\nArquitectura civil, 1796; PDF p. 427.\nMR-2291-01 · Define el cono mediante generatriz móvil, base y vértice.\nBenito Bails · 1796\n2. Cono aplicado al apoyo de pechinas\n«...apoyadas en el contorno de dicha pared redondeada en forma de cilindro á nivel, ó de cono en corte para mayor fortificacion de la bóveda...»\nArquitectura civil, 1796; PDF p. 504.\nMR-2291-02 · Traslada la geometría del sólido a una solución constructiva de bóveda.\nLECTURA COMPARADA\nBails define el sólido y lo aplica a la fábrica de bóvedas. En un mismo tratado, el cono pasa de modelo geométrico generado por una recta a solución constructiva capaz de reforzar la transición de una bóveda.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: cono; cónico, cónica. Se relaciona con semicono, pero el cono completo mantiene identidad geométrica propia.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva confirmada se concentra en Bails, con un pasaje definitorio y otro constructivo de contenido autónomo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer superficies generadas desde un vértice y comprender bóvedas cónicas, pechinas, cortes y transiciones entre plantas.\nRELACIONADO CON\nCónico; Semi-cono; Vértice; Base; Generatriz; Bóveda cónica; Pechina\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Arquitectura civil. 1796.",
     "url": "terminos/cono/",
     "academic_pdf": "documentos/fichas/cono.pdf"
+  },
+  {
+    "num": 1115,
+    "cen": "CEN-2780",
+    "term": "Escarpado",
+    "slug": "escarpado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo aplicado históricamente a superficies o frentes que se apartan del plomo y presentan inclinación acusada. En el vocabulario de montea se refiere directamente a una frente o fachada construida en rampa; en el léxico decimonónico puede calificar también una peña o cuesta muy empinada. La voz, por tanto, comparte el campo semántico de escarpa, rampa, talud e inclinación, pero su función gramatical es calificativa.",
+    "authors_text": "Simonin / traductores españoles (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• escarpado, -da • escarpa • rampa • talud",
+    "comparison": "El testimonio de 1795 fija el valor técnico constructivo: la condición escarpada pertenece al frente o fachada inclinada. Bails conserva después el adjetivo para una cuesta muy empinada, mientras su propio diccionario separa ESCARPA como inclinación de una pared. La comparación impide confundir el adjetivo escarpado con el sustantivo escarpa: se relacionan por inclinación, pero no son intercambiables en todos los contextos.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 5 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Permite interpretar descripciones de muros, frentes, taludes y accidentes del terreno sin reducir automáticamente escarpado a “abrupto” en sentido moderno. Es útil para distinguir la cualidad geométrica de una superficie de la pieza o recurso constructivo que produce la escarpa.",
+    "related": [
+      "Escarpa",
+      "Rampa",
+      "Talud",
+      "Inclinado",
+      "Paramento",
+      "Fachada"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Lo que está construido con su frente ó fachada inclinada, ó en Rampa.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «ESCARPADO», p. 15 del facsímil."
+      },
+      {
+        "text": "ESCARPADO, DA. adj. Se aplica á una peña que forma una cuesta muy empinada.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, voz «ESCARPADO, DA», p. 45 del facsímil."
+      }
+    ],
+    "search_text": "Escarpado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo aplicado históricamente a superficies o frentes que se apartan del plomo y presentan inclinación acusada. En el vocabulario de montea se refiere directamente a una frente o fachada construida en rampa; en el léxico decimonónico puede calificar también una peña o cuesta muy empinada. La voz, por tanto, comparte el campo semántico de escarpa, rampa, talud e inclinación, pero su función gramatical es calificativa.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2780 · INCLINACIÓN DE PARAMENTOS Y PERFIL DEL TERRENO · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Frente o fachada inclinada\n«Lo que está construido con su frente ó fachada inclinada, ó en Rampa.»\nArte de la Montea, Diccionario, voz «ESCARPADO», p. 15 del facsímil.\nMR-ESC-01 · CEN-2780. Define el valor constructivo de la voz por oposición al plomo y vincula de forma explícita el adjetivo con la rampa.\nBenito Bails · 1802\n2. Extensión topográfica del adjetivo\n«ESCARPADO, DA. adj. Se aplica á una peña que forma una cuesta muy empinada.»\nDiccionario de arquitectura civil, voz «ESCARPADO, DA», p. 45 del facsímil.\nMR-ESC-02 · CEN-2780. Documenta la extensión del mismo rasgo geométrico a una peña o cuesta, útil para separar el núcleo de inclinación de su soporte material.\nLECTURA COMPARADA\nEl testimonio de 1795 fija el valor técnico constructivo: la condición escarpada pertenece al frente o fachada inclinada. Bails conserva después el adjetivo para una cuesta muy empinada, mientras su propio diccionario separa ESCARPA como inclinación de una pared. La comparación impide confundir el adjetivo escarpado con el sustantivo escarpa: se relacionan por inclinación, pero no son intercambiables en todos los contextos.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• escarpado, -da\n• escarpa\n• rampa\n• talud\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 5 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar descripciones de muros, frentes, taludes y accidentes del terreno sin reducir automáticamente escarpado a “abrupto” en sentido moderno. Es útil para distinguir la cualidad geométrica de una superficie de la pieza o recurso constructivo que produce la escarpa.\nRELACIONADO CON\nEscarpa; Rampa; Talud; Inclinado; Paramento; Fachada.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/escarpado/",
+    "academic_pdf": "documentos/fichas/escarpado.pdf"
+  },
+  {
+    "num": 1116,
+    "cen": "CEN-2809",
+    "term": "Escuadrar",
+    "slug": "escuadrar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Verbo operativo que designa dar o comprobar escuadra en una pieza, especialmente piedra o madera. En cantería, la formulación más directa es poner una piedra a escuadra por todos sus paramentos; en carpintería, la documentación contrasta el madero escuadrado con el rollizo y muestra que la operación transforma el tronco irregular en una pieza de caras reguladas.",
+    "authors_text": "Simonin / traductores españoles (1795); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1795,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879."
+    ],
+    "variants": "• escuadrar • escuadrado, -da • escuadra • rollizo",
+    "comparison": "Simonin conserva la definición estrictamente canteril, centrada en los paramentos. Marcos y Bausa documenta el estado previo —palo o viga “sin escuadrar ó rollizo”— y, por contraste, confirma que escuadrar no es simplemente cortar: es producir una sección y caras regulares aptas para el trabajo constructivo. La voz atraviesa oficios, pero mantiene como núcleo el control de ángulos y caras.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 7 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Es clave para leer mediciones, despieces, suministros de madera y piedra, y especificaciones de labra. Ayuda a diferenciar una pieza simplemente cortada de otra regularizada geométricamente para recibir ensamblajes, juntas o paramentos.",
+    "related": [
+      "Escuadra",
+      "Paramento",
+      "Sillar",
+      "Madero",
+      "Rollizo",
+      "Labra"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Ponerla á esquadra por todos sus paramentos.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «ESQUADRAR (una Piedra)», p. 15 del facsímil."
+      },
+      {
+        "text": "…se obtiene el palo ó viga sin escuadrar ó rollizo.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, sección sobre maderas, p. 43 del facsímil."
+      }
+    ],
+    "search_text": "Escuadrar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVerbo operativo que designa dar o comprobar escuadra en una pieza, especialmente piedra o madera. En cantería, la formulación más directa es poner una piedra a escuadra por todos sus paramentos; en carpintería, la documentación contrasta el madero escuadrado con el rollizo y muestra que la operación transforma el tronco irregular en una pieza de caras reguladas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2809 · LABRA Y REGULARIZACIÓN GEOMÉTRICA · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Escuadrar una piedra\n«Ponerla á esquadra por todos sus paramentos.»\nArte de la Montea, Diccionario, voz «ESQUADRAR (una Piedra)», p. 15 del facsímil.\nMR-ESQ-01 · CEN-2809. La definición relaciona la operación con la totalidad de los paramentos, no con una única cara.\nRicardo Marcos y Bausa · 1879\n2. El estado sin escuadrar\n«…se obtiene el palo ó viga sin escuadrar ó rollizo.»\nManual del albañil, sección sobre maderas, p. 43 del facsímil.\nMR-ESQ-02 · CEN-2809. El contraste con rollizo muestra el resultado material que la operación de escuadrar viene a corregir.\nLECTURA COMPARADA\nSimonin conserva la definición estrictamente canteril, centrada en los paramentos. Marcos y Bausa documenta el estado previo —palo o viga “sin escuadrar ó rollizo”— y, por contraste, confirma que escuadrar no es simplemente cortar: es producir una sección y caras regulares aptas para el trabajo constructivo. La voz atraviesa oficios, pero mantiene como núcleo el control de ángulos y caras.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• escuadrar\n• escuadrado, -da\n• escuadra\n• rollizo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 7 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para leer mediciones, despieces, suministros de madera y piedra, y especificaciones de labra. Ayuda a diferenciar una pieza simplemente cortada de otra regularizada geométricamente para recibir ensamblajes, juntas o paramentos.\nRELACIONADO CON\nEscuadra; Paramento; Sillar; Madero; Rollizo; Labra.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+    "url": "terminos/escuadrar/",
+    "academic_pdf": "documentos/fichas/escuadrar.pdf"
+  },
+  {
+    "num": 1117,
+    "cen": "CEN-2814",
+    "term": "Esfera",
+    "slug": "esfera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cuerpo geométrico redondo en todas sus direcciones y, por extensión técnica, matriz de numerosas bóvedas y superficies de montea. La voz pasa del concepto elemental de geometría al trazado y labra de medias naranjas, pechinas y otras porciones esféricas, donde intradós y trasdós pertenecen a esferas de diámetros distintos.",
+    "authors_text": "Simonin / traductores españoles (1795); Benito Bails (1796).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• esfera • esférico, -ca • media naranja • segmento de esfera",
+    "comparison": "La definición breve de 1795 fija el concepto geométrico. Bails muestra el paso al lenguaje estereotómico: una dovela de media naranja combina porciones esféricas cóncava y convexa con caras planas y cónicas. La esfera no es, por tanto, solo una forma abstracta; organiza el análisis de caras, curvaturas, lechos y sobrelechos en la cantería de bóvedas.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 17 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Ofrece base conceptual para reconstruir trazados de bóvedas y distinguir las superficies que componen cada dovela. Es especialmente útil en historia de la geometría descriptiva, cantería y restauración de cubiertas curvas.",
+    "related": [
+      "Esférico",
+      "Media naranja",
+      "Dovela",
+      "Intradós",
+      "Trasdós",
+      "Lecho",
+      "Sobre-lecho",
+      "Montea"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Cuerpo redondo por todas partes.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «ESFERA», p. 15 del facsímil."
+      },
+      {
+        "text": "…dos porciones esféricas, es á saber, la cóncava para el intrados y la convexa para el trasdos, pertenecientes á esferas de diámetros desiguales…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, tratado de montea de bóvedas, p. 429 del facsímil."
+      }
+    ],
+    "search_text": "Esfera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCuerpo geométrico redondo en todas sus direcciones y, por extensión técnica, matriz de numerosas bóvedas y superficies de montea. La voz pasa del concepto elemental de geometría al trazado y labra de medias naranjas, pechinas y otras porciones esféricas, donde intradós y trasdós pertenecen a esferas de diámetros distintos.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2814 · GEOMETRÍA Y ESTEREOTOMÍA DE SUPERFICIES ESFÉRICAS · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Definición geométrica\n«Cuerpo redondo por todas partes.»\nArte de la Montea, Diccionario, voz «ESFERA», p. 15 del facsímil.\nMR-ESF-01 · CEN-2814. Fija el núcleo geométrico mínimo sobre el que se construyen las aplicaciones estereotómicas.\nBenito Bails · 1796\n2. La esfera aplicada a una dovela de media naranja\n«…dos porciones esféricas, es á saber, la cóncava para el intrados y la convexa para el trasdos, pertenecientes á esferas de diámetros desiguales…»\nArquitectura civil, tratado de montea de bóvedas, p. 429 del facsímil.\nMR-ESF-02 · CEN-2814. Traslada la esfera al despiece real: intradós y trasdós de una misma dovela responden a radios diferentes.\nLECTURA COMPARADA\nLa definición breve de 1795 fija el concepto geométrico. Bails muestra el paso al lenguaje estereotómico: una dovela de media naranja combina porciones esféricas cóncava y convexa con caras planas y cónicas. La esfera no es, por tanto, solo una forma abstracta; organiza el análisis de caras, curvaturas, lechos y sobrelechos en la cantería de bóvedas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• esfera\n• esférico, -ca\n• media naranja\n• segmento de esfera\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 17 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nOfrece base conceptual para reconstruir trazados de bóvedas y distinguir las superficies que componen cada dovela. Es especialmente útil en historia de la geometría descriptiva, cantería y restauración de cubiertas curvas.\nRELACIONADO CON\nEsférico; Media naranja; Dovela; Intradós; Trasdós; Lecho; Sobre-lecho; Montea.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/esfera/",
+    "academic_pdf": "documentos/fichas/esfera.pdf"
+  },
+  {
+    "num": 1118,
+    "cen": "CEN-3114",
+    "term": "Hexagonal",
+    "slug": "hexagonal",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo que expresa la forma de seis lados. En el vocabulario de montea aparece con la grafía exagonal; la tradición geométrica del siglo XVI documenta también hexágono/hexagonal en la descripción de superficies de cuerpos irregulares. La variación ortográfica no altera el contenido geométrico.",
+    "authors_text": "Simonin / traductores españoles (1795); Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1795,
+      1585
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y architectura. Sevilla, 1585."
+    ],
+    "variants": "• hexagonal • exagonal • hexágono • exágono",
+    "comparison": "La forma exagonal de Simonin ofrece una definición lexicográfica directa, mientras Arphe incorpora superficies hexagonales al análisis de cuerpos. La lectura conjunta muestra la continuidad entre denominación geométrica y uso en la descripción de sólidos. “Hexagonal” no designa un tipo arquitectónico por sí mismo: califica plantas, caras o secciones de seis lados.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Permite normalizar búsquedas históricas entre grafías con y sin h, y reconocer descripciones de plantas y caras poligonales en tratados geométricos, de cantería y de construcción.",
+    "related": [
+      "Hexágono",
+      "Polígono",
+      "Planta",
+      "Superficie",
+      "Cuerpo geométrico"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "EXAGONAL. adj. Lo que tiene la forma exagona. […] EXAGONO. […] Figura compuesta de seis lados.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, p. 15 del facsímil."
+      },
+      {
+        "text": "…superficies hexagonas…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración, libro primero, tratado de cuerpos irregulares, p. 50 del facsímil."
+      }
+    ],
+    "search_text": "Hexagonal\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo que expresa la forma de seis lados. En el vocabulario de montea aparece con la grafía exagonal; la tradición geométrica del siglo XVI documenta también hexágono/hexagonal en la descripción de superficies de cuerpos irregulares. La variación ortográfica no altera el contenido geométrico.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3114 · GEOMETRÍA POLIGONAL · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Grafía exagonal y forma de seis lados\n«EXAGONAL. adj. Lo que tiene la forma exagona. […] EXAGONO. […] Figura compuesta de seis lados.»\nArte de la Montea, Diccionario, p. 15 del facsímil.\nMR-HEX-01 · CEN-3114. Conserva una grafía histórica sin h y explicita el criterio definitorio: seis lados.\nJuan de Arphe y Villafañe · 1585\n2. Superficies hexagonales en cuerpos irregulares\n«…superficies hexagonas…»\nDe varia commensuración, libro primero, tratado de cuerpos irregulares, p. 50 del facsímil.\nMR-HEX-02 · CEN-3114. Atestigua tempranamente la familia hexagon- en el análisis de superficies de sólidos.\nLECTURA COMPARADA\nLa forma exagonal de Simonin ofrece una definición lexicográfica directa, mientras Arphe incorpora superficies hexagonales al análisis de cuerpos. La lectura conjunta muestra la continuidad entre denominación geométrica y uso en la descripción de sólidos. “Hexagonal” no designa un tipo arquitectónico por sí mismo: califica plantas, caras o secciones de seis lados.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• hexagonal\n• exagonal\n• hexágono\n• exágono\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite normalizar búsquedas históricas entre grafías con y sin h, y reconocer descripciones de plantas y caras poligonales en tratados geométricos, de cantería y de construcción.\nRELACIONADO CON\nHexágono; Polígono; Planta; Superficie; Cuerpo geométrico.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y architectura. Sevilla, 1585.",
+    "url": "terminos/hexagonal/",
+    "academic_pdf": "documentos/fichas/hexagonal.pdf"
+  },
+  {
+    "num": 1119,
+    "cen": "CEN-3171",
+    "term": "Inclinado",
+    "slug": "inclinado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo geométrico y constructivo para aquello que no se encuentra ni a nivel ni a plomo. Su amplitud permite aplicarlo a líneas, planos, piezas, cubiertas, escaleras, juntas y otros elementos cuya dirección forma un ángulo con la horizontal o la vertical. El valor técnico depende del referente, pero el núcleo es siempre una desviación controlable respecto de esas direcciones de referencia.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• inclinado, -da • inclinación • nivel • plomo",
+    "comparison": "La definición de Simonin es deliberadamente relacional: inclinado se entiende frente a nivel y plomo. El barrido 35/35 localizó numerosas ocurrencias posteriores aplicadas a componentes distintos; se excluyeron del comparador las menciones meramente descriptivas que no añaden un criterio nuevo. Esa dispersión confirma la productividad del adjetivo sin convertir cada empleo en una acepción separada.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 28 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Ayuda a interpretar trazas y descripciones donde la dirección es decisiva y evita equiparar inclinado con escarpado, oblicuo o en rampa sin atender al elemento concreto y al plano de referencia.",
+    "related": [
+      "Nivel",
+      "Plomo",
+      "Escarpado",
+      "Rampa",
+      "Oblicuo",
+      "Pendiente"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Lo que no está á nivel ni á plomo.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «INCLINADO», p. 16 del facsímil."
+      }
+    ],
+    "search_text": "Inclinado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo geométrico y constructivo para aquello que no se encuentra ni a nivel ni a plomo. Su amplitud permite aplicarlo a líneas, planos, piezas, cubiertas, escaleras, juntas y otros elementos cuya dirección forma un ángulo con la horizontal o la vertical. El valor técnico depende del referente, pero el núcleo es siempre una desviación controlable respecto de esas direcciones de referencia.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3171 · DESVIACIÓN RESPECTO DEL NIVEL O DEL PLOMO · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Definición por nivel y plomo\n«Lo que no está á nivel ni á plomo.»\nArte de la Montea, Diccionario, voz «INCLINADO», p. 16 del facsímil.\nMR-INC-01 · CEN-3171. Condensa el sentido geométrico en dos referencias instrumentales esenciales de obra: horizontalidad y verticalidad.\nLECTURA COMPARADA\nLa definición de Simonin es deliberadamente relacional: inclinado se entiende frente a nivel y plomo. El barrido 35/35 localizó numerosas ocurrencias posteriores aplicadas a componentes distintos; se excluyeron del comparador las menciones meramente descriptivas que no añaden un criterio nuevo. Esa dispersión confirma la productividad del adjetivo sin convertir cada empleo en una acepción separada.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• inclinado, -da\n• inclinación\n• nivel\n• plomo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 28 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar trazas y descripciones donde la dirección es decisiva y evita equiparar inclinado con escarpado, oblicuo o en rampa sin atender al elemento concreto y al plano de referencia.\nRELACIONADO CON\nNivel; Plomo; Escarpado; Rampa; Oblicuo; Pendiente.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/inclinado/",
+    "academic_pdf": "documentos/fichas/inclinado.pdf"
+  },
+  {
+    "num": 1120,
+    "cen": "CEN-3219",
+    "term": "Junta de trasdós",
+    "slug": "junta-de-trasdos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Subtipo de junta de una bóveda referido a la línea o contacto que forman las dovelas en el trasdós. En la definición histórica queda emparejada con la junta de intradós: ambas son transversales a la dirección del eje, pero se leen en superficies opuestas de la bóveda. La voz pertenece al sistema de despiece, no a una junta genérica de fábrica.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• junta de trasdós • junta de intradós • trasdós • extradós",
+    "comparison": "Simonin define primero la junta de intradós y, por referencia anafórica, la de trasdós “con la misma circunstancia”. La comparación interna es indispensable: el rasgo compartido es la transversalidad respecto del eje; cambia la superficie donde se manifiesta. La segunda pasada 35/35 localizó vocabulario posterior de extradós y juntas de bóveda, pero no otro pasaje definitorio autónomo que modificara este núcleo.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para leer despieces de arcos y bóvedas y para identificar qué arista o contacto se está representando en monteas, plantillas y levantamientos de cantería.",
+    "related": [
+      "Junta",
+      "Trasdós",
+      "Intradós",
+      "Dovela",
+      "Lecho",
+      "Sobre-lecho",
+      "Eje"
+    ],
+    "themes": [
+      "Cantería",
+      "Estructuras curvas"
+    ],
+    "quotes": [
+      {
+        "text": "De Intrados. La junta de las Dobelas formada transversalmente á la direccion del Exe, en lo interior de una Bóveda. […] De Trasdos. La que con la misma circunstancia forman las Dobelas en el trasdos de una Bóveda.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «JUNTA», p. 16 del facsímil."
+      }
+    ],
+    "search_text": "Junta de trasdós\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSubtipo de junta de una bóveda referido a la línea o contacto que forman las dovelas en el trasdós. En la definición histórica queda emparejada con la junta de intradós: ambas son transversales a la dirección del eje, pero se leen en superficies opuestas de la bóveda. La voz pertenece al sistema de despiece, no a una junta genérica de fábrica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3219 · JUNTAS DE DOVELAS EN LA SUPERFICIE EXTERIOR · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Oposición entre junta de intradós y de trasdós\n«De Intrados. La junta de las Dobelas formada transversalmente á la direccion del Exe, en lo interior de una Bóveda. […] De Trasdos. La que con la misma circunstancia forman las Dobelas en el trasdos de una Bóveda.»\nArte de la Montea, Diccionario, voz «JUNTA», p. 16 del facsímil.\nMR-JTR-01 · CEN-3219. El pasaje define la junta por su posición exterior y conserva el rasgo geométrico que comparte con la junta de intradós.\nLECTURA COMPARADA\nSimonin define primero la junta de intradós y, por referencia anafórica, la de trasdós “con la misma circunstancia”. La comparación interna es indispensable: el rasgo compartido es la transversalidad respecto del eje; cambia la superficie donde se manifiesta. La segunda pasada 35/35 localizó vocabulario posterior de extradós y juntas de bóveda, pero no otro pasaje definitorio autónomo que modificara este núcleo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• junta de trasdós\n• junta de intradós\n• trasdós\n• extradós\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para leer despieces de arcos y bóvedas y para identificar qué arista o contacto se está representando en monteas, plantillas y levantamientos de cantería.\nRELACIONADO CON\nJunta; Trasdós; Intradós; Dovela; Lecho; Sobre-lecho; Eje.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/junta-de-trasdos/",
+    "academic_pdf": "documentos/fichas/junta-de-trasdos.pdf"
+  },
+  {
+    "num": 1121,
+    "cen": "CEN-3225",
+    "term": "Juntas encontradas",
+    "slug": "juntas-encontradas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Modo de sentar sillares, ladrillos u otras piezas de manera que la junta de una hilada no continúe verticalmente la de la inmediata: el lecho de una pieza carga sobre la zona media del sobrelecho de la inferior. El principio produce traba y evita la continuidad de juntas, y se documenta tanto en sillería como en tabicados de ladrillo.",
+    "authors_text": "Simonin / traductores españoles (1795); Manuel Fornés y Gurrea (1857).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Manuel Fornés y Gurrea"
+    ],
+    "years": [
+      1795,
+      1857
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. 2.ª ed. Valencia, 1857."
+    ],
+    "variants": "• juntas encontradas • sentar a juntas encontradas • trabar • matajunta",
+    "comparison": "Simonin formula la regla con sillares y con la relación lecho/sobrelecho. Fornés la aplica al ladrillo doble de una bóveda tabicada, donde prescribe asentarlo “á juntas encontradas del tabicado”. La comparación muestra que no es una voz exclusiva de sillería: es un principio de aparejo transferible a otras fábricas por hiladas.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 6 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Resulta fundamental para diagnosticar aparejos, reconstruir secuencias de fábrica y evaluar si las juntas verticales quedan trabadas. Es útil en documentación de sillería, ladrillo y bóvedas tabicadas.",
+    "related": [
+      "Junta",
+      "Lecho",
+      "Sobre-lecho",
+      "Hilada",
+      "Sillería",
+      "Ladrillo",
+      "Aparejo",
+      "Traba"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Así se dice en la práctica quando se sientan los Sillares, de modo que el Lecho del uno siente sobre el medio del Sobre-Lecho del otro.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «JUNTAS ENCONTRADAS», p. 19 del facsímil."
+      },
+      {
+        "text": "…el ladrillo doble se asentará con yeso claro bien batido á juntas encontradas del tabicado…",
+        "author": "Manuel Fornés y Gurrea",
+        "year": "1857",
+        "source": "Observaciones sobre la práctica del arte de edificar, 2.ª ed., p. 18 del facsímil."
+      }
+    ],
+    "search_text": "Juntas encontradas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nModo de sentar sillares, ladrillos u otras piezas de manera que la junta de una hilada no continúe verticalmente la de la inmediata: el lecho de una pieza carga sobre la zona media del sobrelecho de la inferior. El principio produce traba y evita la continuidad de juntas, y se documenta tanto en sillería como en tabicados de ladrillo.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3225 · APAREJO Y TRABA DE HILADAS · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Definición en sillería\n«Así se dice en la práctica quando se sientan los Sillares, de modo que el Lecho del uno siente sobre el medio del Sobre-Lecho del otro.»\nArte de la Montea, Diccionario, voz «JUNTAS ENCONTRADAS», p. 19 del facsímil.\nMR-JEN-01 · CEN-3225. Define la alternancia de juntas mediante la relación exacta entre lecho y sobrelecho.\nManuel Fornés y Gurrea · 1857\n2. Aplicación a bóveda tabicada\n«…el ladrillo doble se asentará con yeso claro bien batido á juntas encontradas del tabicado…»\nObservaciones sobre la práctica del arte de edificar, 2.ª ed., p. 18 del facsímil.\nMR-JEN-02 · CEN-3225. Extiende el principio de matajunta desde la sillería al tabicado de ladrillo en bóvedas.\nLECTURA COMPARADA\nSimonin formula la regla con sillares y con la relación lecho/sobrelecho. Fornés la aplica al ladrillo doble de una bóveda tabicada, donde prescribe asentarlo “á juntas encontradas del tabicado”. La comparación muestra que no es una voz exclusiva de sillería: es un principio de aparejo transferible a otras fábricas por hiladas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• juntas encontradas\n• sentar a juntas encontradas\n• trabar\n• matajunta\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 6 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nResulta fundamental para diagnosticar aparejos, reconstruir secuencias de fábrica y evaluar si las juntas verticales quedan trabadas. Es útil en documentación de sillería, ladrillo y bóvedas tabicadas.\nRELACIONADO CON\nJunta; Lecho; Sobre-lecho; Hilada; Sillería; Ladrillo; Aparejo; Traba.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. 2.ª ed. Valencia, 1857.",
+    "url": "terminos/juntas-encontradas/",
+    "academic_pdf": "documentos/fichas/juntas-encontradas.pdf"
+  },
+  {
+    "num": 1122,
+    "cen": "CEN-3520",
+    "term": "Nicho circular",
+    "slug": "nicho-circular",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nicho cuya planta se resuelve como semicírculo y cuya parte superior mantiene una geometría circular coherente con esa traza. El nicho es un hueco practicado en el espesor de un muro y puede recibir estatua, estufa u otros usos; su adjetivación “circular” especifica la planta y, en ciertos casos, la forma del cierre.",
+    "authors_text": "Simonin / traductores españoles (1795); Benito Bails (1796).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• nicho circular • nicho • semicírculo",
+    "comparison": "Simonin ofrece la definición tipológica. Bails muestra una aplicación doméstica concreta: el nicho circular o cuadrado dentro de un retrete con letrina, dimensionado para recibir un poyo. La comparación separa forma y uso: “circular” describe la geometría, mientras la función puede ser ornamental, utilitaria o sanitaria.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Facilita distinguir nichos por planta y no por uso; sirve para inventarios de huecos murarios, análisis de distribución y lectura de descripciones de interiores históricos.",
+    "related": [
+      "Nicho",
+      "Hueco",
+      "Muro",
+      "Semicírculo",
+      "Retrete",
+      "Hornacina"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Nicho cuya planta es un semi-círculo, así como la parte superior de su alzado.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, subentrada «Circular» de «NICHO», p. 17 del facsímil."
+      },
+      {
+        "text": "…ha de haber en su planta un nicho circular ó quadrado, donde quepa un poyo de 16 á 18 pulgadas de alto…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, sección «Letrinas», p. 94 del facsímil."
+      }
+    ],
+    "search_text": "Nicho circular\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNicho cuya planta se resuelve como semicírculo y cuya parte superior mantiene una geometría circular coherente con esa traza. El nicho es un hueco practicado en el espesor de un muro y puede recibir estatua, estufa u otros usos; su adjetivación “circular” especifica la planta y, en ciertos casos, la forma del cierre.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3520 · HUECO ARQUITECTÓNICO DE PLANTA SEMICIRCULAR · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Definición tipológica\n«Nicho cuya planta es un semi-círculo, así como la parte superior de su alzado.»\nArte de la Montea, Diccionario, subentrada «Circular» de «NICHO», p. 17 del facsímil.\nMR-NIC-01 · CEN-3520. Define simultáneamente planta y elevación del subtipo circular.\nBenito Bails · 1796\n2. Uso doméstico en un retrete\n«…ha de haber en su planta un nicho circular ó quadrado, donde quepa un poyo de 16 á 18 pulgadas de alto…»\nArquitectura civil, sección «Letrinas», p. 94 del facsímil.\nMR-NIC-02 · CEN-3520. Demuestra que la geometría del nicho se aplica también a un dispositivo utilitario y no solo a la colocación de estatuas.\nLECTURA COMPARADA\nSimonin ofrece la definición tipológica. Bails muestra una aplicación doméstica concreta: el nicho circular o cuadrado dentro de un retrete con letrina, dimensionado para recibir un poyo. La comparación separa forma y uso: “circular” describe la geometría, mientras la función puede ser ornamental, utilitaria o sanitaria.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• nicho circular\n• nicho\n• semicírculo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nFacilita distinguir nichos por planta y no por uso; sirve para inventarios de huecos murarios, análisis de distribución y lectura de descripciones de interiores históricos.\nRELACIONADO CON\nNicho; Hueco; Muro; Semicírculo; Retrete; Hornacina.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/nicho-circular/",
+    "academic_pdf": "documentos/fichas/nicho-circular.pdf"
+  },
+  {
+    "num": 1123,
+    "cen": "CEN-3579",
+    "term": "Ondeado",
+    "slug": "ondeado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo aplicado a un contorno compuesto por varias curvas que no guardan regularidad estricta. No equivale simplemente a curvo: implica una sucesión ondulante o alternada de curvaturas. En arquitectura y artes aplicadas puede calificar perfiles, líneas, molduras o superficies.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• ondeado, -da • ondulado • curvilíneo",
+    "comparison": "La definición de 1795 proporciona el criterio morfológico suficiente: pluralidad de curvas y ausencia de regularidad. Las ocurrencias posteriores localizadas en el barrido usan la palabra en objetos diversos, pero no alteran ese núcleo; por ello se tratan como aplicaciones y no como nuevas acepciones autónomas.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 9 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para clasificar perfiles y contornos sin forzar una geometría regular donde la fuente destaca precisamente la ondulación. Ayuda a distinguir “ondeado” de “sinuoso” o “mixtilíneo” según el contexto.",
+    "related": [
+      "Curvo",
+      "Curvilíneo",
+      "Sinuoso",
+      "Mixtilíneo",
+      "Contorno",
+      "Moldura"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Se dice así, lo contorneado por varias curvas, que no guardan regularidad.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «ONDEADO», p. 17 del facsímil."
+      }
+    ],
+    "search_text": "Ondeado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo aplicado a un contorno compuesto por varias curvas que no guardan regularidad estricta. No equivale simplemente a curvo: implica una sucesión ondulante o alternada de curvaturas. En arquitectura y artes aplicadas puede calificar perfiles, líneas, molduras o superficies.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3579 · CONTORNO CURVILÍNEO IRREGULAR · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Contorno de curvas no regulares\n«Se dice así, lo contorneado por varias curvas, que no guardan regularidad.»\nArte de la Montea, Diccionario, voz «ONDEADO», p. 17 del facsímil.\nMR-OND-01 · CEN-3579. Define la ondulación por composición curvilínea y por falta de regularidad geométrica estricta.\nLECTURA COMPARADA\nLa definición de 1795 proporciona el criterio morfológico suficiente: pluralidad de curvas y ausencia de regularidad. Las ocurrencias posteriores localizadas en el barrido usan la palabra en objetos diversos, pero no alteran ese núcleo; por ello se tratan como aplicaciones y no como nuevas acepciones autónomas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• ondeado, -da\n• ondulado\n• curvilíneo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 9 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para clasificar perfiles y contornos sin forzar una geometría regular donde la fuente destaca precisamente la ondulación. Ayuda a distinguir “ondeado” de “sinuoso” o “mixtilíneo” según el contexto.\nRELACIONADO CON\nCurvo; Curvilíneo; Sinuoso; Mixtilíneo; Contorno; Moldura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/ondeado/",
+    "academic_pdf": "documentos/fichas/ondeado.pdf"
+  },
+  {
+    "num": 1124,
+    "cen": "CEN-3648",
+    "term": "Paflón",
+    "slug": "paflon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz polisémica del campo de los techos y molduras. Puede designar la parte interior visible de una bóveda o de un techo adintelado y también la cara inferior volada de una cornisa. En repertorios posteriores se concentra especialmente en el sofito plano o vuelo inferior de cornisa y molduras cuadradas.",
+    "authors_text": "Simonin / traductores españoles (1795); Diego Antonio Rejón de Silva (1788).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1795,
+      1788
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788."
+    ],
+    "variants": "• paflón • plafón • sofito • vuelo inferior",
+    "comparison": "Simonin conserva el abanico más amplio: interior de bóveda, techo adintelado y parte inferior de cornisa. Rejón restringe su definición al “vuelo ó salida, plana” de la cornisa u otra moldura cuadrada. La comparación evidencia una polisemia real: el contexto debe decidir si se trata de superficie interior de cubierta o del sofito de un miembro saliente.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 6 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Evita traducir mecánicamente paflón como el plafón moderno. Es especialmente útil en descripciones de cornisas, cielos rasos y bóvedas donde la misma voz puede apuntar a superficies constructivamente distintas.",
+    "related": [
+      "Sofito",
+      "Cornisa",
+      "Vuelo",
+      "Salida",
+      "Techo",
+      "Bóveda",
+      "Intradós"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Estructuras curvas"
+    ],
+    "quotes": [
+      {
+        "text": "La parte interior de una Bóveda, ó de un techo adintelado, y tambien la parte inferior boladiza de una Cornisa.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «PAFLON», p. 17 del facsímil."
+      },
+      {
+        "text": "PAFLON, s. m. A. El vuelo ó salida, plana que tiene la cornisa, u otra moldura quadrada por la parte de abaxo.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, voz «PAFLON», p. 169 del facsímil."
+      }
+    ],
+    "search_text": "Paflón\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz polisémica del campo de los techos y molduras. Puede designar la parte interior visible de una bóveda o de un techo adintelado y también la cara inferior volada de una cornisa. En repertorios posteriores se concentra especialmente en el sofito plano o vuelo inferior de cornisa y molduras cuadradas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3648 · INTRADÓS, CIELO Y SOFITO · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Tres ámbitos de la voz\n«La parte interior de una Bóveda, ó de un techo adintelado, y tambien la parte inferior boladiza de una Cornisa.»\nArte de la Montea, Diccionario, voz «PAFLON», p. 17 del facsímil.\nMR-PAF-01 · CEN-3648. Documenta la polisemia histórica al reunir superficie interior de cubierta y cara inferior de cornisa.\nDiego Antonio Rejón de Silva · 1788\n2. Paflón como vuelo inferior de cornisa\n«PAFLON, s. m. A. El vuelo ó salida, plana que tiene la cornisa, u otra moldura quadrada por la parte de abaxo.»\nDiccionario de las Nobles Artes, voz «PAFLON», p. 169 del facsímil.\nMR-PAF-02 · CEN-3648. Precisa el sentido de sofito o cara inferior saliente y lo vincula expresamente con salida/vuelo.\nLECTURA COMPARADA\nSimonin conserva el abanico más amplio: interior de bóveda, techo adintelado y parte inferior de cornisa. Rejón restringe su definición al “vuelo ó salida, plana” de la cornisa u otra moldura cuadrada. La comparación evidencia una polisemia real: el contexto debe decidir si se trata de superficie interior de cubierta o del sofito de un miembro saliente.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• paflón\n• plafón\n• sofito\n• vuelo inferior\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 6 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEvita traducir mecánicamente paflón como el plafón moderno. Es especialmente útil en descripciones de cornisas, cielos rasos y bóvedas donde la misma voz puede apuntar a superficies constructivamente distintas.\nRELACIONADO CON\nSofito; Cornisa; Vuelo; Salida; Techo; Bóveda; Intradós.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+    "url": "terminos/paflon/",
+    "academic_pdf": "documentos/fichas/paflon.pdf"
+  },
+  {
+    "num": 1125,
+    "cen": "CEN-3678",
+    "term": "Paralelogramo rectángulo",
+    "slug": "paralelogramo-rectangulo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Paralelogramo cuyos cuatro ángulos son rectos. La denominación histórica se integra en una familia que distingue rectángulo, rombo y romboide a partir de la igualdad de lados y de la condición de sus ángulos. Su empleo sirve como base geométrica para plantas, proyecciones y operaciones de montea.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• paralelogramo rectángulo • rectángulo • paralelogramo rectangular",
+    "comparison": "La definición de Simonin se comprende dentro de la clasificación completa de los paralelogramos. El barrido localizó usos matemáticos posteriores, pero el criterio autónomo permanece estable: cuatro lados paralelos dos a dos y totalidad de ángulos rectos. Se excluyeron del comparador las simples menciones instrumentales o de figuras concretas.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Proporciona una referencia terminológica para interpretar geometría aplicada y evita confundir el rectángulo como figura genérica con la especie de paralelogramo definida por sus ángulos.",
+    "related": [
+      "Paralelogramo",
+      "Rombo",
+      "Romboide",
+      "Rectángulo",
+      "Ángulo recto"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Rectángulo. El que tiene todos sus ángulos rectos.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil."
+      }
+    ],
+    "search_text": "Paralelogramo rectángulo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nParalelogramo cuyos cuatro ángulos son rectos. La denominación histórica se integra en una familia que distingue rectángulo, rombo y romboide a partir de la igualdad de lados y de la condición de sus ángulos. Su empleo sirve como base geométrica para plantas, proyecciones y operaciones de montea.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3678 · GEOMETRÍA PLANA · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Especie rectángula del paralelogramo\n«Rectángulo. El que tiene todos sus ángulos rectos.»\nArte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil.\nMR-PAR-01 · CEN-3678. Aísla el carácter definitorio de la especie: la rectitud de sus cuatro ángulos.\nLECTURA COMPARADA\nLa definición de Simonin se comprende dentro de la clasificación completa de los paralelogramos. El barrido localizó usos matemáticos posteriores, pero el criterio autónomo permanece estable: cuatro lados paralelos dos a dos y totalidad de ángulos rectos. Se excluyeron del comparador las simples menciones instrumentales o de figuras concretas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• paralelogramo rectángulo\n• rectángulo\n• paralelogramo rectangular\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nProporciona una referencia terminológica para interpretar geometría aplicada y evita confundir el rectángulo como figura genérica con la especie de paralelogramo definida por sus ángulos.\nRELACIONADO CON\nParalelogramo; Rombo; Romboide; Rectángulo; Ángulo recto.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/paralelogramo-rectangulo/",
+    "academic_pdf": "documentos/fichas/paralelogramo-rectangulo.pdf"
+  },
+  {
+    "num": 1126,
+    "cen": "CEN-3679",
+    "term": "Paralelogramo rombo",
+    "slug": "paralelogramo-rombo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Especie de paralelogramo con cuatro lados iguales y paralelos y con ángulos opuestos iguales. La igualdad de los lados lo distingue del romboide; la ausencia de exigencia de ángulos rectos lo separa del rectángulo.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• rombo • paralelogramo rombo • losange",
+    "comparison": "La clasificación de Simonin presenta las especies juntas y permite leer sus diferencias por propiedades, no por apariencia. La búsqueda 35/35 recuperó usos posteriores de rombo en construcciones geométricas; al no añadir una definición distinta, se mantuvieron como control de continuidad y no como testimonios redundantes.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Sirve para reconocer figuras de despiece, plantas y desarrollos geométricos donde la igualdad de lados es relevante y no debe confundirse con un rectángulo oblicuo.",
+    "related": [
+      "Paralelogramo",
+      "Romboide",
+      "Rectángulo",
+      "Diagonal",
+      "Ángulo"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Rombo. El que tiene los quatro lados iguales y paralelos, y los ángulos opuestos iguales.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil."
+      }
+    ],
+    "search_text": "Paralelogramo rombo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspecie de paralelogramo con cuatro lados iguales y paralelos y con ángulos opuestos iguales. La igualdad de los lados lo distingue del romboide; la ausencia de exigencia de ángulos rectos lo separa del rectángulo.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3679 · GEOMETRÍA PLANA · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Definición del rombo\n«Rombo. El que tiene los quatro lados iguales y paralelos, y los ángulos opuestos iguales.»\nArte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil.\nMR-ROM-01 · CEN-3679. Define la figura por igualdad total de lados y correspondencia de ángulos opuestos.\nLECTURA COMPARADA\nLa clasificación de Simonin presenta las especies juntas y permite leer sus diferencias por propiedades, no por apariencia. La búsqueda 35/35 recuperó usos posteriores de rombo en construcciones geométricas; al no añadir una definición distinta, se mantuvieron como control de continuidad y no como testimonios redundantes.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• rombo\n• paralelogramo rombo\n• losange\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para reconocer figuras de despiece, plantas y desarrollos geométricos donde la igualdad de lados es relevante y no debe confundirse con un rectángulo oblicuo.\nRELACIONADO CON\nParalelogramo; Romboide; Rectángulo; Diagonal; Ángulo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/paralelogramo-rombo/",
+    "academic_pdf": "documentos/fichas/paralelogramo-rombo.pdf"
+  },
+  {
+    "num": 1127,
+    "cen": "CEN-3680",
+    "term": "Paralelogramo romboide",
+    "slug": "paralelogramo-romboide",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Especie de paralelogramo cuyos lados son iguales y paralelos dos a dos y cuyos ángulos opuestos son iguales. A diferencia del rombo, no exige que los cuatro lados tengan la misma longitud; a diferencia del rectángulo, sus ángulos no tienen por qué ser rectos.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• romboide • romboyde • paralelogramo romboide",
+    "comparison": "La forma histórica “romboyde” aparece en el repertorio de montea como parte de una clasificación comparativa. La segunda pasada de exhaustividad no localizó otro artículo autónomo que modificara esta caracterización; las búsquedas de familia se concentraron en usos geométricos y no en definiciones adicionales.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Ayuda a interpretar plantas y proyecciones oblicuas con pares de lados iguales, evitando la normalización imprecisa a “rombo”.",
+    "related": [
+      "Paralelogramo",
+      "Rombo",
+      "Rectángulo",
+      "Oblicuo",
+      "Diagonal"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Romboyde. El que tiene los lados iguales y paralelos dos á dos, y los ángulos opuestos iguales.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil."
+      }
+    ],
+    "search_text": "Paralelogramo romboide\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspecie de paralelogramo cuyos lados son iguales y paralelos dos a dos y cuyos ángulos opuestos son iguales. A diferencia del rombo, no exige que los cuatro lados tengan la misma longitud; a diferencia del rectángulo, sus ángulos no tienen por qué ser rectos.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3680 · GEOMETRÍA PLANA · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Definición del romboide\n«Romboyde. El que tiene los lados iguales y paralelos dos á dos, y los ángulos opuestos iguales.»\nArte de la Montea, Diccionario, subentrada de «PARALELOGRAMO», p. 17 del facsímil.\nMR-RMD-01 · CEN-3680. El criterio dos-a-dos diferencia el romboide del rombo dentro de la misma familia geométrica.\nLECTURA COMPARADA\nLa forma histórica “romboyde” aparece en el repertorio de montea como parte de una clasificación comparativa. La segunda pasada de exhaustividad no localizó otro artículo autónomo que modificara esta caracterización; las búsquedas de familia se concentraron en usos geométricos y no en definiciones adicionales.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• romboide\n• romboyde\n• paralelogramo romboide\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar plantas y proyecciones oblicuas con pares de lados iguales, evitando la normalización imprecisa a “rombo”.\nRELACIONADO CON\nParalelogramo; Rombo; Rectángulo; Oblicuo; Diagonal.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/paralelogramo-romboide/",
+    "academic_pdf": "documentos/fichas/paralelogramo-romboide.pdf"
+  },
+  {
+    "num": 1128,
+    "cen": "CEN-3871",
+    "term": "Piramidal",
+    "slug": "piramidal",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo para lo que adopta figura de pirámide. La voz se apoya en una noción geométrica de cuerpo con base —frecuentemente poligonal— y remate en un punto o cúspide, y se aplica en arquitectura a remates, piezas, masas y superficies que participan de esa configuración.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• piramidal • pirámide • obpiramidal",
+    "comparison": "Simonin formula la relación directa entre adjetivo y sólido: piramidal es lo que goza la figura de una pirámide. Las numerosas ocurrencias del corpus muestran usos descriptivos en arquitectura y estereotomía; se conservaron como control de extensión, pero no se multiplicaron como testimonios cuando solo repetían la apariencia formal sin añadir proporción o función.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 15 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para describir morfologías de remates y piezas sin confundir el adjetivo con una tipología autónoma. Permite rastrear la transferencia de vocabulario geométrico al lenguaje arquitectónico.",
+    "related": [
+      "Pirámide",
+      "Cúspide",
+      "Polígono",
+      "Remate",
+      "Sólido"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Lo que goza la figura de una Pirámide.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «PIRAMIDAL», p. 18 del facsímil."
+      }
+    ],
+    "search_text": "Piramidal\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo para lo que adopta figura de pirámide. La voz se apoya en una noción geométrica de cuerpo con base —frecuentemente poligonal— y remate en un punto o cúspide, y se aplica en arquitectura a remates, piezas, masas y superficies que participan de esa configuración.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3871 · MORFOLOGÍA DE SÓLIDOS · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Relación con la pirámide\n«Lo que goza la figura de una Pirámide.»\nArte de la Montea, Diccionario, voz «PIRAMIDAL», p. 18 del facsímil.\nMR-PIR-01 · CEN-3871. Define el adjetivo exclusivamente por correspondencia formal con el sólido piramidal.\nLECTURA COMPARADA\nSimonin formula la relación directa entre adjetivo y sólido: piramidal es lo que goza la figura de una pirámide. Las numerosas ocurrencias del corpus muestran usos descriptivos en arquitectura y estereotomía; se conservaron como control de extensión, pero no se multiplicaron como testimonios cuando solo repetían la apariencia formal sin añadir proporción o función.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• piramidal\n• pirámide\n• obpiramidal\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 15 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para describir morfologías de remates y piezas sin confundir el adjetivo con una tipología autónoma. Permite rastrear la transferencia de vocabulario geométrico al lenguaje arquitectónico.\nRELACIONADO CON\nPirámide; Cúspide; Polígono; Remate; Sólido.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/piramidal/",
+    "academic_pdf": "documentos/fichas/piramidal.pdf"
+  },
+  {
+    "num": 1129,
+    "cen": "CEN-4071",
+    "term": "Rectificación",
+    "slug": "rectificacion",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Operación geométrica por la cual la longitud verdadera de una curva se representa sobre una recta; en montea también puede trasladar a una superficie plana la extensión de una bóveda aplanada o del intradós de una dovela. En estereotomía del siglo XIX la rectificación se usa sistemáticamente para desarrollar arcos, hélices y curvas antes de su trazado o labra.",
+    "authors_text": "Simonin / traductores españoles (1795); Antonio Rovira y Rabassa (1897).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Antonio Rovira y Rabassa"
+    ],
+    "years": [
+      1795,
+      1897
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Rovira y Rabassa, Antonio. Estereotomía de la piedra. Barcelona, 1897."
+    ],
+    "variants": "• rectificación • rectificar • desarrollo • longitud rectificada",
+    "comparison": "Simonin ofrece la definición general y la amplía del arco a superficies de bóveda. Rovira muestra la operación en ejercicio: la rectificación de un arco se convierte en una longitud recta usada para construir el desarrollo. La continuidad histórica es clara: rectificar no significa “corregir” en sentido editorial, sino transformar una longitud curva en magnitud lineal utilizable.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 3 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Es una voz crítica para comprender monteas y desarrollos, especialmente cuando una dimensión curva debe pasarse a plantilla o línea recta. Evita interpretar “rectificación” con su sentido moderno genérico de corrección.",
+    "related": [
+      "Arco",
+      "Desarrollo",
+      "Plantilla",
+      "Curva",
+      "Montea",
+      "Intradós",
+      "Dovela"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Figura que representa en una línea recta la verdadera longitud de la curva de un Arco ó en una superficie plana la justa extensión de una Bóveda aplanada ó solamente del Intrados de una Dobela.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «RECTIFICACION», p. 18 del facsímil."
+      },
+      {
+        "text": "…el eje mayor D’ A’ sea la rectificación de D A…",
+        "author": "Antonio Rovira y Rabassa",
+        "year": "1897",
+        "source": "Estereotomía de la piedra, segunda parte, p. 33 del facsímil."
+      }
+    ],
+    "search_text": "Rectificación\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nOperación geométrica por la cual la longitud verdadera de una curva se representa sobre una recta; en montea también puede trasladar a una superficie plana la extensión de una bóveda aplanada o del intradós de una dovela. En estereotomía del siglo XIX la rectificación se usa sistemáticamente para desarrollar arcos, hélices y curvas antes de su trazado o labra.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4071 · DESARROLLO Y MEDICIÓN DE CURVAS · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Curva llevada a recta o superficie plana\n«Figura que representa en una línea recta la verdadera longitud de la curva de un Arco ó en una superficie plana la justa extensión de una Bóveda aplanada ó solamente del Intrados de una Dobela.»\nArte de la Montea, Diccionario, voz «RECTIFICACION», p. 18 del facsímil.\nMR-REC-01 · CEN-4071. Define la doble escala de la operación: rectificación lineal de curvas y desarrollo plano de superficies.\nAntonio Rovira y Rabassa · 1897\n2. Rectificación como dato de desarrollo\n«…el eje mayor D’ A’ sea la rectificación de D A…»\nEstereotomía de la piedra, segunda parte, p. 33 del facsímil.\nMR-REC-02 · CEN-4071. Documenta el uso operativo de la rectificación para trasladar una curva a una magnitud recta en un desarrollo estereotómico.\nLECTURA COMPARADA\nSimonin ofrece la definición general y la amplía del arco a superficies de bóveda. Rovira muestra la operación en ejercicio: la rectificación de un arco se convierte en una longitud recta usada para construir el desarrollo. La continuidad histórica es clara: rectificar no significa “corregir” en sentido editorial, sino transformar una longitud curva en magnitud lineal utilizable.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• rectificación\n• rectificar\n• desarrollo\n• longitud rectificada\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 3 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs una voz crítica para comprender monteas y desarrollos, especialmente cuando una dimensión curva debe pasarse a plantilla o línea recta. Evita interpretar “rectificación” con su sentido moderno genérico de corrección.\nRELACIONADO CON\nArco; Desarrollo; Plantilla; Curva; Montea; Intradós; Dovela.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Rovira y Rabassa, Antonio. Estereotomía de la piedra. Barcelona, 1897.",
+    "url": "terminos/rectificacion/",
+    "academic_pdf": "documentos/fichas/rectificacion.pdf"
+  },
+  {
+    "num": 1130,
+    "cen": "CEN-4190",
+    "term": "Salida, o vuelo",
+    "slug": "salida-o-vuelo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Avance o proyección de un miembro más allá del vivo o plano principal de un muro. “Salida” y “vuelo” funcionan como equivalentes técnicos en este campo y se aplican a molduras, cornisas, elementos salientes y otras partes que sobresalen del paramento.",
+    "authors_text": "Simonin / traductores españoles (1795); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1795,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876."
+    ],
+    "variants": "• salida • vuelo • volada • resalto • proyectura",
+    "comparison": "Simonin da la definición más sintética: avance de un cuerpo fuera del vivo del muro. Mariátegui recupera la antigua “volada” como parte que sobresale de la línea principal y la equipara con resalto, salida y vuelo. La comparación muestra una familia semántica estable de proyectura, aunque las voces concretas varían por época y región.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Permite interpretar cotas de molduras y elementos volados, y relacionar terminología antigua de “volada” o “proyectura” con salida/vuelo sin confundirla con desplazamiento o movimiento.",
+    "related": [
+      "Vuelo",
+      "Resalto",
+      "Proyectura",
+      "Volada",
+      "Cornisa",
+      "Paramento",
+      "Muro"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Avance de un cuerpo fuera del vivo de un Muro.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «SALIDA, ó VUELO», p. 19 del facsímil."
+      },
+      {
+        "text": "VOLADA. La parte de una fábrica que sobresale de su línea principal. = RESALTO, SALIDA, VUELO.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, p. 30 del facsímil."
+      }
+    ],
+    "search_text": "Salida, o vuelo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAvance o proyección de un miembro más allá del vivo o plano principal de un muro. “Salida” y “vuelo” funcionan como equivalentes técnicos en este campo y se aplican a molduras, cornisas, elementos salientes y otras partes que sobresalen del paramento.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4190 · PROYECCIÓN FUERA DEL PLANO PRINCIPAL · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Definición por el vivo del muro\n«Avance de un cuerpo fuera del vivo de un Muro.»\nArte de la Montea, Diccionario, voz «SALIDA, ó VUELO», p. 19 del facsímil.\nMR-SAL-01 · CEN-4190. Fija la referencia geométrica de la voz: el plano o vivo del muro.\nEduardo Mariátegui · 1876\n2. Volada como resalto, salida y vuelo\n«VOLADA. La parte de una fábrica que sobresale de su línea principal. = RESALTO, SALIDA, VUELO.»\nGlosario de algunos antiguos vocablos de arquitectura, p. 30 del facsímil.\nMR-SAL-02 · CEN-4190. Integra salida/vuelo en una red histórica de equivalencias con volada y resalto.\nLECTURA COMPARADA\nSimonin da la definición más sintética: avance de un cuerpo fuera del vivo del muro. Mariátegui recupera la antigua “volada” como parte que sobresale de la línea principal y la equipara con resalto, salida y vuelo. La comparación muestra una familia semántica estable de proyectura, aunque las voces concretas varían por época y región.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• salida\n• vuelo\n• volada\n• resalto\n• proyectura\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar cotas de molduras y elementos volados, y relacionar terminología antigua de “volada” o “proyectura” con salida/vuelo sin confundirla con desplazamiento o movimiento.\nRELACIONADO CON\nVuelo; Resalto; Proyectura; Volada; Cornisa; Paramento; Muro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+    "url": "terminos/salida-o-vuelo/",
+    "academic_pdf": "documentos/fichas/salida-o-vuelo.pdf"
+  },
+  {
+    "num": 1131,
+    "cen": "CEN-4215",
+    "term": "Semi-cono",
+    "slug": "semi-cono",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Mitad de un cono obtenida por un corte longitudinal. La voz pertenece al léxico geométrico empleado por la montea para describir superficies, porciones de bóveda y cuerpos auxiliares de trazado. No debe confundirse con cono truncado, que resulta de suprimir la zona de la cúspide.",
+    "authors_text": "Simonin / traductores españoles (1795).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795."
+    ],
+    "variants": "• semi-cono • semicono • cono • cónico",
+    "comparison": "La definición de Simonin es suficiente y geométricamente precisa: “mitad de un Cóno cortado por su largo”. La segunda pasada por variantes —semi-cono, semicono, cono, cónico— produjo usos afines, pero no un testimonio definitorio autónomo que alterara la relación con el corte longitudinal.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil en reconstrucciones de montea y en identificación de superficies cónicas parciales, especialmente donde el tratado no describe el cuerpo completo sino una de sus mitades.",
+    "related": [
+      "Cono",
+      "Cónico",
+      "Truncado",
+      "Sección",
+      "Superficie"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Mitad de un Cóno cortado por su largo.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «SEMI-CÓNO», p. 19 del facsímil."
+      }
+    ],
+    "search_text": "Semi-cono\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMitad de un cono obtenida por un corte longitudinal. La voz pertenece al léxico geométrico empleado por la montea para describir superficies, porciones de bóveda y cuerpos auxiliares de trazado. No debe confundirse con cono truncado, que resulta de suprimir la zona de la cúspide.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4215 · SÓLIDOS Y SUPERFICIES CÓNICAS · 1 TESTIMONIO\nSimonin / traductores españoles · 1795\n1. Mitad longitudinal del cono\n«Mitad de un Cóno cortado por su largo.»\nArte de la Montea, Diccionario, voz «SEMI-CÓNO», p. 19 del facsímil.\nMR-SCN-01 · CEN-4215. Distingue el semi-cono por el sentido longitudinal del corte, no por truncamiento transversal.\nLECTURA COMPARADA\nLa definición de Simonin es suficiente y geométricamente precisa: “mitad de un Cóno cortado por su largo”. La segunda pasada por variantes —semi-cono, semicono, cono, cónico— produjo usos afines, pero no un testimonio definitorio autónomo que alterara la relación con el corte longitudinal.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• semi-cono\n• semicono\n• cono\n• cónico\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil en reconstrucciones de montea y en identificación de superficies cónicas parciales, especialmente donde el tratado no describe el cuerpo completo sino una de sus mitades.\nRELACIONADO CON\nCono; Cónico; Truncado; Sección; Superficie.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+    "url": "terminos/semi-cono/",
+    "academic_pdf": "documentos/fichas/semi-cono.pdf"
+  },
+  {
+    "num": 1132,
+    "cen": "CEN-4532",
+    "term": "Trasdosada (Bóveda)",
+    "slug": "trasdosada-boveda",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Bóveda cuya superficie superior o trasdós queda exenta y no forma trabazón con otro cuerpo. En la formulación de montea se citan como ejemplo muchas bóvedas góticas y se advierte una consecuencia estructural: al carecer las dovelas de ligazón con el muro, su solidez puede ser menor que la de soluciones trabadas.",
+    "authors_text": "Simonin / traductores españoles (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• trasdosada • bóveda trasdosada • trasdós exento",
+    "comparison": "Simonin une definición y juicio constructivo: describe el trasdós exento y explica el problema de ligazón. Bails conserva después la definición breve sin el desarrollo crítico. La comparación permite distinguir la condición geométrica/tipológica —trasdós libre— de la valoración estructural que una tradición concreta hace de ella.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 5 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Ayuda a reconocer cubiertas donde el extradós queda visto o libre y a interpretar advertencias históricas sobre trabazón, estabilidad y relación entre bóveda y muro.",
+    "related": [
+      "Trasdós",
+      "Bóveda",
+      "Dovela",
+      "Muro",
+      "Trabazón",
+      "Ligazón"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "La que tiene la superficie superior exenta sin formar travazon con otro cuerpo: tales son la mayor parte de las Bóvedas Góticas; cuya especie no está muy en uso porque careciendo sus Dobelas de ligazon con el Muro no tienen toda la solidez que es necesario procurar siempre que se pueda.",
+        "author": "Simonin / traductores españoles",
+        "year": "1795",
+        "source": "Arte de la Montea, Diccionario, voz «TRAS-DOSADA (Bóveda)», pp. 19-20 del facsímil."
+      },
+      {
+        "text": "TRASDOSADA (BOVEDA). La que tiene la superficie superior exenta sin formar trabazon con otro cuerpo.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, voz «TRASDOSADA (BOVEDA)», p. 132 del facsímil."
+      }
+    ],
+    "search_text": "Trasdosada (Bóveda)\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nBóveda cuya superficie superior o trasdós queda exenta y no forma trabazón con otro cuerpo. En la formulación de montea se citan como ejemplo muchas bóvedas góticas y se advierte una consecuencia estructural: al carecer las dovelas de ligazón con el muro, su solidez puede ser menor que la de soluciones trabadas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4532 · BÓVEDA CON TRASDÓS EXENTO · 2 TESTIMONIOS\nSimonin / traductores españoles · 1795\n1. Trasdós exento y ligazón\n«La que tiene la superficie superior exenta sin formar travazon con otro cuerpo: tales son la mayor parte de las Bóvedas Góticas; cuya especie no está muy en uso porque careciendo sus Dobelas de ligazon con el Muro no tienen toda la solidez que es necesario procurar siempre que se pueda.»\nArte de la Montea, Diccionario, voz «TRAS-DOSADA (Bóveda)», pp. 19-20 del facsímil.\nMR-TRA-01 · CEN-4532. A la definición tipológica añade una lectura estructural sobre la falta de ligazón entre dovelas y muro.\nBenito Bails · 1802\n2. Definición lexicográfica condensada\n«TRASDOSADA (BOVEDA). La que tiene la superficie superior exenta sin formar trabazon con otro cuerpo.»\nDiccionario de arquitectura civil, voz «TRASDOSADA (BOVEDA)», p. 132 del facsímil.\nMR-TRA-02 · CEN-4532. Mantiene el núcleo semántico de trasdós exento sin reproducir la valoración estructural de Simonin.\nLECTURA COMPARADA\nSimonin une definición y juicio constructivo: describe el trasdós exento y explica el problema de ligazón. Bails conserva después la definición breve sin el desarrollo crítico. La comparación permite distinguir la condición geométrica/tipológica —trasdós libre— de la valoración estructural que una tradición concreta hace de ella.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• trasdosada\n• bóveda trasdosada\n• trasdós exento\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 5 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a reconocer cubiertas donde el extradós queda visto o libre y a interpretar advertencias históricas sobre trabazón, estabilidad y relación entre bóveda y muro.\nRELACIONADO CON\nTrasdós; Bóveda; Dovela; Muro; Trabazón; Ligazón.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la Montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/trasdosada-boveda/",
+    "academic_pdf": "documentos/fichas/trasdosada-boveda.pdf"
+  },
+  {
+    "num": 1133,
+    "cen": "CEN-4686",
+    "term": "Acrobáticon",
+    "slug": "acrobaticon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre griego que la traducción vitruviana de 1787 aplica a las máquinas escansorias: artefactos de maderaje destinados a subir con seguridad, en particular a lugares elevados de espectáculos. La voz no designa una forma arquitectónica, sino una clase funcional dentro de las máquinas.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• acrobáticon • máquina escansoria • escansoria",
+    "comparison": "El pasaje clasifica tres familias —escansorias, espirituales y tractorias— y asigna a la primera el nombre griego acrobáticon. El contexto inmediato define su función. La segunda pasada por las 35 fuentes no localizó otra tradición castellana autónoma con esta voz, por lo que se conserva la transliteración del testimonio rector y no se fabrican variantes inexistentes.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Permite identificar vocabulario de mecánica antigua dentro de tratados de arquitectura y separar máquinas de elevación de personas de las máquinas neumáticas o de tracción.",
+    "related": [
+      "Máquina",
+      "Escansoria",
+      "Pneumáticon",
+      "Tractoria",
+      "Maderaje",
+      "Espectáculo"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Hay unas llamadas escansorias, en Griego acrobáticon: otras espirituales, en Griego pneumáticon: y las terceras tractorias…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro X, cap. I, p. 252 del facsímil."
+      }
+    ],
+    "search_text": "Acrobáticon\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre griego que la traducción vitruviana de 1787 aplica a las máquinas escansorias: artefactos de maderaje destinados a subir con seguridad, en particular a lugares elevados de espectáculos. La voz no designa una forma arquitectónica, sino una clase funcional dentro de las máquinas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4686 · MÁQUINAS ESCANSORIAS PARA SUBIR · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Clasificación de máquinas escansorias\n«Hay unas llamadas escansorias, en Griego acrobáticon: otras espirituales, en Griego pneumáticon: y las terceras tractorias…»\nLos diez libros de Arquitectura, libro X, cap. I, p. 252 del facsímil.\nMR-ACR-01 · CEN-4686. Sitúa acrobáticon en una clasificación funcional y evita tratar la transliteración como un término arquitectónico independiente de su máquina.\nLECTURA COMPARADA\nEl pasaje clasifica tres familias —escansorias, espirituales y tractorias— y asigna a la primera el nombre griego acrobáticon. El contexto inmediato define su función. La segunda pasada por las 35 fuentes no localizó otra tradición castellana autónoma con esta voz, por lo que se conserva la transliteración del testimonio rector y no se fabrican variantes inexistentes.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• acrobáticon\n• máquina escansoria\n• escansoria\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar vocabulario de mecánica antigua dentro de tratados de arquitectura y separar máquinas de elevación de personas de las máquinas neumáticas o de tracción.\nRELACIONADO CON\nMáquina; Escansoria; Pneumáticon; Tractoria; Maderaje; Espectáculo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/acrobaticon/",
+    "academic_pdf": "documentos/fichas/acrobaticon.pdf"
+  },
+  {
+    "num": 1134,
+    "cen": "CEN-4690",
+    "term": "Albeolado",
+    "slug": "albeolado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo documentado en un vocabulario artístico de 1887 como equivalente de cloisonné. En el mismo volumen aparece después la grafía alveolado para esmaltes ejecutados comúnmente sobre placas de oro. La oscilación b/v pertenece al propio testimonio impreso y no debe confundirse con dos técnicas distintas.",
+    "authors_text": "J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1887
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Adeline, J. Vocabulario de términos de arte. Trad. y anot. José Ramón Mélida. Madrid, 1887."
+    ],
+    "variants": "• albeolado • alveolado • cloisonné • esmalte alveolado",
+    "comparison": "La entrada “Albeolado” funciona como remisión a “Esmalte albeolado y Vaciado”. Más adelante el texto describe “esmaltes alveolados” y su soporte. La comparación interna demuestra una variación gráfica dentro de la misma obra y refuerza el sentido técnico: esmalte compartimentado mediante alvéolos o celdillas, asociado al cloisonné.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para búsquedas histórico-artísticas que de otro modo perderían la forma con b. Permite vincular terminología española de fines del XIX con el tecnicismo francés cloisonné.",
+    "related": [
+      "Esmalte",
+      "Cloisonné",
+      "Vaciado",
+      "Alvéolo",
+      "Orfebrería",
+      "Decoración"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Albeolado.—(Cloisonné.)—(Véase Esmalte albeolado y Vaciado.)",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, voz «Albeolado», p. 18 del facsímil."
+      },
+      {
+        "text": "…esmaltes alveolados. Los esmaltes alveolados, por lo común, sobre placas de oro.",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, sección sobre esmalte, p. 228 del facsímil."
+      }
+    ],
+    "search_text": "Albeolado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo documentado en un vocabulario artístico de 1887 como equivalente de cloisonné. En el mismo volumen aparece después la grafía alveolado para esmaltes ejecutados comúnmente sobre placas de oro. La oscilación b/v pertenece al propio testimonio impreso y no debe confundirse con dos técnicas distintas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4690 · ESMALTE CLOISONNÉ Y COMPARTIMENTADO · 2 TESTIMONIOS\nJ. Adeline / José Ramón Mélida · 1887\n1. Entrada albeolado\n«Albeolado.—(Cloisonné.)—(Véase Esmalte albeolado y Vaciado.)»\nVocabulario de términos de arte, voz «Albeolado», p. 18 del facsímil.\nMR-ALB-01 · CEN-4690. Identifica de manera directa la equivalencia técnica con cloisonné y remite al sistema de esmalte.\nJ. Adeline / José Ramón Mélida · 1887\n2. Grafía alveolado y soporte\n«…esmaltes alveolados. Los esmaltes alveolados, por lo común, sobre placas de oro.»\nVocabulario de términos de arte, sección sobre esmalte, p. 228 del facsímil.\nMR-ALB-02 · CEN-4690. Prueba que la misma obra alterna albeolado/alveolado y añade un dato material sobre el soporte de oro.\nLECTURA COMPARADA\nLa entrada “Albeolado” funciona como remisión a “Esmalte albeolado y Vaciado”. Más adelante el texto describe “esmaltes alveolados” y su soporte. La comparación interna demuestra una variación gráfica dentro de la misma obra y refuerza el sentido técnico: esmalte compartimentado mediante alvéolos o celdillas, asociado al cloisonné.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• albeolado\n• alveolado\n• cloisonné\n• esmalte alveolado\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para búsquedas histórico-artísticas que de otro modo perderían la forma con b. Permite vincular terminología española de fines del XIX con el tecnicismo francés cloisonné.\nRELACIONADO CON\nEsmalte; Cloisonné; Vaciado; Alvéolo; Orfebrería; Decoración.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Adeline, J. Vocabulario de términos de arte. Trad. y anot. José Ramón Mélida. Madrid, 1887.",
+    "url": "terminos/albeolado/",
+    "academic_pdf": "documentos/fichas/albeolado.pdf"
+  },
+  {
+    "num": 1135,
+    "cen": "CEN-4734",
+    "term": "Atrio Toscano",
+    "slug": "atrio-toscano",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Especie de atrio o zaguán de la casa romana caracterizada por una estructura de grandes maderos que atraviesan el espacio y sostienen los elementos longitudinales del cubierto, sin necesidad de columnas interiores. La traducción de Ortiz y Sanz identifica el atrio o casapuerta latino como cavaedium y denomina “Toscano” o “á la Toscana” a una de sus cinco especies.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• atrio Toscano • atrio á la Toscana • atrio Hetrusco • cavaedium • zaguán • casapuerta",
+    "comparison": "El testimonio rector enumera Toscano, Corintio, tetrástilo, displuviado y cubierto a bóveda, y después explica la estructura del Toscano. La nota equipara zaguán, atrio y casapuerta con cavaedium. La familia terminológica debe leerse como tipología de atrio y como sistema de cubierta, no como una descripción genérica de concavidad.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Sirve para identificar la tipología doméstica romana y reconstruir su sistema de cubierta, evitando una lectura literal de “concavidades” que no está sustentada por el facsímil.",
+    "related": [
+      "Atrio",
+      "Cavaedium",
+      "Compluvio",
+      "Impluvio",
+      "Interpensivos",
+      "Tetrástilo",
+      "Corintio"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "De cinco especies son los zaguanes de las casas, á saber el Toscano, el Corintio, el tetrástylo, el displuviado, y el cubierto á boveda… El Toscano es aquel en que las trabes ó maderos mayores le atraviesan en ancho…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro VI, cap. III, p. 160 del facsímil (p. impresa 145)."
+      }
+    ],
+    "search_text": "Atrio Toscano\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspecie de atrio o zaguán de la casa romana caracterizada por una estructura de grandes maderos que atraviesan el espacio y sostienen los elementos longitudinales del cubierto, sin necesidad de columnas interiores. La traducción de Ortiz y Sanz identifica el atrio o casapuerta latino como cavaedium y denomina “Toscano” o “á la Toscana” a una de sus cinco especies.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4734 · TIPO DE ATRIO ROMANO / CAVAEDIUM · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Cinco especies de atrio y definición del Toscano\n«De cinco especies son los zaguanes de las casas, á saber el Toscano, el Corintio, el tetrástylo, el displuviado, y el cubierto á boveda… El Toscano es aquel en que las trabes ó maderos mayores le atraviesan en ancho…»\nLos diez libros de Arquitectura, libro VI, cap. III, p. 160 del facsímil (p. impresa 145).\nMR-ATR-01 · CEN-4734. El pasaje sustituye inequívocamente la lectura censal defectuosa por una tipología de atrio y aporta su rasgo estructural.\nLECTURA COMPARADA\nEl testimonio rector enumera Toscano, Corintio, tetrástilo, displuviado y cubierto a bóveda, y después explica la estructura del Toscano. La nota equipara zaguán, atrio y casapuerta con cavaedium. La familia terminológica debe leerse como tipología de atrio y como sistema de cubierta, no como una descripción genérica de concavidad.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• atrio Toscano\n• atrio á la Toscana\n• atrio Hetrusco\n• cavaedium\n• zaguán\n• casapuerta\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para identificar la tipología doméstica romana y reconstruir su sistema de cubierta, evitando una lectura literal de “concavidades” que no está sustentada por el facsímil.\nRELACIONADO CON\nAtrio; Cavaedium; Compluvio; Impluvio; Interpensivos; Tetrástilo; Corintio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/atrio-toscano/",
+    "academic_pdf": "documentos/fichas/atrio-toscano.pdf"
+  },
+  {
+    "num": 1136,
+    "cen": "CEN-4741",
+    "term": "Tierra verde",
+    "slug": "tierra-verde",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pigmento natural verde que Vitruvio/Ortiz sitúa en varias procedencias y del que considera mejor el de Esmirna. El pasaje lo integra entre los colores empleados en pintura y distingue además una denominación griega, por lo que su identidad se define por materia, color y procedencia.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• tierra verde • pigmento verde • theodotion",
+    "comparison": "El contexto del libro VII trata de colores y pigmentos: junto a sandáraca y oropimente se enumera la tierra verde. La acepción es inequívocamente material y pictórica: se refiere a un pigmento, no a una tierra de cimentación, relleno o cultivo. La procedencia geográfica forma parte de su caracterización histórica.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para estudios de policromía arquitectónica y materiales de acabado, y para separar los nombres históricos de pigmentos de las denominaciones modernas o latinismos de catálogo.",
+    "related": [
+      "Pigmento",
+      "Color",
+      "Sandáraca",
+      "Oropimente",
+      "Azul",
+      "Gualda",
+      "Pintura"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "La tierra verde nace en varias partes: la de Esmirna es la mejor. Los Griegos la llaman theodotion…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro VII, cap. VII, p. 197 del facsímil (p. impresa 182)."
+      }
+    ],
+    "search_text": "Tierra verde\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPigmento natural verde que Vitruvio/Ortiz sitúa en varias procedencias y del que considera mejor el de Esmirna. El pasaje lo integra entre los colores empleados en pintura y distingue además una denominación griega, por lo que su identidad se define por materia, color y procedencia.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4741 · PIGMENTO MINERAL VERDE · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Procedencia de la tierra verde\n«La tierra verde nace en varias partes: la de Esmirna es la mejor. Los Griegos la llaman theodotion…»\nLos diez libros de Arquitectura, libro VII, cap. VII, p. 197 del facsímil (p. impresa 182).\nMR-TVE-01 · CEN-4741. Aporta la forma castellana, la procedencia y una denominación griega del pigmento.\nLECTURA COMPARADA\nEl contexto del libro VII trata de colores y pigmentos: junto a sandáraca y oropimente se enumera la tierra verde. La acepción es inequívocamente material y pictórica: se refiere a un pigmento, no a una tierra de cimentación, relleno o cultivo. La procedencia geográfica forma parte de su caracterización histórica.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• tierra verde\n• pigmento verde\n• theodotion\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para estudios de policromía arquitectónica y materiales de acabado, y para separar los nombres históricos de pigmentos de las denominaciones modernas o latinismos de catálogo.\nRELACIONADO CON\nPigmento; Color; Sandáraca; Oropimente; Azul; Gualda; Pintura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/tierra-verde/",
+    "academic_pdf": "documentos/fichas/tierra-verde.pdf"
+  },
+  {
+    "num": 1137,
+    "cen": "CEN-4747",
+    "term": "Octástylos-dípteros",
+    "slug": "octastylos-dipteros",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Tipo de templo con ocho columnas en las fachadas principales y dos órdenes o filas de columnas alrededor de la nave. La tradición castellana del siglo XVIII formula el compuesto como octástylos-dípteros o describe simplemente el díptero y su número de columnas. El rasgo octástilo expresa el número; díptero, la doble fila perimetral.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Claude Perrault / Joseph Castañeda (1761).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Claude Perrault",
+      "Joseph Castañeda"
+    ],
+    "years": [
+      1787,
+      1761
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Vitruvio / Claude Perrault. Compendio de los diez libros de arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761."
+    ],
+    "variants": "• octástylos-dípteros • díptero octástilo • díptero • octástilo",
+    "comparison": "Ortiz y Sanz glosa con precisión que el octástylos, de ocho columnas por frente, era dípteros con dos filas alrededor de la nave. Perrault/Castañeda expresa el mismo sistema: ocho columnas delante y detrás y dos órdenes alrededor. La doble tradición confirma que número de columnas y número de filas son dos atributos complementarios de una misma tipología.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Permite distinguir dos parámetros que suelen confundirse: número de columnas en fachada y número de filas perimetrales. Es útil para lectura de plantas de templos clásicos y terminología vitruviana.",
+    "related": [
+      "Díptero",
+      "Octástilo",
+      "Períptero",
+      "Pseudodíptero",
+      "Columna",
+      "Templo"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "El octástylos, esto es, de ocho colunas por frente, era dípteros, á saber, con dos filas de colunas al rededor de la nave…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, comentario al libro III, p. 82 del facsímil."
+      },
+      {
+        "text": "La sexta era el Diptero, que tenia ocho Columnas delante y detrás, y dos ordenes de ellas al rededor.",
+        "author": "Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, p. 120 del facsímil."
+      }
+    ],
+    "search_text": "Octástylos-dípteros\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTipo de templo con ocho columnas en las fachadas principales y dos órdenes o filas de columnas alrededor de la nave. La tradición castellana del siglo XVIII formula el compuesto como octástylos-dípteros o describe simplemente el díptero y su número de columnas. El rasgo octástilo expresa el número; díptero, la doble fila perimetral.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4747 · TEMPLO DE OCHO COLUMNAS Y DOBLE PERÍSTASIS · 2 TESTIMONIOS\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Octástilo y doble fila perimetral\n«El octástylos, esto es, de ocho colunas por frente, era dípteros, á saber, con dos filas de colunas al rededor de la nave…»\nLos diez libros de Arquitectura, comentario al libro III, p. 82 del facsímil.\nMR-DIP-01 · CEN-4747. Descompone el compuesto en sus dos rasgos tipológicos: ocho columnas por frente y doble fila alrededor.\nClaude Perrault / Joseph Castañeda · 1761\n2. Descripción del díptero\n«La sexta era el Diptero, que tenia ocho Columnas delante y detrás, y dos ordenes de ellas al rededor.»\nCompendio de los diez libros de Arquitectura de Vitruvio, p. 120 del facsímil.\nMR-DIP-02 · CEN-4747. Confirma de modo independiente la correspondencia entre díptero, ocho columnas frontales y doble orden perimetral.\nLECTURA COMPARADA\nOrtiz y Sanz glosa con precisión que el octástylos, de ocho columnas por frente, era dípteros con dos filas alrededor de la nave. Perrault/Castañeda expresa el mismo sistema: ocho columnas delante y detrás y dos órdenes alrededor. La doble tradición confirma que número de columnas y número de filas son dos atributos complementarios de una misma tipología.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• octástylos-dípteros\n• díptero octástilo\n• díptero\n• octástilo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir dos parámetros que suelen confundirse: número de columnas en fachada y número de filas perimetrales. Es útil para lectura de plantas de templos clásicos y terminología vitruviana.\nRELACIONADO CON\nDíptero; Octástilo; Períptero; Pseudodíptero; Columna; Templo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Vitruvio / Claude Perrault. Compendio de los diez libros de arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761.",
+    "url": "terminos/octastylos-dipteros/",
+    "academic_pdf": "documentos/fichas/octastylos-dipteros.pdf"
+  },
+  {
+    "num": 1138,
+    "cen": "CEN-4782",
+    "term": "Decástylos-hypetros",
+    "slug": "decastylos-hypetros",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Templo hipetro cuyo frente tiene diez columnas y cuya parte interior queda descubierta. En la clasificación vitruviana, decástylos indica el número de columnas y hypetros/hipetro la condición de apertura superior o interior. El tipo mantiene rasgos del díptero, pero se distingue por su interior abierto y por la disposición interna de columnas.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Claude Perrault / Joseph Castañeda (1761).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Claude Perrault",
+      "Joseph Castañeda"
+    ],
+    "years": [
+      1787,
+      1761
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Vitruvio / Claude Perrault. Compendio de los diez libros de arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761."
+    ],
+    "variants": "• decástylos-hypetros • hypetros • hipetro • hypethro • decástilo",
+    "comparison": "Ortiz y Sanz usa la forma “decástylos-hypetros” en su clasificación. Perrault explica el mismo tipo: diez columnas delante y detrás, parte interior descubierta y dos órdenes interiores de columnas. La comparación permite reconstruir un significado arquitectónico completo a partir de dos traducciones del siglo XVIII.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.",
+    "utility": "Es útil para interpretar tipologías templarias clásicas y separar la cualidad hipetra —apertura interior— del simple número de columnas de fachada.",
+    "related": [
+      "Hipetro",
+      "Decástilo",
+      "Díptero",
+      "Pseudodíptero",
+      "Templo",
+      "Perístasis"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "…hexástylos-perípteros, octástylos-dípteros, octástylos-pseudodípteros y decástylos-hypetros.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, clasificación de templos, p. 86 del facsímil."
+      },
+      {
+        "text": "La septima se llamaba Hypethro, porque la parte interior estaba descubierta. Ponianse diez Columnas delante y á la espalda…",
+        "author": "Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, p. 120 del facsímil."
+      }
+    ],
+    "search_text": "Decástylos-hypetros\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTemplo hipetro cuyo frente tiene diez columnas y cuya parte interior queda descubierta. En la clasificación vitruviana, decástylos indica el número de columnas y hypetros/hipetro la condición de apertura superior o interior. El tipo mantiene rasgos del díptero, pero se distingue por su interior abierto y por la disposición interna de columnas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4782 · TEMPLO HIPETRO DE DIEZ COLUMNAS · 2 TESTIMONIOS\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Clasificación decástylos-hypetros\n«…hexástylos-perípteros, octástylos-dípteros, octástylos-pseudodípteros y decástylos-hypetros.»\nLos diez libros de Arquitectura, clasificación de templos, p. 86 del facsímil.\nMR-HYP-01 · CEN-4782. Documenta la forma compuesta exacta y su posición dentro de la serie tipológica.\nClaude Perrault / Joseph Castañeda · 1761\n2. Interior descubierto y diez columnas\n«La septima se llamaba Hypethro, porque la parte interior estaba descubierta. Ponianse diez Columnas delante y á la espalda…»\nCompendio de los diez libros de Arquitectura de Vitruvio, p. 120 del facsímil.\nMR-HYP-02 · CEN-4782. Explica los dos componentes semánticos del término: condición hipetra y frente decástilo.\nLECTURA COMPARADA\nOrtiz y Sanz usa la forma “decástylos-hypetros” en su clasificación. Perrault explica el mismo tipo: diez columnas delante y detrás, parte interior descubierta y dos órdenes interiores de columnas. La comparación permite reconstruir un significado arquitectónico completo a partir de dos traducciones del siglo XVIII.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• decástylos-hypetros\n• hypetros\n• hipetro\n• hypethro\n• decástilo\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 2 fuentes; tras lectura y clasificación se integraron 2 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar tipologías templarias clásicas y separar la cualidad hipetra —apertura interior— del simple número de columnas de fachada.\nRELACIONADO CON\nHipetro; Decástilo; Díptero; Pseudodíptero; Templo; Perístasis.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Vitruvio / Claude Perrault. Compendio de los diez libros de arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761.",
+    "url": "terminos/decastylos-hypetros/",
+    "academic_pdf": "documentos/fichas/decastylos-hypetros.pdf"
+  },
+  {
+    "num": 1139,
+    "cen": "CEN-4791",
+    "term": "Gualda y azul",
+    "slug": "gualda-y-azul",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Combinación de un colorante amarillo obtenido de la yerba gualda con azul para producir un verde cuando no se dispone de crisócola. El texto de Ortiz explica tanto la mezcla práctica como el valor cromático de la gualda y la sitúa dentro de los recursos para preparar colores artificiales.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• gualda • azul • luteum • caeruleum • verde",
+    "comparison": "La fuente presenta una relación material: azul mezclado con yerba gualda produce verde. La nota del traductor identifica luteum con la gualda y recuerda que amarillo y azul producen el mismo color. El valor histórico principal reside en la receta cromática y en la correspondencia entre denominación de materia y resultado de la mezcla.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para historia de pigmentos, policromía y traducción de terminología cromática antigua. Permite reconstruir una receta material en lugar de tratar dos latinismos como un nombre autónomo.",
+    "related": [
+      "Gualda",
+      "Azul",
+      "Verde",
+      "Crisócola",
+      "Pigmento",
+      "Pintura"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Los que no pueden haber la crisócola por ser cara, mezclan azul con la yerba gualda, y resulta un buen verde.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro VII, cap. XIV, p. 202 del facsímil (p. impresa 187)."
+      }
+    ],
+    "search_text": "Gualda y azul\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCombinación de un colorante amarillo obtenido de la yerba gualda con azul para producir un verde cuando no se dispone de crisócola. El texto de Ortiz explica tanto la mezcla práctica como el valor cromático de la gualda y la sitúa dentro de los recursos para preparar colores artificiales.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4791 · MEZCLA PICTÓRICA PARA OBTENER VERDE · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Verde obtenido con gualda y azul\n«Los que no pueden haber la crisócola por ser cara, mezclan azul con la yerba gualda, y resulta un buen verde.»\nLos diez libros de Arquitectura, libro VII, cap. XIV, p. 202 del facsímil (p. impresa 187).\nMR-LUT-01 · CEN-4791. Documenta una operación cromática concreta y permite reconstruir el sentido material que el rótulo censal había condensado en latinismos.\nLECTURA COMPARADA\nLa fuente presenta una relación material: azul mezclado con yerba gualda produce verde. La nota del traductor identifica luteum con la gualda y recuerda que amarillo y azul producen el mismo color. El valor histórico principal reside en la receta cromática y en la correspondencia entre denominación de materia y resultado de la mezcla.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• gualda\n• azul\n• luteum\n• caeruleum\n• verde\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para historia de pigmentos, policromía y traducción de terminología cromática antigua. Permite reconstruir una receta material en lugar de tratar dos latinismos como un nombre autónomo.\nRELACIONADO CON\nGualda; Azul; Verde; Crisócola; Pigmento; Pintura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/gualda-y-azul/",
+    "academic_pdf": "documentos/fichas/gualda-y-azul.pdf"
+  },
+  {
+    "num": 1140,
+    "cen": "CEN-4801",
+    "term": "Oeci: Tetrástilos, Corintios y Egipcios",
+    "slug": "oeci-tetrastilos-corintios-y-egipcios",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Familia de salones u oeci descritos por la tradición vitruviana. Los Tetrástilos reciben el nombre de sus cuatro columnas; los Corintios disponen medias columnas alrededor; los Egipcios superponen un segundo orden menor sobre el primero y abren ventanas en los intercolumnios para iluminar el salón. Se trata de tres especies relacionadas dentro de una misma categoría doméstica.",
+    "authors_text": "Andrea Palladio / Joseph Francisco Ortiz y Sanz (1797).",
+    "authors": [
+      "Andrea Palladio",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1797
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Palladio, Andrea. Los quatro libros de arquitectura. Trad. y notas Joseph Francisco Ortiz y Sanz. Madrid: Imprenta Real, 1797."
+    ],
+    "variants": "• Oeci • salones • Tetrástilos • Corintios • Egipcios",
+    "comparison": "Palladio/Ortiz presenta explícitamente “otras formas de salones (Oeci)” y enumera las tres especies con sus rasgos. La jerarquía documental es clara: Oeci es la categoría de salones y Tetrástilos, Corintios y Egipcios son tipos diferenciados por su disposición de columnas, órdenes y huecos de iluminación.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es especialmente útil para leer casas antiguas y evitar que una concatenación de catálogo se interprete como un único salón “tetrástilo-corintio-egipcio”. Permite asociar cada tipo a su sistema de columnas y de iluminación.",
+    "related": [
+      "Oecus",
+      "Salón",
+      "Tetrástilo",
+      "Corintio",
+      "Egipcio",
+      "Columna",
+      "Intercolumnio"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "Otras formas de salones (Oeci) descrive Vitruvio… Son estos los Tetrástilos, asi llamados porque tenían quatro colunas: los Corintios que tenian medias colunas á todo el rededor; y los Egipcios…",
+        "author": "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+        "year": "1797",
+        "source": "Los quatro libros de Arquitectura, libro II, p. 70 del facsímil."
+      }
+    ],
+    "search_text": "Oeci: Tetrástilos, Corintios y Egipcios\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFamilia de salones u oeci descritos por la tradición vitruviana. Los Tetrástilos reciben el nombre de sus cuatro columnas; los Corintios disponen medias columnas alrededor; los Egipcios superponen un segundo orden menor sobre el primero y abren ventanas en los intercolumnios para iluminar el salón. Se trata de tres especies relacionadas dentro de una misma categoría doméstica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4801 · SALONES DE LA CASA ANTIGUA · 1 TESTIMONIO\nAndrea Palladio / Joseph Francisco Ortiz y Sanz · 1797\n1. Tres especies de salones Oeci\n«Otras formas de salones (Oeci) descrive Vitruvio… Son estos los Tetrástilos, asi llamados porque tenían quatro colunas: los Corintios que tenian medias colunas á todo el rededor; y los Egipcios…»\nLos quatro libros de Arquitectura, libro II, p. 70 del facsímil.\nMR-OEC-01 · CEN-4801. Restituye la estructura taxonómica: Oeci es el conjunto y las tres denominaciones corresponden a especies distintas.\nLECTURA COMPARADA\nPalladio/Ortiz presenta explícitamente “otras formas de salones (Oeci)” y enumera las tres especies con sus rasgos. La jerarquía documental es clara: Oeci es la categoría de salones y Tetrástilos, Corintios y Egipcios son tipos diferenciados por su disposición de columnas, órdenes y huecos de iluminación.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Oeci\n• salones\n• Tetrástilos\n• Corintios\n• Egipcios\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs especialmente útil para leer casas antiguas y evitar que una concatenación de catálogo se interprete como un único salón “tetrástilo-corintio-egipcio”. Permite asociar cada tipo a su sistema de columnas y de iluminación.\nRELACIONADO CON\nOecus; Salón; Tetrástilo; Corintio; Egipcio; Columna; Intercolumnio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Palladio, Andrea. Los quatro libros de arquitectura. Trad. y notas Joseph Francisco Ortiz y Sanz. Madrid: Imprenta Real, 1797.",
+    "url": "terminos/oeci-tetrastilos-corintios-y-egipcios/",
+    "academic_pdf": "documentos/fichas/oeci-tetrastilos-corintios-y-egipcios.pdf"
+  },
+  {
+    "num": 1141,
+    "cen": "CEN-4803",
+    "term": "Odeon",
+    "slug": "odeon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Edificio de la tradición griega destinado a competiciones o certámenes de poesía, música, canto y ejecución instrumental. Matallana aproxima su función, para lectores del siglo XIX, a una sala de conciertos de teatro; esa comparación es explicativa y no convierte el odeón antiguo en una tipología teatral moderna equivalente.",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• odeon • odeón • sala de conciertos",
+    "comparison": "El único artículo autónomo localizado en el corpus define con claridad función y contexto cultural. La segunda pasada 35/35 revisó las formas odeon/odeón y referencias a teatros y música sin hallar otro testimonio independiente que ampliara la definición. Se conserva por ello un comparador breve, no una falsa multiplicación de citas.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Permite identificar edificios y espacios de espectáculo antiguo por su función musical y poética, y distinguirlos de teatro, anfiteatro y sala moderna de conciertos.",
+    "related": [
+      "Teatro",
+      "Música",
+      "Sala de conciertos",
+      "Espectáculo",
+      "Grecia"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ODEON.= Entre los griegos, era una especie de edificio, en el que los poetas y músicos disputaban los premios de la música, del canto y de la ejecucion instrumental…",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, voz «ODEON», p. 195 del facsímil."
+      }
+    ],
+    "search_text": "Odeon\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEdificio de la tradición griega destinado a competiciones o certámenes de poesía, música, canto y ejecución instrumental. Matallana aproxima su función, para lectores del siglo XIX, a una sala de conciertos de teatro; esa comparación es explicativa y no convierte el odeón antiguo en una tipología teatral moderna equivalente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4803 · EDIFICIO PARA CERTÁMENES MUSICALES Y POÉTICOS · 1 TESTIMONIO\nMariano Matallana · 1848\n1. Edificio griego para premios musicales\n«ODEON.= Entre los griegos, era una especie de edificio, en el que los poetas y músicos disputaban los premios de la música, del canto y de la ejecucion instrumental…»\nVocabulario de arquitectura civil, voz «ODEON», p. 195 del facsímil.\nMR-ODE-01 · CEN-4803. Define el edificio por su programa cultural y aporta una analogía decimonónica con la sala de conciertos.\nLECTURA COMPARADA\nEl único artículo autónomo localizado en el corpus define con claridad función y contexto cultural. La segunda pasada 35/35 revisó las formas odeon/odeón y referencias a teatros y música sin hallar otro testimonio independiente que ampliara la definición. Se conserva por ello un comparador breve, no una falsa multiplicación de citas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• odeon\n• odeón\n• sala de conciertos\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar edificios y espacios de espectáculo antiguo por su función musical y poética, y distinguirlos de teatro, anfiteatro y sala moderna de conciertos.\nRELACIONADO CON\nTeatro; Música; Sala de conciertos; Espectáculo; Grecia.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/odeon/",
+    "academic_pdf": "documentos/fichas/odeon.pdf"
+  },
+  {
+    "num": 1142,
+    "cen": "CEN-4821",
+    "term": "Pneumáticon",
+    "slug": "pneumaticon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre griego aplicado por la traducción de 1787 a las máquinas “espirituales”, esto es, mecanismos cuyo funcionamiento depende de la opresión o compresión del aire y que pueden producir voces y sonidos de modo orgánico. La voz pertenece al vocabulario de mecánica incluido por Vitruvio dentro de la formación arquitectónica.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• pneumáticon • máquina espiritual • aire comprimido • máquina neumática",
+    "comparison": "El mismo pasaje contrapone pneumáticon a acrobáticon y a las máquinas tractorias. La explicación funcional evita una lectura moderna de “neumático” restringida a ruedas o presión industrial: aquí se trata de dispositivos de aire dentro de la mecánica antigua. La segunda pasada no localizó otra tradición castellana autónoma con la transliteración.",
+    "coverage": "Se revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.",
+    "utility": "Es útil para historia de la mecánica, órganos hidráulicos/neumáticos y vocabulario técnico transmitido en tratados de arquitectura. Ayuda a contextualizar la transliteración griega dentro de una clasificación de máquinas.",
+    "related": [
+      "Acrobáticon",
+      "Máquina",
+      "Aire",
+      "Órgano",
+      "Tractoria",
+      "Mecánica"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Hay unas llamadas escansorias, en Griego acrobáticon: otras espirituales, en Griego pneumáticon… […] La espiritual es aquella que mediante la opresion del ayre, despide organicamente voces y sonidos.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro X, cap. I, p. 252 del facsímil."
+      }
+    ],
+    "search_text": "Pneumáticon\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre griego aplicado por la traducción de 1787 a las máquinas “espirituales”, esto es, mecanismos cuyo funcionamiento depende de la opresión o compresión del aire y que pueden producir voces y sonidos de modo orgánico. La voz pertenece al vocabulario de mecánica incluido por Vitruvio dentro de la formación arquitectónica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4821 · MÁQUINAS MOVIDAS POR AIRE Y PRODUCCIÓN DE SONIDO · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Máquina espiritual movida por aire\n«Hay unas llamadas escansorias, en Griego acrobáticon: otras espirituales, en Griego pneumáticon… […] La espiritual es aquella que mediante la opresion del ayre, despide organicamente voces y sonidos.»\nLos diez libros de Arquitectura, libro X, cap. I, p. 252 del facsímil.\nMR-PNE-01 · CEN-4821. Une la transliteración griega con su principio físico —opresión del aire— y con el efecto producido, voces y sonidos.\nLECTURA COMPARADA\nEl mismo pasaje contrapone pneumáticon a acrobáticon y a las máquinas tractorias. La explicación funcional evita una lectura moderna de “neumático” restringida a ruedas o presión industrial: aquí se trata de dispositivos de aire dentro de la mecánica antigua. La segunda pasada no localizó otra tradición castellana autónoma con la transliteración.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• pneumáticon\n• máquina espiritual\n• aire comprimido\n• máquina neumática\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para historia de la mecánica, órganos hidráulicos/neumáticos y vocabulario técnico transmitido en tratados de arquitectura. Ayuda a contextualizar la transliteración griega dentro de una clasificación de máquinas.\nRELACIONADO CON\nAcrobáticon; Máquina; Aire; Órgano; Tractoria; Mecánica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/pneumaticon/",
+    "academic_pdf": "documentos/fichas/pneumaticon.pdf"
   }
 ]
