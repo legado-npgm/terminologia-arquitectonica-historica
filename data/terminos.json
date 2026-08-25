@@ -79928,5 +79928,1577 @@
     "search_text": "Sillería enlazada o ligada\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nModo de sillería en el que las piedras se colocan de manera que las juntas verticales de una hilada caigan sobre el medio de las piezas inferiores. Perrault la identifica con el término latino insertum y la contrapone a la sillería enrejada y al modo griego de ligadura doble; Bails muestra el uso práctico de «sillería enlazada» en jambas integradas con paredes de sillarejo.\nCOMPARADOR TEXTUAL COMPLETO\nClaude Perrault / Joseph Castañeda · 1761\n1. Definición del enlace de las juntas\n«Enlazada ó Ligada es aquella en Sillería [...] cuyas junturas en los lechos estan á nivel, y las que suben á plomo; de suerte que la juntura de dos Piedras de arriba cayga en medio de la Piedra que está debajo.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761, p. 55 del facsímil.\nMR-P049-30-01 · Define el aparejo por el desplazamiento de juntas y la superposición trabada de las piezas.\nClaude Perrault / Joseph Castañeda · 1761\n2. Comparación con mampostería en hiladas iguales\n«La Mampostería en hiladas iguales [...] solo difiere de la Sillería enlazada, en que las Piedras se ponen sin labrar.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761, p. 56 del facsímil.\nMR-P049-30-02 · Aísla el grado de labra como diferencia frente a un aparejo equivalente de mampostería.\nClaude Perrault / Joseph Castañeda · 1761\n3. Nombre técnico en la explicación de lámina\n«El segundo, que llamaban Insertum, esto es Sillería enlazada o ligada, porque las piedras se ponían de modo que cada una ligaba con otras quatro, dos por abajo, y dos por arriba.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761, explicación de lámina I, p. 150 del facsímil.\nMR-P049-30-03 · Relaciona la forma castellana con el nombre latino y expresa la conectividad de cada sillar.\nBenito Bails · 1796\n4. Sillería enlazada en jambas de sótano\n«puerta de sótano con arco escarzano, y jambas de sillería enlazadas con las paredes de sillarejo»\nArquitectura civil, 1796, explicación de figura, p. 254 del facsímil.\nMR-P049-30-04 · Aporta una aplicación constructiva real del adjetivo fuera de la exposición histórica de Vitruvio.\nNÚCLEO CANÓNICO\nAparejo de sillería trabada por alternancia de juntas, de modo que cada piedra enlaza con las piezas superiores e inferiores y evita la continuidad vertical de las juntas.\nLECTURA COMPARADA\nPerrault define el mecanismo, lo compara con mampostería de igual lógica y lo identifica con insertum; Bails muestra la expresión aplicada a jambas concretas. La secuencia pasa de teoría de aparejo a detalle constructivo sin cambiar el núcleo de trabazón.\nVARIANTES Y CONTROL TERMINOLÓGICO\nPerrault presenta «enlazada» y «ligada» como formas equivalentes y relaciona el sistema con el término latino insertum. La aclaración de carácter técnico no forma parte de la denominación histórica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz cuenta con varios pasajes en Perrault y con usos posteriores en Bails y Fornés. La documentación distingue definición, comparación con mampostería de igual lógica, nomenclatura de lámina y aplicación constructiva en jambas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconocer la lógica de trabazón de la sillería y diferenciarla tanto del reticulado como de la ligadura doble propia del modo griego.\nRELACIONADO CON\nSillería particular a los Griegos; insertum; aparejo; junta; sillarejo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nClaude Perrault / Joseph Castañeda. 1761. Compendio de los diez libros de Arquitectura de Vitruvio.\nBenito Bails. 1796. Arquitectura civil.",
     "url": "terminos/silleria-enlazada-o-ligada/",
     "academic_pdf": "documentos/fichas/silleria-enlazada-o-ligada.pdf"
+  },
+  {
+    "num": 1088,
+    "cen": "CEN-4338",
+    "term": "Tablas de madera",
+    "slug": "tablas-de-madera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas planas de madera, más anchas que gruesas, empleadas como elementos materiales independientes en pisos, útiles y trabajos de obra. En Alberti aparecen como cobertura del suelo de los establos; en los vocabularios del siglo XIX se distinguen de la “tabla del madero”, que designa la cara ancha de una pieza de sección rectangular.",
+    "authors_text": "Benito Bails (1802); León Battista Alberti / Francisco Lozano (1582); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1582,
+      1879
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails. Diccionario de arquitectura civil. 1802.",
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Ricardo Marcos y Bausa. Manual del albañil. 1879."
+    ],
+    "variants": "Formas documentadas: tabla, tablas de madera, tabla de madera. Debe distinguirse de tabla del madero, canto, tablón y tablero.",
+    "comparison": "La definición de Bails separa la pieza aserrada de la acepción dimensional “tabla del madero”. Alberti aporta un uso constructivo temprano, mientras Marcos y Bausa muestra la continuidad de la pieza como soporte de trabajo del albañil.",
+    "coverage": "La evidencia se extiende de 1582 a 1879 y reúne definición material, uso como piso y uso instrumental. Las restantes apariciones se concentran en descripciones de madera o en la acepción geométrica de tabla del madero.",
+    "utility": "Permite identificar piezas aserradas en inventarios, pisos y útiles de obra sin confundirlas con la dimensión mayor de una escuadría.",
+    "related": [
+      "Tabla del madero",
+      "Tablón",
+      "Tablero",
+      "Madera",
+      "Piso",
+      "Esparabel"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "TABLA. s. f. Madero muy ancho y delgado.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, 1802; PDF p. 102."
+      },
+      {
+        "text": "A los cauallos caualdes el suelo y cubridles la hoya con tablas de madera y roble, para que no se humedezcan con el lodo de la orina, ni con el patear se menuzce el suelo y la vña.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 154."
+      }
+    ],
+    "search_text": "Tablas de madera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas planas de madera, más anchas que gruesas, empleadas como elementos materiales independientes en pisos, útiles y trabajos de obra. En Alberti aparecen como cobertura del suelo de los establos; en los vocabularios del siglo XIX se distinguen de la “tabla del madero”, que designa la cara ancha de una pieza de sección rectangular.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4338 · TABLAS DE MADERA · 3 TESTIMONIOS\nBenito Bails · 1802\n1. Definición material\n«TABLA. s. f. Madero muy ancho y delgado.»\nDiccionario de arquitectura civil, 1802; PDF p. 102.\nMR-4338-01 · Fija la tabla como pieza de madera independiente, no como mera cara geométrica de un madero.\nLeón Battista Alberti / Francisco Lozano · 1582\n2. Pavimento de establos\n«A los cauallos caualdes el suelo y cubridles la hoya con tablas de madera y roble, para que no se humedezcan con el lodo de la orina, ni con el patear se menuzce el suelo y la vña.»\nLos diez libros de Architectura, 1582; PDF p. 154.\nMR-4338-02 · Documenta tablas de madera y roble como solución de piso destinada a aislar los cascos de humedad y degradación.\nRicardo Marcos y Bausa · 1879\n3. Tabla de madera como útil de albañilería\n«Esparabel.-Es una tabla de madera, más larga que ancha, provista de un mango en el medio de uno de sus lados, en la cual se sostiene la argamasa que se ha de gastar con la llana ó paleta.»\nManual del albañil, 1879; PDF p. 52.\nMR-4338-03 · Muestra la persistencia material de la tabla como pieza plana transformada en útil de trabajo.\nLECTURA COMPARADA\nLa definición de Bails separa la pieza aserrada de la acepción dimensional “tabla del madero”. Alberti aporta un uso constructivo temprano, mientras Marcos y Bausa muestra la continuidad de la pieza como soporte de trabajo del albañil.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas documentadas: tabla, tablas de madera, tabla de madera. Debe distinguirse de tabla del madero, canto, tablón y tablero.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se extiende de 1582 a 1879 y reúne definición material, uso como piso y uso instrumental. Las restantes apariciones se concentran en descripciones de madera o en la acepción geométrica de tabla del madero.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar piezas aserradas en inventarios, pisos y útiles de obra sin confundirlas con la dimensión mayor de una escuadría.\nRELACIONADO CON\nTabla del madero; Tablón; Tablero; Madera; Piso; Esparabel\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Diccionario de arquitectura civil. 1802.\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Ricardo Marcos y Bausa. Manual del albañil. 1879.",
+    "url": "terminos/tablas-de-madera/",
+    "academic_pdf": "documentos/fichas/tablas-de-madera.pdf"
+  },
+  {
+    "num": 1089,
+    "cen": "CEN-4339",
+    "term": "Tablas de piedra",
+    "slug": "tablas-de-piedra",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas pétreas planas y relativamente delgadas cuyo espesor se limita por el peso y por la carga que deben sostener. La documentación las sitúa tanto en techos de piedra o de madera como en remates de fábrica mixta de ladrillo, donde su penetración en el muro se determina expresamente.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Benito Bails (1796).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Benito Bails"
+    ],
+    "years": [
+      1582,
+      1796
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Formas: tablas de piedra; tabla de piedra. No equivale a piedra en general ni a sillar: la tabularidad y el empleo constructivo son determinantes.",
+    "comparison": "Alberti trata la tabla pétrea como pieza de cubierta cuya sección debe contener el peso propio sin perder capacidad resistente; Bails la incorpora a antepechos y cornisas de ladrillo y precisa su penetración en la fábrica. La forma tabular, el espesor, el apoyo y la combinación con otros materiales constituyen un contenido constructivo específico.",
+    "coverage": "La documentación sustantiva localizada se concentra en Alberti y Bails y cubre dos aplicaciones distintas: pieza delgada de cubierta y elemento pétreo embebido en una fábrica de ladrillo.",
+    "utility": "Es útil para reconocer piezas pétreas delgadas en cubiertas y remates y para diferenciar su comportamiento del de sillares, losas gruesas y vigas de piedra.",
+    "related": [
+      "Piedra",
+      "Losa",
+      "Viga de piedra",
+      "Techo",
+      "Cornisa",
+      "Fábrica de ladrillo"
+    ],
+    "themes": [
+      "Cantería",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Tambien las tablas de piedra, assi por las demas cosas, como por causa del peso no se pondran gruesas; finalmente las tablas que se pondran en los techos de piedra o de madera, y las vigas se pondran ni muy delgadas, ni muy raras, de suerte que basten para sostenerse a sí y a la carga.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 89."
+      },
+      {
+        "text": "...los antepechos y las cornisas tambien de ladrillo con tablas de piedra por afuera metidas unas once pulgadas en la fábrica...",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 266."
+      }
+    ],
+    "search_text": "Tablas de piedra\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas pétreas planas y relativamente delgadas cuyo espesor se limita por el peso y por la carga que deben sostener. La documentación las sitúa tanto en techos de piedra o de madera como en remates de fábrica mixta de ladrillo, donde su penetración en el muro se determina expresamente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4339 · TABLAS DE PIEDRA · 2 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Espesor y carga en cubiertas\n«Tambien las tablas de piedra, assi por las demas cosas, como por causa del peso no se pondran gruesas; finalmente las tablas que se pondran en los techos de piedra o de madera, y las vigas se pondran ni muy delgadas, ni muy raras, de suerte que basten para sostenerse a sí y a la carga.»\nLos diez libros de Architectura, 1582; PDF p. 89.\nMR-4339-01 · Relaciona directamente espesor, peso propio, separación y capacidad resistente de las tablas pétreas en cubiertas.\nBenito Bails · 1796\n2. Tablas pétreas en cornisa de fábrica mixta\n«...los antepechos y las cornisas tambien de ladrillo con tablas de piedra por afuera metidas unas once pulgadas en la fábrica...»\nArquitectura civil, 1796; PDF p. 266.\nMR-4339-02 · Documenta una colocación precisa: tablas de piedra embebidas en la fábrica de ladrillo como pieza exterior de cornisa.\nLECTURA COMPARADA\nAlberti trata la tabla pétrea como pieza de cubierta cuya sección debe contener el peso propio sin perder capacidad resistente; Bails la incorpora a antepechos y cornisas de ladrillo y precisa su penetración en la fábrica. La forma tabular, el espesor, el apoyo y la combinación con otros materiales constituyen un contenido constructivo específico.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: tablas de piedra; tabla de piedra. No equivale a piedra en general ni a sillar: la tabularidad y el empleo constructivo son determinantes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación sustantiva localizada se concentra en Alberti y Bails y cubre dos aplicaciones distintas: pieza delgada de cubierta y elemento pétreo embebido en una fábrica de ladrillo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconocer piezas pétreas delgadas en cubiertas y remates y para diferenciar su comportamiento del de sillares, losas gruesas y vigas de piedra.\nRELACIONADO CON\nPiedra; Losa; Viga de piedra; Techo; Cornisa; Fábrica de ladrillo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/tablas-de-piedra/",
+    "academic_pdf": "documentos/fichas/tablas-de-piedra.pdf"
+  },
+  {
+    "num": 1090,
+    "cen": "CEN-4381",
+    "term": "Techos de madera",
+    "slug": "techos-de-madera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Techumbres cuya materialidad de madera condiciona estructura, capas de cerramiento, resistencia, protección frente al fuego, coste y acabado. La documentación histórica combina criterios de dimensionado de vigas y tablas con soluciones estratificadas de tierra cocida, yeso, cal o caña, además de tratamientos ornamentales y revestimientos posteriores.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Eduardo Mariátegui (1876); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Eduardo Mariátegui",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1582,
+      1876,
+      1879
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.",
+      "Ricardo Marcos y Bausa. Manual del albañil. 1879."
+    ],
+    "variants": "Formas: techo de madera, techos de madera, techos de maderas. Se relaciona con alfarje y artesonado, pero éstos describen configuraciones históricas más específicas.",
+    "comparison": "Alberti documenta dos dimensiones complementarias: el dimensionado resistente de tablas y vigas y una composición estratificada destinada a reducir el riesgo de incendio mediante tierra cocida, yeso y cal, con caña griega como alternativa económica. Mariátegui muestra la asociación posterior con casetones o artesones, y Marcos y Bausa cuantifica la incidencia del soporte de madera en el consumo del blanqueo. La materialidad determina estructura, seguridad, coste, imagen y acabado.",
+    "coverage": "La evidencia sustantiva se distribuye entre los siglos XVI y XIX. Los testimonios integrados abarcan dimensionado resistente, estratificación constructiva y comportamiento frente al fuego, ornamentación y consumo de acabado.",
+    "utility": "Permite distinguir techumbres por material y estudiar cómo la madera condiciona dimensionado, capas de cerramiento, respuesta frente al fuego, coste, decoración y revestimiento.",
+    "related": [
+      "Techo",
+      "Alfarje",
+      "Artesonado",
+      "Viga de madera",
+      "Tabla de madera",
+      "Cielo raso"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "En los techos de madera en lugar de tablas se estenderan tablillas de tierra cozida a los quadradillos corrientes ligadas con yeso: sobre estas tablillas se estenderan las canales planas y se affirmaran con cal. Esta obra es muy segura contra los fuegos y muy acomodada para el servicio de los moradores, y hazerse ha con menor costa si en lugar de tablillas estendieres debaxo caña griega, y la affirmares con cal.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 96."
+      },
+      {
+        "text": "...las tablas que se pondran en los techos de piedra o de madera, y las vigas se pondran ni muy delgadas, ni muy raras, de suerte que basten para sostenerse a sí y a la carga...",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 89."
+      }
+    ],
+    "search_text": "Techos de madera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTechumbres cuya materialidad de madera condiciona estructura, capas de cerramiento, resistencia, protección frente al fuego, coste y acabado. La documentación histórica combina criterios de dimensionado de vigas y tablas con soluciones estratificadas de tierra cocida, yeso, cal o caña, además de tratamientos ornamentales y revestimientos posteriores.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4381 · TECHOS DE MADERA · 4 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Capas constructivas y protección frente al fuego\n«En los techos de madera en lugar de tablas se estenderan tablillas de tierra cozida a los quadradillos corrientes ligadas con yeso: sobre estas tablillas se estenderan las canales planas y se affirmaran con cal. Esta obra es muy segura contra los fuegos y muy acomodada para el servicio de los moradores, y hazerse ha con menor costa si en lugar de tablillas estendieres debaxo caña griega, y la affirmares con cal.»\nLos diez libros de Architectura, 1582; PDF p. 96.\nMR-4381-01 · Describe una solución propia para techo de madera: tablillas de tierra cocida ligadas con yeso sobre cuadradillos, canales planas afirmadas con cal y una alternativa de caña griega de menor coste; la finalidad declarada incluye seguridad frente al fuego y comodidad de uso.\nLeón Battista Alberti / Francisco Lozano · 1582\n2. Dimensionado de tablas y vigas\n«...las tablas que se pondran en los techos de piedra o de madera, y las vigas se pondran ni muy delgadas, ni muy raras, de suerte que basten para sostenerse a sí y a la carga...»\nLos diez libros de Architectura, 1582; PDF p. 89.\nMR-4381-02 · Explicita un criterio resistente específico del techo de madera: espesor y separación suficientes para sostener el propio sistema y las cargas que recibe.\nEduardo Mariátegui · 1876\n3. Techos planos ornamentados\n«...se aplica tambien á los techos de madera adornados con casetones ó artesones á la italiana aunque sean planos.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 12.\nMR-4381-03 · Documenta la ornamentación del techo de madera y la extensión del término artesonado a soluciones planas.\nRicardo Marcos y Bausa · 1879\n4. Incidencia del soporte en el blanqueo\n«...en techos de madera para igual superficie, se gastan 104 libras... y si son de cañizo 84 libras...»\nManual del albañil, 1879; PDF p. 120.\nMR-4381-04 · Registra que el soporte de madera modifica el consumo de material en el acabado, dato técnico propio de su ejecución.\nLECTURA COMPARADA\nAlberti documenta dos dimensiones complementarias: el dimensionado resistente de tablas y vigas y una composición estratificada destinada a reducir el riesgo de incendio mediante tierra cocida, yeso y cal, con caña griega como alternativa económica. Mariátegui muestra la asociación posterior con casetones o artesones, y Marcos y Bausa cuantifica la incidencia del soporte de madera en el consumo del blanqueo. La materialidad determina estructura, seguridad, coste, imagen y acabado.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: techo de madera, techos de madera, techos de maderas. Se relaciona con alfarje y artesonado, pero éstos describen configuraciones históricas más específicas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva se distribuye entre los siglos XVI y XIX. Los testimonios integrados abarcan dimensionado resistente, estratificación constructiva y comportamiento frente al fuego, ornamentación y consumo de acabado.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir techumbres por material y estudiar cómo la madera condiciona dimensionado, capas de cerramiento, respuesta frente al fuego, coste, decoración y revestimiento.\nRELACIONADO CON\nTecho; Alfarje; Artesonado; Viga de madera; Tabla de madera; Cielo raso\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.\n• Ricardo Marcos y Bausa. Manual del albañil. 1879.",
+    "url": "terminos/techos-de-madera/",
+    "academic_pdf": "documentos/fichas/techos-de-madera.pdf"
+  },
+  {
+    "num": 1091,
+    "cen": "CEN-4508",
+    "term": "Torres de madera",
+    "slug": "torres-de-madera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Máquinas militares elevadas construidas de madera para aproximar sitiadores a la altura de las murallas, protegerlos y facilitar el combate o el paso mediante puentes. Su altura, número de pisos, protección contra el fuego y dotación humana forman parte de su configuración.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda (1761).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda"
+    ],
+    "years": [
+      1582,
+      1761
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761."
+    ],
+    "variants": "Formas: torre de madera, torres de madera. En contexto militar se aproxima a torre de asalto, pero la documentación conserva la especificación material y constructiva.",
+    "comparison": "Alberti presenta la torre de madera como parte de un sistema de cerco y aporta una altura concreta; Perrault desarrolla su funcionamiento como máquina de asedio: eleva a los sitiadores, permite el paso por puentes levadizos, alcanza numerosos niveles, incorpora protección frente al fuego y requiere una dotación humana diferenciada para movimiento y ataque. La especificación material corresponde a una solución técnica completa, no a una mera mención de madera.",
+    "coverage": "Los testimonios sustantivos se concentran en Alberti y en la tradición vitruviana del siglo XVIII y documentan escala, función, protección y operación de la máquina.",
+    "utility": "Permite estudiar máquinas de asedio por material, altura, protección, capacidad y relación con puentes levadizos.",
+    "related": [
+      "Torre de asalto",
+      "Puente levadizo",
+      "Muralla",
+      "Máquina bélica",
+      "Madera"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "...mil y cincuenta torres de madera levantadas por sesenta pies, y de tal manera fortificó la obra, que los cercados no fuessen mas arredrados que excluydos...",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 146."
+      },
+      {
+        "text": "Las Torres de madera servian para levantar á los Sitiadores á la altura de las Murallas, á fin de auyentar á los Sitiados con tiros de flechas, y con los Escorpiones; y tambien para pasar á los Muros sobre Puentes levadizos. La altura de estas Torres llegaba algunas veces á ciento y ochenta pies, con veinte altos ó suelos. Cubrianlas como á las Tortugas con pieles frescas de Buey: y las guarnecian con cien hombres, que se empleaban unos en moverlas, y otros en tirar contra los Sitiados.",
+        "author": "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 148."
+      }
+    ],
+    "search_text": "Torres de madera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMáquinas militares elevadas construidas de madera para aproximar sitiadores a la altura de las murallas, protegerlos y facilitar el combate o el paso mediante puentes. Su altura, número de pisos, protección contra el fuego y dotación humana forman parte de su configuración.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4508 · TORRES DE MADERA · 2 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Torres en un cerco\n«...mil y cincuenta torres de madera levantadas por sesenta pies, y de tal manera fortificó la obra, que los cercados no fuessen mas arredrados que excluydos...»\nLos diez libros de Architectura, 1582; PDF p. 146.\nMR-4508-01 · Atestigua la construcción masiva de torres de madera y aporta una altura concreta dentro de una operación de cerco.\nMarco Vitruvio Polión / Claude Perrault / Joseph Castañeda · 1761\n2. Función y dimensiones de la torre de sitio\n«Las Torres de madera servian para levantar á los Sitiadores á la altura de las Murallas, á fin de auyentar á los Sitiados con tiros de flechas, y con los Escorpiones; y tambien para pasar á los Muros sobre Puentes levadizos. La altura de estas Torres llegaba algunas veces á ciento y ochenta pies, con veinte altos ó suelos. Cubrianlas como á las Tortugas con pieles frescas de Buey: y las guarnecian con cien hombres, que se empleaban unos en moverlas, y otros en tirar contra los Sitiados.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 148.\nMR-4508-02 · Define la función operacional y aporta altura, veinte niveles, protección exterior con pieles frescas de buey y una dotación de cien hombres repartida entre movimiento y combate.\nLECTURA COMPARADA\nAlberti presenta la torre de madera como parte de un sistema de cerco y aporta una altura concreta; Perrault desarrolla su funcionamiento como máquina de asedio: eleva a los sitiadores, permite el paso por puentes levadizos, alcanza numerosos niveles, incorpora protección frente al fuego y requiere una dotación humana diferenciada para movimiento y ataque. La especificación material corresponde a una solución técnica completa, no a una mera mención de madera.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: torre de madera, torres de madera. En contexto militar se aproxima a torre de asalto, pero la documentación conserva la especificación material y constructiva.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios sustantivos se concentran en Alberti y en la tradición vitruviana del siglo XVIII y documentan escala, función, protección y operación de la máquina.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar máquinas de asedio por material, altura, protección, capacidad y relación con puentes levadizos.\nRELACIONADO CON\nTorre de asalto; Puente levadizo; Muralla; Máquina bélica; Madera\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.",
+    "url": "terminos/torres-de-madera/",
+    "academic_pdf": "documentos/fichas/torres-de-madera.pdf"
+  },
+  {
+    "num": 1092,
+    "cen": "CEN-4586",
+    "term": "Vasos de bronce",
+    "slug": "vasos-de-bronce",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Recipientes resonadores de bronce integrados en la arquitectura teatral para reforzar la propagación de la voz. Las fuentes describen su colocación invertida o suspendida, su afinación según relaciones musicales, su alojamiento en celdillas bajo las gradas, el aislamiento respecto de los muros, los fulcros de apoyo y las aberturas mediante las que el sonido se comunica con la escena y la gradería.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda (1761); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1582,
+      1761,
+      1787
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.",
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787."
+    ],
+    "variants": "Formas: vasos de bronce; vaso de bronce; echeia en la tradición griega. No debe confundirse con recipientes de bronce de uso hidráulico o doméstico.",
+    "comparison": "Alberti testimonia el vaso de bronce invertido como recurso para aumentar la sonoridad; Perrault resume su presencia seriada bajo las gradas; Ortiz relaciona afinación, consonancias y claridad de la voz y, además, especifica celdillas, aislamiento respecto de paredes, vacíos, fulcros y aberturas, completando la lectura con la orientación gráfica del vaso. La voz designa un dispositivo acústico materialmente integrado en la gradería.",
+    "coverage": "La evidencia sustantiva abarca los siglos XVI y XVIII y reúne formulaciones de Alberti, Perrault y Ortiz y Sanz. Se integran testimonios doctrinales, constructivos, acústicos y gráficos.",
+    "utility": "Permite reconstruir la acústica histórica del teatro relacionando arquitectura, música, material, geometría de las celdillas, separación respecto de muros, apoyos, aberturas y orientación hacia la escena.",
+    "related": [
+      "Teatro",
+      "Gradería",
+      "Celdilla",
+      "Bronce",
+      "Música",
+      "Acústica"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "...en estos lugares acomodados iguales se formaran esquifes de los quales, si os parece, pendan vasos de bronze trastornados, para que con el herir de ellos quando alli llegare la voz se buelva mas sonorosa.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 260."
+      },
+      {
+        "text": "Baxo las Gradas de cada descanso habia en los Teatros Grandes trece Aposentillos con vasos de bronce acordados á varios tonos, que por su sonoridad servian para aumentar la voz de los Comicos.",
+        "author": "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 124."
+      }
+    ],
+    "search_text": "Vasos de bronce\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nRecipientes resonadores de bronce integrados en la arquitectura teatral para reforzar la propagación de la voz. Las fuentes describen su colocación invertida o suspendida, su afinación según relaciones musicales, su alojamiento en celdillas bajo las gradas, el aislamiento respecto de los muros, los fulcros de apoyo y las aberturas mediante las que el sonido se comunica con la escena y la gradería.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4586 · VASOS DE BRONCE · 5 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Vasos invertidos y refuerzo de la resonancia\n«...en estos lugares acomodados iguales se formaran esquifes de los quales, si os parece, pendan vasos de bronze trastornados, para que con el herir de ellos quando alli llegare la voz se buelva mas sonorosa.»\nLos diez libros de Architectura, 1582; PDF p. 260.\nMR-4586-01 · Atestigua antes de las traducciones vitruvianas del siglo XVIII el empleo de vasos de bronce invertidos o suspendidos en el teatro para aumentar la sonoridad de la voz.\nMarco Vitruvio Polión / Claude Perrault / Joseph Castañeda · 1761\n2. Trece aposentos con vasos acordados\n«Baxo las Gradas de cada descanso habia en los Teatros Grandes trece Aposentillos con vasos de bronce acordados á varios tonos, que por su sonoridad servian para aumentar la voz de los Comicos.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 124.\nMR-4586-02 · Resume número de aposentos, afinación tonal y efecto acústico: aumentar la voz de los actores mediante la sonoridad de los vasos.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n3. Afinación musical y efecto acústico\n«...los vasos de bronce... se acuerdan á las consonancias ó concentos músicos, distribuyéndolos en rededor en quarta, quinta y octava; de manera que al herirlos el sonido de la scena... llega mas claro y suave al oido de los espectadores.»\nLos diez libros de Arquitectura, 1787; PDF p. 21.\nMR-4586-03 · Vincula la disposición arquitectónica con las consonancias musicales y la propagación sonora.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n4. Celdillas, aislamiento, apoyos y aberturas\n«Sobre estas leyes se hacen matemáticamente los vasos de bronce, proporcionados á la grandeza del teatro, y acordados entre sí en tono de quarta, quinta, y por orden hasta las dos octavas. Colócanse despues en razon música en unas celdillas particulares debaxo de las gradas del teatro, sin que por ninguna parte toquen pared, teniendo encima y al rededor espacio vacío. Ponense inversos; y hácia la parte de la scena tendrán unos fulcros ó sustenes debaxo, altos no menos de medio pie: y finalmente, en la frente de estas celdillas, baxo el lecho de la misma grada, se dexarán unas aberturas largas dos pies, y altas medio.»\nLos diez libros de Arquitectura, 1787; PDF pp. 132-133.\nMR-4586-04 · Fija la disposición constructiva: celdillas bajo las gradas, separación total de los muros, vacío perimetral, vasos invertidos, fulcros de al menos medio pie y aberturas de dos pies por medio pie.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n5. Posición del vaso en la celdilla\n«Uno de los referidos vasos colocado segun dice Vitruvio, elevado sobre el fulero A por la parte que mira á la ventana y scena.»\nLos diez libros de Arquitectura, 1787; PDF p. 378.\nMR-4586-05 · La lámina concreta la orientación y apoyo del vaso dentro de la celdilla.\nLECTURA COMPARADA\nAlberti testimonia el vaso de bronce invertido como recurso para aumentar la sonoridad; Perrault resume su presencia seriada bajo las gradas; Ortiz relaciona afinación, consonancias y claridad de la voz y, además, especifica celdillas, aislamiento respecto de paredes, vacíos, fulcros y aberturas, completando la lectura con la orientación gráfica del vaso. La voz designa un dispositivo acústico materialmente integrado en la gradería.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: vasos de bronce; vaso de bronce; echeia en la tradición griega. No debe confundirse con recipientes de bronce de uso hidráulico o doméstico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva abarca los siglos XVI y XVIII y reúne formulaciones de Alberti, Perrault y Ortiz y Sanz. Se integran testimonios doctrinales, constructivos, acústicos y gráficos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconstruir la acústica histórica del teatro relacionando arquitectura, música, material, geometría de las celdillas, separación respecto de muros, apoyos, aberturas y orientación hacia la escena.\nRELACIONADO CON\nTeatro; Gradería; Celdilla; Bronce; Música; Acústica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.\n• Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.",
+    "url": "terminos/vasos-de-bronce/",
+    "academic_pdf": "documentos/fichas/vasos-de-bronce.pdf"
+  },
+  {
+    "num": 1093,
+    "cen": "CEN-4612",
+    "term": "Vicios de las obras",
+    "slug": "vicios-de-las-obras",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Defectos o fallas que comprometen la calidad o duración de una obra y cuyo origen puede estar en materiales inadecuados, alteraciones naturales o errores de ejecución. La tradición tratadística los identifica para prevenirlos y corregir sus causas.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Fray Lorenzo de San Nicolás (1663).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Fray Lorenzo de San Nicolás"
+    ],
+    "years": [
+      1582,
+      1663
+    ],
+    "centuries": [
+      "XVI",
+      "XVII"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+      "Fray Lorenzo de San Nicolás. Segunda parte del Arte y uso de Arquitectura. 1663."
+    ],
+    "variants": "Formas: vicio en la obra; vicios de las obras. El sentido histórico es técnico y causal, no moral: se refiere a defectos de fábrica o materiales.",
+    "comparison": "Alberti ofrece un caso material concreto: excluir piedras débiles antes de ponerlas en obra. San Nicolás reconoce los “vicios de las obras” como materia de tratado y remite a sus causas.",
+    "coverage": "La documentación directa reúne un caso constructivo del siglo XVI y una formulación doctrinal del XVII.",
+    "utility": "Es útil para estudiar criterios históricos de control de calidad, durabilidad, selección de materiales y diagnóstico de defectos.",
+    "related": [
+      "Vicio",
+      "Defecto",
+      "Piedra",
+      "Fábrica",
+      "Reparación",
+      "Ruina"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "...y no antes de dos años, para que conozcas las flacas de natura, y las que avian de hazer vicio en la obra se aparten de las mas firmes.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 53."
+      },
+      {
+        "text": "...en catorze Capitulos trata de los vicios de las obras, y de a do proceden...",
+        "author": "Fray Lorenzo de San Nicolás",
+        "year": "1663",
+        "source": "Segunda parte del Arte y uso de Arquitectura, 1663; PDF p. 115."
+      }
+    ],
+    "search_text": "Vicios de las obras\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDefectos o fallas que comprometen la calidad o duración de una obra y cuyo origen puede estar en materiales inadecuados, alteraciones naturales o errores de ejecución. La tradición tratadística los identifica para prevenirlos y corregir sus causas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4612 · VICIOS DE LAS OBRAS · 2 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Piedras que harían vicio en la obra\n«...y no antes de dos años, para que conozcas las flacas de natura, y las que avian de hazer vicio en la obra se aparten de las mas firmes.»\nLos diez libros de Architectura, 1582; PDF p. 53.\nMR-4612-01 · Relaciona el vicio de la obra con la selección y prueba previa de la piedra.\nFray Lorenzo de San Nicolás · 1663\n2. Tratamiento doctrinal de los vicios\n«...en catorze Capitulos trata de los vicios de las obras, y de a do proceden...»\nSegunda parte del Arte y uso de Arquitectura, 1663; PDF p. 115.\nMR-4612-02 · Atestigua la categoría doctrinal y el interés por las causas de los defectos constructivos.\nLECTURA COMPARADA\nAlberti ofrece un caso material concreto: excluir piedras débiles antes de ponerlas en obra. San Nicolás reconoce los “vicios de las obras” como materia de tratado y remite a sus causas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: vicio en la obra; vicios de las obras. El sentido histórico es técnico y causal, no moral: se refiere a defectos de fábrica o materiales.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación directa reúne un caso constructivo del siglo XVI y una formulación doctrinal del XVII.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para estudiar criterios históricos de control de calidad, durabilidad, selección de materiales y diagnóstico de defectos.\nRELACIONADO CON\nVicio; Defecto; Piedra; Fábrica; Reparación; Ruina\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.\n• Fray Lorenzo de San Nicolás. Segunda parte del Arte y uso de Arquitectura. 1663.",
+    "url": "terminos/vicios-de-las-obras/",
+    "academic_pdf": "documentos/fichas/vicios-de-las-obras.pdf"
+  },
+  {
+    "num": 1094,
+    "cen": "CEN-4620",
+    "term": "Vigas de madera",
+    "slug": "vigas-de-madera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Elementos lineales resistentes de madera empleados como largueros o piezas principales en estructuras. En los puentes levadizos forman parte del tablero y del talón, donde reciben uniones, herrajes y el eje de giro.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Juan Calvo Escrivá. Puentes levadizos. 1899."
+    ],
+    "variants": "Formas: viga de madera, vigas de madera. La especificación material la diferencia de vigas de hierro y de piedra.",
+    "comparison": "En el mismo sistema, la viga de madera puede actuar longitudinalmente como larguero o transversalmente como talón. La función depende de la posición, los ensambles y los esfuerzos del tablero móvil.",
+    "coverage": "La evidencia específica se concentra en Calvo, 1899, con dos funciones estructurales distintas dentro del puente levadizo.",
+    "utility": "Permite describir con precisión el papel de las piezas de madera en mecanismos móviles, sus ensambles y su relación con herrajes y apoyos.",
+    "related": [
+      "Viga",
+      "Madera",
+      "Larguero",
+      "Talón",
+      "Puente levadizo",
+      "Ensamble"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Se le constituye en general por medio de cinco ó seis largueros, que pueden ser vigas de madera ó hierros laminados, reunidos en la extremidad correspondiente al eje de giro por una pieza llamada talón.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899; PDF p. 17."
+      },
+      {
+        "text": "...el talón... lo constituye una viga de madera á la que se ensamblan los largueros.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899; PDF p. 18."
+      }
+    ],
+    "search_text": "Vigas de madera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nElementos lineales resistentes de madera empleados como largueros o piezas principales en estructuras. En los puentes levadizos forman parte del tablero y del talón, donde reciben uniones, herrajes y el eje de giro.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4620 · VIGAS DE MADERA · 2 TESTIMONIOS\nJuan Calvo Escrivá · 1899\n1. Largueros del tablero\n«Se le constituye en general por medio de cinco ó seis largueros, que pueden ser vigas de madera ó hierros laminados, reunidos en la extremidad correspondiente al eje de giro por una pieza llamada talón.»\nPuentes levadizos, 1899; PDF p. 17.\nMR-4620-01 · Documenta la viga de madera como larguero estructural y su relación con el eje de giro.\nJuan Calvo Escrivá · 1899\n2. Viga de madera como talón\n«...el talón... lo constituye una viga de madera á la que se ensamblan los largueros.»\nPuentes levadizos, 1899; PDF p. 18.\nMR-4620-02 · Distingue otra función estructural de la viga dentro del mecanismo: pieza transversal del talón.\nLECTURA COMPARADA\nEn el mismo sistema, la viga de madera puede actuar longitudinalmente como larguero o transversalmente como talón. La función depende de la posición, los ensambles y los esfuerzos del tablero móvil.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: viga de madera, vigas de madera. La especificación material la diferencia de vigas de hierro y de piedra.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia específica se concentra en Calvo, 1899, con dos funciones estructurales distintas dentro del puente levadizo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir con precisión el papel de las piezas de madera en mecanismos móviles, sus ensambles y su relación con herrajes y apoyos.\nRELACIONADO CON\nViga; Madera; Larguero; Talón; Puente levadizo; Ensamble\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Juan Calvo Escrivá. Puentes levadizos. 1899.",
+    "url": "terminos/vigas-de-madera/",
+    "academic_pdf": "documentos/fichas/vigas-de-madera.pdf"
+  },
+  {
+    "num": 1095,
+    "cen": "CEN-4621",
+    "term": "Vigas de piedra",
+    "slug": "vigas-de-piedra",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas pétreas largas empleadas con función resistente análoga a una viga. Su comportamiento exige atender a vetas, defectos y orientación; determinadas piedras se valoraban además por su resistencia al fuego.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582."
+    ],
+    "variants": "Formas: viga de piedra, vigas de piedra. No equivale a sillar ni a tabla de piedra: la función lineal resistente es la característica decisiva.",
+    "comparison": "Alberti combina dos criterios: orientación de las venas para resistencia mecánica y selección de piedra por comportamiento frente al fuego. La viga de piedra aparece como pieza estructural cuyo material impone reglas propias.",
+    "coverage": "La evidencia sustantiva se concentra en Alberti y reúne criterios de resistencia, veta y fuego.",
+    "utility": "Permite reconocer dinteles o piezas pétreas de función lineal y estudiar criterios históricos de selección y orientación de la piedra.",
+    "related": [
+      "Viga",
+      "Piedra",
+      "Veta",
+      "Dintel",
+      "Tabla de piedra",
+      "Fuego"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...las mismas se han de guardar con las vigas de piedra, porque se han de echar fuera las venas atravesadas... Las venas que estuvieren a lo largo en qualesquiera vigas seran mas sufrideras que no las atravesadas.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 89."
+      },
+      {
+        "text": "...escrive Tacito que se sirvio de la piedra Albana y Gabinia en lugar de vigas, porque esta piedra no se puede passar con fuego.",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura, 1582; PDF p. 55."
+      }
+    ],
+    "search_text": "Vigas de piedra\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas pétreas largas empleadas con función resistente análoga a una viga. Su comportamiento exige atender a vetas, defectos y orientación; determinadas piedras se valoraban además por su resistencia al fuego.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4621 · VIGAS DE PIEDRA · 2 TESTIMONIOS\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Selección y orientación de las vetas\n«...las mismas se han de guardar con las vigas de piedra, porque se han de echar fuera las venas atravesadas... Las venas que estuvieren a lo largo en qualesquiera vigas seran mas sufrideras que no las atravesadas.»\nLos diez libros de Architectura, 1582; PDF p. 89.\nMR-4621-01 · Establece un criterio material específico para vigas pétreas basado en la dirección de las vetas.\nLeón Battista Alberti / Francisco Lozano · 1582\n2. Piedra usada en lugar de vigas por resistencia al fuego\n«...escrive Tacito que se sirvio de la piedra Albana y Gabinia en lugar de vigas, porque esta piedra no se puede passar con fuego.»\nLos diez libros de Architectura, 1582; PDF p. 55.\nMR-4621-02 · Relaciona la sustitución de vigas por piedra con una propiedad material: resistencia al fuego.\nLECTURA COMPARADA\nAlberti combina dos criterios: orientación de las venas para resistencia mecánica y selección de piedra por comportamiento frente al fuego. La viga de piedra aparece como pieza estructural cuyo material impone reglas propias.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: viga de piedra, vigas de piedra. No equivale a sillar ni a tabla de piedra: la función lineal resistente es la característica decisiva.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva se concentra en Alberti y reúne criterios de resistencia, veta y fuego.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer dinteles o piezas pétreas de función lineal y estudiar criterios históricos de selección y orientación de la piedra.\nRELACIONADO CON\nViga; Piedra; Veta; Dintel; Tabla de piedra; Fuego\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• León Battista Alberti / Francisco Lozano. Los diez libros de Architectura. 1582.",
+    "url": "terminos/vigas-de-piedra/",
+    "academic_pdf": "documentos/fichas/vigas-de-piedra.pdf"
+  },
+  {
+    "num": 1096,
+    "cen": "CEN-4680",
+    "term": "Zócalo",
+    "slug": "zocalo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cuerpo bajo de planta cuadrangular, más ancho que alto, que sirve de asiento a otro cuerpo arquitectónico. Se distingue de la basa por su planta y del pedestal por su proporción y función de elevación.",
+    "authors_text": "Benito Bails (1802); Andrea Palladio / Joseph Francisco Ortiz y Sanz (1797).",
+    "authors": [
+      "Benito Bails",
+      "Andrea Palladio",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1802,
+      1797
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails. Diccionario de arquitectura civil. 1802.",
+      "Andrea Palladio / Joseph Francisco Ortiz y Sanz. Los cuatro libros de Arquitectura. 1797."
+    ],
+    "variants": "Formas: zócalo, zoclo, zócolo. Las variantes gráficas no alteran el núcleo: cuerpo bajo cuadrangular de asiento.",
+    "comparison": "Bails precisa la identidad geométrica del zócalo frente a basa y pedestal; Palladio lo introduce como parte mensurable de la composición del pedestal.",
+    "coverage": "La documentación del siglo XVIII y comienzos del XIX combina definición lexicográfica y regla proporcional.",
+    "utility": "Permite distinguir basamentos, pedestales y basas en descripciones de órdenes y fachadas y registrar su proporción y material.",
+    "related": [
+      "Basa",
+      "Pedestal",
+      "Plinto",
+      "Basamento",
+      "Sotabanco",
+      "Rebanco"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "La basa y el zócalo tienen de comun, que una y otro sirven de asiento á los cuerpos, y cogen mas de ancho que de alto; se diferencian en que la basa siempre es redonda, y el zócalo quadrado.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, 1802; PDF p. 16."
+      },
+      {
+        "text": "La basa del pedestal se dividirá en tres partes, dos son para el zócalo, y una para las molduras.",
+        "author": "Andrea Palladio / Joseph Francisco Ortiz y Sanz",
+        "year": "1797",
+        "source": "Los cuatro libros de Arquitectura, 1797; PDF p. 43."
+      }
+    ],
+    "search_text": "Zócalo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCuerpo bajo de planta cuadrangular, más ancho que alto, que sirve de asiento a otro cuerpo arquitectónico. Se distingue de la basa por su planta y del pedestal por su proporción y función de elevación.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4680 · ZÓCALO · 2 TESTIMONIOS\nBenito Bails · 1802\n1. Definición y distinción de basa y pedestal\n«La basa y el zócalo tienen de comun, que una y otro sirven de asiento á los cuerpos, y cogen mas de ancho que de alto; se diferencian en que la basa siempre es redonda, y el zócalo quadrado.»\nDiccionario de arquitectura civil, 1802; PDF p. 16.\nMR-4680-01 · Delimita el zócalo por proporción, planta y función de asiento.\nAndrea Palladio / Joseph Francisco Ortiz y Sanz · 1797\n2. Proporción dentro de la basa del pedestal\n«La basa del pedestal se dividirá en tres partes, dos son para el zócalo, y una para las molduras.»\nLos cuatro libros de Arquitectura, 1797; PDF p. 43.\nMR-4680-02 · Integra el zócalo en una regla proporcional concreta del pedestal.\nLECTURA COMPARADA\nBails precisa la identidad geométrica del zócalo frente a basa y pedestal; Palladio lo introduce como parte mensurable de la composición del pedestal.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: zócalo, zoclo, zócolo. Las variantes gráficas no alteran el núcleo: cuerpo bajo cuadrangular de asiento.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación del siglo XVIII y comienzos del XIX combina definición lexicográfica y regla proporcional.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir basamentos, pedestales y basas en descripciones de órdenes y fachadas y registrar su proporción y material.\nRELACIONADO CON\nBasa; Pedestal; Plinto; Basamento; Sotabanco; Rebanco\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Diccionario de arquitectura civil. 1802.\n• Andrea Palladio / Joseph Francisco Ortiz y Sanz. Los cuatro libros de Arquitectura. 1797.",
+    "url": "terminos/zocalo/",
+    "academic_pdf": "documentos/fichas/zocalo.pdf"
+  },
+  {
+    "num": 1097,
+    "cen": "CEN-4896",
+    "term": "Agua de pie",
+    "slug": "agua-de-pie",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Expresión aplicada al agua disponible de manera continua o por remanente en un predio, susceptible de reparto y vinculada a la valoración y división de heredades. El contexto la opone a otros medios de provisión como la noria.",
+    "authors_text": "Juan de Torija (1760).",
+    "authors": [
+      "Juan de Torija"
+    ],
+    "years": [
+      1760
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Juan de Torija. Tratado breve sobre las Ordenanzas de la Villa de Madrid y policía de ella. 1760."
+    ],
+    "variants": "Forma documentada: agua de pie. El texto la relaciona con remanente espartible y la diferencia de la provisión mediante noria.",
+    "comparison": "El único testimonio sustantivo conservado sitúa la voz en la práctica jurídica y territorial: el agua de pie forma parte de las condiciones materiales que afectan al reparto de una propiedad.",
+    "coverage": "La evidencia autónoma se concentra en Torija, 1760. La escasez documental no impide fijar su uso en la regulación de heredades.",
+    "utility": "Es útil para interpretar descripciones históricas de predios, huertas y servidumbres hidráulicas en las que la disponibilidad de agua altera valor y división.",
+    "related": [
+      "Agua",
+      "Noria",
+      "Remanente",
+      "Heredad",
+      "Servidumbre",
+      "Riego"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "...como es, o noria, o agua de pie: y si fuere agua de pie, ó remanente espartible...",
+        "author": "Juan de Torija",
+        "year": "1760",
+        "source": "Tratado breve sobre las Ordenanzas de la Villa de Madrid y policía de ella, 1760; PDF p. 65."
+      }
+    ],
+    "search_text": "Agua de pie\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nExpresión aplicada al agua disponible de manera continua o por remanente en un predio, susceptible de reparto y vinculada a la valoración y división de heredades. El contexto la opone a otros medios de provisión como la noria.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4896 · AGUA DE PIE · 1 TESTIMONIOS\nJuan de Torija · 1760\n1. Agua disponible y repartible en heredades\n«...como es, o noria, o agua de pie: y si fuere agua de pie, ó remanente espartible...»\nTratado breve sobre las Ordenanzas de la Villa de Madrid y policía de ella, 1760; PDF p. 65.\nMR-4896-01 · Atestigua la locución en un contexto de valoración, división y reparto de recursos de una heredad.\nLECTURA COMPARADA\nEl único testimonio sustantivo conservado sitúa la voz en la práctica jurídica y territorial: el agua de pie forma parte de las condiciones materiales que afectan al reparto de una propiedad.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: agua de pie. El texto la relaciona con remanente espartible y la diferencia de la provisión mediante noria.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia autónoma se concentra en Torija, 1760. La escasez documental no impide fijar su uso en la regulación de heredades.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar descripciones históricas de predios, huertas y servidumbres hidráulicas en las que la disponibilidad de agua altera valor y división.\nRELACIONADO CON\nAgua; Noria; Remanente; Heredad; Servidumbre; Riego\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Juan de Torija. Tratado breve sobre las Ordenanzas de la Villa de Madrid y policía de ella. 1760.",
+    "url": "terminos/agua-de-pie/",
+    "academic_pdf": "documentos/fichas/agua-de-pie.pdf"
+  },
+  {
+    "num": 1098,
+    "cen": "CEN-4899",
+    "term": "Gola del valuarte",
+    "slug": "gola-del-valuarte",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Parte posterior o interior del valuarte, situada hacia el recinto y utilizada como referencia geométrica para su trazado y dimensionado. En Rojas forma parte del vocabulario básico con que se descompone la fortificación.",
+    "authors_text": "Cristóbal de Rojas (1598).",
+    "authors": [
+      "Cristóbal de Rojas"
+    ],
+    "years": [
+      1598
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Cristóbal de Rojas. Teórica y práctica de fortificación. 1598."
+    ],
+    "variants": "Formas históricas: gola del valuarte, gola del valoarte, gola dél. La variación gráfica de valuarte/baluarte no modifica la referencia geométrica.",
+    "comparison": "La voz no aparece como definición aislada, sino como parte operativa de la geometría defensiva: se nombra, se señala en planta y se usa para fijar distancias.",
+    "coverage": "La documentación se concentra en Rojas, 1598, pero reúne texto doctrinal, leyenda gráfica y regla de trazado.",
+    "utility": "Permite leer plantas de fortificación y reconstruir las relaciones entre gola, frente, espalda, casamata, cortina y recinto.",
+    "related": [
+      "Gola",
+      "Valuarte",
+      "Casamata",
+      "Cortina",
+      "Frente",
+      "Espalda",
+      "Recinto"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...espalda y frente del valuarte, y la gola dél, y ángulo del recinto, y parapetos y terraplenos...",
+        "author": "Cristóbal de Rojas",
+        "year": "1598",
+        "source": "Teórica y práctica de fortificación, 1598; PDF p. 12."
+      },
+      {
+        "text": "H. Gola del valuarte.",
+        "author": "Cristóbal de Rojas",
+        "year": "1598",
+        "source": "Teórica y práctica de fortificación, 1598; PDF p. 69."
+      }
+    ],
+    "search_text": "Gola del valuarte\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nParte posterior o interior del valuarte, situada hacia el recinto y utilizada como referencia geométrica para su trazado y dimensionado. En Rojas forma parte del vocabulario básico con que se descompone la fortificación.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4899 · GOLA DEL VALUARTE · 3 TESTIMONIOS\nCristóbal de Rojas · 1598\n1. Parte constitutiva del valuarte\n«...espalda y frente del valuarte, y la gola dél, y ángulo del recinto, y parapetos y terraplenos...»\nTeórica y práctica de fortificación, 1598; PDF p. 12.\nMR-4899-01 · Incluye la gola entre las partes que el ingeniero debe conocer y disponer en la fortificación.\nCristóbal de Rojas · 1598\n2. Identificación gráfica\n«H. Gola del valuarte.»\nTeórica y práctica de fortificación, 1598; PDF p. 69.\nMR-4899-02 · La leyenda del plano fija la denominación y su posición dentro del conjunto fortificado.\nCristóbal de Rojas · 1598\n3. Gola como magnitud de trazado\n«...ello se entiende, por cada parte del ángulo, porque es para la gola del valuarte, y las casamatas...»\nTeórica y práctica de fortificación, 1598; PDF p. 140.\nMR-4899-03 · Vincula la gola con el replanteo y las distancias que ordenan valuarte y casamatas.\nLECTURA COMPARADA\nLa voz no aparece como definición aislada, sino como parte operativa de la geometría defensiva: se nombra, se señala en planta y se usa para fijar distancias.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas históricas: gola del valuarte, gola del valoarte, gola dél. La variación gráfica de valuarte/baluarte no modifica la referencia geométrica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación se concentra en Rojas, 1598, pero reúne texto doctrinal, leyenda gráfica y regla de trazado.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite leer plantas de fortificación y reconstruir las relaciones entre gola, frente, espalda, casamata, cortina y recinto.\nRELACIONADO CON\nGola; Valuarte; Casamata; Cortina; Frente; Espalda; Recinto\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Cristóbal de Rojas. Teórica y práctica de fortificación. 1598.",
+    "url": "terminos/gola-del-valuarte/",
+    "academic_pdf": "documentos/fichas/gola-del-valuarte.pdf"
+  },
+  {
+    "num": 1099,
+    "cen": "CEN-1397",
+    "term": "Arrocabe",
+    "slug": "arrocabe",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Maderaje dispuesto sobre los muros para ligarlos entre sí y con la armadura de cubierta. Comprende soleras, canes, tirantes, estribos, aliceres, almarvates y arjeutes, y constituye una franja estructural y ornamental propia de la carpintería de armar.",
+    "authors_text": "Diego López de Arenas (1633); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Diego López de Arenas",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1633,
+      1876
+    ],
+    "centuries": [
+      "XVII",
+      "XIX"
+    ],
+    "works": [
+      "Diego López de Arenas. Breve compendio de la carpintería de lo blanco y tratado de alarifes. 1633.",
+      "Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876."
+    ],
+    "variants": "Formas: arrocabe, arrocabes, arrecaóe/arrecaue en testimonios citados por Mariátegui. No es sinónimo de arquitrabe.",
+    "comparison": "López de Arenas conserva el procedimiento de carpintería; Mariátegui sistematiza la voz dos siglos después. La continuidad es clara: el arrocabe liga muro y armadura y organiza una serie de piezas horizontales y salientes.",
+    "coverage": "La evidencia abarca los siglos XVII y XIX y combina tratado de carpintería con glosario histórico.",
+    "utility": "Es esencial para describir la transición entre muro y armadura en techumbres históricas y para identificar soleras, canes, aliceres y arjeutes como conjunto.",
+    "related": [
+      "Arjeute",
+      "Alicer",
+      "Almarvate",
+      "Solera",
+      "Can",
+      "Tirante",
+      "Armadura",
+      "Carpintería de lo blanco"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Y para los arrocabes, despues que el maestro albañil aya puesto la pieza y paredes della a pelo... davaras las soleras... y si huviere de llevar canes, los repartiras en los mesmos assientos de las tirantes...",
+        "author": "Diego López de Arenas",
+        "year": "1633",
+        "source": "Breve compendio de la carpintería de lo blanco y tratado de alarifes, 1633; PDF p. 48."
+      },
+      {
+        "text": "...y por de dentro le echaras su arjeute, con que avrás acabado este arrocabe...",
+        "author": "Diego López de Arenas",
+        "year": "1633",
+        "source": "Breve compendio de la carpintería de lo blanco y tratado de alarifes, 1633; PDF p. 50."
+      }
+    ],
+    "search_text": "Arrocabe\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMaderaje dispuesto sobre los muros para ligarlos entre sí y con la armadura de cubierta. Comprende soleras, canes, tirantes, estribos, aliceres, almarvates y arjeutes, y constituye una franja estructural y ornamental propia de la carpintería de armar.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1397 · ARROCABE · 3 TESTIMONIOS\nDiego López de Arenas · 1633\n1. Trazado y montaje del arrocabe\n«Y para los arrocabes, despues que el maestro albañil aya puesto la pieza y paredes della a pelo... davaras las soleras... y si huviere de llevar canes, los repartiras en los mesmos assientos de las tirantes...»\nBreve compendio de la carpintería de lo blanco y tratado de alarifes, 1633; PDF p. 48.\nMR-1397-01 · Describe el comienzo del arrocabe desde la colocación de soleras, canes y tirantes.\nDiego López de Arenas · 1633\n2. Cierre del arrocabe mediante arjeute\n«...y por de dentro le echaras su arjeute, con que avrás acabado este arrocabe...»\nBreve compendio de la carpintería de lo blanco y tratado de alarifes, 1633; PDF p. 50.\nMR-1397-02 · Sitúa el arjeute como pieza de cierre dentro de la secuencia de montaje.\nEduardo Mariátegui · 1876\n3. Definición estructural del maderaje\n«ARROCABE. Maderaje colocado sobre los muros de un edificio que liga estos entre sí y con las armaduras que sustentan. Se compone generalmente de soleras, canes, tirantes, estribos, alizeres, almarvates y arjeutes.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 25.\nMR-1397-03 · Condensa la función de atado y enumera las principales piezas que lo componen.\nLECTURA COMPARADA\nLópez de Arenas conserva el procedimiento de carpintería; Mariátegui sistematiza la voz dos siglos después. La continuidad es clara: el arrocabe liga muro y armadura y organiza una serie de piezas horizontales y salientes.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: arrocabe, arrocabes, arrecaóe/arrecaue en testimonios citados por Mariátegui. No es sinónimo de arquitrabe.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia abarca los siglos XVII y XIX y combina tratado de carpintería con glosario histórico.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs esencial para describir la transición entre muro y armadura en techumbres históricas y para identificar soleras, canes, aliceres y arjeutes como conjunto.\nRELACIONADO CON\nArjeute; Alicer; Almarvate; Solera; Can; Tirante; Armadura; Carpintería de lo blanco\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diego López de Arenas. Breve compendio de la carpintería de lo blanco y tratado de alarifes. 1633.\n• Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.",
+    "url": "terminos/arrocabe/",
+    "academic_pdf": "documentos/fichas/arrocabe.pdf"
+  },
+  {
+    "num": 1100,
+    "cen": "CEN-1634",
+    "term": "Ayuntamiento",
+    "slug": "ayuntamiento",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Edificio o casa destinada a la autoridad municipal y a la celebración de sus juntas. Forma parte de la arquitectura pública y puede incorporar oficinas, galerías, salas y otros espacios administrativos.",
+    "authors_text": "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda (1761); Jules Adeline / José Ramón Mélida (1887); Benito Bails (1796).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda",
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Benito Bails"
+    ],
+    "years": [
+      1761,
+      1887,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.",
+      "Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Formas: casa de ayuntamiento, casas de ayuntamiento, villa en Matallana como casa de ayuntamiento. La voz designa tanto la institución como, en contexto arquitectónico, su edificio.",
+    "comparison": "La tradición vitruviana clasifica la casa de ayuntamiento dentro de la comodidad pública; Adeline la define por la autoridad que aloja; Bails muestra necesidades de comunicación y oficinas.",
+    "coverage": "La documentación se extiende de 1761 a 1887 y reúne clasificación tipológica, definición y uso interior.",
+    "utility": "Permite identificar edificios cívicos en inventarios y tratados y distinguir su programa de otros edificios públicos.",
+    "related": [
+      "Casa consistorial",
+      "Edificio público",
+      "Plaza",
+      "Oficina",
+      "Sala",
+      "Municipio"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "...la que toca á la Comodidad publica, que comprende Plazas, Casas de Ayuntamiento, Teatros, Baños, Academias, Puertos...",
+        "author": "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 23."
+      },
+      {
+        "text": "Casa. Ayuntamiento.-[Arq.]-Edificio ó residencia de la autoridad municipal.",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, 1887; PDF p. 114."
+      }
+    ],
+    "search_text": "Ayuntamiento\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEdificio o casa destinada a la autoridad municipal y a la celebración de sus juntas. Forma parte de la arquitectura pública y puede incorporar oficinas, galerías, salas y otros espacios administrativos.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1634 · AYUNTAMIENTO · 3 TESTIMONIOS\nMarco Vitruvio Polión / Claude Perrault / Joseph Castañeda · 1761\n1. Ayuntamiento como arquitectura pública\n«...la que toca á la Comodidad publica, que comprende Plazas, Casas de Ayuntamiento, Teatros, Baños, Academias, Puertos...»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 23.\nMR-1634-01 · Incluye las casas de ayuntamiento entre los edificios de utilidad pública.\nJules Adeline / José Ramón Mélida · 1887\n2. Definición institucional\n«Casa. Ayuntamiento.-[Arq.]-Edificio ó residencia de la autoridad municipal.»\nVocabulario de términos de arte, 1887; PDF p. 114.\nMR-1634-02 · Fija el edificio por su función cívica e institucional.\nBenito Bails · 1796\n3. Galerías y oficinas en casas consistoriales\n«...son muy socorridos en los edificios públicos, como Casas de Ayuntamiento... sirviendo en unos para oficinas...»\nArquitectura civil, 1796; PDF p. 829.\nMR-1634-03 · Añade un dato funcional sobre la distribución interior de este tipo de edificio.\nLECTURA COMPARADA\nLa tradición vitruviana clasifica la casa de ayuntamiento dentro de la comodidad pública; Adeline la define por la autoridad que aloja; Bails muestra necesidades de comunicación y oficinas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: casa de ayuntamiento, casas de ayuntamiento, villa en Matallana como casa de ayuntamiento. La voz designa tanto la institución como, en contexto arquitectónico, su edificio.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación se extiende de 1761 a 1887 y reúne clasificación tipológica, definición y uso interior.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar edificios cívicos en inventarios y tratados y distinguir su programa de otros edificios públicos.\nRELACIONADO CON\nCasa consistorial; Edificio público; Plaza; Oficina; Sala; Municipio\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.\n• Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/ayuntamiento/",
+    "academic_pdf": "documentos/fichas/ayuntamiento.pdf"
+  },
+  {
+    "num": 1101,
+    "cen": "CEN-3289",
+    "term": "Línea recta",
+    "slug": "linea-recta",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Línea geométrica sin curvatura empleada como base de operaciones de trazado, división, perpendicularidad y generación de superficies. Su función es fundamental en geometría práctica y montea.",
+    "authors_text": "Atanasio Genaro Brizguz y Bru (1738); Benito Bails (1796).",
+    "authors": [
+      "Atanasio Genaro Brizguz y Bru",
+      "Benito Bails"
+    ],
+    "years": [
+      1738,
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Atanasio Genaro Brizguz y Bru. Escuela de Arquitectura Civil. 1738.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Formas: línea recta, linea recta. Se opone a línea curva y sirve para definir rectilíneo, perpendicular y paralela.",
+    "comparison": "Brizguz trata la recta como elemento básico de geometría práctica; Bails la utiliza dinámicamente como generatriz de una superficie. Así, la voz pasa del trazado plano a la definición geométrica de sólidos.",
+    "coverage": "La evidencia seleccionada del siglo XVIII reúne geometría elemental y aplicación a la montea y a sólidos.",
+    "utility": "Permite interpretar construcciones geométricas de tratados y describir ejes, generatrices, alineaciones y operaciones de replanteo.",
+    "related": [
+      "Línea",
+      "Rectilíneo",
+      "Perpendicular",
+      "Paralela",
+      "Eje",
+      "Generatriz"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Dividir una línea recta en dos partes iguales. Sea la línea MN la que se ha de dividir...",
+        "author": "Atanasio Genaro Brizguz y Bru",
+        "year": "1738",
+        "source": "Escuela de Arquitectura Civil, 1738; PDF p. 33."
+      },
+      {
+        "text": "...la superficie de un cono es el rastro de una linea recta AV, cuyo extremo A anda al rededor de una curva... estando su otro extremo asegurado en un punto V.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 427."
+      }
+    ],
+    "search_text": "Línea recta\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLínea geométrica sin curvatura empleada como base de operaciones de trazado, división, perpendicularidad y generación de superficies. Su función es fundamental en geometría práctica y montea.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3289 · LÍNEA RECTA · 2 TESTIMONIOS\nAtanasio Genaro Brizguz y Bru · 1738\n1. División de una recta\n«Dividir una línea recta en dos partes iguales. Sea la línea MN la que se ha de dividir...»\nEscuela de Arquitectura Civil, 1738; PDF p. 33.\nMR-3289-01 · Muestra la recta como objeto elemental de construcción geométrica.\nBenito Bails · 1796\n2. Recta generatriz del cono\n«...la superficie de un cono es el rastro de una linea recta AV, cuyo extremo A anda al rededor de una curva... estando su otro extremo asegurado en un punto V.»\nArquitectura civil, 1796; PDF p. 427.\nMR-3289-02 · Aporta una función generativa: la recta en movimiento produce la superficie cónica.\nLECTURA COMPARADA\nBrizguz trata la recta como elemento básico de geometría práctica; Bails la utiliza dinámicamente como generatriz de una superficie. Así, la voz pasa del trazado plano a la definición geométrica de sólidos.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: línea recta, linea recta. Se opone a línea curva y sirve para definir rectilíneo, perpendicular y paralela.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia seleccionada del siglo XVIII reúne geometría elemental y aplicación a la montea y a sólidos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar construcciones geométricas de tratados y describir ejes, generatrices, alineaciones y operaciones de replanteo.\nRELACIONADO CON\nLínea; Rectilíneo; Perpendicular; Paralela; Eje; Generatriz\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Atanasio Genaro Brizguz y Bru. Escuela de Arquitectura Civil. 1738.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/linea-recta/",
+    "academic_pdf": "documentos/fichas/linea-recta.pdf"
+  },
+  {
+    "num": 1102,
+    "cen": "CEN-0006",
+    "term": "Aba",
+    "slug": "aba",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pequeña unidad longitudinal registrada por Mariátegui a partir de ordenanzas aragonesas. Equivale a dos alnas y forma parte de un sistema de medida territorial en el que la soga se divide en dieciséis abas.",
+    "authors_text": "Eduardo Mariátegui (1876).",
+    "authors": [
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1876
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876."
+    ],
+    "variants": "Forma documentada: aba. Equivalencia histórica: 1 aba = 2 alnas en el sistema citado.",
+    "comparison": "La voz se conserva en un glosario histórico con una autoridad de ordenanzas. Su valor depende de una cadena metrológica concreta: soga, alna y aba.",
+    "coverage": "La evidencia autónoma se concentra en Mariátegui y en la autoridad normativa que transcribe.",
+    "utility": "Es útil para convertir y comparar medidas antiguas de terreno y para reconocer unidades locales que no deben sustituirse por medidas modernas sin contexto.",
+    "related": [
+      "Alna",
+      "Soga",
+      "Medida",
+      "Vara",
+      "Tierra"
+    ],
+    "themes": [
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ABA. Pequeña medida longitudinal que corresponde á dos alnas.-“La medida de tierra de la ciudad de Lérida, que dicen soga, es de largo treinta y dos alnas, y está compartida en diez y seis partes: cada parte se dice aba”.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3."
+      }
+    ],
+    "search_text": "Aba\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPequeña unidad longitudinal registrada por Mariátegui a partir de ordenanzas aragonesas. Equivale a dos alnas y forma parte de un sistema de medida territorial en el que la soga se divide en dieciséis abas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0006 · ABA · 1 TESTIMONIOS\nEduardo Mariátegui · 1876\n1. Definición metrológica\n«ABA. Pequeña medida longitudinal que corresponde á dos alnas.-“La medida de tierra de la ciudad de Lérida, que dicen soga, es de largo treinta y dos alnas, y está compartida en diez y seis partes: cada parte se dice aba”.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3.\nMR-0006-01 · Fija equivalencia, escala de división y contexto territorial de la medida.\nLECTURA COMPARADA\nLa voz se conserva en un glosario histórico con una autoridad de ordenanzas. Su valor depende de una cadena metrológica concreta: soga, alna y aba.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: aba. Equivalencia histórica: 1 aba = 2 alnas en el sistema citado.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia autónoma se concentra en Mariátegui y en la autoridad normativa que transcribe.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para convertir y comparar medidas antiguas de terreno y para reconocer unidades locales que no deben sustituirse por medidas modernas sin contexto.\nRELACIONADO CON\nAlna; Soga; Medida; Vara; Tierra\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.",
+    "url": "terminos/aba/",
+    "academic_pdf": "documentos/fichas/aba.pdf"
+  },
+  {
+    "num": 1103,
+    "cen": "CEN-0036",
+    "term": "Abjete",
+    "slug": "abjete",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Forma antigua que Mariátegui remite a arjeute: madero del alfarje relacionado con las tabicas o aliceres del arrocabe. El testimonio toledano sitúa el abjete en relación con la zaranja y el almarvate.",
+    "authors_text": "Eduardo Mariátegui (1876).",
+    "authors": [
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1876
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876."
+    ],
+    "variants": "Formas: abjete; arjeute. La equivalencia es explícita en Mariátegui y no una modernización inferida.",
+    "comparison": "El glosario permite pasar de una forma antigua aislada a su función concreta: pieza del alfarje que participa en el arrocabe y se relaciona con zaranja y almarvate.",
+    "coverage": "La documentación autónoma se concentra en Mariátegui, quien preserva una autoridad de ordenanzas de Toledo y explica la voz correlativa.",
+    "utility": "Permite interpretar contratos y ordenanzas de carpintería de armar donde la grafía abjete encubre una pieza identificable del arrocabe.",
+    "related": [
+      "Arjeute",
+      "Arrocabe",
+      "Alicer",
+      "Zaranja",
+      "Almarvate",
+      "Alfarje"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ABJETE.=ARJEUTE.-“por manera que vaya á dar el dicho abjete con la zaranja, que es en el almaruate”».",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3."
+      },
+      {
+        "text": "ARJEUTE. Madero del alfarje sobre el que asientan las tabicas ó aliceres del arrocabe.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 23."
+      }
+    ],
+    "search_text": "Abjete\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nForma antigua que Mariátegui remite a arjeute: madero del alfarje relacionado con las tabicas o aliceres del arrocabe. El testimonio toledano sitúa el abjete en relación con la zaranja y el almarvate.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0036 · ABJETE · 3 TESTIMONIOS\nEduardo Mariátegui · 1876\n1. Equivalencia y testimonio toledano\n«ABJETE.=ARJEUTE.-“por manera que vaya á dar el dicho abjete con la zaranja, que es en el almaruate”».\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3.\nMR-0036-01 · Acredita la forma abjete y su equivalencia histórica con arjeute.\nEduardo Mariátegui · 1876\n2. Definición de arjeute\n«ARJEUTE. Madero del alfarje sobre el que asientan las tabicas ó aliceres del arrocabe.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 23.\nMR-0036-02 · Explica la función constructiva de la voz a la que remite abjete.\nEduardo Mariátegui · 1876\n3. Relación con zaranja y almarvate\n«...vaya a dar el dicho abjete con la zaranja, que es en el almaruate la cabera...»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 120.\nMR-0036-03 · Conserva el contexto de ensamble y posición dentro de la carpintería de lazo.\nLECTURA COMPARADA\nEl glosario permite pasar de una forma antigua aislada a su función concreta: pieza del alfarje que participa en el arrocabe y se relaciona con zaranja y almarvate.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: abjete; arjeute. La equivalencia es explícita en Mariátegui y no una modernización inferida.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación autónoma se concentra en Mariátegui, quien preserva una autoridad de ordenanzas de Toledo y explica la voz correlativa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar contratos y ordenanzas de carpintería de armar donde la grafía abjete encubre una pieza identificable del arrocabe.\nRELACIONADO CON\nArjeute; Arrocabe; Alicer; Zaranja; Almarvate; Alfarje\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.",
+    "url": "terminos/abjete/",
+    "academic_pdf": "documentos/fichas/abjete.pdf"
+  },
+  {
+    "num": 1104,
+    "cen": "CEN-0110",
+    "term": "Acente",
+    "slug": "acente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Inclinación de una línea o parte constructiva respecto del horizonte. En cantería puede caracterizar el intradós de un arco, como en el “arco en acente”, y se aproxima a declive o bajada.",
+    "authors_text": "Eduardo Mariátegui (1876).",
+    "authors": [
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1876
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876."
+    ],
+    "variants": "Formas: acente; arco en acente. Equivalencias registradas: declive, declivio y, en el arco, bajada.",
+    "comparison": "La definición general se concreta en el arco: acente no es simplemente desnivel, sino inclinación mensurable de una línea o superficie constructiva respecto del horizonte.",
+    "coverage": "La evidencia se conserva en Mariátegui con citas de tradición anterior y dos niveles de uso: general y aplicado al arco.",
+    "utility": "Es útil para interpretar trazas de cantería y descripciones donde la inclinación de intradós, líneas o paramentos se expresa con vocabulario no moderno.",
+    "related": [
+      "Declive",
+      "Bajada",
+      "Arco",
+      "Inclinación",
+      "Acuesto"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ACENTE. La inclinacion respecto al horizonte de alguna línea ó parte de la construccion.=DECLIVE Ó DECLIVIO.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3."
+      },
+      {
+        "text": "ARCO EN ACENTE. El que tiene su intradós inclinado.=Bajada.-“Arco en acente de cava”.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 21."
+      }
+    ],
+    "search_text": "Acente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInclinación de una línea o parte constructiva respecto del horizonte. En cantería puede caracterizar el intradós de un arco, como en el “arco en acente”, y se aproxima a declive o bajada.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0110 · ACENTE · 2 TESTIMONIOS\nEduardo Mariátegui · 1876\n1. Definición\n«ACENTE. La inclinacion respecto al horizonte de alguna línea ó parte de la construccion.=DECLIVE Ó DECLIVIO.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 3.\nMR-0110-01 · Fija el valor geométrico de inclinación con respecto al horizonte.\nEduardo Mariátegui · 1876\n2. Aplicación al arco\n«ARCO EN ACENTE. El que tiene su intradós inclinado.=Bajada.-“Arco en acente de cava”.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876; PDF p. 21.\nMR-0110-02 · Demuestra el uso de acente como cualidad geométrica aplicada al intradós de un arco.\nLECTURA COMPARADA\nLa definición general se concreta en el arco: acente no es simplemente desnivel, sino inclinación mensurable de una línea o superficie constructiva respecto del horizonte.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: acente; arco en acente. Equivalencias registradas: declive, declivio y, en el arco, bajada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se conserva en Mariátegui con citas de tradición anterior y dos niveles de uso: general y aplicado al arco.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar trazas de cantería y descripciones donde la inclinación de intradós, líneas o paramentos se expresa con vocabulario no moderno.\nRELACIONADO CON\nDeclive; Bajada; Arco; Inclinación; Acuesto\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Eduardo Mariátegui. Glosario de algunos antiguos vocablos de arquitectura. 1876.",
+    "url": "terminos/acente/",
+    "academic_pdf": "documentos/fichas/acente.pdf"
+  },
+  {
+    "num": 1105,
+    "cen": "CEN-0763",
+    "term": "Ángulo agudo",
+    "slug": "angulo-agudo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo cuya abertura es menor que un ángulo recto. En geometría se mide por debajo de 90 grados; en montea y construcción aparece al determinar cortes, encuentros y disposiciones oblicuas.",
+    "authors_text": "Jules Adeline / José Ramón Mélida (1887); Benito Bails (1796).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Benito Bails"
+    ],
+    "years": [
+      1887,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Forma: ángulo agudo. Se opone a ángulo obtuso y se define respecto del ángulo recto.",
+    "comparison": "Adeline fija el criterio métrico; Bails lo aplica a la orientación efectiva de una cara respecto del horizonte.",
+    "coverage": "La evidencia abarca definición y uso técnico entre los siglos XVIII y XIX.",
+    "utility": "Permite describir encuentros de piezas, inclinaciones y cortes cuya abertura condiciona trazado y labra.",
+    "related": [
+      "Ángulo",
+      "Ángulo recto",
+      "Ángulo obtuso",
+      "Esviaje",
+      "Inclinación"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...todo ángulo cuya medida es inferior á 90° es agudo, y todo ángulo cuya medida es superior, obtuso.",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, 1887; PDF p. 28."
+      },
+      {
+        "text": "...la de la cara respecto del orizonte, formando con él un ángulo agudo ú obtuso.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 427."
+      }
+    ],
+    "search_text": "Ángulo agudo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo cuya abertura es menor que un ángulo recto. En geometría se mide por debajo de 90 grados; en montea y construcción aparece al determinar cortes, encuentros y disposiciones oblicuas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0763 · ÁNGULO AGUDO · 2 TESTIMONIOS\nJules Adeline / José Ramón Mélida · 1887\n1. Definición métrica\n«...todo ángulo cuya medida es inferior á 90° es agudo, y todo ángulo cuya medida es superior, obtuso.»\nVocabulario de términos de arte, 1887; PDF p. 28.\nMR-0763-01 · Define la categoría por comparación cuantitativa con el ángulo recto.\nBenito Bails · 1796\n2. Ángulo agudo en una disposición oblicua\n«...la de la cara respecto del orizonte, formando con él un ángulo agudo ú obtuso.»\nArquitectura civil, 1796; PDF p. 427.\nMR-0763-02 · Documenta la categoría en el análisis geométrico de una bóveda en esviaje.\nLECTURA COMPARADA\nAdeline fija el criterio métrico; Bails lo aplica a la orientación efectiva de una cara respecto del horizonte.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo agudo. Se opone a ángulo obtuso y se define respecto del ángulo recto.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia abarca definición y uso técnico entre los siglos XVIII y XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir encuentros de piezas, inclinaciones y cortes cuya abertura condiciona trazado y labra.\nRELACIONADO CON\nÁngulo; Ángulo recto; Ángulo obtuso; Esviaje; Inclinación\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/angulo-agudo/",
+    "academic_pdf": "documentos/fichas/angulo-agudo.pdf"
+  },
+  {
+    "num": 1106,
+    "cen": "CEN-0764",
+    "term": "Ángulo curvilíneo",
+    "slug": "angulo-curvilineo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo determinado por líneas curvas o por porciones de curvas. En estereotomía aparece cuando las superficies curvas se encuentran y producen aristas cuya geometría no puede reducirse a dos rectas.",
+    "authors_text": "Jules Adeline / José Ramón Mélida (1887); Benito Bails (1796).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Benito Bails"
+    ],
+    "years": [
+      1887,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Forma: ángulo curvilíneo. Se diferencia del rectilíneo y del mixtilíneo por la naturaleza curva de sus lados.",
+    "comparison": "La definición geométrica de Adeline se vuelve constructiva en Bails: la intersección de dos arcos produce una arista curvilínea cuya estabilidad debe juzgarse.",
+    "coverage": "La documentación reúne definición del siglo XIX y aplicación de montea del XVIII.",
+    "utility": "Es útil para describir encuentros entre superficies curvas y distinguirlos de esquinas formadas por rectas.",
+    "related": [
+      "Ángulo",
+      "Curva",
+      "Ángulo rectilíneo",
+      "Ángulo mixtilíneo",
+      "Arista",
+      "Bóveda"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Se llama curvilíneo cuando le determinan dos porciones de curvas.",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, 1887; PDF p. 28."
+      },
+      {
+        "text": "...se originaria una curva compuesta de dos arcos, cuya interseccion formaria... un ángulo curvilineo de arista, que no podria subsistir.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 530."
+      }
+    ],
+    "search_text": "Ángulo curvilíneo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo determinado por líneas curvas o por porciones de curvas. En estereotomía aparece cuando las superficies curvas se encuentran y producen aristas cuya geometría no puede reducirse a dos rectas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0764 · ÁNGULO CURVILÍNEO · 2 TESTIMONIOS\nJules Adeline / José Ramón Mélida · 1887\n1. Definición\n«Se llama curvilíneo cuando le determinan dos porciones de curvas.»\nVocabulario de términos de arte, 1887; PDF p. 28.\nMR-0764-01 · Fija la naturaleza curva de los lados que determinan el ángulo.\nBenito Bails · 1796\n2. Ángulo curvilíneo de arista\n«...se originaria una curva compuesta de dos arcos, cuya interseccion formaria... un ángulo curvilineo de arista, que no podria subsistir.»\nArquitectura civil, 1796; PDF p. 530.\nMR-0764-02 · Aplica el concepto a una intersección de arcos dentro de una bóveda y muestra sus consecuencias constructivas.\nLECTURA COMPARADA\nLa definición geométrica de Adeline se vuelve constructiva en Bails: la intersección de dos arcos produce una arista curvilínea cuya estabilidad debe juzgarse.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo curvilíneo. Se diferencia del rectilíneo y del mixtilíneo por la naturaleza curva de sus lados.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación reúne definición del siglo XIX y aplicación de montea del XVIII.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para describir encuentros entre superficies curvas y distinguirlos de esquinas formadas por rectas.\nRELACIONADO CON\nÁngulo; Curva; Ángulo rectilíneo; Ángulo mixtilíneo; Arista; Bóveda\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/angulo-curvilineo/",
+    "academic_pdf": "documentos/fichas/angulo-curvilineo.pdf"
+  },
+  {
+    "num": 1107,
+    "cen": "CEN-0766",
+    "term": "Ángulo entrante",
+    "slug": "angulo-entrante",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo reentrante formado en el encuentro interior de dos planos o superficies. En la montea de bóvedas determina la forma de juntas, dovelas y rincones, y se contrapone al ángulo saliente.",
+    "authors_text": "Benito Bails (1796); Simonin (1795).",
+    "authors": [
+      "Benito Bails",
+      "Simonin"
+    ],
+    "years": [
+      1796,
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Benito Bails. Arquitectura civil. 1796.",
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795."
+    ],
+    "variants": "Forma: ángulo entrante. Oposición funcional: ángulo saliente.",
+    "comparison": "Bails trata el ángulo como dato de labra; Simonin lo emplea para clasificar un nicho según su posición en el encuentro de muros.",
+    "coverage": "Los testimonios del siglo XVIII cubren estereotomía y disposición arquitectónica.",
+    "utility": "Permite identificar rincones, encuentros de bóvedas y piezas cuya geometría obliga a labrar caras reentrantes.",
+    "related": [
+      "Ángulo saliente",
+      "Rincón",
+      "Bayvel",
+      "Dovela",
+      "Encuentro",
+      "Nicho"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...por lo tocante á la parte AS del encuentro, que es el ángulo entrante... se trazará en él con el bayvel el ángulo entrante DAE...",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 521."
+      },
+      {
+        "text": "En ángulo entrante ó saliente. Nicho construido en el ángulo formado por dos Muros, ya interior ó exteriormente.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 17."
+      }
+    ],
+    "search_text": "Ángulo entrante\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo reentrante formado en el encuentro interior de dos planos o superficies. En la montea de bóvedas determina la forma de juntas, dovelas y rincones, y se contrapone al ángulo saliente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0766 · ÁNGULO ENTRANTE · 2 TESTIMONIOS\nBenito Bails · 1796\n1. Labra de una dovela en encuentro entrante\n«...por lo tocante á la parte AS del encuentro, que es el ángulo entrante... se trazará en él con el bayvel el ángulo entrante DAE...»\nArquitectura civil, 1796; PDF p. 521.\nMR-0766-01 · Muestra que el ángulo entrante se transfiere con bayvel al sillar para formar el encuentro.\nSimonin · 1795\n2. Nicho en ángulo entrante o saliente\n«En ángulo entrante ó saliente. Nicho construido en el ángulo formado por dos Muros, ya interior ó exteriormente.»\nTratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 17.\nMR-0766-02 · Aporta una aplicación tipológica directa y contrasta interior/exterior.\nLECTURA COMPARADA\nBails trata el ángulo como dato de labra; Simonin lo emplea para clasificar un nicho según su posición en el encuentro de muros.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo entrante. Oposición funcional: ángulo saliente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios del siglo XVIII cubren estereotomía y disposición arquitectónica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar rincones, encuentros de bóvedas y piezas cuya geometría obliga a labrar caras reentrantes.\nRELACIONADO CON\nÁngulo saliente; Rincón; Bayvel; Dovela; Encuentro; Nicho\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Arquitectura civil. 1796.\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795.",
+    "url": "terminos/angulo-entrante/",
+    "academic_pdf": "documentos/fichas/angulo-entrante.pdf"
+  },
+  {
+    "num": 1108,
+    "cen": "CEN-0767",
+    "term": "Ángulo mixtilíneo",
+    "slug": "angulo-mixtilineo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo formado por una línea recta y una curva, o por contornos de distinta naturaleza. Su medición y transferencia a la piedra exige instrumentos adaptados, como el bayvel de una pierna recta y otra curva.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Simonin (1795).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin"
+    ],
+    "years": [
+      1788,
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.",
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795."
+    ],
+    "variants": "Forma: ángulo mixtilíneo. Se distingue de ángulo rectilíneo y curvilíneo.",
+    "comparison": "Rejón sintetiza la función; Simonin explica su realización práctica sobre intradós y lecho. El ángulo mixtilíneo pertenece al vocabulario operativo de la cantería.",
+    "coverage": "La evidencia del siglo XVIII se concentra en vocabularios y práctica de montea.",
+    "utility": "Permite describir y reproducir encuentros entre recta y curva en dovelas, plantillas y boquillas.",
+    "related": [
+      "Bayvel",
+      "Baivel",
+      "Dovela",
+      "Intradós",
+      "Lecho",
+      "Ángulo curvilíneo"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "BAYVEL. s. m. A. Especie de esquadra compuesta de dos listones, uno recto y otro curvo, para ajustar exactamente los ángulos mixtilíneos con que se debe labrar una piedra.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788; PDF p. 51."
+      },
+      {
+        "text": "Si se mide el ángulo que forma el intrados de una Dobela con uno de sus Lechos, el Baivel debe tener una de sus piernas curva, y otra recta...",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 11."
+      }
+    ],
+    "search_text": "Ángulo mixtilíneo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo formado por una línea recta y una curva, o por contornos de distinta naturaleza. Su medición y transferencia a la piedra exige instrumentos adaptados, como el bayvel de una pierna recta y otra curva.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0767 · ÁNGULO MIXTILÍNEO · 2 TESTIMONIOS\nDiego Antonio Rejón de Silva · 1788\n1. Bayvel para ángulos mixtilíneos\n«BAYVEL. s. m. A. Especie de esquadra compuesta de dos listones, uno recto y otro curvo, para ajustar exactamente los ángulos mixtilíneos con que se debe labrar una piedra.»\nDiccionario de las Nobles Artes, 1788; PDF p. 51.\nMR-0767-01 · Vincula la definición del instrumento a la geometría específica del ángulo mixtilíneo.\nSimonin · 1795\n2. Una pierna curva y otra recta\n«Si se mide el ángulo que forma el intrados de una Dobela con uno de sus Lechos, el Baivel debe tener una de sus piernas curva, y otra recta...»\nTratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 11.\nMR-0767-02 · Explica cómo la composición recta-curva del instrumento responde al ángulo mixtilíneo de la dovela.\nLECTURA COMPARADA\nRejón sintetiza la función; Simonin explica su realización práctica sobre intradós y lecho. El ángulo mixtilíneo pertenece al vocabulario operativo de la cantería.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo mixtilíneo. Se distingue de ángulo rectilíneo y curvilíneo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia del siglo XVIII se concentra en vocabularios y práctica de montea.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir y reproducir encuentros entre recta y curva en dovelas, plantillas y boquillas.\nRELACIONADO CON\nBayvel; Baivel; Dovela; Intradós; Lecho; Ángulo curvilíneo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795.",
+    "url": "terminos/angulo-mixtilineo/",
+    "academic_pdf": "documentos/fichas/angulo-mixtilineo.pdf"
+  },
+  {
+    "num": 1109,
+    "cen": "CEN-0769",
+    "term": "Ángulo rectilíneo",
+    "slug": "angulo-rectilineo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo determinado por líneas rectas. Constituye la categoría general de los ángulos cuyos lados son rectos y dentro de la cual se distinguen, por su abertura, ángulos agudos, rectos u obtusos.",
+    "authors_text": "Jules Adeline / José Ramón Mélida (1887); Mariano Matallana (1848).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1887,
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. 1848."
+    ],
+    "variants": "Forma: ángulo rectilíneo; rectilíneo. Comprende ángulos agudos, rectos y obtusos cuando sus lados son rectas.",
+    "comparison": "Adeline define directamente el ángulo; Matallana fija la cualidad rectilínea. La categoría depende de la naturaleza de sus lados, no de la amplitud de la abertura.",
+    "coverage": "La documentación definitoria se concentra en vocabularios del siglo XIX.",
+    "utility": "Es útil para clasificar geometrías de trazado antes de aplicar distinciones por abertura o posición.",
+    "related": [
+      "Ángulo",
+      "Línea recta",
+      "Ángulo agudo",
+      "Ángulo recto",
+      "Ángulo obtuso",
+      "Ángulo curvilíneo"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Un ángulo es rectilíneo cuando las líneas que le forman están derechas.",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, 1887; PDF p. 28."
+      },
+      {
+        "text": "RECTILÍNEO.=Compuesto de líneas rectas.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 228."
+      }
+    ],
+    "search_text": "Ángulo rectilíneo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo determinado por líneas rectas. Constituye la categoría general de los ángulos cuyos lados son rectos y dentro de la cual se distinguen, por su abertura, ángulos agudos, rectos u obtusos.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0769 · ÁNGULO RECTILÍNEO · 2 TESTIMONIOS\nJules Adeline / José Ramón Mélida · 1887\n1. Definición\n«Un ángulo es rectilíneo cuando las líneas que le forman están derechas.»\nVocabulario de términos de arte, 1887; PDF p. 28.\nMR-0769-01 · Fija la condición geométrica que diferencia al ángulo rectilíneo del curvilíneo.\nMariano Matallana · 1848\n2. Definición de rectilíneo\n«RECTILÍNEO.=Compuesto de líneas rectas.»\nVocabulario de arquitectura civil, 1848; PDF p. 228.\nMR-0769-02 · Confirma el valor del adjetivo que caracteriza la categoría angular.\nLECTURA COMPARADA\nAdeline define directamente el ángulo; Matallana fija la cualidad rectilínea. La categoría depende de la naturaleza de sus lados, no de la amplitud de la abertura.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo rectilíneo; rectilíneo. Comprende ángulos agudos, rectos y obtusos cuando sus lados son rectas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación definitoria se concentra en vocabularios del siglo XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para clasificar geometrías de trazado antes de aplicar distinciones por abertura o posición.\nRELACIONADO CON\nÁngulo; Línea recta; Ángulo agudo; Ángulo recto; Ángulo obtuso; Ángulo curvilíneo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Jules Adeline / José Ramón Mélida. Vocabulario de términos de arte. 1887.\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
+    "url": "terminos/angulo-rectilineo/",
+    "academic_pdf": "documentos/fichas/angulo-rectilineo.pdf"
+  },
+  {
+    "num": 1110,
+    "cen": "CEN-0771",
+    "term": "Ángulo saliente",
+    "slug": "angulo-saliente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ángulo exterior o convexo que sobresale en el encuentro de superficies. En estereotomía caracteriza aristas de bóvedas y juntas de dovelas; en obras hidráulicas y defensivas puede nombrar la nariz de un tajamar o estribo.",
+    "authors_text": "Benito Bails (1796); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1796,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails. Arquitectura civil. 1796.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. 1848."
+    ],
+    "variants": "Forma: ángulo saliente. Se contrapone a ángulo entrante; puede materializarse como arista, nariz o encuentro exterior.",
+    "comparison": "Bails lo estudia como geometría de junta y de bóveda; Matallana lo aplica a la forma de un estribo o tajamar. El concepto conserva el rasgo común de proyección exterior.",
+    "coverage": "La evidencia comprende montea del siglo XVIII y vocabulario constructivo del XIX.",
+    "utility": "Permite describir aristas exteriores, encuentros de dovelas y perfiles que sobresalen frente a una superficie o corriente.",
+    "related": [
+      "Ángulo entrante",
+      "Arista",
+      "Bóveda por arista",
+      "Nariz",
+      "Tajamar",
+      "Estribo"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...una dovela de la parte BS, que es en ángulo saliente, cuyo encuentro forma lo que llamamos bóveda por arista.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 523."
+      },
+      {
+        "text": "...una porcion de junta... forma un ángulo saliente en una cuña, y un ángulo entrante en la inmediata.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 421."
+      }
+    ],
+    "search_text": "Ángulo saliente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nÁngulo exterior o convexo que sobresale en el encuentro de superficies. En estereotomía caracteriza aristas de bóvedas y juntas de dovelas; en obras hidráulicas y defensivas puede nombrar la nariz de un tajamar o estribo.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0771 · ÁNGULO SALIENTE · 3 TESTIMONIOS\nBenito Bails · 1796\n1. Bóveda por arista y ángulo saliente\n«...una dovela de la parte BS, que es en ángulo saliente, cuyo encuentro forma lo que llamamos bóveda por arista.»\nArquitectura civil, 1796; PDF p. 523.\nMR-0771-01 · Relaciona el ángulo saliente con el encuentro característico de la bóveda por arista.\nBenito Bails · 1796\n2. Juntas salientes y entrantes\n«...una porcion de junta... forma un ángulo saliente en una cuña, y un ángulo entrante en la inmediata.»\nArquitectura civil, 1796; PDF p. 421.\nMR-0771-02 · Muestra la alternancia geométrica entre saliente y entrante en juntas contiguas.\nMariano Matallana · 1848\n3. Nariz de estribo o tajamar\n«NARIZ.=El ángulo saliente de un estribo ó tajamar.»\nVocabulario de arquitectura civil, 1848; PDF p. 190.\nMR-0771-03 · Aporta una aplicación funcional a una obra expuesta a la corriente.\nLECTURA COMPARADA\nBails lo estudia como geometría de junta y de bóveda; Matallana lo aplica a la forma de un estribo o tajamar. El concepto conserva el rasgo común de proyección exterior.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: ángulo saliente. Se contrapone a ángulo entrante; puede materializarse como arista, nariz o encuentro exterior.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia comprende montea del siglo XVIII y vocabulario constructivo del XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir aristas exteriores, encuentros de dovelas y perfiles que sobresalen frente a una superficie o corriente.\nRELACIONADO CON\nÁngulo entrante; Arista; Bóveda por arista; Nariz; Tajamar; Estribo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Arquitectura civil. 1796.\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
+    "url": "terminos/angulo-saliente/",
+    "academic_pdf": "documentos/fichas/angulo-saliente.pdf"
+  },
+  {
+    "num": 1111,
+    "cen": "CEN-1955",
+    "term": "Capialzado de medio punto con derrame en cuadrante de círculo",
+    "slug": "capialzado-de-medio-punto-con-derrame-en-cuadrante-de-circulo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Especie de capialzado cuyo arco principal es de medio punto y cuyo derrame se resuelve mediante un cuadrante de círculo. Se emplea especialmente en puertas cocheras, donde el derrame ensancha sensiblemente la abertura hacia el exterior.",
+    "authors_text": "Simonin (1795).",
+    "authors": [
+      "Simonin"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795."
+    ],
+    "variants": "Forma histórica preferente: capialzado de medio punto con derrame en quadrante de círculo. La grafía moderna “cuadrante” normaliza únicamente la ortografía.",
+    "comparison": "La misma lámina reúne tipología, uso y geometría. El capialzado no es sólo una variante nominal: la forma del derrame responde a un cuadrante y modifica el ancho útil de la puerta.",
+    "coverage": "La documentación autónoma se concentra en Simonin, 1795, con explicación tipológica y geométrica extensa.",
+    "utility": "Permite identificar capialzados de puertas y reconstruir su trazado a partir de radio, derrame, jambas y arco de medio punto.",
+    "related": [
+      "Capialzado",
+      "Derrame",
+      "Cuadrante de círculo",
+      "Puerta cochera",
+      "Arco de medio punto",
+      "Jamba"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Capialzado de Medio Punto con derrame en quadrante de circulo. Esta especie de capialzados... es el que tiene mas gracia, y por lo mismo se practica mas freqüentemente, sobre todo en las Puertas cocheras donde... el derrame de las jambas da sensiblemente mas anchura á la parte exterior de la Puerta.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 43."
+      },
+      {
+        "text": "...el arco d a ha de ser igual á A B, ó sea seis pies, y el radio del quadrante de circulo a c, es igual á A B...",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 43."
+      }
+    ],
+    "search_text": "Capialzado de medio punto con derrame en cuadrante de círculo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspecie de capialzado cuyo arco principal es de medio punto y cuyo derrame se resuelve mediante un cuadrante de círculo. Se emplea especialmente en puertas cocheras, donde el derrame ensancha sensiblemente la abertura hacia el exterior.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1955 · CAPIALZADO DE MEDIO PUNTO CON DERRAME EN CUADRANTE DE CÍRCULO · 2 TESTIMONIOS\nSimonin · 1795\n1. Denominación y uso\n«Capialzado de Medio Punto con derrame en quadrante de circulo. Esta especie de capialzados... es el que tiene mas gracia, y por lo mismo se practica mas freqüentemente, sobre todo en las Puertas cocheras donde... el derrame de las jambas da sensiblemente mas anchura á la parte exterior de la Puerta.»\nTratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 43.\nMR-1955-01 · Acredita la denominación y explica una ventaja funcional concreta del derrame.\nSimonin · 1795\n2. Regla geométrica del derrame\n«...el arco d a ha de ser igual á A B, ó sea seis pies, y el radio del quadrante de circulo a c, es igual á A B...»\nTratado elemental de los cortes de cantería, o Arte de la montea, 1795; PDF p. 43.\nMR-1955-02 · Fija la relación geométrica entre abertura y radio del cuadrante.\nLECTURA COMPARADA\nLa misma lámina reúne tipología, uso y geometría. El capialzado no es sólo una variante nominal: la forma del derrame responde a un cuadrante y modifica el ancho útil de la puerta.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma histórica preferente: capialzado de medio punto con derrame en quadrante de círculo. La grafía moderna “cuadrante” normaliza únicamente la ortografía.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación autónoma se concentra en Simonin, 1795, con explicación tipológica y geométrica extensa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar capialzados de puertas y reconstruir su trazado a partir de radio, derrame, jambas y arco de medio punto.\nRELACIONADO CON\nCapialzado; Derrame; Cuadrante de círculo; Puerta cochera; Arco de medio punto; Jamba\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Tratado elemental de los cortes de cantería, o Arte de la montea. 1795.",
+    "url": "terminos/capialzado-de-medio-punto-con-derrame-en-cuadrante-de-circulo/",
+    "academic_pdf": "documentos/fichas/capialzado-de-medio-punto-con-derrame-en-cuadrante-de-circulo.pdf"
+  },
+  {
+    "num": 1112,
+    "cen": "CEN-2127",
+    "term": "Cilíndrico",
+    "slug": "cilindrico",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Adjetivo aplicado a cuerpos, segmentos, superficies y bóvedas que tienen forma de cilindro. En montea caracteriza intradoses, cañones y segmentos cuya generación y labra dependen de líneas paralelas al eje.",
+    "authors_text": "Mariano Matallana (1848); Tomás Vicente Tosca (1727); Benito Bails (1796).",
+    "authors": [
+      "Mariano Matallana",
+      "Tomás Vicente Tosca",
+      "Benito Bails"
+    ],
+    "years": [
+      1848,
+      1727,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
+      "Tomás Vicente Tosca. Tratado de la montea y cortes de cantería. 1727.",
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Forma: cilíndrico, cilíndrica, cilíndricos. Deriva de cilindro y se combina con cuerpo, segmento, cañón, superficie y bóveda.",
+    "comparison": "Matallana ofrece el núcleo definitorio; Tosca y Bails muestran que lo cilíndrico organiza la geometría y el método de labra de bóvedas y sillares.",
+    "coverage": "La evidencia abarca el siglo XVIII y el vocabulario del XIX, con usos geométricos y estereotómicos.",
+    "utility": "Permite clasificar superficies y bóvedas por su geometría generatriz y escoger reglas de proyección, intersección y labra.",
+    "related": [
+      "Cilindro",
+      "Cañón",
+      "Segmento",
+      "Bóveda",
+      "Generatriz",
+      "Eje"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "CILÍNDRICO.=Que tiene la forma de un cilindro.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 86."
+      },
+      {
+        "text": "Sean los dos cañones cilíndricos de boveda... los quales vienen a encontrarse y cortarse...",
+        "author": "Tomás Vicente Tosca",
+        "year": "1727",
+        "source": "Tratado de la montea y cortes de cantería, 1727; PDF p. 156."
+      }
+    ],
+    "search_text": "Cilíndrico\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAdjetivo aplicado a cuerpos, segmentos, superficies y bóvedas que tienen forma de cilindro. En montea caracteriza intradoses, cañones y segmentos cuya generación y labra dependen de líneas paralelas al eje.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2127 · CILÍNDRICO · 3 TESTIMONIOS\nMariano Matallana · 1848\n1. Definición\n«CILÍNDRICO.=Que tiene la forma de un cilindro.»\nVocabulario de arquitectura civil, 1848; PDF p. 86.\nMR-2127-01 · Fija el valor morfológico general del adjetivo.\nTomás Vicente Tosca · 1727\n2. Cañones cilíndricos de bóveda\n«Sean los dos cañones cilíndricos de boveda... los quales vienen a encontrarse y cortarse...»\nTratado de la montea y cortes de cantería, 1727; PDF p. 156.\nMR-2127-02 · Documenta el adjetivo dentro de una operación de intersección de bóvedas.\nBenito Bails · 1796\n3. Labra de un segmento cilíndrico\n«...vamos á declarar cómo se labra en un sillar un segmento cilíndrico, cuya operacion puede hacerse con cercha, ó solo con regla.»\nArquitectura civil, 1796; PDF p. 456.\nMR-2127-03 · Aporta el sentido técnico aplicado a la labra de sillería.\nLECTURA COMPARADA\nMatallana ofrece el núcleo definitorio; Tosca y Bails muestran que lo cilíndrico organiza la geometría y el método de labra de bóvedas y sillares.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma: cilíndrico, cilíndrica, cilíndricos. Deriva de cilindro y se combina con cuerpo, segmento, cañón, superficie y bóveda.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia abarca el siglo XVIII y el vocabulario del XIX, con usos geométricos y estereotómicos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite clasificar superficies y bóvedas por su geometría generatriz y escoger reglas de proyección, intersección y labra.\nRELACIONADO CON\nCilindro; Cañón; Segmento; Bóveda; Generatriz; Eje\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.\n• Tomás Vicente Tosca. Tratado de la montea y cortes de cantería. 1727.\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/cilindrico/",
+    "academic_pdf": "documentos/fichas/cilindrico.pdf"
+  },
+  {
+    "num": 1113,
+    "cen": "CEN-2128",
+    "term": "Cilindro",
+    "slug": "cilindro",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Sólido geométrico generado por el movimiento paralelo de un círculo a lo largo de una recta, o por la revolución de un rectángulo alrededor de uno de sus lados. En montea sirve como modelo para cañones, arcos y secciones oblicuas.",
+    "authors_text": "Mariano Matallana (1848); Tomás Vicente Tosca (1727).",
+    "authors": [
+      "Mariano Matallana",
+      "Tomás Vicente Tosca"
+    ],
+    "years": [
+      1848,
+      1727
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
+      "Tomás Vicente Tosca. Tratado de la montea y cortes de cantería. 1727."
+    ],
+    "variants": "Formas: cilindro; medio cilindro; cilindro recto; cilindro oblicuo. El adjetivo cilíndrico deriva de esta geometría.",
+    "comparison": "Matallana sintetiza la generación; Tosca emplea el cilindro como sólido operativo para clasificar formas y deducir secciones.",
+    "coverage": "La evidencia sustantiva reúne montea del siglo XVIII y definición del XIX.",
+    "utility": "Es clave para interpretar cañones, arcos, bóvedas y secciones cuyos trazados se explican mediante superficies cilíndricas.",
+    "related": [
+      "Cilíndrico",
+      "Eje",
+      "Generatriz",
+      "Cañón",
+      "Elipse",
+      "Sección"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "CILINDRO.=Cuerpo sólido que se puede considerar formado por el movimiento de un círculo paralelamente á sí mismo segun una línea recta, ó por la revolucion de un rectángulo al rededor de uno de sus lados, tomado por eje.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 86."
+      },
+      {
+        "text": "Cilindros circulares esencialmente rectos son aquellos que si se cortan con un plano recto, ó perpendicular á su exe, la seccion que resulta es círculo...",
+        "author": "Tomás Vicente Tosca",
+        "year": "1727",
+        "source": "Tratado de la montea y cortes de cantería, 1727; PDF p. 30."
+      }
+    ],
+    "search_text": "Cilindro\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSólido geométrico generado por el movimiento paralelo de un círculo a lo largo de una recta, o por la revolución de un rectángulo alrededor de uno de sus lados. En montea sirve como modelo para cañones, arcos y secciones oblicuas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2128 · CILINDRO · 3 TESTIMONIOS\nMariano Matallana · 1848\n1. Definición geométrica\n«CILINDRO.=Cuerpo sólido que se puede considerar formado por el movimiento de un círculo paralelamente á sí mismo segun una línea recta, ó por la revolucion de un rectángulo al rededor de uno de sus lados, tomado por eje.»\nVocabulario de arquitectura civil, 1848; PDF p. 86.\nMR-2128-01 · Fija dos modos equivalentes de generación del sólido.\nTomás Vicente Tosca · 1727\n2. Cilindros rectos y oblicuos\n«Cilindros circulares esencialmente rectos son aquellos que si se cortan con un plano recto, ó perpendicular á su exe, la seccion que resulta es círculo...»\nTratado de la montea y cortes de cantería, 1727; PDF p. 30.\nMR-2128-02 · Distingue especies del cilindro a partir del eje y la naturaleza de las secciones.\nTomás Vicente Tosca · 1727\n3. Sección oblicua y elipse\n«...formarán un cilindro, que encontrando con el plano vertical... quedará... cortado obliquamente: luego la seccion será elypse.»\nTratado de la montea y cortes de cantería, 1727; PDF p. 23.\nMR-2128-03 · Relaciona el sólido con la obtención geométrica de una elipse mediante corte oblicuo.\nLECTURA COMPARADA\nMatallana sintetiza la generación; Tosca emplea el cilindro como sólido operativo para clasificar formas y deducir secciones.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: cilindro; medio cilindro; cilindro recto; cilindro oblicuo. El adjetivo cilíndrico deriva de esta geometría.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva reúne montea del siglo XVIII y definición del XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para interpretar cañones, arcos, bóvedas y secciones cuyos trazados se explican mediante superficies cilíndricas.\nRELACIONADO CON\nCilíndrico; Eje; Generatriz; Cañón; Elipse; Sección\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.\n• Tomás Vicente Tosca. Tratado de la montea y cortes de cantería. 1727.",
+    "url": "terminos/cilindro/",
+    "academic_pdf": "documentos/fichas/cilindro.pdf"
+  },
+  {
+    "num": 1114,
+    "cen": "CEN-2291",
+    "term": "Cono",
+    "slug": "cono",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Sólido cuya superficie se genera por una línea recta que gira alrededor de una curva base manteniendo fijo uno de sus extremos en un vértice. La geometría cónica se aplica directamente al trazado y construcción de bóvedas y pechinas.",
+    "authors_text": "Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Benito Bails. Arquitectura civil. 1796."
+    ],
+    "variants": "Formas: cono; cónico, cónica. Se relaciona con semicono, pero el cono completo mantiene identidad geométrica propia.",
+    "comparison": "Bails define el sólido y lo aplica a la fábrica de bóvedas. En un mismo tratado, el cono pasa de modelo geométrico generado por una recta a solución constructiva capaz de reforzar la transición de una bóveda.",
+    "coverage": "La evidencia sustantiva confirmada se concentra en Bails, con un pasaje definitorio y otro constructivo de contenido autónomo.",
+    "utility": "Permite reconocer superficies generadas desde un vértice y comprender bóvedas cónicas, pechinas, cortes y transiciones entre plantas.",
+    "related": [
+      "Cónico",
+      "Semi-cono",
+      "Vértice",
+      "Base",
+      "Generatriz",
+      "Bóveda cónica",
+      "Pechina"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "...la superficie de un cono es el rastro de una linea recta AV, cuyo extremo A anda al rededor de una curva ARB... estando su otro extremo asegurado en un punto V.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 427."
+      },
+      {
+        "text": "...apoyadas en el contorno de dicha pared redondeada en forma de cilindro á nivel, ó de cono en corte para mayor fortificacion de la bóveda...",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796; PDF p. 504."
+      }
+    ],
+    "search_text": "Cono\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSólido cuya superficie se genera por una línea recta que gira alrededor de una curva base manteniendo fijo uno de sus extremos en un vértice. La geometría cónica se aplica directamente al trazado y construcción de bóvedas y pechinas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2291 · CONO · 2 TESTIMONIOS\nBenito Bails · 1796\n1. Generación de la superficie cónica\n«...la superficie de un cono es el rastro de una linea recta AV, cuyo extremo A anda al rededor de una curva ARB... estando su otro extremo asegurado en un punto V.»\nArquitectura civil, 1796; PDF p. 427.\nMR-2291-01 · Define el cono mediante generatriz móvil, base y vértice.\nBenito Bails · 1796\n2. Cono aplicado al apoyo de pechinas\n«...apoyadas en el contorno de dicha pared redondeada en forma de cilindro á nivel, ó de cono en corte para mayor fortificacion de la bóveda...»\nArquitectura civil, 1796; PDF p. 504.\nMR-2291-02 · Traslada la geometría del sólido a una solución constructiva de bóveda.\nLECTURA COMPARADA\nBails define el sólido y lo aplica a la fábrica de bóvedas. En un mismo tratado, el cono pasa de modelo geométrico generado por una recta a solución constructiva capaz de reforzar la transición de una bóveda.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: cono; cónico, cónica. Se relaciona con semicono, pero el cono completo mantiene identidad geométrica propia.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva confirmada se concentra en Bails, con un pasaje definitorio y otro constructivo de contenido autónomo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer superficies generadas desde un vértice y comprender bóvedas cónicas, pechinas, cortes y transiciones entre plantas.\nRELACIONADO CON\nCónico; Semi-cono; Vértice; Base; Generatriz; Bóveda cónica; Pechina\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Benito Bails. Arquitectura civil. 1796.",
+    "url": "terminos/cono/",
+    "academic_pdf": "documentos/fichas/cono.pdf"
   }
 ]
