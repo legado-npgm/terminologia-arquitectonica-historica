@@ -43498,37 +43498,47 @@
     "slug": "areostilo",
     "start_page": null,
     "end_page": null,
-    "sense": "Disposición de columnas muy separadas, con intercolumnios más amplios que los del diástilo. Las fuentes la describen como columnas raras, claras o demasiado distantes y admiten un intervalo de cuatro diámetros o más. La gran luz impide normalmente emplear arquitrabes monolíticos de piedra o mármol y obliga a resolverlos en madera. La libertad de reparto y el aspecto pesado y ancho exigen controlar proporción, esbeltez y agrupación de las columnas.",
-    "authors_text": "Claude Perrault / Joseph Castañeda (1761); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Benito Bails (1796).",
+    "sense": "Disposición de columnas muy separadas, con intercolumnios más amplios que los del diástilo. Urrea la documenta en 1582 como cuarto género de templos y subraya la rareza de las columnas y la libertad de separación. La tradición posterior cuantifica esa amplitud en cuatro diámetros, ocho o más módulos y advierte que la gran luz condiciona el material del arquitrabe y la apariencia de las columnas.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582); Claude Perrault / Joseph Castañeda (1761); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Benito Bails (1796).",
     "authors": [
+      "Marco Vitruvio Polión",
       "Claude Perrault",
       "Joseph Castañeda",
-      "Marco Vitruvio Polión",
       "Joseph Francisco Ortiz y Sanz",
       "Diego Antonio Rejón de Silva",
       "Benito Bails"
     ],
     "years": [
+      1582,
       1761,
       1787,
       1788,
       1796
     ],
     "centuries": [
+      "XVI",
       "XVIII"
     ],
     "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
       "Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.",
       "Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.",
       "Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.",
       "Benito Bails. Arquitectura civil. 1796."
     ],
-    "variants": "• Formas: areóstilo / areóstylos / areostylo; areóstila como adjetivo de la disposición. • Medida: cuatro diámetros como referencia; las fuentes permiten ocho o más módulos y una distribución no fija. • Materialidad: arquitrabe de madera frente a la inviabilidad del dintel monolítico de piedra o mármol. • No confundir con diástilo: el areóstilo aumenta todavía más la separación y altera estructura y apariencia.",
-    "comparison": "Perrault y Ortiz y Sanz ordenan el areóstilo dentro de los cinco modos de intercolumnio y lo definen por la gran separación. La cifra de cuatro diámetros funciona como referencia, pero ambos admiten que el intervalo puede crecer y no queda sujeto a una proporción única. La distancia condiciona la construcción: los arquitrabes pétreos se romperían y deben sustituirse por madera. Rejón expresa la amplitud en módulos y Bails vincula el tipo con el orden dórico y con el recurso de columnas pareadas para moderar luces desiguales.",
-    "coverage": "Las 35 fuentes únicas fueron revisadas. Se integraron 10 testimonios procedentes de 4 fuentes. El barrido recuperó 12 coincidencias en 4 fuentes; las restantes apariciones se evaluaron como repetición, índice, mención contextual o falso positivo. Las doce coincidencias de cuatro fuentes se cotejaron individualmente. Se integraron diez testimonios de las cuatro fuentes sobre clasificación, distancia, módulo, esbeltez, material del arquitrabe, apariencia y columnas pareadas; dos apariciones de índice o repetición se conservaron solo en el control.",
+    "variants": "• Formas documentadas: Areostilos, areostylos, areóstilo, areóstylos, areostylo; areóstila como adjetivo. • La gran separación distingue el género del diástilo. • La tradición posterior usa cuatro diámetros u ocho o más módulos como referencias, sin convertirlas en una única regla universal. • La gran luz condiciona el uso de arquitrabes de madera frente a piezas pétreas monolíticas.",
+    "comparison": "Urrea proporciona la documentación castellana más temprana del grupo: integra el areóstilo entre los cinco géneros y destaca su libertad de intervalo. Perrault y Ortiz sistematizan la separación y sus consecuencias constructivas; Rejón la expresa en módulos y Bails la incorpora al análisis de órdenes e intercolumnios. La continuidad confirma que Areostilos es variante plural de Areóstilo, no una especie distinta.",
+    "coverage": "La serie integrada comienza con Urrea en 1582 y continúa entre 1761 y 1796. Se conservaron pasajes que aportan clasificación, separación, libertad proporcional y consecuencias estructurales distintas.",
     "utility": "Categoría útil para analizar ritmos de columnatas, luces de arquitrabe y compatibilidad entre proporción y material. Debe registrarse diámetro o módulo, luz de cada intercolumnio, material del arquitrabe, orden, esbeltez, pareado de columnas y efecto visual.",
     "related": [
-      "Intercolumnio · Diástilo · Éustilo · Sístilo · Picnóstilo · Columna pareada · Arquitrabe · Orden dórico · Módulo"
+      "Intercolumnio",
+      "Diástilo",
+      "Sístilo",
+      "Picnóstilo",
+      "Éustilo",
+      "Columna",
+      "Arquitrabe",
+      "Templo"
     ],
     "themes": [
       "Órdenes y elementos",
@@ -43536,19 +43546,19 @@
     ],
     "quotes": [
       {
-        "text": "Los cinco modos llamados Pychnóstylo, Systylo, Diástylo, Areóstylo y Éustylo.",
-        "author": "Claude Perrault / Joseph Castañeda",
-        "year": "1761",
-        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 25."
+        "text": "Areostilos. Quarto genero de templos, en que se ponen las columnas raras, entre si convenientes guiados los espacios de los entrecolumnios.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 288."
       },
       {
-        "text": "La práctica más ordinaria es dar de grueso á las columnas del Areóstylo la octava parte de su altura.",
-        "author": "Claude Perrault / Joseph Castañeda",
-        "year": "1761",
-        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 85."
+        "text": "Las diferencias de templos [...] son cinco [...] Pychnostilos [...] Systylos [...] Dyastylos [...] Areostylos, mas raras que conviene entre sí [...] Eustylos...",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro III, PDF p. 82."
       }
     ],
-    "search_text": "Areóstilo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDisposición de columnas muy separadas, con intercolumnios más amplios que los del diástilo. Las fuentes la describen como columnas raras, claras o demasiado distantes y admiten un intervalo de cuatro diámetros o más.\nLa gran luz impide normalmente emplear arquitrabes monolíticos de piedra o mármol y obliga a resolverlos en madera. La libertad de reparto y el aspecto pesado y ancho exigen controlar proporción, esbeltez y agrupación de las columnas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1172 · AREÓSTILO · 10 TESTIMONIOS\nClaude Perrault / Joseph Castañeda · 1761\n1. Cinco modos de intercolumnio\n«Los cinco modos llamados Pychnóstylo, Systylo, Diástylo, Areóstylo y Éustylo.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 25.\nCEN-1172-01. Inserta el areóstilo en la clasificación proporcional.\nClaude Perrault / Joseph Castañeda · 1761\n2. Grueso de las columnas\n«La práctica más ordinaria es dar de grueso á las columnas del Areóstylo la octava parte de su altura.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 85.\nCEN-1172-02. Relaciona separación y esbeltez de los soportes.\nClaude Perrault / Joseph Castañeda · 1761\n3. Columnas raras y distancia abierta\n«El Areóstylo, en que las columnas están raras. No hay proporción fixa para su asiento; aunque [...] se dan quatro diámetros al intercolumnio, puede tener más.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 153.\nCEN-1172-03. Define el carácter abierto y la ausencia de medida única.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n4. Separación excesiva\n«Areóstylos, más claras de lo que conviene.»\nLos diez libros de Arquitectura, 1787; PDF p. 80.\nCEN-1172-04. Caracteriza el tipo por distancia mayor que la proporcionada.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n5. Arquitrabes de madera\n«En los areóstylos no se pueden poner architrabes de piedra ni mármol, sino de madera.»\nLos diez libros de Arquitectura, 1787; PDF p. 81.\nCEN-1172-05. Vincula la luz del vano con una consecuencia material.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n6. Efecto visual\n«El aspecto de estos Templos hace pesado, cabezudo, chato y ancho.»\nLos diez libros de Arquitectura, 1787; PDF p. 81.\nCEN-1172-06. Registra la valoración proporcional del conjunto.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n7. Libertad de reparto\n«Excepto en el areóstylos, en que tiene cada uno libertad de repartirlas como quiera.»\nLos diez libros de Arquitectura, 1787; PDF p. 85.\nCEN-1172-07. Distingue el régimen flexible de la disposición.\nDiego Antonio Rejón de Silva · 1788\n8. Definición modular\n«El intercolumnio, cuyo claro ó distancia de columna á columna es quatro, ocho ó más módulos.»\nDiccionario de las Nobles Artes, 1788; PDF p. 40.\nCEN-1172-08. Traduce la categoría a una medida modular abierta.\nBenito Bails · 1796\n9. Intercolumnio de cuatro diámetros\n«Areóstilo [...] de quatro diámetros [...] apropiado al dórico, el más macizo de todos.»\nArquitectura civil, 1796; PDF p. 785.\nCEN-1172-09. Relaciona anchura de vano y robustez del orden.\nBenito Bails · 1796\n10. Columnas pareadas\n«En la famosa columnata del Louvre [...] el intercolumnio mayor es de tres diámetros y medio, y el menor solo es de medio diámetro. [...] Las columnas pareadas [son] un recurso.»\nArquitectura civil, 1796; PDF p. 789.\nCEN-1172-10. Muestra una adaptación mediante agrupación desigual de soportes.\nLECTURA COMPARADA\nPerrault y Ortiz y Sanz ordenan el areóstilo dentro de los cinco modos de intercolumnio y lo definen por la gran separación. La cifra de cuatro diámetros funciona como referencia, pero ambos admiten que el intervalo puede crecer y no queda sujeto a una proporción única.\nLa distancia condiciona la construcción: los arquitrabes pétreos se romperían y deben sustituirse por madera. Rejón expresa la amplitud en módulos y Bails vincula el tipo con el orden dórico y con el recurso de columnas pareadas para moderar luces desiguales.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Formas: areóstilo / areóstylos / areostylo; areóstila como adjetivo de la disposición.\n• Medida: cuatro diámetros como referencia; las fuentes permiten ocho o más módulos y una distribución no fija.\n• Materialidad: arquitrabe de madera frente a la inviabilidad del dintel monolítico de piedra o mármol.\n• No confundir con diástilo: el areóstilo aumenta todavía más la separación y altera estructura y apariencia.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLas 35 fuentes únicas fueron revisadas. Se integraron 10 testimonios procedentes de 4 fuentes. El barrido recuperó 12 coincidencias en 4 fuentes; las restantes apariciones se evaluaron como repetición, índice, mención contextual o falso positivo.\nLas doce coincidencias de cuatro fuentes se cotejaron individualmente. Se integraron diez testimonios de las cuatro fuentes sobre clasificación, distancia, módulo, esbeltez, material del arquitrabe, apariencia y columnas pareadas; dos apariciones de índice o repetición se conservaron solo en el control.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nCategoría útil para analizar ritmos de columnatas, luces de arquitrabe y compatibilidad entre proporción y material.\nDebe registrarse diámetro o módulo, luz de cada intercolumnio, material del arquitrabe, orden, esbeltez, pareado de columnas y efecto visual.\nRELACIONADO CON\nIntercolumnio · Diástilo · Éustilo · Sístilo · Picnóstilo · Columna pareada · Arquitrabe · Orden dórico · Módulo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.\n• Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Benito Bails. Arquitectura civil. 1796.",
+    "search_text": "Areóstilo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDisposición de columnas muy separadas, con intercolumnios más amplios que los del diástilo. Urrea la documenta en 1582 como cuarto género de templos y subraya la rareza de las columnas y la libertad de separación.\nLa tradición posterior cuantifica esa amplitud en cuatro diámetros, ocho o más módulos y advierte que la gran luz condiciona el material del arquitrabe y la apariencia de las columnas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1172 · AREÓSTILO · INTERCOLUMNIOS AMPLIOS Y CONSECUENCIAS CONSTRUCTIVAS · 13 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Entrada primaria de Urrea\n«Areostilos. Quarto genero de templos, en que se ponen las columnas raras, entre si convenientes guiados los espacios de los entrecolumnios.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 288.\nMR-ARE-01 · CEN-1172. Documenta la forma plural y la separación amplia de las columnas.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Los cinco géneros por separación\n«Las diferencias de templos [...] son cinco [...] Pychnostilos [...] Systylos [...] Dyastylos [...] Areostylos, mas raras que conviene entre sí [...] Eustylos...»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro III, PDF p. 82.\nMR-ARE-02 · CEN-1172. Sitúa el areóstilo en la serie proporcional de cinco disposiciones.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n3. Libertad del intercolumnio\n«En los areostylos ay libertad, quanta cada vno quiere.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro III, PDF p. 88.\nMR-ARE-03 · CEN-1172. Explicita que el intervalo no queda fijado por una medida única.\nClaude Perrault / Joseph Castañeda · 1761\n4. Cinco modos de intercolumnio\n«Los cinco modos llamados Pychnóstylo, Systylo, Diástylo, Areóstylo y Éustylo.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 25.\nMR-ARE-04 · CEN-1172. Inserta el areóstilo en la clasificación proporcional.\nClaude Perrault / Joseph Castañeda · 1761\n5. Grueso de las columnas\n«La práctica más ordinaria es dar de grueso á las columnas del Areóstylo la octava parte de su altura.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 85.\nMR-ARE-05 · CEN-1172. Relaciona separación y esbeltez de los soportes.\nClaude Perrault / Joseph Castañeda · 1761\n6. Columnas raras y distancia abierta\n«El Areóstylo, en que las columnas están raras. No hay proporción fixa para su asiento; aunque [...] se dan quatro diámetros al intercolumnio, puede tener más.»\nCompendio de los diez libros de Arquitectura de Vitruvio, 1761; PDF p. 153.\nMR-ARE-06 · CEN-1172. Define el carácter abierto y la ausencia de medida única.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n7. Separación excesiva\n«Areóstylos, más claras de lo que conviene.»\nLos diez libros de Arquitectura, 1787; PDF p. 80.\nMR-ARE-07 · CEN-1172. Caracteriza el tipo por distancia mayor que la proporcionada.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n8. Arquitrabes de madera\n«En los areóstylos no se pueden poner architrabes de piedra ni mármol, sino de madera.»\nLos diez libros de Arquitectura, 1787; PDF p. 81.\nMR-ARE-08 · CEN-1172. Vincula la luz del vano con una consecuencia material.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n9. Efecto visual\n«El aspecto de estos Templos hace pesado, cabezudo, chato y ancho.»\nLos diez libros de Arquitectura, 1787; PDF p. 81.\nMR-ARE-09 · CEN-1172. Registra la valoración proporcional del conjunto.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n10. Libertad de reparto\n«Excepto en el areóstylos, en que tiene cada uno libertad de repartirlas como quiera.»\nLos diez libros de Arquitectura, 1787; PDF p. 85.\nMR-ARE-10 · CEN-1172. Distingue el régimen flexible de la disposición.\nDiego Antonio Rejón de Silva · 1788\n11. Definición modular\n«El intercolumnio, cuyo claro ó distancia de columna á columna es quatro, ocho ó más módulos.»\nDiccionario de las Nobles Artes, 1788; PDF p. 40.\nMR-ARE-11 · CEN-1172. Traduce la categoría a una medida modular abierta.\nBenito Bails · 1796\n12. Intercolumnio de cuatro diámetros\n«Areóstilo [...] de quatro diámetros [...] apropiado al dórico, el más macizo de todos.»\nArquitectura civil, 1796; PDF p. 785.\nMR-ARE-12 · CEN-1172. Relaciona anchura de vano y robustez del orden.\nBenito Bails · 1796\n13. Columnas pareadas\n«En la famosa columnata del Louvre [...] el intercolumnio mayor es de tres diámetros y medio, y el menor solo es de medio diámetro. [...] Las columnas pareadas [son] un recurso.»\nArquitectura civil, 1796; PDF p. 789.\nMR-ARE-13 · CEN-1172. Muestra una adaptación mediante agrupación desigual de soportes.\nLECTURA COMPARADA\nUrrea proporciona la documentación castellana más temprana del grupo: integra el areóstilo entre los cinco géneros y destaca su libertad de intervalo. Perrault y Ortiz sistematizan la separación y sus consecuencias constructivas; Rejón la expresa en módulos y Bails la incorpora al análisis de órdenes e intercolumnios. La continuidad confirma que Areostilos es variante plural de Areóstilo, no una especie distinta.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Formas documentadas: Areostilos, areostylos, areóstilo, areóstylos, areostylo; areóstila como adjetivo. • La gran separación distingue el género del diástilo. • La tradición posterior usa cuatro diámetros u ocho o más módulos como referencias, sin convertirlas en una única regla universal. • La gran luz condiciona el uso de arquitrabes de madera frente a piezas pétreas monolíticas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa serie integrada comienza con Urrea en 1582 y continúa entre 1761 y 1796. Se conservaron pasajes que aportan clasificación, separación, libertad proporcional y consecuencias estructurales distintas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nCategoría útil para analizar ritmos de columnatas, luces de arquitrabe y compatibilidad entre proporción y material. Debe registrarse diámetro o módulo, luz de cada intercolumnio, material del arquitrabe, orden, esbeltez, pareado de columnas y efecto visual.\nRELACIONADO CON\nIntercolumnio; Diástilo; Sístilo; Picnóstilo; Éustilo; Columna; Arquitrabe; Templo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.\n• Claude Perrault / Joseph Castañeda. Compendio de los diez libros de Arquitectura de Vitruvio. 1761.\n• Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Benito Bails. Arquitectura civil. 1796.",
     "url": "terminos/areostilo/",
     "academic_pdf": "documentos/fichas/areostilo.pdf"
   },
@@ -52036,17 +52046,18 @@
     "slug": "antepagmento",
     "start_page": null,
     "end_page": null,
-    "sense": "Denominación antigua de la jamba o de la guarnición que reviste los lados de una puerta o ventana. En la tradición vitruviana puede comprender el ornato vertical del vano y su relación con dintel, sobrejamba, friso y corona. Los testimonios oscilan entre la equivalencia lexicográfica con jamba y una acepción ornamental más amplia. La identificación debe atender a la posición, anchura, molduras y proyección de sombras del marco.",
-    "authors_text": "Christiano Rieger (1763); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Benito Bails (1802); Mariano Matallana (1848).",
+    "sense": "Denominación antigua de la jamba o de la guarnición que reviste los lados de una puerta o ventana. Urrea la documenta ya en 1582 mediante la forma plural Antepagmenta y la equipara con jambas y sobrejambas; el libro IV añade proporciones del grueso y del estrechamiento superior. La tradición posterior oscila entre la equivalencia estricta con jamba y una acepción ornamental más amplia, en la que el antepagmento comprende la guarnición moldurada del vano y su relación con dintel, friso y corona.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582); Christiano Rieger (1763); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Benito Bails (1802); Mariano Matallana (1848).",
     "authors": [
-      "Christian Rieger",
       "Marco Vitruvio Polión",
+      "Christian Rieger",
       "Joseph Francisco Ortiz y Sanz",
       "Diego Antonio Rejón de Silva",
       "Benito Bails",
       "Mariano Matallana"
     ],
     "years": [
+      1582,
       1763,
       1787,
       1788,
@@ -52054,22 +52065,32 @@
       1848
     ],
     "centuries": [
+      "XVI",
       "XVIII",
       "XIX"
     ],
     "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
       "Christiano Rieger. Elementos de toda la arquitectura civil. 1763.",
       "Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.",
       "Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.",
       "Benito Bails. Diccionario de arquitectura civil. 1802.",
       "Mariano Matallana. Vocabulario de arquitectura civil. 1848."
     ],
-    "variants": "• Formas: antepagmento, ante-pagmento, antepagmentos y latín antepagmentum; OCR histórico: anrepagmento y anttepagmentum. • Equivalentes y relaciones: jamba, sobrejamba, guarnición, ornato de puerta, moldura y corona. • Rasgos: posición lateral o superior, anchura proporcional, espesor, molduración y sombra proyectada. • No confundir con antepecho, antipara, dintel, arquitrabe completo ni una simple pilastra adosada.",
-    "comparison": "Rieger conserva la acepción compositiva: los antepagmentos revisten las orillas de los vanos, se proporcionan respecto de su anchura y proyectan sombras mediante molduras. Ortiz y Sanz los sitúa en el sistema superior del ornato de puerta. Rejón, Bails y Matallana reducen la voz a jamba, pero la documentación técnica muestra que no siempre designa solo el soporte lateral desnudo, sino también su guarnición moldurada.",
-    "coverage": "Las 35 fuentes únicas fueron revisadas. Se integraron 7 testimonios procedentes de 5 fuentes. El barrido recuperó 7 coincidencias en 5 fuentes; las restantes apariciones se evaluaron como repetición, índice, mención contextual o falso positivo. El cotejo 35/35 controló antepagmento, ante-pagmento, antepagmentum, variantes OCR, jamba, sobrejamba, guarnición y ornato de puerta. Se integraron siete testimonios de cinco fuentes sobre equivalencia, posición, proporción, molduración y sombras.",
+    "variants": "• Formas documentadas: Antepagmenta, antepagmento, ante-pagmento, antepagmentos y antepagmentum. • Equivalentes: jamba y sobrejamba; por extensión documentada, guarnición y ornato de puerta. • Rasgos: posición lateral o superior, espesor, estrechamiento, molduración y sombra. • No confundir con antepecho, dintel o arquitrabe completo.",
+    "comparison": "Urrea adelanta la documentación directa al siglo XVI y ofrece tanto equivalencia como proporción. Rieger conserva la dimensión compositiva y de molduración; Ortiz y Sanz sitúa el término en el ornato superior; Rejón, Bails y Matallana simplifican la equivalencia a jamba. La secuencia muestra un núcleo lateral estable con distinto grado de amplitud ornamental.",
+    "coverage": "La documentación integrada reúne el testimonio primario de Urrea de 1582 y la continuidad técnica y lexicográfica entre 1763 y 1848. Los pasajes seleccionados aportan definición, proporción, posición, molduración y relaciones del vano sin duplicar formulaciones equivalentes.",
     "utility": "Voz útil para reconocer la terminología vitruviana aplicada a marcos y guarniciones de vanos. Registrar lado del vano, relación con dintel y friso, anchura, espesor, perfil de molduras, material, juntas, huellas de policromía y pérdidas.",
     "related": [
-      "Jamba · Sobrejamba · Guarnición · Dintel · Friso · Corona · Moldura · Arquitrabe · Vano · Antepagmentum"
+      "Jamba",
+      "Sobrejamba",
+      "Guarnición",
+      "Dintel",
+      "Friso",
+      "Corona",
+      "Moldura",
+      "Vano",
+      "Antepagmentum"
     ],
     "themes": [
       "Órdenes y elementos",
@@ -52077,19 +52098,19 @@
     ],
     "quotes": [
       {
-        "text": "Los ornatos de las jambas y sobre-jambas, que visten las orillas de las ventanas y puertas, que también se llaman antepagmentos, requieren de anchura una cuarta, o una sexta parte de la anchura de la ventana o puerta correspondiente.",
-        "author": "Christiano Rieger",
-        "year": "1763",
-        "source": "Elementos de toda la arquitectura civil, 1763; PDF p. 115."
+        "text": "Antepagmenta. Iábas, y sobrejábas.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
       },
       {
-        "text": "Tales son las sombras que hacen los antepagmentos, u ornamentos de las jambas de las puertas, de las ventanas, de las molduras y de las cornisas.",
-        "author": "Christiano Rieger",
-        "year": "1763",
-        "source": "Elementos de toda la arquitectura civil, 1763; PDF p. 121."
+        "text": "Los antepagmentos, o jambas tengan de grueso en la frente con el altura de la lumbre, la duodécima parte, y estrechense en lo alto de su grueso, la quartadecima parte.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IV, PDF p. 116."
       }
     ],
-    "search_text": "Antepagmento\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDenominación antigua de la jamba o de la guarnición que reviste los lados de una puerta o ventana. En la tradición vitruviana puede comprender el ornato vertical del vano y su relación con dintel, sobrejamba, friso y corona.\nLos testimonios oscilan entre la equivalencia lexicográfica con jamba y una acepción ornamental más amplia. La identificación debe atender a la posición, anchura, molduras y proyección de sombras del marco.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0820 · ANTEPAGMENTO · 7 TESTIMONIOS\nChristiano Rieger · 1763\n1. Ornato de jambas\n«Los ornatos de las jambas y sobre-jambas, que visten las orillas de las ventanas y puertas, que también se llaman antepagmentos, requieren de anchura una cuarta, o una sexta parte de la anchura de la ventana o puerta correspondiente.»\nElementos de toda la arquitectura civil, 1763; PDF p. 115.\nCEN-0820-01. Define su posición, extensión y proporción respecto del vano.\nChristiano Rieger · 1763\n2. Proyección de sombras\n«Tales son las sombras que hacen los antepagmentos, u ornamentos de las jambas de las puertas, de las ventanas, de las molduras y de las cornisas.»\nElementos de toda la arquitectura civil, 1763; PDF p. 121.\nCEN-0820-02. Relaciona el elemento con molduras y control de sombras.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n3. Relación con el dintel\n«Encima del dintel, supra antepagmentum superius, y aun encima del friso; pues la corona es el miembro más alto de todo el ornato de la puerta.»\nLos diez libros de Arquitectura, 1787; PDF p. 112.\nCEN-0820-03. Sitúa el término latino dentro del ornato superior de la puerta.\nDiego Antonio Rejón de Silva · 1788\n4. Equivalencia principal\n«ANTEPAGMENTO. Lo mismo que jamba.»\nDiccionario de las Nobles Artes, 1788; PDF p. 33.\nCEN-0820-04. Fija la equivalencia lexicográfica con jamba.\nDiego Antonio Rejón de Silva · 1788\n5. Autoridad vitruviana\n«Los antepagmentos, ó jambas tengan de grueso.»\nDiccionario de las Nobles Artes, 1788; PDF p. 33.\nCEN-0820-05. Conserva una cita de Urrea que vincula denominación y espesor.\nBenito Bails · 1802\n6. Voz antigua\n«ANTEPAGMENTO. Lo mismo que JAMBA.»\nDiccionario de arquitectura civil, 1802; PDF p. 118.\nCEN-0820-06. Confirma la condición antigua y la equivalencia.\nMariano Matallana · 1848\n7. Remisión terminológica\n«ANTE-PAGMENTO. JAMBA.»\nVocabulario de arquitectura civil, 1848; PDF p. 29.\nCEN-0820-07. Mantiene la remisión en el vocabulario decimonónico.\nLECTURA COMPARADA\nRieger conserva la acepción compositiva: los antepagmentos revisten las orillas de los vanos, se proporcionan respecto de su anchura y proyectan sombras mediante molduras. Ortiz y Sanz los sitúa en el sistema superior del ornato de puerta.\nRejón, Bails y Matallana reducen la voz a jamba, pero la documentación técnica muestra que no siempre designa solo el soporte lateral desnudo, sino también su guarnición moldurada.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Formas: antepagmento, ante-pagmento, antepagmentos y latín antepagmentum; OCR histórico: anrepagmento y anttepagmentum.\n• Equivalentes y relaciones: jamba, sobrejamba, guarnición, ornato de puerta, moldura y corona.\n• Rasgos: posición lateral o superior, anchura proporcional, espesor, molduración y sombra proyectada.\n• No confundir con antepecho, antipara, dintel, arquitrabe completo ni una simple pilastra adosada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLas 35 fuentes únicas fueron revisadas. Se integraron 7 testimonios procedentes de 5 fuentes. El barrido recuperó 7 coincidencias en 5 fuentes; las restantes apariciones se evaluaron como repetición, índice, mención contextual o falso positivo.\nEl cotejo 35/35 controló antepagmento, ante-pagmento, antepagmentum, variantes OCR, jamba, sobrejamba, guarnición y ornato de puerta. Se integraron siete testimonios de cinco fuentes sobre equivalencia, posición, proporción, molduración y sombras.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nVoz útil para reconocer la terminología vitruviana aplicada a marcos y guarniciones de vanos.\nRegistrar lado del vano, relación con dintel y friso, anchura, espesor, perfil de molduras, material, juntas, huellas de policromía y pérdidas.\nRELACIONADO CON\nJamba · Sobrejamba · Guarnición · Dintel · Friso · Corona · Moldura · Arquitrabe · Vano · Antepagmentum\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Christiano Rieger. Elementos de toda la arquitectura civil. 1763.\n• Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Benito Bails. Diccionario de arquitectura civil. 1802.\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
+    "search_text": "Antepagmento\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDenominación antigua de la jamba o de la guarnición que reviste los lados de una puerta o ventana. Urrea la documenta ya en 1582 mediante la forma plural Antepagmenta y la equipara con jambas y sobrejambas; el libro IV añade proporciones del grueso y del estrechamiento superior.\nLa tradición posterior oscila entre la equivalencia estricta con jamba y una acepción ornamental más amplia, en la que el antepagmento comprende la guarnición moldurada del vano y su relación con dintel, friso y corona.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-0820 · ANTEPAGMENTO · JAMBA, GUARNICIÓN Y PROPORCIÓN · 9 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Entrada primaria de Urrea\n«Antepagmenta. Iábas, y sobrejábas.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ANTP-01 · CEN-0820. Aporta la forma plural latina/castellanizada y la equivalencia directa con jambas y sobrejambas.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Espesor y estrechamiento de las jambas\n«Los antepagmentos, o jambas tengan de grueso en la frente con el altura de la lumbre, la duodécima parte, y estrechense en lo alto de su grueso, la quartadecima parte.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IV, PDF p. 116.\nMR-ANTP-02 · CEN-0820. Añade una prescripción proporcional histórica del grueso y estrechamiento de la jamba.\nChristiano Rieger · 1763\n3. Ornato de jambas\n«Los ornatos de las jambas y sobre-jambas, que visten las orillas de las ventanas y puertas, que también se llaman antepagmentos, requieren de anchura una cuarta, o una sexta parte de la anchura de la ventana o puerta correspondiente.»\nElementos de toda la arquitectura civil, 1763; PDF p. 115.\nMR-ANTP-03 · CEN-0820. Define su posición, extensión y proporción respecto del vano.\nChristiano Rieger · 1763\n4. Proyección de sombras\n«Tales son las sombras que hacen los antepagmentos, u ornamentos de las jambas de las puertas, de las ventanas, de las molduras y de las cornisas.»\nElementos de toda la arquitectura civil, 1763; PDF p. 121.\nMR-ANTP-04 · CEN-0820. Relaciona el elemento con molduras y control de sombras.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n5. Relación con el dintel\n«Encima del dintel, supra antepagmentum superius, y aun encima del friso; pues la corona es el miembro más alto de todo el ornato de la puerta.»\nLos diez libros de Arquitectura, 1787; PDF p. 112.\nMR-ANTP-05 · CEN-0820. Sitúa el término latino dentro del ornato superior de la puerta.\nDiego Antonio Rejón de Silva · 1788\n6. Equivalencia principal\n«ANTEPAGMENTO. Lo mismo que jamba.»\nDiccionario de las Nobles Artes, 1788; PDF p. 33.\nMR-ANTP-06 · CEN-0820. Fija la equivalencia lexicográfica con jamba.\nDiego Antonio Rejón de Silva · 1788\n7. Autoridad vitruviana\n«Los antepagmentos, ó jambas tengan de grueso.»\nDiccionario de las Nobles Artes, 1788; PDF p. 33.\nMR-ANTP-07 · CEN-0820. Conserva una cita de Urrea que vincula denominación y espesor.\nBenito Bails · 1802\n8. Voz antigua\n«ANTEPAGMENTO. Lo mismo que JAMBA.»\nDiccionario de arquitectura civil, 1802; PDF p. 118.\nMR-ANTP-08 · CEN-0820. Confirma la condición antigua y la equivalencia.\nMariano Matallana · 1848\n9. Remisión terminológica\n«ANTE-PAGMENTO. JAMBA.»\nVocabulario de arquitectura civil, 1848; PDF p. 29.\nMR-ANTP-09 · CEN-0820. Mantiene la remisión en el vocabulario decimonónico.\nLECTURA COMPARADA\nUrrea adelanta la documentación directa al siglo XVI y ofrece tanto equivalencia como proporción. Rieger conserva la dimensión compositiva y de molduración; Ortiz y Sanz sitúa el término en el ornato superior; Rejón, Bails y Matallana simplifican la equivalencia a jamba. La secuencia muestra un núcleo lateral estable con distinto grado de amplitud ornamental.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Formas documentadas: Antepagmenta, antepagmento, ante-pagmento, antepagmentos y antepagmentum. • Equivalentes: jamba y sobrejamba; por extensión documentada, guarnición y ornato de puerta. • Rasgos: posición lateral o superior, espesor, estrechamiento, molduración y sombra. • No confundir con antepecho, dintel o arquitrabe completo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada reúne el testimonio primario de Urrea de 1582 y la continuidad técnica y lexicográfica entre 1763 y 1848. Los pasajes seleccionados aportan definición, proporción, posición, molduración y relaciones del vano sin duplicar formulaciones equivalentes.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nVoz útil para reconocer la terminología vitruviana aplicada a marcos y guarniciones de vanos. Registrar lado del vano, relación con dintel y friso, anchura, espesor, perfil de molduras, material, juntas, huellas de policromía y pérdidas.\nRELACIONADO CON\nJamba; Sobrejamba; Guarnición; Dintel; Friso; Corona; Moldura; Vano; Antepagmentum\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.\n• Christiano Rieger. Elementos de toda la arquitectura civil. 1763.\n• Marco Vitruvio Polión / Joseph Ortiz y Sanz. Los diez libros de Arquitectura. 1787.\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Benito Bails. Diccionario de arquitectura civil. 1802.\n• Mariano Matallana. Vocabulario de arquitectura civil. 1848.",
     "url": "terminos/antepagmento/",
     "academic_pdf": "documentos/fichas/antepagmento.pdf"
   },
@@ -84322,5 +84343,1622 @@
     "search_text": "Bajada\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto de descenso documentado históricamente como «bajada». Marcos y Bausa usa el término para las conducciones verticales de edificios y excusados; Espinosa habla de bajadas o tubos que conducen aguas desde los comunes.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5311 · BAJADAS Y CONDUCCIONES VERTICALES · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Tubería de hierro fundido para bajadas\n«…para las bajadas de los edificios se va adoptando en Madrid la tubería de hierro fundido.»\nManual del albañil, capítulo de caños y tubos, p. 77 del facsímil.\nMR-TDE-01 · CEN-5311. Vincula de manera explícita la tubería vertical descendente con la función de bajada del edificio.\nP. C. Espinosa · 1859\n2. Tubos de barro aplicados a bajadas\n«Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamiento…»\nManual de construcciones de albañilería, p. 212 del facsímil.\nMR-TDE-02 · CEN-5311. Demuestra que la función descendente también se resolvía con conductos cerámicos y no era exclusiva del hierro.\nLECTURA COMPARADA\nMarcos y Bausa documenta bajadas de los edificios y piezas que reúnen ramales superiores en uno inferior. Espinosa confirma que las bajadas pueden ejecutarse con tubos de barro o de hierro. La dirección vertical no basta para identificar la función: «bajada» la diferencia de los tubos de subida de humo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• bajada\n• bajadas de los edificios\n• bajadas de comunes\n• tubo de barro\n• tubería de hierro fundido\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859–1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para estudiar saneamiento y evacuación vertical en edificios, y para diferenciar bajantes hidráulicas o residuales de conductos ascendentes de humo y ventilación.\nRELACIONADO CON\nBajada; Tubo de fundición; Tubo de barro cocido; Saneamiento; Tubo de ventilación; Cañón de evacuación.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
     "url": "terminos/bajada/",
     "academic_pdf": "documentos/fichas/bajada.pdf"
+  },
+  {
+    "num": 1166,
+    "cen": "CEN-2313",
+    "term": "Convexo",
+    "slug": "convexo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Calificación de una superficie que presenta hacia el exterior la curvatura de un cuerpo redondo. En la cantería histórica la convexidad se reconoce por oposición a la concavidad y condiciona el perfil inverso de la cercha con que se labra la piedra.",
+    "authors_text": "Simonin (1795); Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas documentadas: convexo, convexô, convexa, convexidad. La calificación pertenece a superficies y perfiles; no sustituye por sí sola a cilindro, esfera, muro redondo o arco.",
+    "comparison": "Simonin formula la definición geométrica más concisa; Bails la traduce a una consecuencia operativa de cantería, donde el patrón debe invertir el perfil; Matallana consolida la oposición entre superficie exterior convexa e interior cóncava.",
+    "coverage": "La documentación sustantiva reúne la definición de Simonin y su continuidad lexicográfica y constructiva en Bails y Matallana.",
+    "utility": "Permite describir con precisión paramentos curvos exteriores, plantillas y cerchas de cantería, evitando confundir convexidad de la pieza con concavidad del hueco.",
+    "related": [
+      "Cóncavo",
+      "Convexidad",
+      "Curvo",
+      "Cilindro",
+      "Esfera",
+      "Cercha",
+      "Paramento"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "CONVEXÔ. adj. Lo que tiene la forma exterior de una Esfera ó Cilindro.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 13."
+      },
+      {
+        "text": "La cercha para labrar un hueco ha de ser convexá, y cóncava para labrar una superficie convexá.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 26."
+      }
+    ],
+    "search_text": "Convexo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCalificación de una superficie que presenta hacia el exterior la curvatura de un cuerpo redondo. En la cantería histórica la convexidad se reconoce por oposición a la concavidad y condiciona el perfil inverso de la cercha con que se labra la piedra.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2313 · CONVEXO · 3 TESTIMONIOS\nSimonin · 1795\n1. Definición geométrica\n«CONVEXÔ. adj. Lo que tiene la forma exterior de una Esfera ó Cilindro.»\nArte de la montea, Madrid, 1795; PDF p. 13.\nMR-CVX-01 · CEN-2313. Fija la convexidad como forma exterior de cuerpos redondos.\nBenito Bails · 1802\n2. Convexidad y cercha de labra\n«La cercha para labrar un hueco ha de ser convexá, y cóncava para labrar una superficie convexá.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 26.\nMR-CVX-02 · CEN-2313. Relaciona la superficie convexa con el patrón inverso de labra.\nMariano Matallana · 1848\n3. Oposición entre convexidad y concavidad\n«CONVEXA.=Se aplica á la superficie curva exterior de un cuerpo, por oposicion á su superficie interior que es cóncava.»\nVocabulario de arquitectura civil, 1848; PDF p. 96.\nMR-CVX-03 · CEN-2313. Estabiliza la oposición exterior/interior en el vocabulario del siglo XIX.\nLECTURA COMPARADA\nSimonin formula la definición geométrica más concisa; Bails la traduce a una consecuencia operativa de cantería, donde el patrón debe invertir el perfil; Matallana consolida la oposición entre superficie exterior convexa e interior cóncava.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas documentadas: convexo, convexô, convexa, convexidad. La calificación pertenece a superficies y perfiles; no sustituye por sí sola a cilindro, esfera, muro redondo o arco.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación sustantiva reúne la definición de Simonin y su continuidad lexicográfica y constructiva en Bails y Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir con precisión paramentos curvos exteriores, plantillas y cerchas de cantería, evitando confundir convexidad de la pieza con concavidad del hueco.\nRELACIONADO CON\nCóncavo; Convexidad; Curvo; Cilindro; Esfera; Cercha; Paramento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/convexo/",
+    "academic_pdf": "documentos/fichas/convexo.pdf"
+  },
+  {
+    "num": 1167,
+    "cen": "CEN-2397",
+    "term": "Cuadrilongo",
+    "slug": "cuadrilongo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Figura o forma de cuatro lados alargada, equiparada por Simonin al paralelogramo y aplicada por la literatura técnica a bastidores, piezas y plantas rectangulares o paralelográmicas. Su valor es geométrico y dimensional, no ornamental.",
+    "authors_text": "Simonin (1795); Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas: quadrilongo, cuadrilongo, quadrilonga, cuadrilonga. Se relaciona con paralelogramo y rectángulo, sin que toda figura cuadrilátera sea necesariamente cuadrilonga.",
+    "comparison": "La definición de Simonin identifica el término con una clase geométrica; Bails y Matallana muestran su productividad descriptiva en objetos construidos, especialmente bastidores de proporción alargada.",
+    "coverage": "Los testimonios conservan un núcleo estable entre geometría y descripción de piezas de carpintería.",
+    "utility": "Es útil para interpretar plantas, bastidores, losas y piezas descritas por proporción longitudinal en tratados y vocabularios.",
+    "related": [
+      "Paralelogramo",
+      "Rectángulo",
+      "Cuadrilátero",
+      "Bastidor",
+      "Planta"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "QUADRILONGO. adj. Lo mismo que Paralelogramo.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 18."
+      },
+      {
+        "text": "BASTIDOR. s. m. Armazon hecha de quatro maderos en quadro, ó quadrilonga.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 16."
+      }
+    ],
+    "search_text": "Cuadrilongo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFigura o forma de cuatro lados alargada, equiparada por Simonin al paralelogramo y aplicada por la literatura técnica a bastidores, piezas y plantas rectangulares o paralelográmicas. Su valor es geométrico y dimensional, no ornamental.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2397 · CUADRILONGO · 3 TESTIMONIOS\nSimonin · 1795\n1. Equivalencia geométrica\n«QUADRILONGO. adj. Lo mismo que Paralelogramo.»\nArte de la montea, Madrid, 1795; PDF p. 18.\nMR-CUA-01 · CEN-2397. Fija la equivalencia con paralelogramo.\nBenito Bails · 1802\n2. Aplicación a un bastidor\n«BASTIDOR. s. m. Armazon hecha de quatro maderos en quadro, ó quadrilonga.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 16.\nMR-CUA-02 · CEN-2397. Aplica la forma cuadrilonga a una armazón de cuatro maderos.\nMariano Matallana · 1848\n3. Bastidor cuadrado o cuadrilongo\n«BASTIDOR.=Obra ó armazon mecánica por lo comun cuadrada ó cuadrilonga, formada entonces de cuatro listones de madera...»\nVocabulario de arquitectura civil, 1848; PDF p. 60.\nMR-CUA-03 · CEN-2397. Confirma el uso dimensional en carpintería y cerramientos.\nLECTURA COMPARADA\nLa definición de Simonin identifica el término con una clase geométrica; Bails y Matallana muestran su productividad descriptiva en objetos construidos, especialmente bastidores de proporción alargada.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: quadrilongo, cuadrilongo, quadrilonga, cuadrilonga. Se relaciona con paralelogramo y rectángulo, sin que toda figura cuadrilátera sea necesariamente cuadrilonga.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios conservan un núcleo estable entre geometría y descripción de piezas de carpintería.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar plantas, bastidores, losas y piezas descritas por proporción longitudinal en tratados y vocabularios.\nRELACIONADO CON\nParalelogramo; Rectángulo; Cuadrilátero; Bastidor; Planta\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/cuadrilongo/",
+    "academic_pdf": "documentos/fichas/cuadrilongo.pdf"
+  },
+  {
+    "num": 1168,
+    "cen": "CEN-2430",
+    "term": "Curvatura",
+    "slug": "curvatura",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Inclinación continua de una línea que adopta forma de arco. En montea y cantería la curvatura no es sólo una cualidad visual: determina trazados, plantillas, lechos y correcciones necesarias para labrar dovelas y superficies abovedadas.",
+    "authors_text": "Simonin (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: curvatura; curva como sustantivo relacionado; curvo como adjetivo. No equivale a arco: la curvatura es una propiedad geométrica aplicable a líneas, superficies y piezas.",
+    "comparison": "Simonin reduce el concepto a la forma de arco; Bails muestra que esa forma actúa como criterio de denominación y clasificación de la vuelta. La voz enlaza, por tanto, geometría y lectura constructiva.",
+    "coverage": "La evidencia principal procede de Simonin y Bails, con aplicaciones reiteradas en arcos, bóvedas y piezas curvas.",
+    "utility": "Aporta una categoría precisa para analizar trazados, deformaciones, perfiles de intradós y trasdós y operaciones de montea.",
+    "related": [
+      "Curvo",
+      "Curva",
+      "Arco",
+      "Bóveda",
+      "Cercha",
+      "Intradós",
+      "Trasdós"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "CURVATURA. s. f. Inclinacion qualquiera de una línea en forma de Arco.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 14."
+      },
+      {
+        "text": "VUELTA DEL ARCO Ó BÓVEDA. La curvatura que tiene, segun la qual tomó el nombre; pues si es semicircular [...] se dirá que [...] es de medio punto...",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 112."
+      }
+    ],
+    "search_text": "Curvatura\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInclinación continua de una línea que adopta forma de arco. En montea y cantería la curvatura no es sólo una cualidad visual: determina trazados, plantillas, lechos y correcciones necesarias para labrar dovelas y superficies abovedadas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2430 · CURVATURA · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«CURVATURA. s. f. Inclinacion qualquiera de una línea en forma de Arco.»\nArte de la montea, Madrid, 1795; PDF p. 14.\nMR-CUR-01 · CEN-2430. Define el término por la desviación continua de la línea respecto de la recta.\nBenito Bails · 1802\n2. Curvatura del arco o bóveda\n«VUELTA DEL ARCO Ó BÓVEDA. La curvatura que tiene, segun la qual tomó el nombre; pues si es semicircular [...] se dirá que [...] es de medio punto...»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 112.\nMR-CUR-02 · CEN-2430. Vincula la curvatura con la clasificación geométrica de arcos y bóvedas.\nLECTURA COMPARADA\nSimonin reduce el concepto a la forma de arco; Bails muestra que esa forma actúa como criterio de denominación y clasificación de la vuelta. La voz enlaza, por tanto, geometría y lectura constructiva.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: curvatura; curva como sustantivo relacionado; curvo como adjetivo. No equivale a arco: la curvatura es una propiedad geométrica aplicable a líneas, superficies y piezas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia principal procede de Simonin y Bails, con aplicaciones reiteradas en arcos, bóvedas y piezas curvas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta una categoría precisa para analizar trazados, deformaciones, perfiles de intradós y trasdós y operaciones de montea.\nRELACIONADO CON\nCurvo; Curva; Arco; Bóveda; Cercha; Intradós; Trasdós\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/curvatura/",
+    "academic_pdf": "documentos/fichas/curvatura.pdf"
+  },
+  {
+    "num": 1169,
+    "cen": "CEN-2431",
+    "term": "Curvo",
+    "slug": "curvo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lo que adopta una forma arqueada o no rectilínea. En arquitectura y construcción el adjetivo se aplica a maderos, superficies, arcos, bóvedas y miembros cuyo perfil responde a una curvatura deliberada.",
+    "authors_text": "Simonin (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: curvo, curva, curvos, curvas; arqueado como equivalencia descriptiva. No confundir con combado cuando éste implica deformación o convexidad accidental.",
+    "comparison": "Simonin ofrece el valor general; Bails lo sitúa en la materialidad de la carpintería, donde la curvatura caracteriza pares y camones. La voz funciona como descriptor transversal de geometría y construcción.",
+    "coverage": "La documentación confirma un uso geométrico general y aplicaciones constructivas específicas.",
+    "utility": "Permite describir piezas y superficies no rectas sin imponer una tipología de arco o bóveda determinada.",
+    "related": [
+      "Curvatura",
+      "Arqueado",
+      "Camón",
+      "Arco",
+      "Bóveda",
+      "Cercha"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "CURVO. adj. Lo que es en forma curva ó arqueado.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 14."
+      },
+      {
+        "text": "CAMON. s. m. Madero principal de una armadura de forma curva: los pares curvos son Camones.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 21."
+      }
+    ],
+    "search_text": "Curvo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLo que adopta una forma arqueada o no rectilínea. En arquitectura y construcción el adjetivo se aplica a maderos, superficies, arcos, bóvedas y miembros cuyo perfil responde a una curvatura deliberada.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2431 · CURVO · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«CURVO. adj. Lo que es en forma curva ó arqueado.»\nArte de la montea, Madrid, 1795; PDF p. 14.\nMR-CVO-01 · CEN-2431. Establece la equivalencia entre forma curva y arqueada.\nBenito Bails · 1802\n2. Madero curvo de armadura\n«CAMON. s. m. Madero principal de una armadura de forma curva: los pares curvos son Camones.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 21.\nMR-CVO-02 · CEN-2431. Documenta la aplicación del adjetivo a elementos de carpintería de armaduras.\nLECTURA COMPARADA\nSimonin ofrece el valor general; Bails lo sitúa en la materialidad de la carpintería, donde la curvatura caracteriza pares y camones. La voz funciona como descriptor transversal de geometría y construcción.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: curvo, curva, curvos, curvas; arqueado como equivalencia descriptiva. No confundir con combado cuando éste implica deformación o convexidad accidental.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación confirma un uso geométrico general y aplicaciones constructivas específicas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir piezas y superficies no rectas sin imponer una tipología de arco o bóveda determinada.\nRELACIONADO CON\nCurvatura; Arqueado; Camón; Arco; Bóveda; Cercha\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/curvo/",
+    "academic_pdf": "documentos/fichas/curvo.pdf"
+  },
+  {
+    "num": 1170,
+    "cen": "CEN-2619",
+    "term": "Embecadura",
+    "slug": "embecadura",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conjunto o zona lateral de una bóveda comprendida desde los arranques hacia el espinazo y asociada a las dovelas intermedias, al relleno de trasdós y a la transmisión del empuje. La tradición distingue la embecadura como ámbito constructivo donde se concentra y encauza parte del esfuerzo de la bóveda.",
+    "authors_text": "Simonin (1795); Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: embecadura, embecaduras. Bails relaciona costados y enjutas con el término; el uso debe distinguirse de trasdós completo, espinazo y arranque.",
+    "comparison": "Simonin y Bails fijan la embecadura como parte o espacio del trasdós de una bóveda. Rejón conserva una delimitación entre aristas o esquilfes, mientras Matallana explicita el recorrido desde el arranque hasta el espinazo. El conjunto muestra una misma zona constructiva descrita desde su límite geométrico y desde su volumen de relleno o trasdós.",
+    "coverage": "La documentación pertinente se concentra en tratados y vocabularios de bóvedas entre los siglos XVII y XIX. Se integran usos definitorios y constructivos que distinguen embecadura de una mera mención a bóveda, trasdós o enjuta.",
+    "utility": "Es clave para estudiar rellenos de bóveda, empujes, botareles, estribos y patologías por separación de muros.",
+    "related": [
+      "Bóveda",
+      "Trasdós",
+      "Espinazo",
+      "Empuje",
+      "Botarel",
+      "Estribo",
+      "Enjuta",
+      "Dovela"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Conjunto de las Dobelas de un Arco, no comprehendidas la clave ni las contra-claves, cuyo nombre se dá tambien al relleno ó macizo que se hace entre el trasdos de la Bóveda, y el Muro contiguo.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 14."
+      },
+      {
+        "text": "Botarel. Arco apoyado contra las embecaduras de una Bóveda para contrarrestar su empuje, é impedir la separacion de los muros sobre que estriva.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 11."
+      }
+    ],
+    "search_text": "Embecadura\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConjunto o zona lateral de una bóveda comprendida desde los arranques hacia el espinazo y asociada a las dovelas intermedias, al relleno de trasdós y a la transmisión del empuje. La tradición distingue la embecadura como ámbito constructivo donde se concentra y encauza parte del esfuerzo de la bóveda.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2619 · EMBECADURA · 5 TESTIMONIOS\nSimonin · 1795\n1. Definición de la zona de dovelas y relleno\n«Conjunto de las Dobelas de un Arco, no comprehendidas la clave ni las contra-claves, cuyo nombre se dá tambien al relleno ó macizo que se hace entre el trasdos de la Bóveda, y el Muro contiguo.»\nArte de la montea, Madrid, 1795; PDF p. 14.\nMR-EMB-01 · CEN-2619. Integra pieza abovedada y relleno contiguo bajo una misma denominación.\nSimonin · 1795\n2. Relación con el botarel\n«Botarel. Arco apoyado contra las embecaduras de una Bóveda para contrarrestar su empuje, é impedir la separacion de los muros sobre que estriva.»\nArte de la montea, Madrid, 1795; PDF p. 11.\nMR-EMB-02 · CEN-2619. Sitúa la embecadura en el recorrido estructural del empuje.\nBenito Bails · 1802\n3. Definición espacial\n«EMBECADURAS. s. f. pl. El trasdos de una bóveda desde su arranque hasta el espinazo; ó por mejor decir, el espacio que hay de cada lado del espinazo de una bóveda entre la horizontal que por él pasa y el trasdos.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 39.\nMR-EMB-03 · CEN-2619. Precisa geométricamente el ámbito lateral respecto del espinazo y el trasdós.\nDiego Antonio Rejón de Silva · 1788\n4. Trozo de bóveda entre aristas o esquilfes\n«EMBECADURA. s. f. A. El trozo de bóveda comprehendido entre dos aristas ó dos esquilfes.»\nDiccionario de las Nobles Artes, 1788, entrada «Embecadura», PDF p. 100.\nMR-EMB-04 · CEN-2619. Cotejo visual directo. Fija una delimitación geométrica del sector de bóveda.\nMariano Matallana · 1848\n5. Trasdós desde el arranque hasta el espinazo\n«EMBECADURA.=El trasdos de una bóveda desde su arranque hasta el espinazo; ó por mejor decir, el espacio que hay…»\nVocabulario de Arquitectura Civil, 1848, entrada «Embecadura», PDF p. 120.\nMR-EMB-05 · CEN-2619. Cotejo visual directo. Amplía la voz al espacio comprendido en el trasdós hasta la clave o espinazo.\nLECTURA COMPARADA\nSimonin y Bails fijan la embecadura como parte o espacio del trasdós de una bóveda. Rejón conserva una delimitación entre aristas o esquilfes, mientras Matallana explicita el recorrido desde el arranque hasta el espinazo. El conjunto muestra una misma zona constructiva descrita desde su límite geométrico y desde su volumen de relleno o trasdós.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: embecadura, embecaduras. Bails relaciona costados y enjutas con el término; el uso debe distinguirse de trasdós completo, espinazo y arranque.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación pertinente se concentra en tratados y vocabularios de bóvedas entre los siglos XVII y XIX. Se integran usos definitorios y constructivos que distinguen embecadura de una mera mención a bóveda, trasdós o enjuta.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para estudiar rellenos de bóveda, empujes, botareles, estribos y patologías por separación de muros.\nRELACIONADO CON\nBóveda; Trasdós; Espinazo; Empuje; Botarel; Estribo; Enjuta; Dovela\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/embecadura/",
+    "academic_pdf": "documentos/fichas/embecadura.pdf"
+  },
+  {
+    "num": 1171,
+    "cen": "CEN-2747",
+    "term": "Entriega",
+    "slug": "entriega",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Profundidad o longitud con que una piedra, sillar, columna o madero penetra en un muro. La medida de la entriega expresa la trabazón material de la pieza con la fábrica y se opone al paramento o parte visible.",
+    "authors_text": "Simonin (1795); Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Fray Lorenzo de San Nicolás (1639).",
+    "authors": [
+      "Simonin",
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Fray Lorenzo de San Nicolás"
+    ],
+    "years": [
+      1795,
+      1802,
+      1788,
+      1639
+    ],
+    "centuries": [
+      "XVII",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: entriega, entrega. Se relaciona con cola de piedra y tizón; no equivale al espesor total del muro ni al paramento visible.",
+    "comparison": "San Nicolás emplea entriega como grueso efectivo de una pieza durante la labra; Simonin y Rejón la definen por la porción de piedra que entra en el muro y la relacionan con tizón. Bails mantiene la equivalencia y extiende la lectura a sillares, columnas u otras piezas recibidas en fábrica.",
+    "coverage": "Los testimonios útiles reúnen definición lexicográfica y uso constructivo. La búsqueda separó entriega/entrega como penetración de piezas de los usos generales del verbo entregar.",
+    "utility": "Permite valorar trabazón, anclaje y profundidad de apoyo de sillares, columnas y maderos en fábricas históricas.",
+    "related": [
+      "Entrega",
+      "Tizón",
+      "Cola de piedra",
+      "Sillar",
+      "Muro",
+      "Empotramiento",
+      "Paramento"
+    ],
+    "themes": [
+      "Cantería",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ENTRIEGA. s. f. El grueso de la Piedra que entra en una Pared.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 14."
+      },
+      {
+        "text": "ENTREGA ó ENTRIEGA. s. f. Lo que un sillar, columna, ó madero va metido en un muro. Para expresar que un sillar va metido dos pies en una pared, se dice que tiene dos pies de entrega.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 43."
+      }
+    ],
+    "search_text": "Entriega\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nProfundidad o longitud con que una piedra, sillar, columna o madero penetra en un muro. La medida de la entriega expresa la trabazón material de la pieza con la fábrica y se opone al paramento o parte visible.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2747 · ENTRIEGA · 4 TESTIMONIOS\nSimonin · 1795\n1. Definición en piedra\n«ENTRIEGA. s. f. El grueso de la Piedra que entra en una Pared.»\nArte de la montea, Madrid, 1795; PDF p. 14.\nMR-ENT-01 · CEN-2747. Fija el término como porción empotrada de la piedra.\nBenito Bails · 1802\n2. Extensión a sillar, columna y madero\n«ENTREGA ó ENTRIEGA. s. f. Lo que un sillar, columna, ó madero va metido en un muro. Para expresar que un sillar va metido dos pies en una pared, se dice que tiene dos pies de entrega.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 43.\nMR-ENT-02 · CEN-2747. Amplía el concepto a distintos materiales y explicita su medición.\nDiego Antonio Rejón de Silva · 1788\n3. Grueso de piedra que entra en la pared\n«ENTRIEGA. s. f. A. El grueso de la piedra, que entra en una pared. Tambien se llama tizón.»\nDiccionario de las Nobles Artes, 1788, entrada «Entriega», PDF p. 108.\nMR-ENT-03 · CEN-2747. Cotejo visual directo. Define penetración y la vincula con la voz tizón.\nFray Lorenzo de San Nicolás · 1639\n4. Entriega o grueso en la labra de una pieza\n«…y su entriega, o grueso labrarás tambien á esquadra con el paramento…»\nArte y uso de architectura, primera parte, 1639, tratado de cortes, PDF p. 206.\nMR-ENT-04 · CEN-2747. Cotejo visual directo. Documenta la entrega como espesor efectivo de penetración en una operación de labra.\nLECTURA COMPARADA\nSan Nicolás emplea entriega como grueso efectivo de una pieza durante la labra; Simonin y Rejón la definen por la porción de piedra que entra en el muro y la relacionan con tizón. Bails mantiene la equivalencia y extiende la lectura a sillares, columnas u otras piezas recibidas en fábrica.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: entriega, entrega. Se relaciona con cola de piedra y tizón; no equivale al espesor total del muro ni al paramento visible.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios útiles reúnen definición lexicográfica y uso constructivo. La búsqueda separó entriega/entrega como penetración de piezas de los usos generales del verbo entregar.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite valorar trabazón, anclaje y profundidad de apoyo de sillares, columnas y maderos en fábricas históricas.\nRELACIONADO CON\nEntrega; Tizón; Cola de piedra; Sillar; Muro; Empotramiento; Paramento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/entriega/",
+    "academic_pdf": "documentos/fichas/entriega.pdf"
+  },
+  {
+    "num": 1172,
+    "cen": "CEN-2815",
+    "term": "Esférico",
+    "slug": "esferico",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lo que presenta la forma de una esfera. En arquitectura la cualidad esférica caracteriza especialmente bóvedas, casquetes y superficies de doble curvatura cuyo modelo geométrico procede de la esfera.",
+    "authors_text": "Simonin (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: esférico, esférica; esfera; bóveda esférica, media naranja. No toda bóveda curva es esférica.",
+    "comparison": "Simonin define la cualidad geométrica; Bails muestra su traducción constructiva en la bóveda, donde la forma se entiende como media esfera hueca.",
+    "coverage": "La documentación combina definición y aplicación constructiva directa.",
+    "utility": "Facilita distinguir superficies esféricas de cilíndricas, cónicas o elípticas en cúpulas y bóvedas.",
+    "related": [
+      "Esfera",
+      "Bóveda esférica",
+      "Media naranja",
+      "Casquete",
+      "Curvatura"
+    ],
+    "themes": [
+      "Proporción",
+      "Estructuras curvas"
+    ],
+    "quotes": [
+      {
+        "text": "ESFÉRICO. adj. Lo que tiene la forma de una Esfera.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 15."
+      },
+      {
+        "text": "BÓVEDA ESFÉRICA. La que es mitad de una esfera ó bola hueca.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 18."
+      }
+    ],
+    "search_text": "Esférico\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLo que presenta la forma de una esfera. En arquitectura la cualidad esférica caracteriza especialmente bóvedas, casquetes y superficies de doble curvatura cuyo modelo geométrico procede de la esfera.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-2815 · ESFÉRICO · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«ESFÉRICO. adj. Lo que tiene la forma de una Esfera.»\nArte de la montea, Madrid, 1795; PDF p. 15.\nMR-ESF-01 · CEN-2815. Fija la relación directa con el sólido esférico.\nBenito Bails · 1802\n2. Bóveda esférica\n«BÓVEDA ESFÉRICA. La que es mitad de una esfera ó bola hueca.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 18.\nMR-ESF-02 · CEN-2815. Aplica la geometría esférica a una tipología de bóveda.\nLECTURA COMPARADA\nSimonin define la cualidad geométrica; Bails muestra su traducción constructiva en la bóveda, donde la forma se entiende como media esfera hueca.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: esférico, esférica; esfera; bóveda esférica, media naranja. No toda bóveda curva es esférica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación combina definición y aplicación constructiva directa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nFacilita distinguir superficies esféricas de cilíndricas, cónicas o elípticas en cúpulas y bóvedas.\nRELACIONADO CON\nEsfera; Bóveda esférica; Media naranja; Casquete; Curvatura\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/esferico/",
+    "academic_pdf": "documentos/fichas/esferico.pdf"
+  },
+  {
+    "num": 1173,
+    "cen": "CEN-3024",
+    "term": "Geométrico",
+    "slug": "geometrico",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Calificación del dibujo o plano que representa los cuerpos conforme a sus dimensiones y proporciones, mediante proyecciones paralelas y sin los escorzos propios de la perspectiva. En arquitectura sirve para obtener plantas, alzados y perfiles mensurables.",
+    "authors_text": "Simonin (1795); Benito Bails (1802).",
+    "authors": [
+      "Simonin",
+      "Benito Bails"
+    ],
+    "years": [
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: geométrico, geométrica; dibujo geométrico; plano geométrico. Se relaciona con planta, alzado, perfil, proyección y perspectiva.",
+    "comparison": "Simonin explica el mecanismo proyectivo; Bails lo formula desde la función del plano arquitectónico. Ambos oponen la mensurabilidad geométrica a la alteración visual dependiente del punto de vista.",
+    "coverage": "La evidencia definitoria se concentra en Simonin y Bails y es coherente con su uso técnico en montea.",
+    "utility": "Es fundamental para interpretar dibujos históricos como documentos métricos y distinguirlos de vistas perspectívicas.",
+    "related": [
+      "Dibujo",
+      "Plano",
+      "Proyección",
+      "Planta",
+      "Alzado",
+      "Perfil",
+      "Perspectiva"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Modo de representar un objeto, el qual consiste en suponer que de cada uno de los puntos de las líneas visibles de este objeto parten líneas paralelas entre sí sobre una superficie qualquiera [...] de donde se sigue que en un dibujo Geométrico no se ven las partes laterales escorzadas, que expresan los dibujos perspectivos.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 15."
+      },
+      {
+        "text": "Quando este plano representa los sólidos y espacios con su proporcion natural, se llama Plano geométrico: quando está sacado con arreglo á las leyes de la Perspectiva [...] se llama Plano perspectivo.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, Madrid, 1802; PDF p. 85."
+      }
+    ],
+    "search_text": "Geométrico\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCalificación del dibujo o plano que representa los cuerpos conforme a sus dimensiones y proporciones, mediante proyecciones paralelas y sin los escorzos propios de la perspectiva. En arquitectura sirve para obtener plantas, alzados y perfiles mensurables.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3024 · GEOMÉTRICO · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición del dibujo geométrico\n«Modo de representar un objeto, el qual consiste en suponer que de cada uno de los puntos de las líneas visibles de este objeto parten líneas paralelas entre sí sobre una superficie qualquiera [...] de donde se sigue que en un dibujo Geométrico no se ven las partes laterales escorzadas, que expresan los dibujos perspectivos.»\nArte de la montea, Madrid, 1795; PDF p. 15.\nMR-GEO-01 · CEN-3024. Distingue la proyección geométrica de la representación perspectívica.\nBenito Bails · 1802\n2. Plano geométrico\n«Quando este plano representa los sólidos y espacios con su proporcion natural, se llama Plano geométrico: quando está sacado con arreglo á las leyes de la Perspectiva [...] se llama Plano perspectivo.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 85.\nMR-GEO-02 · CEN-3024. Confirma el criterio de proporción natural frente a la perspectiva.\nLECTURA COMPARADA\nSimonin explica el mecanismo proyectivo; Bails lo formula desde la función del plano arquitectónico. Ambos oponen la mensurabilidad geométrica a la alteración visual dependiente del punto de vista.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: geométrico, geométrica; dibujo geométrico; plano geométrico. Se relaciona con planta, alzado, perfil, proyección y perspectiva.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia definitoria se concentra en Simonin y Bails y es coherente con su uso técnico en montea.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs fundamental para interpretar dibujos históricos como documentos métricos y distinguirlos de vistas perspectívicas.\nRELACIONADO CON\nDibujo; Plano; Proyección; Planta; Alzado; Perfil; Perspectiva\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/geometrico/",
+    "academic_pdf": "documentos/fichas/geometrico.pdf"
+  },
+  {
+    "num": 1174,
+    "cen": "CEN-3115",
+    "term": "Hexágono",
+    "slug": "hexagono",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Polígono de seis lados. En montea la figura hexagonal funciona como planta de bóvedas y recintos y obliga a coordinar seis lados, ángulos y encuentros en el trazado de la fábrica.",
+    "authors_text": "Simonin (1795); Mariano Matallana (1848); Juan de Arfe y Villafañe (1585).",
+    "authors": [
+      "Simonin",
+      "Mariano Matallana",
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1795,
+      1848,
+      1585
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas: exágono, exagono, hexágono, hexagono; exagonal/hexagonal como adjetivos. La grafía con h se estabiliza en usos posteriores.",
+    "comparison": "Arfe vincula el hexágono con la división de la circunferencia y lo aplica también a plantas; Simonin y Matallana estabilizan la definición de figura de seis lados o su equivalencia con exágono. La continuidad combina construcción geométrica y denominación lexicográfica.",
+    "coverage": "La voz se documenta de forma concentrada. Se integran la formulación geométrica temprana de Arfe y las definiciones lexicográficas posteriores, descartando usos puramente numéricos sin figura.",
+    "utility": "Permite identificar plantas y bóvedas de seis lados y seguir el vocabulario geométrico utilizado en montea.",
+    "related": [
+      "Exágono",
+      "Hexagonal",
+      "Polígono",
+      "Bóveda",
+      "Planta"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "EXAGONO. adj. Figura compuesta de seis lados.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 15."
+      },
+      {
+        "text": "EXAGONO.=Polígono de seis lados é igual número de ángulos.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 134."
+      }
+    ],
+    "search_text": "Hexágono\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPolígono de seis lados. En montea la figura hexagonal funciona como planta de bóvedas y recintos y obliga a coordinar seis lados, ángulos y encuentros en el trazado de la fábrica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3115 · HEXÁGONO · 3 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«EXAGONO. adj. Figura compuesta de seis lados.»\nArte de la montea, Madrid, 1795; PDF p. 15.\nMR-HEX-01 · CEN-3115. Define la figura por el número de lados.\nMariano Matallana · 1848\n2. Definición decimonónica\n«EXAGONO.=Polígono de seis lados é igual número de ángulos.»\nVocabulario de arquitectura civil, 1848; PDF p. 134.\nMR-HEX-02 · CEN-3115. Añade la correspondencia entre seis lados y seis ángulos.\nJuan de Arfe y Villafañe · 1585\n3. Hexágono como sexta partición de la circunferencia\n«Hexagono, y sexta parte de circunferencia.»\nDe varia commensuración para la escultura y arquitectura, 1585, PDF p. 82.\nMR-HEX-03 · CEN-3115. Cotejo visual directo. Vincula la figura de seis lados con la división geométrica de la circunferencia.\nLECTURA COMPARADA\nArfe vincula el hexágono con la división de la circunferencia y lo aplica también a plantas; Simonin y Matallana estabilizan la definición de figura de seis lados o su equivalencia con exágono. La continuidad combina construcción geométrica y denominación lexicográfica.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: exágono, exagono, hexágono, hexagono; exagonal/hexagonal como adjetivos. La grafía con h se estabiliza en usos posteriores.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz se documenta de forma concentrada. Se integran la formulación geométrica temprana de Arfe y las definiciones lexicográficas posteriores, descartando usos puramente numéricos sin figura.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar plantas y bóvedas de seis lados y seguir el vocabulario geométrico utilizado en montea.\nRELACIONADO CON\nExágono; Hexagonal; Polígono; Bóveda; Planta\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/hexagono/",
+    "academic_pdf": "documentos/fichas/hexagono.pdf"
+  },
+  {
+    "num": 1175,
+    "cen": "CEN-3136",
+    "term": "Horizontal",
+    "slug": "horizontal",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lo situado a nivel o paralelo al plano del horizonte. La horizontalidad constituye una relación geométrica usada para definir juntas, líneas, impostas, dinteles, superficies y niveles de obra.",
+    "authors_text": "Simonin (1795); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas: horizontal, orizontal; horizontalmente, orizontalmente. La pérdida de h es grafía histórica, no diferencia conceptual.",
+    "comparison": "Simonin fija la equivalencia con nivel; Matallana la conserva en la definición del plano. El término actúa como referencia geométrica para la disposición de múltiples elementos constructivos.",
+    "coverage": "La voz aparece como descriptor transversal; los testimonios seleccionados fijan su núcleo geométrico sin confundirlo con usos meramente circunstanciales.",
+    "utility": "Permite interpretar prescripciones de nivelación, trazados y posición de elementos en fábricas, puertas, bóvedas y armaduras.",
+    "related": [
+      "Horizonte",
+      "Nivel",
+      "Paralela",
+      "Plano",
+      "Línea",
+      "Dintel"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ORIZONTAL. adj. Lo que es paralelo al plano del orizonte ó á nivél.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      },
+      {
+        "text": "Horizontal.=El que es paralelo al horizonte.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 215."
+      }
+    ],
+    "search_text": "Horizontal\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLo situado a nivel o paralelo al plano del horizonte. La horizontalidad constituye una relación geométrica usada para definir juntas, líneas, impostas, dinteles, superficies y niveles de obra.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3136 · HORIZONTAL · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«ORIZONTAL. adj. Lo que es paralelo al plano del orizonte ó á nivél.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-HOR-01 · CEN-3136. Equipara horizontalidad, paralelismo al horizonte y nivel.\nMariano Matallana · 1848\n2. Plano horizontal\n«Horizontal.=El que es paralelo al horizonte.»\nVocabulario de arquitectura civil, 1848; PDF p. 215.\nMR-HOR-02 · CEN-3136. Mantiene la equivalencia geométrica en la clasificación de planos.\nLECTURA COMPARADA\nSimonin fija la equivalencia con nivel; Matallana la conserva en la definición del plano. El término actúa como referencia geométrica para la disposición de múltiples elementos constructivos.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: horizontal, orizontal; horizontalmente, orizontalmente. La pérdida de h es grafía histórica, no diferencia conceptual.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz aparece como descriptor transversal; los testimonios seleccionados fijan su núcleo geométrico sin confundirlo con usos meramente circunstanciales.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar prescripciones de nivelación, trazados y posición de elementos en fábricas, puertas, bóvedas y armaduras.\nRELACIONADO CON\nHorizonte; Nivel; Paralela; Plano; Línea; Dintel\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/horizontal/",
+    "academic_pdf": "documentos/fichas/horizontal.pdf"
+  },
+  {
+    "num": 1176,
+    "cen": "CEN-3137",
+    "term": "Horizonte",
+    "slug": "horizonte",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Círculo aparente que limita la vista del observador en un espacio despejado. En el vocabulario geométrico de la construcción funciona como plano o referencia respecto del cual se establecen horizontal, vertical, nivel e inclinación.",
+    "authors_text": "Simonin (1795); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Simonin",
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1795,
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795."
+    ],
+    "variants": "Formas: horizonte, orizonte. Relacionado con plano del horizonte, horizontal, nivel y vertical.",
+    "comparison": "Simonin condensa la voz como referencia geométrica; Ortiz y Sanz desarrolla el horizonte aparente como círculo llano que separa la parte visible superior e inferior y lo vincula con los puntos de oriente y occidente. La lectura conjunta explica por qué horizontal y nivel toman de él su referencia conceptual.",
+    "coverage": "El segundo pase distinguió usos astronómicos sustantivos de menciones incidentales. La definición geométrica y su función como referencia de nivel constituyen el núcleo pertinente para la terminología arquitectónica.",
+    "utility": "Aclara el sistema de referencias espaciales empleado para describir nivel, plomo, inclinación y paralelismo.",
+    "related": [
+      "Horizontal",
+      "Nivel",
+      "Vertical",
+      "Perpendicular",
+      "Plano"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ORIZONTE. s. m. Círculo que rodea la vista por todos lados, quando se está en un campo raso ó despejado.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      },
+      {
+        "text": "…los puntos de oriente y occidente segun el nivel de la tierra, por donde se divide la parte superior del universo de la inferior, parece formar naturalmente un círculo llano, á que los Matemáticos llaman horizonte.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, trad. Joseph Ortiz y Sanz, 1787, libro IX, PDF p. 155."
+      }
+    ],
+    "search_text": "Horizonte\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCírculo aparente que limita la vista del observador en un espacio despejado. En el vocabulario geométrico de la construcción funciona como plano o referencia respecto del cual se establecen horizontal, vertical, nivel e inclinación.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3137 · HORIZONTE · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«ORIZONTE. s. m. Círculo que rodea la vista por todos lados, quando se está en un campo raso ó despejado.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-HZT-01 · CEN-3137. Define la referencia visual circular del observador.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n2. Horizonte aparente como círculo de división del mundo visible\n«…los puntos de oriente y occidente segun el nivel de la tierra, por donde se divide la parte superior del universo de la inferior, parece formar naturalmente un círculo llano, á que los Matemáticos llaman horizonte.»\nLos diez libros de Arquitectura, trad. Joseph Ortiz y Sanz, 1787, libro IX, PDF p. 155.\nMR-HOR-02 · CEN-3137. Cotejo visual directo. Define el horizonte aparente y lo vincula con nivel, orientación y construcción geométrica.\nLECTURA COMPARADA\nSimonin condensa la voz como referencia geométrica; Ortiz y Sanz desarrolla el horizonte aparente como círculo llano que separa la parte visible superior e inferior y lo vincula con los puntos de oriente y occidente. La lectura conjunta explica por qué horizontal y nivel toman de él su referencia conceptual.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: horizonte, orizonte. Relacionado con plano del horizonte, horizontal, nivel y vertical.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nEl segundo pase distinguió usos astronómicos sustantivos de menciones incidentales. La definición geométrica y su función como referencia de nivel constituyen el núcleo pertinente para la terminología arquitectónica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAclara el sistema de referencias espaciales empleado para describir nivel, plomo, inclinación y paralelismo.\nRELACIONADO CON\nHorizontal; Nivel; Vertical; Perpendicular; Plano\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.",
+    "url": "terminos/horizonte/",
+    "academic_pdf": "documentos/fichas/horizonte.pdf"
+  },
+  {
+    "num": 1177,
+    "cen": "CEN-3293",
+    "term": "Lintel",
+    "slug": "lintel",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Elemento superior horizontal de un vano de puerta o ventana, apoyado sobre jambas o machones. Puede ser piedra o madera y, en la tradición de cantería, recibe también dovelas cuando se resuelve como dintel adovelado.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Simonin (1795); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.",
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Benito Bails. Diccionario de arquitectura civil. Madrid, 1802."
+    ],
+    "variants": "Formas: lintel, dintel; lintél en acentuación histórica. No confundir con sobrejamba ornamental ni con arquitrabe de un orden.",
+    "comparison": "Rejón enfatiza la pieza que carga sobre jambas; Simonin abstrae la posición superior horizontal; Bails estabiliza la equivalencia lintel/dintel. En conjunto se conserva la unidad de objeto pese a la variación léxica.",
+    "coverage": "Los testimonios de tres fuentes convergen en posición, apoyo y equivalencia terminológica.",
+    "utility": "Permite identificar el cierre superior de vanos y relacionar su material, apoyo y forma de descarga.",
+    "related": [
+      "Dintel",
+      "Jamba",
+      "Vano",
+      "Puerta",
+      "Ventana",
+      "Sobrejamba",
+      "Arquitrabe"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "LINTEL. La piedra que se atraviesa sobre las jambas de una puerta. Si el lintél es un madero se llama umbral.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788; PDF p. 144."
+      },
+      {
+        "text": "LINTEL. s. m. La parte superior y orizontal de una Puerta ó Ventana.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 16."
+      }
+    ],
+    "search_text": "Lintel\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nElemento superior horizontal de un vano de puerta o ventana, apoyado sobre jambas o machones. Puede ser piedra o madera y, en la tradición de cantería, recibe también dovelas cuando se resuelve como dintel adovelado.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3293 · LINTEL · 3 TESTIMONIOS\nDiego Antonio Rejón de Silva · 1788\n1. Pieza sobre las jambas\n«LINTEL. La piedra que se atraviesa sobre las jambas de una puerta. Si el lintél es un madero se llama umbral.»\nDiccionario de las Nobles Artes, 1788; PDF p. 144.\nMR-LIN-01 · CEN-3293. Define material, posición y apoyo.\nSimonin · 1795\n2. Definición posicional\n«LINTEL. s. m. La parte superior y orizontal de una Puerta ó Ventana.»\nArte de la montea, Madrid, 1795; PDF p. 16.\nMR-LIN-02 · CEN-3293. Fija la posición horizontal superior del vano.\nBenito Bails · 1802\n3. Equivalencia con dintel\n«LINTEL ó DINTEL. Véase DINTEL.»\nDiccionario de arquitectura civil, Madrid, 1802; PDF p. 63.\nMR-LIN-03 · CEN-3293. Confirma la equivalencia terminológica con dintel.\nLECTURA COMPARADA\nRejón enfatiza la pieza que carga sobre jambas; Simonin abstrae la posición superior horizontal; Bails estabiliza la equivalencia lintel/dintel. En conjunto se conserva la unidad de objeto pese a la variación léxica.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: lintel, dintel; lintél en acentuación histórica. No confundir con sobrejamba ornamental ni con arquitrabe de un orden.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de tres fuentes convergen en posición, apoyo y equivalencia terminológica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar el cierre superior de vanos y relacionar su material, apoyo y forma de descarga.\nRELACIONADO CON\nDintel; Jamba; Vano; Puerta; Ventana; Sobrejamba; Arquitrabe\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Simonin. Arte de la montea. Madrid, 1795.\n• Benito Bails. Diccionario de arquitectura civil. Madrid, 1802.",
+    "url": "terminos/lintel/",
+    "academic_pdf": "documentos/fichas/lintel.pdf"
+  },
+  {
+    "num": 1178,
+    "cen": "CEN-3521",
+    "term": "Nicho cuadrado",
+    "slug": "nicho-cuadrado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nicho cuya planta es cuadrada y cuyo remate superior se resuelve horizontalmente. La denominación distingue esta configuración de nichos circulares o construidos en muros curvos.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Simonin (1795).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin"
+    ],
+    "years": [
+      1788,
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.",
+      "Simonin. Arte de la montea. Madrid, 1795."
+    ],
+    "variants": "Formas: nicho quadrado, nicho cuadrado. Se relaciona con nicho general y con configuraciones circular, cóncava y convexa.",
+    "comparison": "Rejón y Simonin coinciden en separar el nicho cuadrado por su geometría frente a la forma semicircular más común. La especificación afecta planta y alzado y justifica una lectura tipológica propia.",
+    "coverage": "La denominación está explícitamente documentada en dos fuentes y aporta rasgos geométricos propios.",
+    "utility": "Es útil para clasificar huecos murarios por planta y remate y evitar llamar hornacina semicircular a configuraciones rectilíneas.",
+    "related": [
+      "Nicho",
+      "Nicho circular",
+      "Nicho en muro cóncavo",
+      "Nicho en muro convexo",
+      "Hornacina",
+      "Paramento"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "NICHO. [...] su planta suele ser un semicírculo [...] alguna vez paralelógramo, y tambien alguna vez en superficie horizontal, en cuyo caso se llama nicho quadrado.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788; PDF p. 161."
+      },
+      {
+        "text": "Quadrado. Nicho cuya planta es quadrada, y su altura orizontal.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      }
+    ],
+    "search_text": "Nicho cuadrado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNicho cuya planta es cuadrada y cuyo remate superior se resuelve horizontalmente. La denominación distingue esta configuración de nichos circulares o construidos en muros curvos.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3521 · NICHO CUADRADO · 2 TESTIMONIOS\nDiego Antonio Rejón de Silva · 1788\n1. Nicho de planta rectangular o cuadrada\n«NICHO. [...] su planta suele ser un semicírculo [...] alguna vez paralelógramo, y tambien alguna vez en superficie horizontal, en cuyo caso se llama nicho quadrado.»\nDiccionario de las Nobles Artes, 1788; PDF p. 161.\nMR-NCQ-01 · CEN-3521. Documenta la denominación por la geometría de planta y remate.\nSimonin · 1795\n2. Definición específica\n«Quadrado. Nicho cuya planta es quadrada, y su altura orizontal.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-NCQ-02 · CEN-3521. Fija planta cuadrada y terminación horizontal.\nLECTURA COMPARADA\nRejón y Simonin coinciden en separar el nicho cuadrado por su geometría frente a la forma semicircular más común. La especificación afecta planta y alzado y justifica una lectura tipológica propia.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: nicho quadrado, nicho cuadrado. Se relaciona con nicho general y con configuraciones circular, cóncava y convexa.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa denominación está explícitamente documentada en dos fuentes y aporta rasgos geométricos propios.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para clasificar huecos murarios por planta y remate y evitar llamar hornacina semicircular a configuraciones rectilíneas.\nRELACIONADO CON\nNicho; Nicho circular; Nicho en muro cóncavo; Nicho en muro convexo; Hornacina; Paramento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diego Antonio Rejón de Silva. Diccionario de las Nobles Artes. 1788.\n• Simonin. Arte de la montea. Madrid, 1795.",
+    "url": "terminos/nicho-cuadrado/",
+    "academic_pdf": "documentos/fichas/nicho-cuadrado.pdf"
+  },
+  {
+    "num": 1179,
+    "cen": "CEN-3522",
+    "term": "Nicho en ángulo entrante o saliente",
+    "slug": "nicho-en-angulo-entrante-o-saliente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nicho practicado en el encuentro de dos muros, ya sea en un rincón interior —ángulo entrante— o en una arista exterior —ángulo saliente—. La denominación depende de la posición del hueco respecto de los dos paramentos concurrentes.",
+    "authors_text": "Simonin (1795).",
+    "authors": [
+      "Simonin"
+    ],
+    "years": [
+      1795
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795."
+    ],
+    "variants": "Formas: nicho en ángulo entrante; nicho en ángulo saliente; nicho en ángulo. Entrante corresponde a rincón interior y saliente a arista exterior.",
+    "comparison": "Simonin documenta expresamente la pareja entrante/saliente como una sola clase relacional de nicho. El valor no deriva sólo del nicho general, sino de su inserción geométrica en un encuentro mural.",
+    "coverage": "El testimonio directo aporta denominación y condición geométrica suficientes para reconocer la solución específica.",
+    "utility": "Permite identificar nichos de esquina y distinguirlos de huecos practicados en un solo paramento plano o curvo.",
+    "related": [
+      "Nicho",
+      "Ángulo entrante",
+      "Ángulo saliente",
+      "Muro",
+      "Arista",
+      "Rincón",
+      "Hornacina"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "En ángulo entrante ó saliente. Nicho construido en el ángulo formado por dos Muros, ya interior ó exteriormente.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      }
+    ],
+    "search_text": "Nicho en ángulo entrante o saliente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNicho practicado en el encuentro de dos muros, ya sea en un rincón interior —ángulo entrante— o en una arista exterior —ángulo saliente—. La denominación depende de la posición del hueco respecto de los dos paramentos concurrentes.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3522 · NICHO EN ÁNGULO ENTRANTE O SALIENTE · 1 TESTIMONIO\nSimonin · 1795\n1. Definición posicional\n«En ángulo entrante ó saliente. Nicho construido en el ángulo formado por dos Muros, ya interior ó exteriormente.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-NAE-01 · CEN-3522. Define las dos posiciones posibles a partir del encuentro de muros.\nLECTURA COMPARADA\nSimonin documenta expresamente la pareja entrante/saliente como una sola clase relacional de nicho. El valor no deriva sólo del nicho general, sino de su inserción geométrica en un encuentro mural.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: nicho en ángulo entrante; nicho en ángulo saliente; nicho en ángulo. Entrante corresponde a rincón interior y saliente a arista exterior.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nEl testimonio directo aporta denominación y condición geométrica suficientes para reconocer la solución específica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar nichos de esquina y distinguirlos de huecos practicados en un solo paramento plano o curvo.\nRELACIONADO CON\nNicho; Ángulo entrante; Ángulo saliente; Muro; Arista; Rincón; Hornacina\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.",
+    "url": "terminos/nicho-en-angulo-entrante-o-saliente/",
+    "academic_pdf": "documentos/fichas/nicho-en-angulo-entrante-o-saliente.pdf"
+  },
+  {
+    "num": 1180,
+    "cen": "CEN-3549",
+    "term": "Oblicua",
+    "slug": "oblicua",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Línea, superficie o dirección que encuentra otra sin formar ángulo recto y que tampoco coincide con una relación paralela. En construcción se aplica a lados, cortes, juntas, fachadas y ejes desviados respecto de la referencia principal.",
+    "authors_text": "Simonin (1795); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas: oblicua, oblíqua, oblicuo, oblícuo; oblicuidad. Se opone a perpendicular y puede distinguirse de paralelo.",
+    "comparison": "Simonin fija la relación geométrica; Matallana la aplica a los lados de un arco en contraviaje. La voz funciona como descriptor de desviación respecto de la escuadra.",
+    "coverage": "La definición y los usos constructivos documentan una categoría geométrica operativa.",
+    "utility": "Es útil para leer esviajes, encuentros no ortogonales, arcos, bóvedas y fachadas fuera de escuadra.",
+    "related": [
+      "Oblicuo",
+      "Oblicuidad",
+      "Perpendicular",
+      "Paralela",
+      "Escuadra",
+      "Esviaje",
+      "Contraviaje"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "OBLIQUA. adj. Línea ó superficie que no forma esquadra ó ángulo recto en el encuentro con otra.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      },
+      {
+        "text": "CONTRA-VIAJE.=Los lados oblícuos de un arco.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 96."
+      }
+    ],
+    "search_text": "Oblicua\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLínea, superficie o dirección que encuentra otra sin formar ángulo recto y que tampoco coincide con una relación paralela. En construcción se aplica a lados, cortes, juntas, fachadas y ejes desviados respecto de la referencia principal.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3549 · OBLICUA · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«OBLIQUA. adj. Línea ó superficie que no forma esquadra ó ángulo recto en el encuentro con otra.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-OBL-01 · CEN-3549. Define la oblicuidad por ausencia de perpendicularidad.\nMariano Matallana · 1848\n2. Oblicuidad en arcos\n«CONTRA-VIAJE.=Los lados oblícuos de un arco.»\nVocabulario de arquitectura civil, 1848; PDF p. 96.\nMR-OBL-02 · CEN-3549. Muestra la aplicación del adjetivo a la geometría de un arco.\nLECTURA COMPARADA\nSimonin fija la relación geométrica; Matallana la aplica a los lados de un arco en contraviaje. La voz funciona como descriptor de desviación respecto de la escuadra.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: oblicua, oblíqua, oblicuo, oblícuo; oblicuidad. Se opone a perpendicular y puede distinguirse de paralelo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa definición y los usos constructivos documentan una categoría geométrica operativa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para leer esviajes, encuentros no ortogonales, arcos, bóvedas y fachadas fuera de escuadra.\nRELACIONADO CON\nOblicuo; Oblicuidad; Perpendicular; Paralela; Escuadra; Esviaje; Contraviaje\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/oblicua/",
+    "academic_pdf": "documentos/fichas/oblicua.pdf"
+  },
+  {
+    "num": 1181,
+    "cen": "CEN-3676",
+    "term": "Paralela",
+    "slug": "paralela",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Línea o superficie cuyos puntos se mantienen a igual distancia de otra. En montea y construcción el paralelismo organiza proyecciones, planos, juntas, caras y direcciones que no convergen entre sí.",
+    "authors_text": "Simonin (1795); Mariano Matallana (1848).",
+    "authors": [
+      "Simonin",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1795,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "Formas: paralela, paralelo, paralelas, paralelos. Se relaciona con equidistancia, plano, línea y horizontal; horizontal es un caso referido al horizonte, no sinónimo universal.",
+    "comparison": "Simonin y Matallana coinciden en el criterio de equidistancia. La voz se desplaza sin cambio esencial desde la geometría de línea o superficie hacia la clasificación de planos y direcciones constructivas.",
+    "coverage": "Los testimonios seleccionados fijan el núcleo definitorio y controlan aplicaciones en geometría arquitectónica.",
+    "utility": "Permite describir con rigor alineaciones, caras, juntas y sistemas de proyección empleados en montea.",
+    "related": [
+      "Paralelo",
+      "Línea",
+      "Plano",
+      "Horizontal",
+      "Equidistancia",
+      "Proyección"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "PARALELA. adj. Línea ó superficie situada con todos sus puntos, igualmente distantes de otra.",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, Madrid, 1795; PDF p. 17."
+      },
+      {
+        "text": "Paralelo.=El equidistante en todos sus puntos de una línea ó de un plano.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848; PDF p. 215."
+      }
+    ],
+    "search_text": "Paralela\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLínea o superficie cuyos puntos se mantienen a igual distancia de otra. En montea y construcción el paralelismo organiza proyecciones, planos, juntas, caras y direcciones que no convergen entre sí.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-3676 · PARALELA · 2 TESTIMONIOS\nSimonin · 1795\n1. Definición\n«PARALELA. adj. Línea ó superficie situada con todos sus puntos, igualmente distantes de otra.»\nArte de la montea, Madrid, 1795; PDF p. 17.\nMR-PAR-01 · CEN-3676. Define el paralelismo por equidistancia.\nMariano Matallana · 1848\n2. Plano paralelo\n«Paralelo.=El equidistante en todos sus puntos de una línea ó de un plano.»\nVocabulario de arquitectura civil, 1848; PDF p. 215.\nMR-PAR-02 · CEN-3676. Conserva la equidistancia como criterio para líneas y planos.\nLECTURA COMPARADA\nSimonin y Matallana coinciden en el criterio de equidistancia. La voz se desplaza sin cambio esencial desde la geometría de línea o superficie hacia la clasificación de planos y direcciones constructivas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: paralela, paralelo, paralelas, paralelos. Se relaciona con equidistancia, plano, línea y horizontal; horizontal es un caso referido al horizonte, no sinónimo universal.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios seleccionados fijan el núcleo definitorio y controlan aplicaciones en geometría arquitectónica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite describir con rigor alineaciones, caras, juntas y sistemas de proyección empleados en montea.\nRELACIONADO CON\nParalelo; Línea; Plano; Horizontal; Equidistancia; Proyección\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Mariano Matallana. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/paralela/",
+    "academic_pdf": "documentos/fichas/paralela.pdf"
+  },
+  {
+    "num": 1182,
+    "cen": "CEN-4353",
+    "term": "Talus",
+    "slug": "talus",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz histórica de sentido no unívoco. Simonin remite talus a rampa; Matallana registra «talus ó talud» como escarpa o declive; Mariátegui conserva además una acepción arquitectónica antigua de zócalo o primer estado del edificio después del cimiento. La documentación impide reducirla a una simple remisión léxica. Según el contexto, talus puede nombrar una superficie inclinada o talud y, en testimonios históricos recogidos por Mariátegui, una parte basal del edificio. Esta polisemia exige distinguir cuidadosamente pendiente, basamento y zócalo.",
+    "authors_text": "Simonin (1795); Mariano Matallana (1848); Eduardo de Mariátegui (1876).",
+    "authors": [
+      "Simonin",
+      "Mariano Matallana",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1795,
+      1848,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Matallana, Mariano. Vocabulario de Arquitectura Civil. Madrid, 1848.",
+      "Mariátegui, Eduardo de. Glosario de algunos antiguos vocablos de arquitectura. Madrid, 1876."
+    ],
+    "variants": "Formas: talus; talud; talur. Talud expresa la acepción de escarpa o declive; talur aparece asociado a zócalo. No se equipara automáticamente talus con rampa cuando el contexto describe basamento o primer cuerpo del edificio.",
+    "comparison": "Simonin presenta una remisión abreviada a rampa. Matallana precisa la equivalencia talus/talud por escarpa o declive. Mariátegui aporta una segunda tradición semántica: talus como primer estado del edificio después del cimiento, relacionada además con talur y zócalo. La coexistencia de estos usos impide tratar CEN-4353 como duplicado puro de Rampa.",
+    "coverage": "Los testimonios sustantivos localizados se concentran en Simonin, Matallana y Mariátegui. Se conservaron las acepciones que aportan definición o diferenciación histórica y se descartaron coincidencias etimológicas o ajenas al elemento arquitectónico.",
+    "utility": "Permite distinguir en fuentes históricas una pendiente o escarpa de una acepción basal vinculada con zócalo y arranque del edificio. Evita sustituir automáticamente la voz por rampa cuando la descripción exige otra lectura.",
+    "related": [
+      "Talud",
+      "Rampa",
+      "Escarpa",
+      "Declive",
+      "Zócalo",
+      "Basamento",
+      "Cimiento"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "TALUS. s. m. (Véase Rampa.)",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, 1795, vocabulario, PDF p. 19."
+      },
+      {
+        "text": "TALUS ó TALUD.=Escarpa ó declive.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, entrada «Talus ó Talud», PDF p. 248."
+      }
+    ],
+    "search_text": "Talus\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz histórica de sentido no unívoco. Simonin remite talus a rampa; Matallana registra «talus ó talud» como escarpa o declive; Mariátegui conserva además una acepción arquitectónica antigua de zócalo o primer estado del edificio después del cimiento.\nLa documentación impide reducirla a una simple remisión léxica. Según el contexto, talus puede nombrar una superficie inclinada o talud y, en testimonios históricos recogidos por Mariátegui, una parte basal del edificio. Esta polisemia exige distinguir cuidadosamente pendiente, basamento y zócalo.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4353 · TALUD, RAMPA Y CUERPO BASAL DEL EDIFICIO · 3 TESTIMONIOS\nSimonin · 1795\n1. Remisión lexicográfica a rampa\n«TALUS. s. m. (Véase Rampa.)»\nArte de la montea, 1795, vocabulario, PDF p. 19.\nMR-TAL-01 · CEN-4353. Cotejo visual directo. Testimonia una equivalencia lexicográfica con rampa, pero no agota las acepciones posteriores.\nMariano Matallana · 1848\n2. Talus o talud como escarpa o declive\n«TALUS ó TALUD.=Escarpa ó declive.»\nVocabulario de Arquitectura Civil, 1848, entrada «Talus ó Talud», PDF p. 248.\nMR-TAL-02 · CEN-4353. Cotejo visual directo. Fija una equivalencia con talud y define la geometría inclinada de la voz.\nEduardo de Mariátegui · 1876\n3. Primer estado del edificio después del cimiento\n«TALUS.—“Talus, el primer estado del edificio, despues del cimiento.”»\nGlosario de algunos antiguos vocablos de arquitectura, 1876, entrada «Talus», PDF p. 107.\nMR-TAL-03 · CEN-4353. Cotejo visual directo. Conserva una acepción basal de la voz distinta de la mera pendiente y justifica su autonomía terminológica.\nLECTURA COMPARADA\nSimonin presenta una remisión abreviada a rampa. Matallana precisa la equivalencia talus/talud por escarpa o declive. Mariátegui aporta una segunda tradición semántica: talus como primer estado del edificio después del cimiento, relacionada además con talur y zócalo. La coexistencia de estos usos impide tratar CEN-4353 como duplicado puro de Rampa.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: talus; talud; talur. Talud expresa la acepción de escarpa o declive; talur aparece asociado a zócalo. No se equipara automáticamente talus con rampa cuando el contexto describe basamento o primer cuerpo del edificio.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios sustantivos localizados se concentran en Simonin, Matallana y Mariátegui. Se conservaron las acepciones que aportan definición o diferenciación histórica y se descartaron coincidencias etimológicas o ajenas al elemento arquitectónico.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir en fuentes históricas una pendiente o escarpa de una acepción basal vinculada con zócalo y arranque del edificio. Evita sustituir automáticamente la voz por rampa cuando la descripción exige otra lectura.\nRELACIONADO CON\nTalud; Rampa; Escarpa; Declive; Zócalo; Basamento; Cimiento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Simonin. Arte de la montea. Madrid, 1795.\n• Matallana, Mariano. Vocabulario de Arquitectura Civil. Madrid, 1848.\n• Mariátegui, Eduardo de. Glosario de algunos antiguos vocablos de arquitectura. Madrid, 1876.",
+    "url": "terminos/talus/",
+    "academic_pdf": "documentos/fichas/talus.pdf"
+  },
+  {
+    "num": 1183,
+    "cen": "CEN-4521",
+    "term": "Traga-Luz",
+    "slug": "traga-luz",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Abertura destinada a introducir luz en sótanos, subterráneos u otros espacios que no pueden recibir iluminación mediante una ventana ordinaria. Puede abrirse junto al suelo, en el zócalo o poyo de una fachada, en paredes o techos, y su derrame conduce la luz hacia el interior. Las fuentes relacionan tragaluz con claraboya, lumbrera y respiradero, pero desarrollan rasgos propios de posición, proporción y derrame. Bails prescribe vanos más anchos que altos cuando se sitúan en el zócalo; Matallana amplía el término a aberturas en techos o paredes y Adeline insiste en la conducción descendente de la luz.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Simonin (1795); Benito Bails (1796); Benito Bails (1802); Mariano Matallana (1848); Jules Adeline (1887); P. C. Espinosa (1859); Eduardo de Mariátegui (1876).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin",
+      "Benito Bails",
+      "Mariano Matallana",
+      "J. Adeline",
+      "P. C. Espinosa",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1788,
+      1795,
+      1796,
+      1802,
+      1848,
+      1887,
+      1859,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes. Segovia, 1788.",
+      "Simonin. Arte de la montea. Madrid, 1795.",
+      "Bails, Benito. Arquitectura civil. Madrid, 1796.",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.",
+      "Matallana, Mariano. Vocabulario de Arquitectura Civil. Madrid, 1848.",
+      "Espinosa, P. C. Construcciones de albañilería. Madrid, 1859.",
+      "Mariátegui, Eduardo de. Glosario de algunos antiguos vocablos de arquitectura. Madrid, 1876.",
+      "Adeline, Jules. Vocabulario de términos de arte. Madrid, 1887."
+    ],
+    "variants": "Formas: tragaluz; traga-luz; tragaluces. Equivalentes o próximos: claraboya, lumbrera, respiradero. La equivalencia depende del contexto: tragaluz enfatiza la entrada y conducción de luz, a menudo desde una posición baja o mediante derrame.",
+    "comparison": "Rejón ofrece una definición temprana centrada en la abertura junto al suelo. Simonin remite a lumbrera, pero Bails desarrolla posición, proporción y derrame; Matallana amplía la voz a techos y paredes; Espinosa incorpora el tragaluz a la resolución constructiva de vanos mediante bóveda cónica; Mariátegui confirma su equivalencia funcional con mirilla y lumbrera; Adeline mantiene la asociación con sótanos. La serie demuestra una identidad terminológica suficientemente desarrollada para conservar Traga-Luz como ficha autónoma.",
+    "coverage": "La documentación pertinente atraviesa ocho fuentes históricas entre 1788 y 1887. Se integran definiciones, usos constructivos, reglas proporcionales y equivalencias funcionales cuando aportan información autónoma; las meras coocurrencias quedan fuera del núcleo.",
+    "utility": "Permite reconocer aberturas históricas de iluminación de sótanos y espacios interiores por su posición, derrame y proporción, y distinguirlas de ventanas ordinarias. Resulta útil para interpretar zócalos, antepechos, muros y cubiertas con dispositivos de luz indirecta.",
+    "related": [
+      "Lumbrera",
+      "Claraboya",
+      "Respiradero",
+      "Sótano",
+      "Zócalo",
+      "Poyo",
+      "Vano",
+      "Ventana",
+      "Derrame"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "TRAGALUZ, s. m. A. Claraboya ó abertura que se hace junto al suelo para dar alguna luz a un subterráneo.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, entrada «Tragaluz», PDF p. 221."
+      },
+      {
+        "text": "TRAGA-LUZ. s. m. (Véase lumbrera.)",
+        "author": "Simonin",
+        "year": "1795",
+        "source": "Arte de la montea, 1795, vocabulario, PDF p. 19."
+      }
+    ],
+    "search_text": "Traga-Luz\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAbertura destinada a introducir luz en sótanos, subterráneos u otros espacios que no pueden recibir iluminación mediante una ventana ordinaria. Puede abrirse junto al suelo, en el zócalo o poyo de una fachada, en paredes o techos, y su derrame conduce la luz hacia el interior.\nLas fuentes relacionan tragaluz con claraboya, lumbrera y respiradero, pero desarrollan rasgos propios de posición, proporción y derrame. Bails prescribe vanos más anchos que altos cuando se sitúan en el zócalo; Matallana amplía el término a aberturas en techos o paredes y Adeline insiste en la conducción descendente de la luz.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4521 · ABERTURA DE ILUMINACIÓN, SÓTANO, DERRAME Y POSICIÓN BAJA · 10 TESTIMONIOS\nDiego Antonio Rejón de Silva · 1788\n1. Claraboya o abertura junto al suelo\n«TRAGALUZ, s. m. A. Claraboya ó abertura que se hace junto al suelo para dar alguna luz a un subterráneo.»\nDiccionario de las Nobles Artes, 1788, entrada «Tragaluz», PDF p. 221.\nMR-TRA-01 · CEN-4521. Cotejo visual directo. Define posición, función lumínica y destino subterráneo.\nSimonin · 1795\n2. Remisión histórica a lumbrera\n«TRAGA-LUZ. s. m. (Véase lumbrera.)»\nArte de la montea, 1795, vocabulario, PDF p. 19.\nMR-TRA-02 · CEN-4521. Cotejo visual directo. Registra equivalencia histórica sin cancelar el desarrollo propio documentado en otras fuentes.\nBenito Bails · 1796\n3. Lumbrera, respiradero o tragaluz en sótano\n«G, lumbrera, respiradero ó tragaluz…»\nArquitectura civil, 1796, descripción de sótano, PDF p. 241.\nMR-TRA-03 · CEN-4521. Cotejo visual directo. Sitúa la voz en una solución concreta de iluminación y ventilación de sótanos.\nBenito Bails · 1796\n4. Tragaluz en el antepecho de una tienda\n«F, antepecho de la tienda de piedra dura, en el qual puede haber un tragaluz.»\nArquitectura civil, 1796, PDF p. 268.\nMR-TRA-04 · CEN-4521. Cotejo visual directo. Documenta su inserción constructiva en el antepecho de fachada.\nBenito Bails · 1796\n5. Proporción baja y apaisada del vano\n«El destino de todo respiradero y tragaluz, cuyos vanos siempre están en el poyo ó zócalo de las fachadas, pide que se hagan mas anchos que altos.»\nArquitectura civil, 1796, tratado de vanos, PDF p. 860.\nMR-TRA-05 · CEN-4521. Cotejo visual directo. Aporta una regla proporcional ligada a su posición y función.\nBenito Bails · 1802\n6. Vano con derramo descendente\n«TRAGALUZ. s. m. Vano con derramo de arriba abaxo, cuyo destino es dar luz á un subterraneo, &c.»\nDiccionario de arquitectura civil, 1802, entrada «Tragaluz», PDF p. 108.\nMR-TRA-06 · CEN-4521. Cotejo visual directo. Lexicaliza geometría del derrame y destino lumínico.\nMariano Matallana · 1848\n7. Abertura en techos o paredes\n«TRAGALUZ.=Especie de claraboya ó vano que se abre en los techos ó paredes en lugar de ventana, para que entrando la luz, como por un conducto, la esparza…»\nVocabulario de Arquitectura Civil, 1848, entrada «Tragaluz», PDF p. 256.\nMR-TRA-07 · CEN-4521. Cotejo visual directo. Amplía posiciones posibles y describe conducción y difusión de la luz.\nJules Adeline · 1887\n8. Abertura en forma de respiradero para sótanos\n«Tragaluz.—[Arq.]—Abertura en forma de respiradero destinada á enviar la luz á los sótanos…»\nVocabulario de términos de arte, 1887, entrada «Tragaluz», PDF p. 493.\nMR-TRA-08 · CEN-4521. Cotejo visual directo. Confirma la continuidad finisecular de la función de iluminación baja.\nP. C. Espinosa · 1859\n9. Bóveda cónica sobre tragaluces\n«Cuando haya de construirse una bóveda cónica para cubrir el espacio ocupado por una puerta ó ventana, tragaluz, etc., el cono […] tendrá [su eje] horizontal ó inclinado.»\nConstrucciones de albañilería, 1859, sección de bóvedas cónicas, PDF p. 302.\nMR-TRA-09 · CEN-4521. Cotejo visual directo. Integra el tragaluz en una solución constructiva de derrame o cobertura abovedada.\nEduardo de Mariátegui · 1876\n10. Equivalencia en abertura pequeña de iluminación\n«HORAMBRERA.=AGUJERO. […] Pequeña mirilla, lumbrera ó tragaluz.»\nGlosario de algunos antiguos vocablos de arquitectura, 1876, entrada «Horambrera», PDF p. 73.\nMR-TRA-10 · CEN-4521. Cotejo visual directo. Confirma la continuidad de la voz como abertura pequeña de iluminación.\nLECTURA COMPARADA\nRejón ofrece una definición temprana centrada en la abertura junto al suelo. Simonin remite a lumbrera, pero Bails desarrolla posición, proporción y derrame; Matallana amplía la voz a techos y paredes; Espinosa incorpora el tragaluz a la resolución constructiva de vanos mediante bóveda cónica; Mariátegui confirma su equivalencia funcional con mirilla y lumbrera; Adeline mantiene la asociación con sótanos. La serie demuestra una identidad terminológica suficientemente desarrollada para conservar Traga-Luz como ficha autónoma.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: tragaluz; traga-luz; tragaluces. Equivalentes o próximos: claraboya, lumbrera, respiradero. La equivalencia depende del contexto: tragaluz enfatiza la entrada y conducción de luz, a menudo desde una posición baja o mediante derrame.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación pertinente atraviesa ocho fuentes históricas entre 1788 y 1887. Se integran definiciones, usos constructivos, reglas proporcionales y equivalencias funcionales cuando aportan información autónoma; las meras coocurrencias quedan fuera del núcleo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer aberturas históricas de iluminación de sótanos y espacios interiores por su posición, derrame y proporción, y distinguirlas de ventanas ordinarias. Resulta útil para interpretar zócalos, antepechos, muros y cubiertas con dispositivos de luz indirecta.\nRELACIONADO CON\nLumbrera; Claraboya; Respiradero; Sótano; Zócalo; Poyo; Vano; Ventana; Derrame\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes. Segovia, 1788.\n• Simonin. Arte de la montea. Madrid, 1795.\n• Bails, Benito. Arquitectura civil. Madrid, 1796.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.\n• Matallana, Mariano. Vocabulario de Arquitectura Civil. Madrid, 1848.\n• Espinosa, P. C. Construcciones de albañilería. Madrid, 1859.\n• Mariátegui, Eduardo de. Glosario de algunos antiguos vocablos de arquitectura. Madrid, 1876.\n• Adeline, Jules. Vocabulario de términos de arte. Madrid, 1887.",
+    "url": "terminos/traga-luz/",
+    "academic_pdf": "documentos/fichas/traga-luz.pdf"
+  },
+  {
+    "num": 1184,
+    "cen": "CEN-4688",
+    "term": "Alas",
+    "slug": "alas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Denominación empleada en el vocabulario de Urrea para los lados situados a mano derecha e izquierda. Su sentido histórico es relacional: identifica los dos costados laterales de un objeto, disposición o composición.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma documentada: alas. El plural es constitutivo de la entrada. Debe diferenciarse de ala como cuerpo lateral de edificio cuando esa acepción no esté expresamente documentada en el pasaje.",
+    "comparison": "Urrea conserva una equivalencia directa y breve. La voz no debe ampliarse automáticamente a cualquier ala moderna de edificio: el testimonio acreditado define ante todo una posición lateral derecha/izquierda.",
+    "coverage": "La evidencia directa de 1582 fija una acepción posicional inequívoca; no se incorporan usos modernos ajenos al testimonio.",
+    "utility": "Permite interpretar descripciones bilaterales en disposiciones y elementos arquitectónicos sin proyectar acepciones posteriores.",
+    "related": [
+      "Lado derecho",
+      "Lado izquierdo",
+      "Costado",
+      "Lateralidad"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Alas. Lados a mano derecha, y yzquierda.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      }
+    ],
+    "search_text": "Alas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDenominación empleada en el vocabulario de Urrea para los lados situados a mano derecha e izquierda. Su sentido histórico es relacional: identifica los dos costados laterales de un objeto, disposición o composición.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4688 · ALAS · 1 TESTIMONIO\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Lados derecho e izquierdo\n«Alas. Lados a mano derecha, y yzquierda.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ALA-01 · CEN-4688. Fija la voz como denominación bilateral de los lados.\nLECTURA COMPARADA\nUrrea conserva una equivalencia directa y breve. La voz no debe ampliarse automáticamente a cualquier ala moderna de edificio: el testimonio acreditado define ante todo una posición lateral derecha/izquierda.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: alas. El plural es constitutivo de la entrada. Debe diferenciarse de ala como cuerpo lateral de edificio cuando esa acepción no esté expresamente documentada en el pasaje.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia directa de 1582 fija una acepción posicional inequívoca; no se incorporan usos modernos ajenos al testimonio.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar descripciones bilaterales en disposiciones y elementos arquitectónicos sin proyectar acepciones posteriores.\nRELACIONADO CON\nLado derecho; Lado izquierdo; Costado; Lateralidad\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/alas/",
+    "academic_pdf": "documentos/fichas/alas.pdf"
+  },
+  {
+    "num": 1185,
+    "cen": "CEN-4689",
+    "term": "Alburio",
+    "slug": "alburio",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Término de Urrea para lo blanqueado. En el tratado se aplica a coronas o fajas interiores blanqueadas que ciñen las paredes de una sala y colaboran, según la explicación histórica, a retener y hacer inteligible la voz.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma documentada: alburio. Relacionado con blanqueado, revestimiento y coronas interiores; no se equipara sin prueba a cualquier encalado posterior.",
+    "comparison": "La entrada del vocabulario define la voz por su aspecto; el libro V muestra su empleo material en la superficie interior de una sala. Así, alburio no queda como simple adjetivo cromático, sino como acabado aplicado a un elemento arquitectónico concreto.",
+    "coverage": "Urrea aporta una definición y una aplicación arquitectónica diferenciada dentro del mismo tratado.",
+    "utility": "Es útil para reconocer menciones tempranas de superficies blanqueadas y su integración en la configuración interior de espacios de reunión.",
+    "related": [
+      "Blanqueado",
+      "Revestimiento",
+      "Corona interior",
+      "Pared",
+      "Acústica"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Alburio. Lo blanqueado.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      },
+      {
+        "text": "Las paredes en el medio han de ser ceñidas con coronas de obra intestina, que es de ladrillo, o de alburio, que es blanqueado [...] pero quando las paredes están ceñidas con las coronas, detiénese allí la voz, y los que están allí oyen bien.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro V, PDF p. 132."
+      }
+    ],
+    "search_text": "Alburio\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTérmino de Urrea para lo blanqueado. En el tratado se aplica a coronas o fajas interiores blanqueadas que ciñen las paredes de una sala y colaboran, según la explicación histórica, a retener y hacer inteligible la voz.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4689 · ALBURIO · 2 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición vocabular\n«Alburio. Lo blanqueado.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ALB-01 · CEN-4689. Establece la equivalencia directa con lo blanqueado.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Aplicación en paredes interiores\n«Las paredes en el medio han de ser ceñidas con coronas de obra intestina, que es de ladrillo, o de alburio, que es blanqueado [...] pero quando las paredes están ceñidas con las coronas, detiénese allí la voz, y los que están allí oyen bien.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro V, PDF p. 132.\nMR-ALB-02 · CEN-4689. Vincula el acabado blanqueado con una faja interior y una función acústica descrita por el tratado.\nLECTURA COMPARADA\nLa entrada del vocabulario define la voz por su aspecto; el libro V muestra su empleo material en la superficie interior de una sala. Así, alburio no queda como simple adjetivo cromático, sino como acabado aplicado a un elemento arquitectónico concreto.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: alburio. Relacionado con blanqueado, revestimiento y coronas interiores; no se equipara sin prueba a cualquier encalado posterior.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nUrrea aporta una definición y una aplicación arquitectónica diferenciada dentro del mismo tratado.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconocer menciones tempranas de superficies blanqueadas y su integración en la configuración interior de espacios de reunión.\nRELACIONADO CON\nBlanqueado; Revestimiento; Corona interior; Pared; Acústica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/alburio/",
+    "academic_pdf": "documentos/fichas/alburio.pdf"
+  },
+  {
+    "num": 1186,
+    "cen": "CEN-4691",
+    "term": "Aliana",
+    "slug": "aliana",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre registrado por Urrea para un reloj. La entrada pertenece al vocabulario técnico con que la traducción castellana identifica instrumentos de medición del tiempo vinculados al ámbito gnomónico.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma documentada: Aliana. Equivalente explícito en Urrea: reloj. No se atribuye una tipología específica de reloj sin pasaje adicional que la determine.",
+    "comparison": "El testimonio es estrictamente lexicográfico y no describe por sí solo forma, material o mecanismo. Su valor reside en documentar una denominación histórica concreta dentro de la terminología vitruviana castellana.",
+    "coverage": "La voz se acredita en la entrada directa de Urrea; la evidencia disponible no autoriza un desarrollo tipológico más amplio.",
+    "utility": "Permite reconocer la denominación en índices, glosas y pasajes gnomónicos sin confundirla con un nombre propio o un término ajeno a la medición del tiempo.",
+    "related": [
+      "Reloj",
+      "Gnomónica",
+      "Tiempo",
+      "Analema",
+      "Arana"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Aliana. Relox.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      }
+    ],
+    "search_text": "Aliana\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre registrado por Urrea para un reloj. La entrada pertenece al vocabulario técnico con que la traducción castellana identifica instrumentos de medición del tiempo vinculados al ámbito gnomónico.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4691 · ALIANA · 1 TESTIMONIO\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Equivalencia con reloj\n«Aliana. Relox.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ALI-01 · CEN-4691. Fija la equivalencia léxica de la voz con reloj.\nLECTURA COMPARADA\nEl testimonio es estrictamente lexicográfico y no describe por sí solo forma, material o mecanismo. Su valor reside en documentar una denominación histórica concreta dentro de la terminología vitruviana castellana.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: Aliana. Equivalente explícito en Urrea: reloj. No se atribuye una tipología específica de reloj sin pasaje adicional que la determine.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz se acredita en la entrada directa de Urrea; la evidencia disponible no autoriza un desarrollo tipológico más amplio.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer la denominación en índices, glosas y pasajes gnomónicos sin confundirla con un nombre propio o un término ajeno a la medición del tiempo.\nRELACIONADO CON\nReloj; Gnomónica; Tiempo; Analema; Arana\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/aliana/",
+    "academic_pdf": "documentos/fichas/aliana.pdf"
+  },
+  {
+    "num": 1187,
+    "cen": "CEN-4695",
+    "term": "Amphitalamos",
+    "slug": "amphitalamos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Aposentos dispuestos uno frente a otro. La voz describe una relación espacial de enfrentamiento entre piezas y pertenece al vocabulario de distribución doméstica transmitido por Urrea.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma documentada: Amphitalamos. Puede normalizarse gráficamente como amfitalamos para búsqueda, pero la ficha conserva la forma histórica acreditada.",
+    "comparison": "Urrea ofrece una definición espacial inequívoca y suficiente para distinguir la voz de andronas y de otras piezas domésticas. El rasgo determinante no es el usuario, sino la posición enfrentada de los aposentos.",
+    "coverage": "La evidencia directa fija una relación distributiva concreta, sin desarrollo constructivo adicional.",
+    "utility": "Es útil para reconstruir relaciones entre piezas en descripciones históricas de casas y para distinguir posición espacial de función social.",
+    "related": [
+      "Aposento",
+      "Distribución",
+      "Andronas",
+      "Casa",
+      "Pieza"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Amphitalamos. Aposentos vno contra otro.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      }
+    ],
+    "search_text": "Amphitalamos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAposentos dispuestos uno frente a otro. La voz describe una relación espacial de enfrentamiento entre piezas y pertenece al vocabulario de distribución doméstica transmitido por Urrea.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4695 · AMPHITALAMOS · 1 TESTIMONIO\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición distributiva\n«Amphitalamos. Aposentos vno contra otro.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-AMP-01 · CEN-4695. Define la disposición recíproca de dos aposentos enfrentados.\nLECTURA COMPARADA\nUrrea ofrece una definición espacial inequívoca y suficiente para distinguir la voz de andronas y de otras piezas domésticas. El rasgo determinante no es el usuario, sino la posición enfrentada de los aposentos.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: Amphitalamos. Puede normalizarse gráficamente como amfitalamos para búsqueda, pero la ficha conserva la forma histórica acreditada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia directa fija una relación distributiva concreta, sin desarrollo constructivo adicional.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconstruir relaciones entre piezas en descripciones históricas de casas y para distinguir posición espacial de función social.\nRELACIONADO CON\nAposento; Distribución; Andronas; Casa; Pieza\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/amphitalamos/",
+    "academic_pdf": "documentos/fichas/amphitalamos.pdf"
+  },
+  {
+    "num": 1188,
+    "cen": "CEN-4696",
+    "term": "Analema",
+    "slug": "analema",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Trazado o fundamento geométrico usado para obtener, a partir del curso solar y de las sombras del gnomon, las líneas necesarias para construir relojes y describir las variaciones horarias. En Urrea combina observación astronómica, proyección y representación gráfica.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1582,
+      1787
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Formas: analema, analematos. Se relaciona con gnomon, sombra, curso del sol y reloj. Analematos es forma plural/latinizante en el discurso.",
+    "comparison": "Urrea define el analema como fundamento del cálculo solar y lo aplica a trazas y relojes. Ortiz y Sanz, en otra traducción histórica de Vitruvio, confirma que la longitud de la sombra equinoccial sirve para formar los analemas y obtener la delineación de las horas. La continuidad muestra un instrumento geométrico-operativo, no sólo un nombre erudito.",
+    "coverage": "La documentación sustantiva se concentra en la tradición vitruviana. Se integran los pasajes de Urrea y un testigo histórico independiente de Ortiz y Sanz que amplía la explicación de formación y uso.",
+    "utility": "Es útil para comprender trazados gnomónicos, relojes solares y la transferencia de observaciones astronómicas a diagramas geométricos.",
+    "related": [
+      "Gnomon",
+      "Sombra",
+      "Reloj",
+      "Arana",
+      "Gnomónica",
+      "Sol"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Analema. Principio sobre que se funda la intención toda, es cuenta tomada del curso del sol, y de la sombra que crece, hallada con la observacion del invierno.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      },
+      {
+        "text": "...del contrario curso del sol, y de las sombras del Gnomon equinociales, y de los que llaman Analematos se toman las traças y descripciones.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IX, PDF p. 242."
+      }
+    ],
+    "search_text": "Analema\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTrazado o fundamento geométrico usado para obtener, a partir del curso solar y de las sombras del gnomon, las líneas necesarias para construir relojes y describir las variaciones horarias. En Urrea combina observación astronómica, proyección y representación gráfica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4696 · ANALEMA · 4 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición vocabular\n«Analema. Principio sobre que se funda la intención toda, es cuenta tomada del curso del sol, y de la sombra que crece, hallada con la observacion del invierno.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ANA-01 · CEN-4696. Define el analema como fundamento de cálculo solar y de sombras.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Trazas derivadas del analema\n«...del contrario curso del sol, y de las sombras del Gnomon equinociales, y de los que llaman Analematos se toman las traças y descripciones.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IX, PDF p. 242.\nMR-ANA-02 · CEN-4696. Vincula el analema con la producción de trazas y descripciones.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n3. Aplicación a relojes portátiles\n«...si alguno quisiere podrá tomar la declaración, con tal que él sepa la traça del analema.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IX, PDF p. 247.\nMR-ANA-03 · CEN-4696. Presenta el trazado como conocimiento necesario para construir relojes.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n4. Formación del analema por la sombra equinoccial\n«…por la longitud de la sombra equinoccial se forman los analemas, de los quales se toma la delineacion de las horas, con arreglo á la situacion.»\nLos diez libros de Arquitectura, trad. Joseph Ortiz y Sanz, 1787, libro IX, PDF p. 230.\nMR-ANA-04 · CEN-4696. Cotejo visual directo. Confirma en una traducción histórica independiente la función gnomónica y local del analema.\nLECTURA COMPARADA\nUrrea define el analema como fundamento del cálculo solar y lo aplica a trazas y relojes. Ortiz y Sanz, en otra traducción histórica de Vitruvio, confirma que la longitud de la sombra equinoccial sirve para formar los analemas y obtener la delineación de las horas. La continuidad muestra un instrumento geométrico-operativo, no sólo un nombre erudito.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: analema, analematos. Se relaciona con gnomon, sombra, curso del sol y reloj. Analematos es forma plural/latinizante en el discurso.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación sustantiva se concentra en la tradición vitruviana. Se integran los pasajes de Urrea y un testigo histórico independiente de Ortiz y Sanz que amplía la explicación de formación y uso.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para comprender trazados gnomónicos, relojes solares y la transferencia de observaciones astronómicas a diagramas geométricos.\nRELACIONADO CON\nGnomon; Sombra; Reloj; Arana; Gnomónica; Sol\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/analema/",
+    "academic_pdf": "documentos/fichas/analema.pdf"
+  },
+  {
+    "num": 1189,
+    "cen": "CEN-4698",
+    "term": "Anisociclos",
+    "slug": "anisociclos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre aplicado por Urrea a máquinas que se mueven alrededor o por movimiento circular, identificadas en la propia entrada con escorpiones. La voz pertenece al léxico mecánico asociado a las máquinas antiguas.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma documentada: Anisociclos. Equivalente indicado por la fuente: escorpiones. La grafía se conserva por su valor histórico.",
+    "comparison": "La definición de Urrea aporta dos rasgos: movimiento alrededor de un eje o centro y equivalencia nominal con escorpiones. No se amplía a cualquier mecanismo rotatorio sin apoyo textual.",
+    "coverage": "El testimonio vocabular es directo y técnicamente delimitado al campo de las máquinas.",
+    "utility": "Permite identificar términos mecánicos en traducciones vitruvianas y distinguirlos de elementos arquitectónicos de nombre semejante.",
+    "related": [
+      "Máquina",
+      "Escorpión",
+      "Movimiento circular",
+      "Mecánica"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Anisociclos. Machinas que se mueuen al rededor, dizese escorpiones.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      }
+    ],
+    "search_text": "Anisociclos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre aplicado por Urrea a máquinas que se mueven alrededor o por movimiento circular, identificadas en la propia entrada con escorpiones. La voz pertenece al léxico mecánico asociado a las máquinas antiguas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4698 · ANISOCICLOS · 1 TESTIMONIO\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición mecánica\n«Anisociclos. Machinas que se mueuen al rededor, dizese escorpiones.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ANI-01 · CEN-4698. Define la voz por movimiento circular y la relaciona con escorpiones.\nLECTURA COMPARADA\nLa definición de Urrea aporta dos rasgos: movimiento alrededor de un eje o centro y equivalencia nominal con escorpiones. No se amplía a cualquier mecanismo rotatorio sin apoyo textual.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma documentada: Anisociclos. Equivalente indicado por la fuente: escorpiones. La grafía se conserva por su valor histórico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nEl testimonio vocabular es directo y técnicamente delimitado al campo de las máquinas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar términos mecánicos en traducciones vitruvianas y distinguirlos de elementos arquitectónicos de nombre semejante.\nRELACIONADO CON\nMáquina; Escorpión; Movimiento circular; Mecánica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/anisociclos/",
+    "academic_pdf": "documentos/fichas/anisociclos.pdf"
+  },
+  {
+    "num": 1190,
+    "cen": "CEN-4699",
+    "term": "Andronas",
+    "slug": "andronas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lugares o aposentos destinados a la circulación, reunión o banquete de varones. Urrea explica además que el nombre se aplicaba a espacios donde no se hallaban mujeres, dentro de la organización doméstica griega.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1582,
+      1787
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Formas: andronas, andronas/androllas en transmisión tipográfica. Acepciones documentadas: callejón o paso entre cuerpos de casa en uso latino; salón de convites de hombres en uso griego. La interpretación depende del contexto cultural y distributivo.",
+    "comparison": "Urrea vincula andronas con espacios de tránsito y reunión de varones. Ortiz y Sanz conserva una divergencia terminológica esencial: en el uso latino nombra callejones entre edificios, mientras el griego aplica la voz a salones de convites masculinos. La ficha debe conservar ambas acepciones históricas sin reducirlas a una sola tipología doméstica.",
+    "coverage": "Los testimonios pertinentes proceden de dos traducciones históricas de Vitruvio. Se incorporan las dos acepciones explícitamente contrastadas y se excluyen coincidencias sin relación con la distribución doméstica.",
+    "utility": "Permite reconstruir la zonificación social de la casa descrita por la tradición vitruviana y distinguir función de disposición geométrica.",
+    "related": [
+      "Andrón",
+      "Aposento",
+      "Amphitalamos",
+      "Casa",
+      "Banquete",
+      "Distribución"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Andronas. Lugares, y aposentos donde solos varones convenian.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      },
+      {
+        "text": "...los nuestros las llaman Andronas, que quiere dezir, lugares a donde comunican y andan varones [...] Los conclaves, a donde suelen hazerse los combites de los varones, porque allí no se hallauan mugeres.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro VI, PDF p. 182."
+      }
+    ],
+    "search_text": "Andronas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLugares o aposentos destinados a la circulación, reunión o banquete de varones. Urrea explica además que el nombre se aplicaba a espacios donde no se hallaban mujeres, dentro de la organización doméstica griega.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4699 · ANDRONAS · 3 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición vocabular\n«Andronas. Lugares, y aposentos donde solos varones convenian.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-AND-01 · CEN-4699. Fija la función social masculina de los espacios.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Explicación distributiva y de uso\n«...los nuestros las llaman Andronas, que quiere dezir, lugares a donde comunican y andan varones [...] Los conclaves, a donde suelen hazerse los combites de los varones, porque allí no se hallauan mugeres.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro VI, PDF p. 182.\nMR-AND-02 · CEN-4699. Amplía la entrada con circulación y banquetes masculinos.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n3. Divergencia latina y griega de andronas\n«Los Latinos los llamamos andronas… ellos llaman andronas á los salones donde hacen sus convites de hombres, denominandolos asi del no concurrir mugeres.»\nLos diez libros de Arquitectura, trad. Joseph Ortiz y Sanz, 1787, libro VI, PDF p. 172.\nMR-AND-03 · CEN-4699. Cotejo visual directo. Documenta una divergencia histórica de acepción entre callejón doméstico latino y salón masculino griego.\nLECTURA COMPARADA\nUrrea vincula andronas con espacios de tránsito y reunión de varones. Ortiz y Sanz conserva una divergencia terminológica esencial: en el uso latino nombra callejones entre edificios, mientras el griego aplica la voz a salones de convites masculinos. La ficha debe conservar ambas acepciones históricas sin reducirlas a una sola tipología doméstica.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: andronas, andronas/androllas en transmisión tipográfica. Acepciones documentadas: callejón o paso entre cuerpos de casa en uso latino; salón de convites de hombres en uso griego. La interpretación depende del contexto cultural y distributivo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios pertinentes proceden de dos traducciones históricas de Vitruvio. Se incorporan las dos acepciones explícitamente contrastadas y se excluyen coincidencias sin relación con la distribución doméstica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconstruir la zonificación social de la casa descrita por la tradición vitruviana y distinguir función de disposición geométrica.\nRELACIONADO CON\nAndrón; Aposento; Amphitalamos; Casa; Banquete; Distribución\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/andronas/",
+    "academic_pdf": "documentos/fichas/andronas.pdf"
+  },
+  {
+    "num": 1191,
+    "cen": "CEN-4700",
+    "term": "Antarii",
+    "slug": "antarii",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Sogas delanteras de las máquinas. La denominación identifica un componente de cordaje por su posición frontal dentro del aparejo mecánico, no una pieza arquitectónica independiente.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Formas: Antarij, Antarii. La alternancia i/j responde a la grafía histórica de la entrada. Se mantiene el plural catalogado Antarii.",
+    "comparison": "El testimonio es breve pero técnicamente preciso: la voz nombra sogas situadas delante en una máquina. La definición posicional evita confundirla con tirantes, cables o cordajes genéricos.",
+    "coverage": "La evidencia directa acredita un componente mecánico específico y no aporta una extensión constructiva adicional.",
+    "utility": "Es útil para interpretar aparejos y máquinas descritas en tratados de arquitectura y mecánica antigua.",
+    "related": [
+      "Soga",
+      "Máquina",
+      "Cordaje",
+      "Tirante",
+      "Mecánica"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Antarij. Las sogas delanteras de las machinas.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      }
+    ],
+    "search_text": "Antarii\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSogas delanteras de las máquinas. La denominación identifica un componente de cordaje por su posición frontal dentro del aparejo mecánico, no una pieza arquitectónica independiente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4700 · ANTARII · 1 TESTIMONIO\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición de componente\n«Antarij. Las sogas delanteras de las machinas.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ANT-01 · CEN-4700. Define el término por material, posición y pertenencia a una máquina.\nLECTURA COMPARADA\nEl testimonio es breve pero técnicamente preciso: la voz nombra sogas situadas delante en una máquina. La definición posicional evita confundirla con tirantes, cables o cordajes genéricos.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas: Antarij, Antarii. La alternancia i/j responde a la grafía histórica de la entrada. Se mantiene el plural catalogado Antarii.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia directa acredita un componente mecánico específico y no aporta una extensión constructiva adicional.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar aparejos y máquinas descritas en tratados de arquitectura y mecánica antigua.\nRELACIONADO CON\nSoga; Máquina; Cordaje; Tirante; Mecánica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/antarii/",
+    "academic_pdf": "documentos/fichas/antarii.pdf"
+  },
+  {
+    "num": 1192,
+    "cen": "CEN-4702",
+    "term": "Apophigis",
+    "slug": "apophigis",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Moldura de transición situada sobre la basa y abrazando el arranque de la columna, descrita por Urrea como una media caña. La voz pertenece al sistema de perfiles que articulan basa y fuste.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Formas documentadas: Apophigin, apophigia; lema catalogado: Apophigis. Se relaciona con media caña, basa, toro/bocel y fuste.",
+    "comparison": "La entrada vocabular y el libro IV coinciden en forma y posición: media caña sobre la basa, articulando el paso hacia la columna. Las formas Apophigin y apophigia pertenecen a la misma familia morfológica documentada.",
+    "coverage": "Los dos pasajes de Urrea fijan una identidad morfológica y compositiva precisa.",
+    "utility": "Es útil para reconocer perfiles de transición en basas clásicas y para controlar variantes grecolatinas en traducciones renacentistas.",
+    "related": [
+      "Basa",
+      "Media caña",
+      "Toro",
+      "Bocel",
+      "Fuste",
+      "Moldura"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Apophigin. [...] como media caña sobre la basa que abraça la columna.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      },
+      {
+        "text": "...el torulo, o bocel encima con el apophigia, [...] como media caña que abrace la columna sobre la basa.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IV, PDF p. 120."
+      }
+    ],
+    "search_text": "Apophigis\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMoldura de transición situada sobre la basa y abrazando el arranque de la columna, descrita por Urrea como una media caña. La voz pertenece al sistema de perfiles que articulan basa y fuste.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4702 · APOPHIGIS · 2 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición vocabular\n«Apophigin. [...] como media caña sobre la basa que abraça la columna.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-APO-01 · CEN-4702. Identifica forma de media caña, posición sobre la basa y relación con la columna.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Aplicación en la basa\n«...el torulo, o bocel encima con el apophigia, [...] como media caña que abrace la columna sobre la basa.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IV, PDF p. 120.\nMR-APO-02 · CEN-4702. Confirma la moldura en la composición de la basa y junto al toro o bocel.\nLECTURA COMPARADA\nLa entrada vocabular y el libro IV coinciden en forma y posición: media caña sobre la basa, articulando el paso hacia la columna. Las formas Apophigin y apophigia pertenecen a la misma familia morfológica documentada.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas documentadas: Apophigin, apophigia; lema catalogado: Apophigis. Se relaciona con media caña, basa, toro/bocel y fuste.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos dos pasajes de Urrea fijan una identidad morfológica y compositiva precisa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconocer perfiles de transición en basas clásicas y para controlar variantes grecolatinas en traducciones renacentistas.\nRELACIONADO CON\nBasa; Media caña; Toro; Bocel; Fuste; Moldura\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/apophigis/",
+    "academic_pdf": "documentos/fichas/apophigis.pdf"
+  },
+  {
+    "num": 1193,
+    "cen": "CEN-4703",
+    "term": "Arana",
+    "slug": "arana",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Reloj atribuido por Urrea a Eudoxo, caracterizado por presentar desde el centro hacia la circunferencia tantos rayos solares como días del año. La voz designa, por tanto, un instrumento gnomónico de representación anual.",
+    "authors_text": "Marco Vitruvio Polión / Miguel de Urrea (1582); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1582,
+      1787
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582."
+    ],
+    "variants": "Forma histórica: araña. Sentido integrado: instrumento o tipo de reloj gnomónico. Se excluyen arañas animales, redes, lazos ornamentales y apellidos o nombres propios sin relación con relojes.",
+    "comparison": "Urrea describe el araña como reloj de trazado radial relacionado con la división temporal. Ortiz y Sanz confirma la denominación y transmite la atribución de su invención a Eudoxo o Apolonio. La voz se entiende aquí como instrumento gnomónico y no como el animal ni como motivos ornamentales llamados araña.",
+    "coverage": "La búsqueda reforzada separó numerosas coincidencias homónimas de los testimonios gnomónicos. Se integran dos traducciones históricas independientes de Vitruvio por su aporte directo al instrumento.",
+    "utility": "Permite identificar un tipo específico de reloj antiguo y relacionarlo con el vocabulario de analema y gnomónica.",
+    "related": [
+      "Reloj",
+      "Analema",
+      "Gnomon",
+      "Gnomónica",
+      "Sol",
+      "Circunferencia"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Arana. Relox, de cuyo centro salian tantos rayos de sol, como quantos dias ay en el año.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287."
+      },
+      {
+        "text": "Eudoxo astrologo hallo el Arana, que era vn relox, donde del centro salian ala circunferencia tantos rayos del sol, quantos dias ay en el año.",
+        "author": "Marco Vitruvio Polión / Miguel de Urrea",
+        "year": "1582",
+        "source": "De Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IX, PDF p. 246."
+      }
+    ],
+    "search_text": "Arana\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nReloj atribuido por Urrea a Eudoxo, caracterizado por presentar desde el centro hacia la circunferencia tantos rayos solares como días del año. La voz designa, por tanto, un instrumento gnomónico de representación anual.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4703 · ARANA · 3 TESTIMONIOS\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n1. Definición vocabular\n«Arana. Relox, de cuyo centro salian tantos rayos de sol, como quantos dias ay en el año.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; vocabulario, PDF p. 287.\nMR-ARA-01 · CEN-4703. Define estructura radial, centro y correspondencia con los días del año.\nMarco Vitruvio Polión / Miguel de Urrea · 1582\n2. Invención y disposición radial\n«Eudoxo astrologo hallo el Arana, que era vn relox, donde del centro salian ala circunferencia tantos rayos del sol, quantos dias ay en el año.»\nDe Architectura, traducción de Miguel de Urrea, Alcalá de Henares, 1582; libro IX, PDF p. 246.\nMR-ARA-02 · CEN-4703. Confirma la definición y la atribución histórica del instrumento.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n3. Atribución histórica del reloj llamado araña\n«El Astrólogo Eudoxô inventó el araña: algunos dicen que le halló Apolonio.»\nLos diez libros de Arquitectura, trad. Joseph Ortiz y Sanz, 1787, libro IX, PDF p. 245.\nMR-ARA-03 · CEN-4703. Cotejo visual directo. Confirma la denominación del instrumento gnomónico y conserva la atribución histórica de su invención.\nLECTURA COMPARADA\nUrrea describe el araña como reloj de trazado radial relacionado con la división temporal. Ortiz y Sanz confirma la denominación y transmite la atribución de su invención a Eudoxo o Apolonio. La voz se entiende aquí como instrumento gnomónico y no como el animal ni como motivos ornamentales llamados araña.\nVARIANTES Y CONTROL TERMINOLÓGICO\nForma histórica: araña. Sentido integrado: instrumento o tipo de reloj gnomónico. Se excluyen arañas animales, redes, lazos ornamentales y apellidos o nombres propios sin relación con relojes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa búsqueda reforzada separó numerosas coincidencias homónimas de los testimonios gnomónicos. Se integran dos traducciones históricas independientes de Vitruvio por su aporte directo al instrumento.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar un tipo específico de reloj antiguo y relacionarlo con el vocabulario de analema y gnomónica.\nRELACIONADO CON\nReloj; Analema; Gnomon; Gnomónica; Sol; Circunferencia\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marco Vitruvio Polión / Miguel de Urrea. De Architectura. Alcalá de Henares, 1582.",
+    "url": "terminos/arana/",
+    "academic_pdf": "documentos/fichas/arana.pdf"
   }
 ]
