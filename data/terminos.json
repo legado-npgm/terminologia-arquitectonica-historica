@@ -19954,7 +19954,7 @@
     "start_page": null,
     "end_page": null,
     "sense": "Conducto de fábrica que parte del manto o campana de una chimenea, asciende por el edificio y conduce el humo hasta su salida sobre el tejado. Las definiciones del corpus oscilan entre llamar cañón a la parte situada por encima del manto y describirlo como todo el conducto interior comprendido entre la chimenea y el tejado; ambas formulaciones coinciden en su función de evacuación de humos. La documentación técnica regula su trazado, luz, apoyo, agrupación, paso entre pisos y separación respecto de maderas y medianerías. Cañón pasante designa el que atraviesa uno o más pisos superiores; tronco o remate se refiere a la parte que emerge de la cubierta, y manto a la porción de la chimenea situada dentro de la habitación. Caño de chimenea aparece como remisión o variante, sin desplazar la denominación canónica del Catálogo Maestro.",
-    "authors_text": "Juan de Torija (1760); Diego Antonio Rejón de Silva (1788); Benito Bails (1796); Benito Bails (1802); Mariano Matallana (1848); Manuel Fornés y Gurrea (1857); P. C. Espinosa (1859); Luis Gaztelu (1899).",
+    "authors_text": "Juan de Torija (1760); Diego Antonio Rejón de Silva (1788); Benito Bails (1796); Benito Bails (1802); Mariano Matallana (1848); Manuel Fornés y Gurrea (1857); P. C. Espinosa (1859); Ricardo Marcos y Bausa (1879); Luis Gaztelu (1899).",
     "authors": [
       "Juan de Torija",
       "Diego Antonio Rejón de Silva",
@@ -19962,6 +19962,7 @@
       "Mariano Matallana",
       "Manuel Fornés y Gurrea",
       "P. C. Espinosa",
+      "Ricardo Marcos y Bausá",
       "Luis Gaztelu"
     ],
     "years": [
@@ -19972,6 +19973,7 @@
       1848,
       1857,
       1859,
+      1879,
       1899
     ],
     "centuries": [
@@ -19992,8 +19994,8 @@
       "Gaztelu, Luis. Carpintería de armar. 1899."
     ],
     "variants": "• Grafías históricas conservadas en cita: cañon, cañones, chimenea y texado. La entrada canónica mantiene Cañón de Chimenea. • Caño de chimenea remite expresamente a cañón de chimenea en Rejón; se registra como variante documental. • Cañón pasante es el que atraviesa uno o más pisos superiores; no designa todo cañón de chimenea. • Manto o campana señala la parte interior inferior desde la cual algunas fuentes hacen comenzar el cañón; tronco, remate, salida o caperuza corresponden a su exteriorización sobre la cubierta. • Cañón de bóveda y cañón de letrina son voces homónimas diferenciadas por función y no se fusionan con CEN-1933.",
-    "comparison": "Rejón describe el cañón como conducto interior desde la chimenea hasta el tejado; Bails 1802 lo inicia por encima del manto y Matallana desde la campana. La diferencia delimita de modo distinto el punto inferior, pero no altera el núcleo común: evacuación ascendente del humo al exterior. Cañón pasante precisa el caso en que el conducto atraviesa pisos superiores. Bails 1796 desarrolla el problema constructivo: trazado a plomo o engauchado, agrupación, luz suficiente para limpieza, altura del remate y separación de maderas. Fornés acentúa el peligro de codillos, hollín y medianería; Espinosa documenta tubos de barro y Gaztelu coordina el paso con brochales y entramados. No se identifica contradicción sustantiva, sino diferencias de alcance definitorio y evolución de soluciones materiales.",
-    "coverage": "Se revisaron individualmente las 35 fuentes mediante el lema completo, plurales, grafías sin tilde y la variante caño de chimenea, además de búsquedas combinadas de cañón y chimenea por página. Ocho fuentes contienen la denominación de manera explícita y tres aportan contexto sustantivo sobre medianería, manto o seguridad; once testimonios se integran en el comparador. Las demás fuentes fueron revisadas: algunas mencionan chimeneas sin describir el conducto y otras carecen de información pertinente. Esas ocurrencias quedan diferenciadas de las fuentes no útiles en el control documental. Resultado: 35/35 fuentes revisadas; ninguna fuente queda en estado «no revisado».",
+    "comparison": "Rejón describe el cañón como conducto interior desde la chimenea hasta el tejado; Bails 1802 lo inicia por encima del manto y Matallana desde la campana. La diferencia delimita de modo distinto el punto inferior, pero no altera el núcleo común: evacuación ascendente del humo al exterior. Cañón pasante precisa el caso en que el conducto atraviesa pisos superiores. Bails 1796 desarrolla el problema constructivo: trazado a plomo o engauchado, agrupación, luz suficiente para limpieza, altura del remate y separación de maderas. Fornés acentúa el peligro de codillos, hollín y medianería; Espinosa documenta tubos de barro y Gaztelu coordina el paso con brochales y entramados. No se identifica contradicción sustantiva, sino diferencias de alcance definitorio y evolución de soluciones materiales. Marcos y Bausa añade la distinción entre cañones embebidos en muros de fábrica y cañones aparentes, completando la lectura de su implantación constructiva.",
+    "coverage": "La ficha integra 12 testimonios históricos sustantivos entre 1760 y 1899, con evidencia de Torija, Rejón de Silva, Bails, Matallana, Fornés y Gurrea, Espinosa, Marcos y Bausa y Gaztelu.",
     "utility": "La ficha permite interpretar planos, secciones, ordenanzas y expedientes de incendio o medianería distinguiendo hogar, manto, cañón, cañón pasante y remate. También documenta la interacción del conducto con muros, suelos, entramados, brochales y cubierta. Para restauración y lectura constructiva, los testimonios históricos orientan la identificación de trazados, agrupaciones, obstrucciones, manchas de hollín y separaciones respecto de madera. Las medidas y periodicidades antiguas se preservan como evidencia histórica, no como prescripción contemporánea.",
     "related": [
       "Campana",
@@ -20031,7 +20033,7 @@
         "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores, 1788, entrada «Cañón de chimenea», p. 49; página de facsímil 64."
       }
     ],
-    "search_text": "Cañón de Chimenea\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto de fábrica que parte del manto o campana de una chimenea, asciende por el edificio y conduce el humo hasta su salida sobre el tejado. Las definiciones del corpus oscilan entre llamar cañón a la parte situada por encima del manto y describirlo como todo el conducto interior comprendido entre la chimenea y el tejado; ambas formulaciones coinciden en su función de evacuación de humos.\nLa documentación técnica regula su trazado, luz, apoyo, agrupación, paso entre pisos y separación respecto de maderas y medianerías. Cañón pasante designa el que atraviesa uno o más pisos superiores; tronco o remate se refiere a la parte que emerge de la cubierta, y manto a la porción de la chimenea situada dentro de la habitación. Caño de chimenea aparece como remisión o variante, sin desplazar la denominación canónica del Catálogo Maestro.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1933 · DEFINICIÓN, TRAZADO, SECCIÓN, SEGURIDAD Y REMATE · 11 TESTIMONIOS\nJuan de Torija · 1760\n1. Chimenea, medianería y prevención del daño\n«Lábranse las chimeneas por comodidad del tiempo, y para el cotidiano exercicio de las familias; y así son permitidas: mas como de ellas nacen algunos daños […] es necesario dar el modo para elegir la parte y su fábrica…»\nTratado breve sobre las Ordenanzas de la Villa de Madrid, 1760, cap. XXVI, pp. 82–83; página de facsímil 49.\nMR-CDC-01 · CEN-1933. Cotejo visual directo. Testimonio complementario que fija el marco de medianería y seguridad en que se construye el conducto.\nDiego Antonio Rejón de Silva · 1788\n2. Conducto interior desde la chimenea hasta el tejado\n«CAÑON DE CHIMENEA. A. El conducto que se hace por lo regular en lo interior de una pared desde la chimenea á el texado para que salga el humo.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores, 1788, entrada «Cañón de chimenea», p. 49; página de facsímil 64.\nMR-CDC-02 · CEN-1933. Cotejo visual directo del facsímil. Define recorrido, posición habitual y función.\nBenito Bails · 1796\n3. Altura del remate para evitar que humee la chimenea\n«…es providencia esencial sacar estos cañones como unos quatro pies, porque no se les meta el ayre y sea causa de que humeen las chimeneas.»\nElementos de Matemática. Tomo IX. Parte I. Arquitectura civil, 1796, p. 131; página de facsímil 146.\nMR-CDC-03 · CEN-1933. Cotejo visual directo. Relaciona altura exterior, viento y funcionamiento del tiro.\nBenito Bails · 1796\n4. Agrupación de cañones y salida común\n«…cuyos cañones van engauchados al lado unos de otros, á lo largo de la pared medianera ó de traviesa. El cañon de la chimenea g va engauchado á la izquierda; el de la chimenea b, á la derecha; el de la chimenea l sube á plomo por entre los dos, para formar una salida comun…»\nArquitectura civil, 1796, p. 249; página de facsímil 272.\nMR-CDC-04 · CEN-1933. Cotejo visual directo. Documenta agrupación, engauchado y continuidad vertical.\nBenito Bails · 1796\n5. Luz del conducto y posibilidad de limpieza\n«Lo que se les ha de dar de luz á los cañones de las chimeneas tiene límites señalados […] cuyas dimensiones dexan bastante campo para limpiar las chimeneas.»\nArquitectura civil, 1796, p. 279; página de facsímil 304.\nMR-CDC-05 · CEN-1933. Cotejo visual directo. Las dimensiones históricas se registran como prescripción del tratado, no como regla vigente.\nBenito Bails · 1796\n6. Separación de la madera y macizo protector\n«…no puede ni atravesar ni arrimarse mucho á los cañones de las chimeneas ningun madero […] no podrá menos de hacer un macizo ó forjado de yeso de siete pulgadas entre los maderos, y lo interior de los cañones.»\nArquitectura civil, 1796, p. 278; página de facsímil 305.\nMR-CDC-06 · CEN-1933. Cotejo visual directo. Testimonio central sobre incompatibilidad con entramados combustibles.\nBenito Bails · 1802\n7. Parte superior al manto y cañón pasante\n«CAÑON DE CHIMENEA. La parte mas arriba del manto por donde sale el humo fuera del edificio. […] CAÑON PASANTE. Todo cañon de chimenea que pasa por algun piso mas alto que el de la pieza donde está la chimenea.»\nDiccionario de arquitectura civil, Madrid, 1802, entradas «Cañón de chimenea» y «Cañón pasante», p. 20; página de facsímil 23.\nMR-CDC-07 · CEN-1933. Cotejo visual directo. Delimita el inicio sobre el manto y registra la variante pasante.\nMariano Matallana · 1848\n8. Conducto de fábrica desde la campana y variante pasante\n«De chimenea.=El conducto de fábrica que sube desde la campana de la chimenea, sirviendo oportunamente de cómodo respiradero para que salga el humo. […] Pasante.=El cañon de chimenea que atraviesa uno ó mas pisos mas altos que el correspondiente á la pieza en que está la chimenea.»\nVocabulario de arquitectura civil, 1848, entrada «Cañón», p. 80; página de facsímil 77.\nMR-CDC-08 · CEN-1933. Cotejo visual directo. Confirma materialidad de fábrica, función y paso entre pisos.\nManuel Fornés y Gurrea · 1857\n9. Codillos, hollín, limpieza y alejamiento de la madera\n«…escusar en los cañones codillos ni resaltos, porque estos recojen el hollin de que proceden muchos incendios […] deshollinen cada mes los cañones de las chimeneas […] No se puede en la pared medianera rozar cosa alguna para el cañon de la chimenea…»\nPráctica del arte de edificar, segunda edición, 1857, página de facsímil 42.\nMR-CDC-09 · CEN-1933. Cotejo visual directo. Reúne trazado, limpieza, incendio y medianería.\nP. C. Espinosa · 1859\n10. Tubos de barro aplicados a cañones de chimenea\n«Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamientos de terrenos, etc.»\nConstrucciones de albañilería, 1859, p. 190; página de facsímil 212.\nMR-CDC-10 · CEN-1933. Cotejo visual directo. Aporta una solución material de conducto cerámico en el siglo XIX.\nLuis Gaztelu · 1899\n11. Brochales, paso del cañón y exclusión del entramado de madera\n«Los brochales se colocan debajo de las chimeneas para dejar el hueco necesario en el entramado de madera […] por la necesidad de dejar paso á los cañones de chimeneas.»\nCarpintería de armar, 1899, p. 45; página de facsímil 47.\nMR-CDC-11 · CEN-1933. Cotejo visual directo. La fuente añade la coordinación estructural entre el conducto y el entramado; en p. 138 excluye entramados de madera en muros que contienen cañones.\nLECTURA COMPARADA\nRejón describe el cañón como conducto interior desde la chimenea hasta el tejado; Bails 1802 lo inicia por encima del manto y Matallana desde la campana. La diferencia delimita de modo distinto el punto inferior, pero no altera el núcleo común: evacuación ascendente del humo al exterior. Cañón pasante precisa el caso en que el conducto atraviesa pisos superiores.\nBails 1796 desarrolla el problema constructivo: trazado a plomo o engauchado, agrupación, luz suficiente para limpieza, altura del remate y separación de maderas. Fornés acentúa el peligro de codillos, hollín y medianería; Espinosa documenta tubos de barro y Gaztelu coordina el paso con brochales y entramados. No se identifica contradicción sustantiva, sino diferencias de alcance definitorio y evolución de soluciones materiales.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Grafías históricas conservadas en cita: cañon, cañones, chimenea y texado. La entrada canónica mantiene Cañón de Chimenea.\n• Caño de chimenea remite expresamente a cañón de chimenea en Rejón; se registra como variante documental.\n• Cañón pasante es el que atraviesa uno o más pisos superiores; no designa todo cañón de chimenea.\n• Manto o campana señala la parte interior inferior desde la cual algunas fuentes hacen comenzar el cañón; tronco, remate, salida o caperuza corresponden a su exteriorización sobre la cubierta.\n• Cañón de bóveda y cañón de letrina son voces homónimas diferenciadas por función y no se fusionan con CEN-1933.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron individualmente las 35 fuentes mediante el lema completo, plurales, grafías sin tilde y la variante caño de chimenea, además de búsquedas combinadas de cañón y chimenea por página. Ocho fuentes contienen la denominación de manera explícita y tres aportan contexto sustantivo sobre medianería, manto o seguridad; once testimonios se integran en el comparador.\nLas demás fuentes fueron revisadas: algunas mencionan chimeneas sin describir el conducto y otras carecen de información pertinente. Esas ocurrencias quedan diferenciadas de las fuentes no útiles en el control documental. Resultado: 35/35 fuentes revisadas; ninguna fuente queda en estado «no revisado».\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nLa ficha permite interpretar planos, secciones, ordenanzas y expedientes de incendio o medianería distinguiendo hogar, manto, cañón, cañón pasante y remate. También documenta la interacción del conducto con muros, suelos, entramados, brochales y cubierta.\nPara restauración y lectura constructiva, los testimonios históricos orientan la identificación de trazados, agrupaciones, obstrucciones, manchas de hollín y separaciones respecto de madera. Las medidas y periodicidades antiguas se preservan como evidencia histórica, no como prescripción contemporánea.\nRELACIONADO CON\nCampana; Caperuza; Chimenea; Conducto; Cañón pasante; Caño de chimenea; Deshollinar; Engauchado; Hollín; Lengüeta; Manto; Medianería; Remate; Tejado; Tronco; CEN-1677 · Balcón; CEN-4315 · Sumidero.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Torija, Juan de. Tratado breve sobre las Ordenanzas de la Villa de Madrid. Madrid, 1760.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Bails, Benito. Elementos de Matemática. Tomo IX. Parte I. Arquitectura civil. Madrid, 1796.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.\n• Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. Valencia, 1841.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid, 1848.\n• Fornés y Gurrea, Manuel. Práctica del arte de edificar. Segunda edición, 1857.\n• Espinosa, P. C. Construcciones de albañilería. 1859.\n• Marcos y Bausa, Ricardo. Manual del albañil. 1879.\n• Adeline, Jules. Vocabulario de términos de arte. Trad. José Ramón Mélida. 1887.\n• Gaztelu, Luis. Carpintería de armar. 1899.",
+    "search_text": "Cañón de Chimenea\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto de fábrica que parte del manto o campana de una chimenea, asciende por el edificio y conduce el humo hasta su salida sobre el tejado. Las definiciones del corpus oscilan entre llamar cañón a la parte situada por encima del manto y describirlo como todo el conducto interior comprendido entre la chimenea y el tejado; ambas formulaciones coinciden en su función de evacuación de humos.\nLa documentación técnica regula su trazado, luz, apoyo, agrupación, paso entre pisos y separación respecto de maderas y medianerías. Cañón pasante designa el que atraviesa uno o más pisos superiores; tronco o remate se refiere a la parte que emerge de la cubierta, y manto a la porción de la chimenea situada dentro de la habitación. Caño de chimenea aparece como remisión o variante, sin desplazar la denominación canónica del Catálogo Maestro.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-1933 · DEFINICIÓN, TRAZADO, SECCIÓN, SEGURIDAD Y REMATE · 12 TESTIMONIOS\nJuan de Torija · 1760\n1. Chimenea, medianería y prevención del daño\n«Lábranse las chimeneas por comodidad del tiempo, y para el cotidiano exercicio de las familias; y así son permitidas: mas como de ellas nacen algunos daños […] es necesario dar el modo para elegir la parte y su fábrica…»\nTratado breve sobre las Ordenanzas de la Villa de Madrid, 1760, cap. XXVI, pp. 82–83; página de facsímil 49.\nMR-CDC-01 · CEN-1933. Testimonio complementario que fija el marco de medianería y seguridad en que se construye el conducto.\nDiego Antonio Rejón de Silva · 1788\n2. Conducto interior desde la chimenea hasta el tejado\n«CAÑON DE CHIMENEA. A. El conducto que se hace por lo regular en lo interior de una pared desde la chimenea á el texado para que salga el humo.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores, 1788, entrada «Cañón de chimenea», p. 49; página de facsímil 64.\nMR-CDC-02 · CEN-1933. Define recorrido, posición habitual y función.\nBenito Bails · 1796\n3. Altura del remate para evitar que humee la chimenea\n«…es providencia esencial sacar estos cañones como unos quatro pies, porque no se les meta el ayre y sea causa de que humeen las chimeneas.»\nElementos de Matemática. Tomo IX. Parte I. Arquitectura civil, 1796, p. 131; página de facsímil 146.\nMR-CDC-03 · CEN-1933. Relaciona altura exterior, viento y funcionamiento del tiro.\nBenito Bails · 1796\n4. Agrupación de cañones y salida común\n«…cuyos cañones van engauchados al lado unos de otros, á lo largo de la pared medianera ó de traviesa. El cañon de la chimenea g va engauchado á la izquierda; el de la chimenea b, á la derecha; el de la chimenea l sube á plomo por entre los dos, para formar una salida comun…»\nArquitectura civil, 1796, p. 249; página de facsímil 272.\nMR-CDC-04 · CEN-1933. Documenta agrupación, engauchado y continuidad vertical.\nBenito Bails · 1796\n5. Luz del conducto y posibilidad de limpieza\n«Lo que se les ha de dar de luz á los cañones de las chimeneas tiene límites señalados […] cuyas dimensiones dexan bastante campo para limpiar las chimeneas.»\nArquitectura civil, 1796, p. 279; página de facsímil 304.\nMR-CDC-05 · CEN-1933. Las dimensiones históricas se registran como prescripción del tratado, no como regla vigente.\nBenito Bails · 1796\n6. Separación de la madera y macizo protector\n«…no puede ni atravesar ni arrimarse mucho á los cañones de las chimeneas ningun madero […] no podrá menos de hacer un macizo ó forjado de yeso de siete pulgadas entre los maderos, y lo interior de los cañones.»\nArquitectura civil, 1796, p. 278; página de facsímil 305.\nMR-CDC-06 · CEN-1933. Testimonio central sobre incompatibilidad con entramados combustibles.\nBenito Bails · 1802\n7. Parte superior al manto y cañón pasante\n«CAÑON DE CHIMENEA. La parte mas arriba del manto por donde sale el humo fuera del edificio. […] CAÑON PASANTE. Todo cañon de chimenea que pasa por algun piso mas alto que el de la pieza donde está la chimenea.»\nDiccionario de arquitectura civil, Madrid, 1802, entradas «Cañón de chimenea» y «Cañón pasante», p. 20; página de facsímil 23.\nMR-CDC-07 · CEN-1933. Delimita el inicio sobre el manto y registra la variante pasante.\nMariano Matallana · 1848\n8. Conducto de fábrica desde la campana y variante pasante\n«De chimenea.=El conducto de fábrica que sube desde la campana de la chimenea, sirviendo oportunamente de cómodo respiradero para que salga el humo. […] Pasante.=El cañon de chimenea que atraviesa uno ó mas pisos mas altos que el correspondiente á la pieza en que está la chimenea.»\nVocabulario de arquitectura civil, 1848, entrada «Cañón», p. 80; página de facsímil 77.\nMR-CDC-08 · CEN-1933. Confirma materialidad de fábrica, función y paso entre pisos.\nManuel Fornés y Gurrea · 1857\n9. Codillos, hollín, limpieza y alejamiento de la madera\n«…escusar en los cañones codillos ni resaltos, porque estos recojen el hollin de que proceden muchos incendios […] deshollinen cada mes los cañones de las chimeneas […] No se puede en la pared medianera rozar cosa alguna para el cañon de la chimenea…»\nPráctica del arte de edificar, segunda edición, 1857, página de facsímil 42.\nMR-CDC-09 · CEN-1933. Reúne trazado, limpieza, incendio y medianería.\nP. C. Espinosa · 1859\n10. Tubos de barro aplicados a cañones de chimenea\n«Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamientos de terrenos, etc.»\nConstrucciones de albañilería, 1859, p. 190; página de facsímil 212.\nMR-CDC-10 · CEN-1933. Aporta una solución material de conducto cerámico en el siglo XIX.\nRicardo Marcos y Bausa · 1879\n11. Cañones interiores o aparentes\n«Los cañones de las chimeneas, unas veces se hacen en el interior del muro, si éste es de fábrica, y otras quedan aparentes; en el primer caso, al construir aquellos se forma la caja según las dimensiones, y luego se cierran por delante con un tabique de ladrillo de soga…»\nManual del albañil, 1879, p. impresa 203 (PDF p. 103).\nMR-CDC-11 · CEN-1933. Distingue el conducto embebido en muro de fábrica del cañón aparente y describe el cierre de la caja con tabique de ladrillo.\nLuis Gaztelu · 1899\n12. Brochales, paso del cañón y exclusión del entramado de madera\n«Los brochales se colocan debajo de las chimeneas para dejar el hueco necesario en el entramado de madera […] por la necesidad de dejar paso á los cañones de chimeneas.»\nCarpintería de armar, 1899, p. 45; página de facsímil 47.\nMR-CDC-12 · CEN-1933. La fuente añade la coordinación estructural entre el conducto y el entramado; en p. 138 excluye entramados de madera en muros que contienen cañones.\nLECTURA COMPARADA\nRejón describe el cañón como conducto interior desde la chimenea hasta el tejado; Bails 1802 lo inicia por encima del manto y Matallana desde la campana. La diferencia delimita de modo distinto el punto inferior, pero no altera el núcleo común: evacuación ascendente del humo al exterior. Cañón pasante precisa el caso en que el conducto atraviesa pisos superiores.\nBails 1796 desarrolla el problema constructivo: trazado a plomo o engauchado, agrupación, luz suficiente para limpieza, altura del remate y separación de maderas. Fornés acentúa el peligro de codillos, hollín y medianería; Espinosa documenta tubos de barro y Gaztelu coordina el paso con brochales y entramados. No se identifica contradicción sustantiva, sino diferencias de alcance definitorio y evolución de soluciones materiales. Marcos y Bausa añade la distinción entre cañones embebidos en muros de fábrica y cañones aparentes, completando la lectura de su implantación constructiva.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Grafías históricas conservadas en cita: cañon, cañones, chimenea y texado. La entrada canónica mantiene Cañón de Chimenea.\n• Caño de chimenea remite expresamente a cañón de chimenea en Rejón; se registra como variante documental.\n• Cañón pasante es el que atraviesa uno o más pisos superiores; no designa todo cañón de chimenea.\n• Manto o campana señala la parte interior inferior desde la cual algunas fuentes hacen comenzar el cañón; tronco, remate, salida o caperuza corresponden a su exteriorización sobre la cubierta.\n• Cañón de bóveda y cañón de letrina son voces homónimas diferenciadas por función y no se fusionan con CEN-1933.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 12 testimonios históricos sustantivos entre 1760 y 1899, con evidencia de Torija, Rejón de Silva, Bails, Matallana, Fornés y Gurrea, Espinosa, Marcos y Bausa y Gaztelu.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nLa ficha permite interpretar planos, secciones, ordenanzas y expedientes de incendio o medianería distinguiendo hogar, manto, cañón, cañón pasante y remate. También documenta la interacción del conducto con muros, suelos, entramados, brochales y cubierta.\nPara restauración y lectura constructiva, los testimonios históricos orientan la identificación de trazados, agrupaciones, obstrucciones, manchas de hollín y separaciones respecto de madera. Las medidas y periodicidades antiguas se preservan como evidencia histórica, no como prescripción contemporánea.\nRELACIONADO CON\nCampana; Caperuza; Chimenea; Conducto; Cañón pasante; Caño de chimenea; Deshollinar; Engauchado; Hollín; Lengüeta; Manto; Medianería; Remate; Tejado; Tronco; CEN-1677 · Balcón; CEN-4315 · Sumidero.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Torija, Juan de. Tratado breve sobre las Ordenanzas de la Villa de Madrid. Madrid, 1760.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Bails, Benito. Elementos de Matemática. Tomo IX. Parte I. Arquitectura civil. Madrid, 1796.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.\n• Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. Valencia, 1841.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid, 1848.\n• Fornés y Gurrea, Manuel. Práctica del arte de edificar. Segunda edición, 1857.\n• Espinosa, P. C. Construcciones de albañilería. 1859.\n• Marcos y Bausa, Ricardo. Manual del albañil. 1879.\n• Adeline, Jules. Vocabulario de términos de arte. Trad. José Ramón Mélida. 1887.\n• Gaztelu, Luis. Carpintería de armar. 1899.",
     "url": "terminos/canon-de-chimenea/",
     "academic_pdf": "documentos/fichas/canon-de-chimenea.pdf"
   },
@@ -83041,5 +83043,1284 @@
     "search_text": "Pneumáticon\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre griego aplicado por la traducción de 1787 a las máquinas “espirituales”, esto es, mecanismos cuyo funcionamiento depende de la opresión o compresión del aire y que pueden producir voces y sonidos de modo orgánico. La voz pertenece al vocabulario de mecánica incluido por Vitruvio dentro de la formación arquitectónica.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4821 · MÁQUINAS MOVIDAS POR AIRE Y PRODUCCIÓN DE SONIDO · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Máquina espiritual movida por aire\n«Hay unas llamadas escansorias, en Griego acrobáticon: otras espirituales, en Griego pneumáticon… […] La espiritual es aquella que mediante la opresion del ayre, despide organicamente voces y sonidos.»\nLos diez libros de Arquitectura, libro X, cap. I, p. 252 del facsímil.\nMR-PNE-01 · CEN-4821. Une la transliteración griega con su principio físico —opresión del aire— y con el efecto producido, voces y sonidos.\nLECTURA COMPARADA\nEl mismo pasaje contrapone pneumáticon a acrobáticon y a las máquinas tractorias. La explicación funcional evita una lectura moderna de “neumático” restringida a ruedas o presión industrial: aquí se trata de dispositivos de aire dentro de la mecánica antigua. La segunda pasada no localizó otra tradición castellana autónoma con la transliteración.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• pneumáticon\n• máquina espiritual\n• aire comprimido\n• máquina neumática\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nSe revisaron autónomamente las 35/35 fuentes del corpus rector. Se localizaron candidatos léxicos o de familia en 1 fuente; tras lectura y clasificación se integraron 1 testimonios con aporte documental autónomo. Las ocurrencias meramente nominales, repetitivas o ajenas al sentido técnico se descartaron del comparador sin computarlas como ausencia de revisión. Se ejecutó segunda pasada reforzada por variantes, grafías, subentradas y equivalencias antes del cierre.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para historia de la mecánica, órganos hidráulicos/neumáticos y vocabulario técnico transmitido en tratados de arquitectura. Ayuda a contextualizar la transliteración griega dentro de una clasificación de máquinas.\nRELACIONADO CON\nAcrobáticon; Máquina; Aire; Órgano; Tractoria; Mecánica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
     "url": "terminos/pneumaticon/",
     "academic_pdf": "documentos/fichas/pneumaticon.pdf"
+  },
+  {
+    "num": 1143,
+    "cen": "CEN-4844",
+    "term": "Greda Selinusia",
+    "slug": "greda-selinusia",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Greda blanca de procedencia selinusiana empleada como cuerpo mineral para recibir tinturas. En la tradición vitruviana castellana del siglo XVIII aparece vinculada a la imitación del índico: se tiñe con la planta llamada isatis y funciona como soporte material del color, no como colorante autónomo. La referencia antigua se acompaña de una nota que la hace proceder de Selinus, en Sicilia.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• greda Selinusia • Selinusia • greda anularia • isatis • índico",
+    "comparison": "El facsímil de Ortiz y Sanz demuestra que la forma histórica documentada es “greda Selinusia”, no “Selusina greda”. El pasaje diferencia además materia y tintura: la greda aporta el cuerpo y la planta el principio tintóreo.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz, Joseph Ortiz y Sanz.",
+    "utility": "Permite identificar correctamente una materia colorante citada en tratados de arquitectura y pintura mural, evitando convertir una errata del catálogo en variante histórica. Es útil para historia de materiales, policromía y técnicas de imitación cromática.",
+    "related": [
+      "Greda",
+      "Índico",
+      "Isatis",
+      "Color",
+      "Pintura mural",
+      "Greda anularia"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Tambien por la escasez de índico hay algunos que tiñen la greda Selinusia ó la anularia con la planta vidrio, llamada en Griego isatis, é imitan el color del índico.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro VII, cap. XIV, p. 202 del facsímil (p. impresa 187)."
+      },
+      {
+        "text": "De esta greda Selinusia trata Plinio 35, 6 y 16, y dice que era blanca como la leche. Parece que venia de Selinus en Sicilia.",
+        "author": "Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, nota 6 al libro VII, cap. XIV, p. 202 del facsímil."
+      }
+    ],
+    "search_text": "Greda Selinusia\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nGreda blanca de procedencia selinusiana empleada como cuerpo mineral para recibir tinturas. En la tradición vitruviana castellana del siglo XVIII aparece vinculada a la imitación del índico: se tiñe con la planta llamada isatis y funciona como soporte material del color, no como colorante autónomo. La referencia antigua se acompaña de una nota que la hace proceder de Selinus, en Sicilia.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4844 · PIGMENTOS Y TIERRAS COLORANTES · 2 TESTIMONIOS\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Greda Selinusia teñida para imitar el índico\n«Tambien por la escasez de índico hay algunos que tiñen la greda Selinusia ó la anularia con la planta vidrio, llamada en Griego isatis, é imitan el color del índico.»\nLos diez libros de Arquitectura, libro VII, cap. XIV, p. 202 del facsímil (p. impresa 187).\nMR-SEL-01 · CEN-4844. El pasaje fija la forma Selinusia y precisa su función: es el soporte mineral que recibe una tintura para imitar índico.\nJoseph Ortiz y Sanz · 1787\n2. Procedencia y color propio de la greda\n«De esta greda Selinusia trata Plinio 35, 6 y 16, y dice que era blanca como la leche. Parece que venia de Selinus en Sicilia.»\nLos diez libros de Arquitectura, nota 6 al libro VII, cap. XIV, p. 202 del facsímil.\nMR-SEL-02 · CEN-4844. La nota distingue el color natural de la greda de la tintura aplicada y vincula su nombre a Selinus.\nLECTURA COMPARADA\nEl facsímil de Ortiz y Sanz demuestra que la forma histórica documentada es “greda Selinusia”, no “Selusina greda”. El pasaje diferencia además materia y tintura: la greda aporta el cuerpo y la planta el principio tintóreo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• greda Selinusia\n• Selinusia\n• greda anularia\n• isatis\n• índico\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz, Joseph Ortiz y Sanz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar correctamente una materia colorante citada en tratados de arquitectura y pintura mural, evitando convertir una errata del catálogo en variante histórica. Es útil para historia de materiales, policromía y técnicas de imitación cromática.\nRELACIONADO CON\nGreda; Índico; Isatis; Color; Pintura mural; Greda anularia.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/greda-selinusia/",
+    "academic_pdf": "documentos/fichas/greda-selinusia.pdf"
+  },
+  {
+    "num": 1144,
+    "cen": "CEN-4861",
+    "term": "Sala egipcia",
+    "slug": "sala-egipcia",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Sala u oecus monumental de la tradición vitruviana caracterizado por un pórtico interior de columnas aisladas y por un segundo cuerpo más estrecho y elevado. Sobre la primera columnata se dispone un ámbito perimetral descubierto; encima se levanta otro orden o medias columnas menores, entre cuyos intercolumnios se abren ventanas que iluminan el salón. Las fuentes castellanas distinguen la sala egipcia del salón tetrástilo. Palladio enumera tetrástilos, corintios y egipcios como tipos diferentes: el tetrástilo recibe su nombre de las cuatro columnas, mientras el egipcio desarrolla una composición de dos alturas, iluminación alta y circulación perimetral.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Andrea Palladio / Joseph Ortiz y Sanz (1797); Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Andrea Palladio",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1787,
+      1788,
+      1797,
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid, 1787.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Palladio, Andrea. Los cuatro libros de Arquitectura. Trad. Joseph Ortiz y Sanz. Madrid, 1797.",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid, 1848."
+    ],
+    "variants": "• Formas documentadas: sala egipcia; salas egipcias; salones egipcios; egipcios, cuando el contexto enumera tipos de salón u oecus. • Tetrástilo / salón tetrástilo se mantiene como tipología distinta: Palladio lo explica por sus cuatro columnas y lo enumera separadamente del egipcio. • Oecus/Oeci funciona como denominación de la familia antigua de salones, no como sinónimo exclusivo de sala egipcia.",
+    "comparison": "Ortiz y Sanz describe la composición egipcia con dos cuerpos, terrado perimetral y ventanas altas. Rejón y Bails condensan la distinción en una fórmula lexicográfica -columnas aisladas-, mientras Palladio ofrece el contraste tipológico decisivo: tetrástilos, corintios y egipcios son categorías diferentes. Palladio desarrolla además un capítulo específico para las salas egipcias y las compara con basílicas por su pórtico interior y elevación. Matallana conserva la denominación en el siglo XIX, mostrando continuidad terminológica más allá de las traducciones vitruvianas.",
+    "coverage": "La ficha integra 6 testimonios sustantivos entre 1787 y 1848, procedentes de Ortiz y Sanz, Rejón de Silva, Palladio, Bails y Matallana.",
+    "utility": "Permite reconocer la sala egipcia por su organización espacial y no por una asociación estilística genérica con Egipto. Resulta útil para distinguirla de la sala tetrástila, la sala corintia y la basílica, especialmente en traducciones y repertorios donde las categorías aparecen próximas.",
+    "related": [
+      "Salón",
+      "Oecus",
+      "Sala tetrástila",
+      "Sala corintia",
+      "Basílica",
+      "Pórtico",
+      "Columna",
+      "Intercolumnio",
+      "Terrado",
+      "Ventana",
+      "CEN-4458 · Tetrástilo"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "Los Egipcios sobre las colunas llevan solo architrábe; y de éste á las paredes del rededor va la contignacion, sobre la qual se forma en todo el contorno un terrado descubierto bien pavimentado. Sobre el architrabe á plomo de las colunas inferiores se colocan otras un quarto menores […] y finalmente entre las colunas de arriba se dexan ventanas.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura de M. Vitruvio Polión, trad. y comentarios de Joseph Ortiz y Sanz, 1787, libro VI, cap. V, pp. impresas 149-150 (PDF pp. 164-165)."
+      },
+      {
+        "text": "SALA EGIPCIA. A. La que tenia columnas aisladas.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores, 1788, entrada «Sala egipcia», p. impresa 187 (PDF p. 202)."
+      }
+    ],
+    "search_text": "Sala egipcia\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSala u oecus monumental de la tradición vitruviana caracterizado por un pórtico interior de columnas aisladas y por un segundo cuerpo más estrecho y elevado. Sobre la primera columnata se dispone un ámbito perimetral descubierto; encima se levanta otro orden o medias columnas menores, entre cuyos intercolumnios se abren ventanas que iluminan el salón.\nLas fuentes castellanas distinguen la sala egipcia del salón tetrástilo. Palladio enumera tetrástilos, corintios y egipcios como tipos diferentes: el tetrástilo recibe su nombre de las cuatro columnas, mientras el egipcio desarrolla una composición de dos alturas, iluminación alta y circulación perimetral.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4861 · SALA EGIPCIA, DOBLE CUERPO DE COLUMNAS, VENTANAS Y TERRADO · 6 TESTIMONIOS\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Doble orden, terrado y ventanas altas\n«Los Egipcios sobre las colunas llevan solo architrábe; y de éste á las paredes del rededor va la contignacion, sobre la qual se forma en todo el contorno un terrado descubierto bien pavimentado. Sobre el architrabe á plomo de las colunas inferiores se colocan otras un quarto menores […] y finalmente entre las colunas de arriba se dexan ventanas.»\nLos diez libros de Arquitectura de M. Vitruvio Polión, trad. y comentarios de Joseph Ortiz y Sanz, 1787, libro VI, cap. V, pp. impresas 149-150 (PDF pp. 164-165).\nMR-SEG-01 · CEN-4861. La sala egipcia se distingue por dos niveles de soportes, un ámbito perimetral descubierto y ventanas en el cuerpo superior.\nDiego Antonio Rejón de Silva · 1788\n2. Definición lexicográfica por columnas aisladas\n«SALA EGIPCIA. A. La que tenia columnas aisladas.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores, 1788, entrada «Sala egipcia», p. impresa 187 (PDF p. 202).\nMR-SEG-02 · CEN-4861. Lexicaliza la denominación Sala egipcia y fija como rasgo inmediato la separación de las columnas respecto del muro.\nAndrea Palladio / Joseph Ortiz y Sanz · 1797\n3. Tetrástilos, corintios y egipcios como tipos distintos\n«Son estos los Tetrástilos, asi llamados porque tenían quatro colunas: los Corintios que tenian medias colunas á todo el rededor; y los Egipcios, los quales sobre las primeras colunas estaban cerrados de pared, tenian medias colunas encima de las primeras, un quarto menores que estas, y en los intercolunios había ventanas que daban luz al salon.»\nLos cuatro libros de Arquitectura, 1797, libro II, descripción de los salones u Oeci, p. impresa 52 (PDF p. 70).\nMR-SEG-03 · CEN-4861. La enumeración separa inequívocamente el tetrástilo del egipcio y caracteriza este último por el segundo cuerpo y sus ventanas.\nAndrea Palladio / Joseph Ortiz y Sanz · 1797\n4. Sala egipcia semejante a la basílica\n«Estos salones eran semejantes á las basílicas […] en tales salones se hacia un pórtico […] Sobre dichas colunas continuaba una pared con medias colunas en lo interno, un quarto menores que las de abaxo. En los intercolunios habia ventanas que daban luz al salon.»\nLos cuatro libros de Arquitectura, 1797, libro II, cap. X «De las salas Egipcias», p. impresa 54 (PDF p. 72).\nMR-SEG-04 · CEN-4861. El capítulo propio desarrolla pórtico, doble altura, ventanas y relación espacial con las basílicas.\nBenito Bails · 1802\n5. Definición de sala egipcia\n«SALA EGIPCIA. La que tenia columnas aisladas.»\nDiccionario de arquitectura civil, 1802, entrada «Sala egipcia», p. impresa 94 (PDF p. 97).\nMR-SEG-05 · CEN-4861. Confirma la estabilización lexicográfica de la denominación en el cambio de siglo.\nMariano Matallana · 1848\n6. Continuidad decimonónica de la denominación\n«SALA.= […] Egipcia.= La que tenia columnas aisladas.»\nVocabulario de arquitectura civil, 1848, entrada «Sala», p. impresa 239 aprox.; PDF p. 236 del facsímil consultado.\nMR-SEG-06 · CEN-4861. Mantiene la sala egipcia como subtipo explícito dentro de la clasificación de salas.\nLECTURA COMPARADA\nOrtiz y Sanz describe la composición egipcia con dos cuerpos, terrado perimetral y ventanas altas. Rejón y Bails condensan la distinción en una fórmula lexicográfica -columnas aisladas-, mientras Palladio ofrece el contraste tipológico decisivo: tetrástilos, corintios y egipcios son categorías diferentes.\nPalladio desarrolla además un capítulo específico para las salas egipcias y las compara con basílicas por su pórtico interior y elevación. Matallana conserva la denominación en el siglo XIX, mostrando continuidad terminológica más allá de las traducciones vitruvianas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Formas documentadas: sala egipcia; salas egipcias; salones egipcios; egipcios, cuando el contexto enumera tipos de salón u oecus.\n• Tetrástilo / salón tetrástilo se mantiene como tipología distinta: Palladio lo explica por sus cuatro columnas y lo enumera separadamente del egipcio.\n• Oecus/Oeci funciona como denominación de la familia antigua de salones, no como sinónimo exclusivo de sala egipcia.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 6 testimonios sustantivos entre 1787 y 1848, procedentes de Ortiz y Sanz, Rejón de Silva, Palladio, Bails y Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer la sala egipcia por su organización espacial y no por una asociación estilística genérica con Egipto. Resulta útil para distinguirla de la sala tetrástila, la sala corintia y la basílica, especialmente en traducciones y repertorios donde las categorías aparecen próximas.\nRELACIONADO CON\nSalón; Oecus; Sala tetrástila; Sala corintia; Basílica; Pórtico; Columna; Intercolumnio; Terrado; Ventana; CEN-4458 · Tetrástilo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid, 1787.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Palladio, Andrea. Los cuatro libros de Arquitectura. Trad. Joseph Ortiz y Sanz. Madrid, 1797.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid, 1802.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid, 1848.",
+    "url": "terminos/sala-egipcia/",
+    "academic_pdf": "documentos/fichas/sala-egipcia.pdf"
+  },
+  {
+    "num": 1145,
+    "cen": "CEN-4883",
+    "term": "Máquinas hidráulicas",
+    "slug": "maquinas-hidraulicas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Familia histórica de máquinas movidas por el agua o destinadas a operar con ella. La documentación castellana acredita literalmente «máquinas hidráulicas»: Ortiz y Sanz usa la expresión al tratar la formación del arquitecto y Castañeda/Perrault dedica un artículo a «otras Máquinas Hidráulicas».",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda (1761).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Claude Perrault",
+      "Joseph Castañeda"
+    ],
+    "years": [
+      1787,
+      1761
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Perrault, Claude. Compendio de los diez libros de Arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761."
+    ],
+    "variants": "• máquinas hidráulicas • máquina hidráulica • Hydraulica machina [forma latina de partida] • artificios para sacar agua • máquina de Ctesibio • órganos hidráulicos",
+    "comparison": "Las dos traducciones vitruvianas del siglo XVIII convergen en «máquinas hidráulicas».",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1761–1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz, Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda.",
+    "utility": "Permite reunir referencias antiguas a maquinaria de agua sin confundir elevadores, bombas y órganos hidráulicos. Es útil para historia de instalaciones, mecánica aplicada y transferencia del vocabulario técnico grecolatino.",
+    "related": [
+      "Agua",
+      "Tímpano",
+      "Azuda",
+      "Cóclea",
+      "Máquina de Ctesibio",
+      "Órgano hidráulico"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…nadie que ignore la Música podrá construir máquinas hidráulicas y otras semejantes…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, trad. y com. Joseph Ortiz y Sanz, 1787, libro I, cap. I, p. 5 impresa (p. 21 del facsímil)."
+      },
+      {
+        "text": "ARTICULO SEXTO. De otras Maquinas Hidraulicas.",
+        "author": "Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio, trad. Joseph Castañeda, 1761, p. 128 impresa (p. 143 del facsímil)."
+      }
+    ],
+    "search_text": "Máquinas hidráulicas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFamilia histórica de máquinas movidas por el agua o destinadas a operar con ella. La documentación castellana acredita literalmente «máquinas hidráulicas»: Ortiz y Sanz usa la expresión al tratar la formación del arquitecto y Castañeda/Perrault dedica un artículo a «otras Máquinas Hidráulicas».\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4883 · MÁQUINAS HIDRÁULICAS Y ELEVACIÓN DE AGUA · 2 TESTIMONIOS\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Máquinas hidráulicas como saber técnico del arquitecto\n«…nadie que ignore la Música podrá construir máquinas hidráulicas y otras semejantes…»\nLos diez libros de Arquitectura, trad. y com. Joseph Ortiz y Sanz, 1787, libro I, cap. I, p. 5 impresa (p. 21 del facsímil).\nMR-HYD-01 · CEN-4883. Atestigua literalmente la denominación castellana «máquinas hidráulicas».\nMarco Vitruvio Polión / Claude Perrault / Joseph Castañeda · 1761\n2. Denominación editorial de la familia hidráulica\n«ARTICULO SEXTO. De otras Maquinas Hidraulicas.»\nCompendio de los diez libros de Arquitectura de Vitruvio, trad. Joseph Castañeda, 1761, p. 128 impresa (p. 143 del facsímil).\nMR-HYD-02 · CEN-4883. El encabezado acredita de forma directa el nombre histórico castellano de la familia.\nLECTURA COMPARADA\nLas dos traducciones vitruvianas del siglo XVIII convergen en «máquinas hidráulicas».\nVARIANTES Y CONTROL TERMINOLÓGICO\n• máquinas hidráulicas\n• máquina hidráulica\n• Hydraulica machina [forma latina de partida]\n• artificios para sacar agua\n• máquina de Ctesibio\n• órganos hidráulicos\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1761–1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz, Marco Vitruvio Polión / Claude Perrault / Joseph Castañeda.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reunir referencias antiguas a maquinaria de agua sin confundir elevadores, bombas y órganos hidráulicos. Es útil para historia de instalaciones, mecánica aplicada y transferencia del vocabulario técnico grecolatino.\nRELACIONADO CON\nAgua; Tímpano; Azuda; Cóclea; Máquina de Ctesibio; Órgano hidráulico.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Perrault, Claude. Compendio de los diez libros de Arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid: Gabriel Ramírez, 1761.",
+    "url": "terminos/maquinas-hidraulicas/",
+    "academic_pdf": "documentos/fichas/maquinas-hidraulicas.pdf"
+  },
+  {
+    "num": 1146,
+    "cen": "CEN-4884",
+    "term": "Hipomóclio",
+    "slug": "hipomoclio",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre griego del fulcro o punto de apoyo colocado bajo una palanca para mover grandes pesos. El principio mecánico depende de la desigualdad de los brazos respecto del centro: una fuerza pequeña aplicada a mayor distancia puede sostener o levantar un peso mucho mayor.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz"
+    ],
+    "years": [
+      1787
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787."
+    ],
+    "variants": "• hypomóclion • hipomóclio • fulero • fulcro • centro de la palanca",
+    "comparison": "Ortiz y Sanz traduce la pieza como “fulero” y da la forma griega hypomóclion. El pasaje también impide identificar el hipomóclio con la palanca: es su apoyo o centro.",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz.",
+    "utility": "Es útil para historia de la mecánica de obra, transporte y colocación de grandes piedras. Permite interpretar correctamente descripciones de palancas y puntos de apoyo sin desplazar el nombre del fulcro a la herramienta completa.",
+    "related": [
+      "Palanca",
+      "Fulcro",
+      "Fulero",
+      "Peso",
+      "Centro",
+      "Máquina"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…puesto debaxo como centro á poca distancia la fuerza recta del fulero, llamado por los Griegos hypomóclion, y la lengua de la palanca baxo del peso, cargando su punta un hombre solo, levanta el peso.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, libro X, cap. VIII, p. 260 del facsímil (p. impresa 245)."
+      }
+    ],
+    "search_text": "Hipomóclio\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre griego del fulcro o punto de apoyo colocado bajo una palanca para mover grandes pesos. El principio mecánico depende de la desigualdad de los brazos respecto del centro: una fuerza pequeña aplicada a mayor distancia puede sostener o levantar un peso mucho mayor.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-4884 · MECÁNICA DE PALANCAS Y FULCROS · 1 TESTIMONIO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Fulero griego de la palanca\n«…puesto debaxo como centro á poca distancia la fuerza recta del fulero, llamado por los Griegos hypomóclion, y la lengua de la palanca baxo del peso, cargando su punta un hombre solo, levanta el peso.»\nLos diez libros de Arquitectura, libro X, cap. VIII, p. 260 del facsímil (p. impresa 245).\nMR-HIP-01 · CEN-4884. Define la pieza por posición y función: centro de apoyo que permite multiplicar el efecto de la palanca.\nLECTURA COMPARADA\nOrtiz y Sanz traduce la pieza como “fulero” y da la forma griega hypomóclion. El pasaje también impide identificar el hipomóclio con la palanca: es su apoyo o centro.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• hypomóclion\n• hipomóclio\n• fulero\n• fulcro\n• centro de la palanca\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1787 · siglo XVIII. Autores y obras representados: Marco Vitruvio Polión / Joseph Ortiz y Sanz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para historia de la mecánica de obra, transporte y colocación de grandes piedras. Permite interpretar correctamente descripciones de palancas y puntos de apoyo sin desplazar el nombre del fulcro a la herramienta completa.\nRELACIONADO CON\nPalanca; Fulcro; Fulero; Peso; Centro; Máquina.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y com. Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+    "url": "terminos/hipomoclio/",
+    "academic_pdf": "documentos/fichas/hipomoclio.pdf"
+  },
+  {
+    "num": 1147,
+    "cen": "CEN-5267",
+    "term": "Ventilación",
+    "slug": "ventilacion",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Movimiento y renovación del aire interior mediante vanos o conductos dispuestos para facilitar su circulación. Matallana define de modo explícito la ventilación como movimiento del aire facilitado por vanos bien situados; el mismo vocabulario llama ventilador al tubo empleado en hospitales para renovar el aire. La voz pertenece por tanto a la salubridad arquitectónica y no se limita a la ventilación natural por ventanas.",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• ventilación • ventilado • ventilador • respiradero • ventosa",
+    "comparison": "Matallana ofrece una cadena terminológica coherente —ventilación, ventilado, ventilador, respiradero— que permite separar la acción, la cualidad del recinto y el dispositivo. Bails ya advertía que chimeneas y piezas requieren entrada de aire para evitar humo y asegurar funcionamiento, de modo que la ventilación también se relaciona con la combustión.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.",
+    "utility": "Es fundamental para historia de la salubridad, hospitales, cocinas, retretes y chimeneas. Ayuda a distinguir el principio de renovación del aire de los dispositivos concretos que lo producen.",
+    "related": [
+      "Ventilador",
+      "Respiradero",
+      "Ventosa",
+      "Aire",
+      "Chimenea",
+      "Salubridad"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "VENTILACION.= El movimiento del aire que se facilita por medio de vanos bien situados en un edificio.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, voz «VENTILACION», p. 264 del facsímil."
+      },
+      {
+        "text": "VENTILADOR.= El tubo que se pone en las salas de los enfermos en los hospitales para renovar el aire.= RESPIRADERO.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, voz «VENTILADOR», p. 264 del facsímil."
+      }
+    ],
+    "search_text": "Ventilación\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMovimiento y renovación del aire interior mediante vanos o conductos dispuestos para facilitar su circulación. Matallana define de modo explícito la ventilación como movimiento del aire facilitado por vanos bien situados; el mismo vocabulario llama ventilador al tubo empleado en hospitales para renovar el aire. La voz pertenece por tanto a la salubridad arquitectónica y no se limita a la ventilación natural por ventanas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5267 · RENOVACIÓN DEL AIRE Y SALUBRIDAD · 2 TESTIMONIOS\nMariano Matallana · 1848\n1. Definición arquitectónica de ventilación\n«VENTILACION.= El movimiento del aire que se facilita por medio de vanos bien situados en un edificio.»\nVocabulario de arquitectura civil, voz «VENTILACION», p. 264 del facsímil.\nMR-VEN-01 · CEN-5267. Define el fenómeno por movimiento de aire y lo vincula directamente con la disposición de vanos.\nMariano Matallana · 1848\n2. Ventilador como conducto de renovación\n«VENTILADOR.= El tubo que se pone en las salas de los enfermos en los hospitales para renovar el aire.= RESPIRADERO.»\nVocabulario de arquitectura civil, voz «VENTILADOR», p. 264 del facsímil.\nMR-VEN-02 · CEN-5267. Amplía la familia desde la acción a un dispositivo tubular destinado a renovación de aire.\nLECTURA COMPARADA\nMatallana ofrece una cadena terminológica coherente —ventilación, ventilado, ventilador, respiradero— que permite separar la acción, la cualidad del recinto y el dispositivo. Bails ya advertía que chimeneas y piezas requieren entrada de aire para evitar humo y asegurar funcionamiento, de modo que la ventilación también se relaciona con la combustión.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• ventilación\n• ventilado\n• ventilador\n• respiradero\n• ventosa\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs fundamental para historia de la salubridad, hospitales, cocinas, retretes y chimeneas. Ayuda a distinguir el principio de renovación del aire de los dispositivos concretos que lo producen.\nRELACIONADO CON\nVentilador; Respiradero; Ventosa; Aire; Chimenea; Salubridad.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/ventilacion/",
+    "academic_pdf": "documentos/fichas/ventilacion.pdf"
+  },
+  {
+    "num": 1148,
+    "cen": "CEN-5270",
+    "term": "Boca del hogar",
+    "slug": "boca-del-hogar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Abertura por la que se alimenta y regula un hogar. Su dimensión condiciona entrada de combustible, tiro y manejo. En hornos, Espinosa la trata como parte mensurable y regulable; en hogares de cocción indica además que debe poder cerrarse y abrirse a voluntad mediante trampillas.",
+    "authors_text": "P. C. Espinosa (1859).",
+    "authors": [
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• boca del hogar • entrada del hogar • hogar • trampilla",
+    "comparison": "El testimonio métrico demuestra que “boca del hogar” funciona como denominación técnica efectiva. La descripción funcional de la trampilla confirma que la boca actúa como interfaz entre alimentación, aire y control del fuego. Debe distinguirse de la boca de salida superior de un conducto de humo.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.",
+    "utility": "Sirve para documentar hornos y hogares de combustión, dimensiones de servicio y regulación del tiro; evita confundir la abertura de alimentación con la salida final de humos.",
+    "related": [
+      "Hogar",
+      "Rejilla del hogar",
+      "Cenicero",
+      "Trampilla",
+      "Boca de salida",
+      "Tiro"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Distancia desde B B á la boca del hogar superior. 0,40 […] Entrada del hogar… 0,40.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, sección de hornos, p. 48 del facsímil."
+      },
+      {
+        "text": "La boca de los hogares debe poderse cerrar y abrir á voluntad, y para ello se coloca una trampilla de hierro con goznes y pestillo en cada boca de estos.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, sección “Cocción de los ladrillos”, p. 195 impresa."
+      }
+    ],
+    "search_text": "Boca del hogar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAbertura por la que se alimenta y regula un hogar. Su dimensión condiciona entrada de combustible, tiro y manejo. En hornos, Espinosa la trata como parte mensurable y regulable; en hogares de cocción indica además que debe poder cerrarse y abrirse a voluntad mediante trampillas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5270 · HOGARES, HORNOS Y ABERTURAS DE COMBUSTIÓN · 2 TESTIMONIOS\nP. C. Espinosa · 1859\n1. Dimensión de la boca del hogar\n«Distancia desde B B á la boca del hogar superior. 0,40 […] Entrada del hogar… 0,40.»\nManual de construcciones de albañilería, sección de hornos, p. 48 del facsímil.\nMR-BOH-01 · CEN-5270. Acredita la locución técnica mediante una cota explícita del hogar dentro de la descripción del horno.\nP. C. Espinosa · 1859\n2. Abertura regulable del hogar\n«La boca de los hogares debe poderse cerrar y abrir á voluntad, y para ello se coloca una trampilla de hierro con goznes y pestillo en cada boca de estos.»\nManual de construcciones de albañilería, sección “Cocción de los ladrillos”, p. 195 impresa.\nMR-BOH-02 · CEN-5270. Añade la función operativa de la abertura: alimentación y cierre regulable del hogar.\nLECTURA COMPARADA\nEl testimonio métrico demuestra que “boca del hogar” funciona como denominación técnica efectiva. La descripción funcional de la trampilla confirma que la boca actúa como interfaz entre alimentación, aire y control del fuego. Debe distinguirse de la boca de salida superior de un conducto de humo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• boca del hogar\n• entrada del hogar\n• hogar\n• trampilla\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para documentar hornos y hogares de combustión, dimensiones de servicio y regulación del tiro; evita confundir la abertura de alimentación con la salida final de humos.\nRELACIONADO CON\nHogar; Rejilla del hogar; Cenicero; Trampilla; Boca de salida; Tiro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/boca-del-hogar/",
+    "academic_pdf": "documentos/fichas/boca-del-hogar.pdf"
+  },
+  {
+    "num": 1149,
+    "cen": "CEN-5272",
+    "term": "Rejilla",
+    "slug": "rejilla",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Elemento calado asociado al hogar u horno que permite el paso de aire, calor o llama y, según su material, puede sostener combustible o separar cámaras. Espinosa documenta «rejilla» como configuración calada y también parrillas de hierro sobre ceniceros. La forma compuesta del Catálogo se normaliza a la voz histórica simple «Rejilla».",
+    "authors_text": "P. C. Espinosa (1859).",
+    "authors": [
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• rejilla • parrilla • emparrillado • claros • cenicero",
+    "comparison": "Espinosa distingue rejilla y parrilla sin separarlas de manera absoluta: la rejilla puede ser de ladrillo y organizar el paso del calor, mientras la parrilla de hierro soporta combustible y deja caer cenizas. La voz histórica acreditada es «rejilla»; su relación con el hogar se determina por contexto.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.",
+    "utility": "Útil para interpretar hornos, hogares y cámaras de combustión y para reconstruir cómo se regulaba el paso del aire y de la llama mediante elementos calados.",
+    "related": [
+      "Hogar",
+      "Cenicero",
+      "Parrilla",
+      "Combustible",
+      "Rejilla adornada",
+      "Tiro"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "…se unen tambien con ladrillos de canto formando rejilla ó claros para que penetre el calor y la llama á la caja ú horno propiamente dicho…",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, sección de hornos de ladrillos, p. 194 impresa."
+      },
+      {
+        "text": "…se construye una parrilla de hierro sobre la cual se pone el combustible y ceniceros inferiores, con trampilla de corredera tambien de hierro.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, p. 195 impresa."
+      }
+    ],
+    "search_text": "Rejilla\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nElemento calado asociado al hogar u horno que permite el paso de aire, calor o llama y, según su material, puede sostener combustible o separar cámaras. Espinosa documenta «rejilla» como configuración calada y también parrillas de hierro sobre ceniceros. La forma compuesta del Catálogo se normaliza a la voz histórica simple «Rejilla».\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5272 · PARRILLAS, REJILLAS Y PASO DEL CALOR · 2 TESTIMONIOS\nP. C. Espinosa · 1859\n1. Piso en rejilla para paso de calor y llama\n«…se unen tambien con ladrillos de canto formando rejilla ó claros para que penetre el calor y la llama á la caja ú horno propiamente dicho…»\nManual de construcciones de albañilería, sección de hornos de ladrillos, p. 194 impresa.\nMR-REJ-01 · CEN-5272. Documenta la rejilla como configuración calada que distribuye calor y llama entre hogar y cámara.\nP. C. Espinosa · 1859\n2. Parrilla de hierro sobre cenicero\n«…se construye una parrilla de hierro sobre la cual se pone el combustible y ceniceros inferiores, con trampilla de corredera tambien de hierro.»\nManual de construcciones de albañilería, p. 195 impresa.\nMR-REJ-02 · CEN-5272. Precisa la disposición vertical y funcional de la parrilla respecto del combustible y del cenicero.\nLECTURA COMPARADA\nEspinosa distingue rejilla y parrilla sin separarlas de manera absoluta: la rejilla puede ser de ladrillo y organizar el paso del calor, mientras la parrilla de hierro soporta combustible y deja caer cenizas. La voz histórica acreditada es «rejilla»; su relación con el hogar se determina por contexto.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• rejilla\n• parrilla\n• emparrillado\n• claros\n• cenicero\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para interpretar hornos, hogares y cámaras de combustión y para reconstruir cómo se regulaba el paso del aire y de la llama mediante elementos calados.\nRELACIONADO CON\nHogar; Cenicero; Parrilla; Combustible; Rejilla adornada; Tiro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/rejilla/",
+    "academic_pdf": "documentos/fichas/rejilla.pdf"
+  },
+  {
+    "num": 1150,
+    "cen": "CEN-5276",
+    "term": "Remate de la chimenea",
+    "slug": "remate-de-la-chimenea",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Terminación exterior del conducto de humo situada sobre el tejado. Bails acredita literalmente «remate de la chimenea» y describe su reducción interior; otras fuentes documentan mitras y caperuzas con orificios laterales para permitir la salida de humos e impedir la entrada de lluvia.",
+    "authors_text": "Ricardo Marcos y Bausa (1879); Benito Bails (1796).",
+    "authors": [
+      "Ricardo Marcos y Bausá",
+      "Benito Bails"
+    ],
+    "years": [
+      1879,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• remate de chimenea • mitra • caperuza • capeluza • montera • guarda-viento",
+    "comparison": "Marcos y Bausa explica la función protectora y evacuadora de mitras o caperuzas; Bails nombra y geometriza el «remate de la chimenea». La comparación distingue el nombre general del remate de las piezas concretas con que puede resolverse.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1879 · siglos XVIII y XIX. Autores y obras representados: Ricardo Marcos y Bausa, Benito Bails.",
+    "utility": "Ayuda a reconstruir detalles de cubierta y comportamiento del tiro, distinguiendo la terminación superior del cañón respecto de la boca del hogar y del manto interior.",
+    "related": [
+      "Chimenea",
+      "Cañón de chimenea",
+      "Montera",
+      "Caperuza",
+      "Salida de humo",
+      "Tiro"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "En el extremo superior de los cañones […] se colocan las mitras ó caperuzas […] con orificios laterales, para dar paso á los humos, y […] impedir que las aguas llovedizas se introduzcan…",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, “Chimeneas”, p. 104 del facsímil (pp. impresas 204–205)."
+      },
+      {
+        "text": "M, remate de la chimenea redondeado por adentro á manera de quadrante de círculo, el qual reduce en la parte superior el ancho del cañon á quatro pulgadas ocho lineas de abertura.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, explicación de figuras de chimeneas, p. 283 impresa (p. 309 del facsímil)."
+      }
+    ],
+    "search_text": "Remate de la chimenea\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTerminación exterior del conducto de humo situada sobre el tejado. Bails acredita literalmente «remate de la chimenea» y describe su reducción interior; otras fuentes documentan mitras y caperuzas con orificios laterales para permitir la salida de humos e impedir la entrada de lluvia.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5276 · TERMINACIÓN SUPERIOR Y PROTECCIÓN DEL TIRO · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Mitras o caperuzas sobre los cañones\n«En el extremo superior de los cañones […] se colocan las mitras ó caperuzas […] con orificios laterales, para dar paso á los humos, y […] impedir que las aguas llovedizas se introduzcan…»\nManual del albañil, “Chimeneas”, p. 104 del facsímil (pp. impresas 204–205).\nMR-REM-01 · CEN-5276. Define el remate por dos prestaciones: evacuación lateral del humo y protección frente a lluvia.\nBenito Bails · 1796\n2. Remate de la chimenea y reducción de la abertura\n«M, remate de la chimenea redondeado por adentro á manera de quadrante de círculo, el qual reduce en la parte superior el ancho del cañon á quatro pulgadas ocho lineas de abertura.»\nArquitectura civil, explicación de figuras de chimeneas, p. 283 impresa (p. 309 del facsímil).\nMR-REM-02 · CEN-5276. Acredita literalmente la forma histórica elegida como denominación histórica.\nLECTURA COMPARADA\nMarcos y Bausa explica la función protectora y evacuadora de mitras o caperuzas; Bails nombra y geometriza el «remate de la chimenea». La comparación distingue el nombre general del remate de las piezas concretas con que puede resolverse.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• remate de chimenea\n• mitra\n• caperuza\n• capeluza\n• montera\n• guarda-viento\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1879 · siglos XVIII y XIX. Autores y obras representados: Ricardo Marcos y Bausa, Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a reconstruir detalles de cubierta y comportamiento del tiro, distinguiendo la terminación superior del cañón respecto de la boca del hogar y del manto interior.\nRELACIONADO CON\nChimenea; Cañón de chimenea; Montera; Caperuza; Salida de humo; Tiro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/remate-de-la-chimenea/",
+    "academic_pdf": "documentos/fichas/remate-de-la-chimenea.pdf"
+  },
+  {
+    "num": 1151,
+    "cen": "CEN-5277",
+    "term": "Salida del humo",
+    "slug": "salida-del-humo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Función históricamente expresada como «salida del humo» o «dar salida al humo».",
+    "authors_text": "Ricardo Marcos y Bausa (1879); Benito Bails (1796).",
+    "authors": [
+      "Ricardo Marcos y Bausá",
+      "Benito Bails"
+    ],
+    "years": [
+      1879,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• salida de humo • dar paso a los humos • evacuar humo • tiro • chimenea",
+    "comparison": "Marcos y Bausa sitúa el paso de humos en los orificios de la caperuza; Bails formula literalmente «salida del humo» y, al describir el remate, «dar salida al humo». La evidencia permite normalizar el lema sin convertir la función en una pieza constructiva distinta.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1879 · siglos XVIII y XIX. Autores y obras representados: Ricardo Marcos y Bausa, Benito Bails.",
+    "utility": "Permite analizar el sistema completo de evacuación y distinguir entre función, conducto y abertura: humo es el flujo; cañón, el recorrido; boca de salida y remate, la terminación.",
+    "related": [
+      "Humo",
+      "Chimenea",
+      "Cañón de evacuación",
+      "Boca de salida",
+      "Remate de chimenea",
+      "Tiro"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…orificios laterales, para dar paso á los humos…",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, “Chimeneas”, p. 104 del facsímil."
+      },
+      {
+        "text": "…no basta el que queda para promover la salida del humo.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, tratado de chimeneas, p. 273 impresa (p. 299 del facsímil)."
+      }
+    ],
+    "search_text": "Salida del humo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFunción históricamente expresada como «salida del humo» o «dar salida al humo».\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5277 · EVACUACIÓN DE PRODUCTOS DE COMBUSTIÓN · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Paso de humos por el remate\n«…orificios laterales, para dar paso á los humos…»\nManual del albañil, “Chimeneas”, p. 104 del facsímil.\nMR-SHU-01 · CEN-5277. Expresa literalmente la función de descarga exterior en el remate superior.\nBenito Bails · 1796\n2. Salida del humo como condición del tiro\n«…no basta el que queda para promover la salida del humo.»\nArquitectura civil, tratado de chimeneas, p. 273 impresa (p. 299 del facsímil).\nMR-SHU-02 · CEN-5277. Atestigua literalmente la locución «salida del humo» y la vincula con el equilibrio de aire y tiro.\nLECTURA COMPARADA\nMarcos y Bausa sitúa el paso de humos en los orificios de la caperuza; Bails formula literalmente «salida del humo» y, al describir el remate, «dar salida al humo». La evidencia permite normalizar el lema sin convertir la función en una pieza constructiva distinta.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• salida de humo\n• dar paso a los humos\n• evacuar humo\n• tiro\n• chimenea\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1879 · siglos XVIII y XIX. Autores y obras representados: Ricardo Marcos y Bausa, Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite analizar el sistema completo de evacuación y distinguir entre función, conducto y abertura: humo es el flujo; cañón, el recorrido; boca de salida y remate, la terminación.\nRELACIONADO CON\nHumo; Chimenea; Cañón de evacuación; Boca de salida; Remate de chimenea; Tiro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/salida-del-humo/",
+    "academic_pdf": "documentos/fichas/salida-del-humo.pdf"
+  },
+  {
+    "num": 1152,
+    "cen": "CEN-5282",
+    "term": "Mezcla ordinaria",
+    "slug": "mezcla-ordinaria",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Dosificación usual de mortero de cal y arena. Bails describe la “mezcla ordinaria” con alrededor de dos tercios de arena buena y un tercio de cal apagada de buena calidad, batidos con la menor cantidad de agua compatible con la ejecución. La denominación remite a una práctica habitual, no a una receta universal invariable.",
+    "authors_text": "Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• mezcla ordinaria • mortero • arena • cal apagada • dos tercios / un tercio",
+    "comparison": "El testimonio es explícito y cuantificado. Su fórmula depende de la calidad de materiales y del criterio de los prácticos, por lo que la ficha evita transformar la proporción aproximada en norma absoluta. El valor histórico principal reside en la relación entre composición, calidad y contenido de agua.",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1796 · siglo XVIII. Autores y obras representados: Benito Bails.",
+    "utility": "Permite comparar dosificaciones históricas de mortero y estudiar decisiones de obra sobre agua, arena y cal, con aplicación directa a análisis de fábricas y restauración.",
+    "related": [
+      "Mortero",
+      "Cal",
+      "Arena",
+      "Agua",
+      "Argamasa",
+      "Fábrica"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…la mezcla ordinaria se hace, segun los mas de los prácticos, con dos tercios al poco mas ó menos de arena buena, y un tercio de cal apagada de buena calidad, batiéndolo todo junto con quanta menos agua se pueda…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, tratado de materiales y mezclas, p. 192 del facsímil."
+      }
+    ],
+    "search_text": "Mezcla ordinaria\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDosificación usual de mortero de cal y arena. Bails describe la “mezcla ordinaria” con alrededor de dos tercios de arena buena y un tercio de cal apagada de buena calidad, batidos con la menor cantidad de agua compatible con la ejecución. La denominación remite a una práctica habitual, no a una receta universal invariable.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5282 · MORTEROS DE CAL Y ARENA · 1 TESTIMONIO\nBenito Bails · 1796\n1. Dosificación de la mezcla ordinaria\n«…la mezcla ordinaria se hace, segun los mas de los prácticos, con dos tercios al poco mas ó menos de arena buena, y un tercio de cal apagada de buena calidad, batiéndolo todo junto con quanta menos agua se pueda…»\nArquitectura civil, tratado de materiales y mezclas, p. 192 del facsímil.\nMR-MEZ-01 · CEN-5282. Aporta proporción, calidad de componentes y criterio de mínima agua como rasgos de la mezcla ordinaria.\nLECTURA COMPARADA\nEl testimonio es explícito y cuantificado. Su fórmula depende de la calidad de materiales y del criterio de los prácticos, por lo que la ficha evita transformar la proporción aproximada en norma absoluta. El valor histórico principal reside en la relación entre composición, calidad y contenido de agua.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• mezcla ordinaria\n• mortero\n• arena\n• cal apagada\n• dos tercios / un tercio\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1796 · siglo XVIII. Autores y obras representados: Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite comparar dosificaciones históricas de mortero y estudiar decisiones de obra sobre agua, arena y cal, con aplicación directa a análisis de fábricas y restauración.\nRELACIONADO CON\nMortero; Cal; Arena; Agua; Argamasa; Fábrica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/mezcla-ordinaria/",
+    "academic_pdf": "documentos/fichas/mezcla-ordinaria.pdf"
+  },
+  {
+    "num": 1153,
+    "cen": "CEN-5283",
+    "term": "Piedra silícea",
+    "slug": "piedra-silicea",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piedra caracterizada por su naturaleza silícea. Matallana emplea literalmente «piedra silícea» al definir materiales pétreos y Espinosa documenta «piedras silíceas».",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• piedra silícea • piedras silíceas • silíceo, -a • sílice",
+    "comparison": "Matallana usa «piedra silícea» como clasificación material; Espinosa emplea también «piedras silíceas» en contextos de morteros y materiales.",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.",
+    "utility": "Es útil para clasificar piedra y áridos en historia de materiales y para relacionar vocabulario geológico con decisiones constructivas de dureza, desgaste y empleo.",
+    "related": [
+      "Piedra",
+      "Sílice",
+      "Roca caliza",
+      "Mampuesto",
+      "Material pétreo",
+      "Arena"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "BASALTO.= especie de piedra silícea del color y dureza del hierro.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, voz «BASALTO», p. 60 del facsímil."
+      }
+    ],
+    "search_text": "Piedra silícea\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiedra caracterizada por su naturaleza silícea. Matallana emplea literalmente «piedra silícea» al definir materiales pétreos y Espinosa documenta «piedras silíceas».\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5283 · CLASIFICACIÓN DE MATERIALES PÉTREOS · 1 TESTIMONIO\nMariano Matallana · 1848\n1. Piedra silícea como clasificación material\n«BASALTO.= especie de piedra silícea del color y dureza del hierro.»\nVocabulario de arquitectura civil, voz «BASALTO», p. 60 del facsímil.\nMR-SIL-01 · CEN-5283. Atestigua literalmente la locución «piedra silícea» dentro de la clasificación histórica de materiales.\nLECTURA COMPARADA\nMatallana usa «piedra silícea» como clasificación material; Espinosa emplea también «piedras silíceas» en contextos de morteros y materiales.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• piedra silícea\n• piedras silíceas\n• silíceo, -a\n• sílice\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para clasificar piedra y áridos en historia de materiales y para relacionar vocabulario geológico con decisiones constructivas de dureza, desgaste y empleo.\nRELACIONADO CON\nPiedra; Sílice; Roca caliza; Mampuesto; Material pétreo; Arena.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/piedra-silicea/",
+    "academic_pdf": "documentos/fichas/piedra-silicea.pdf"
+  },
+  {
+    "num": 1154,
+    "cen": "CEN-5290",
+    "term": "Chimenea francesa",
+    "slug": "chimenea-francesa",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Chimenea dispuesta dentro del grueso de la pared para ahorrar espacio en estancias pequeñas. Serlio ya explica en el siglo XVI que, por angostura de las piezas, algunas chimeneas se hacen “todas metidas en el grueso de la pared” y las llama francesas. En el siglo XIX Marcos y Bausa conserva la denominación al hablar de tubos de palastro dentro de otros de barro, especialmente en chimeneas francesas por la intensidad del fuego.",
+    "authors_text": "Sebastiano Serlio / Francisco de Villalpando (1552); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Sebastiano Serlio",
+      "Francisco de Villalpando",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1552,
+      1879
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Serlio, Sebastiano. Tercero y quarto libro de Architectura. Trad. Francisco de Villalpando. Toledo, 1552.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879."
+    ],
+    "variants": "• chimenea francesa • chimenea metida en el grueso de la pared • chimeneas francefas",
+    "comparison": "La continuidad entre Serlio y Marcos demuestra que la voz no es una invención decimonónica. El rasgo definitorio primario es la integración de la chimenea en el muro; las soluciones de tubo metálico o revestimiento son desarrollos posteriores y no deben retroproyectarse al siglo XVI.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1552–1879 · siglos XVI, XIX. Autores y obras representados: Sebastiano Serlio / Francisco de Villalpando, Ricardo Marcos y Bausa.",
+    "utility": "Es clave para historia del acondicionamiento doméstico y del aprovechamiento del espesor mural. Permite distinguir la tipología espacial de sus materiales y ornamentos concretos.",
+    "related": [
+      "Chimenea",
+      "Muro",
+      "Cañón de chimenea",
+      "Tubo de palastro",
+      "Hogar",
+      "Faldón de chimenea"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "…por la angostura delas piezas se usan hazer todas metidas enel grueso dela pared, las quales llamamos chimeneas francefas…",
+        "author": "Sebastiano Serlio / Francisco de Villalpando",
+        "year": "1552",
+        "source": "Tercero y quarto libro de Architectura, libro IV, p. 277 del facsímil."
+      },
+      {
+        "text": "Tambien se pueden hacer estas subidas con tubos de palastro, pero deben introducirse en otros de barro, sobre todo, en las chimeneas llamadas á la francesa, en que el fuego es más intenso.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, “Chimeneas”, p. 104 del facsímil."
+      }
+    ],
+    "search_text": "Chimenea francesa\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nChimenea dispuesta dentro del grueso de la pared para ahorrar espacio en estancias pequeñas. Serlio ya explica en el siglo XVI que, por angostura de las piezas, algunas chimeneas se hacen “todas metidas en el grueso de la pared” y las llama francesas. En el siglo XIX Marcos y Bausa conserva la denominación al hablar de tubos de palastro dentro de otros de barro, especialmente en chimeneas francesas por la intensidad del fuego.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5290 · CHIMENEAS EMBEBIDAS EN EL MURO · 2 TESTIMONIOS\nSebastiano Serlio / Francisco de Villalpando · 1552\n1. Chimeneas metidas en el grueso de la pared\n«…por la angostura delas piezas se usan hazer todas metidas enel grueso dela pared, las quales llamamos chimeneas francefas…»\nTercero y quarto libro de Architectura, libro IV, p. 277 del facsímil.\nMR-CHF-01 · CEN-5290. Fija el nombre y su rasgo tipológico: la chimenea queda absorbida por el espesor del muro.\nRicardo Marcos y Bausa · 1879\n2. Tubos metálicos en chimeneas francesas\n«Tambien se pueden hacer estas subidas con tubos de palastro, pero deben introducirse en otros de barro, sobre todo, en las chimeneas llamadas á la francesa, en que el fuego es más intenso.»\nManual del albañil, “Chimeneas”, p. 104 del facsímil.\nMR-CHF-02 · CEN-5290. Muestra una adaptación material decimonónica de la tipología y vincula el revestimiento a la mayor intensidad térmica.\nLECTURA COMPARADA\nLa continuidad entre Serlio y Marcos demuestra que la voz no es una invención decimonónica. El rasgo definitorio primario es la integración de la chimenea en el muro; las soluciones de tubo metálico o revestimiento son desarrollos posteriores y no deben retroproyectarse al siglo XVI.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• chimenea francesa\n• chimenea metida en el grueso de la pared\n• chimeneas francefas\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1552–1879 · siglos XVI, XIX. Autores y obras representados: Sebastiano Serlio / Francisco de Villalpando, Ricardo Marcos y Bausa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para historia del acondicionamiento doméstico y del aprovechamiento del espesor mural. Permite distinguir la tipología espacial de sus materiales y ornamentos concretos.\nRELACIONADO CON\nChimenea; Muro; Cañón de chimenea; Tubo de palastro; Hogar; Faldón de chimenea.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Serlio, Sebastiano. Tercero y quarto libro de Architectura. Trad. Francisco de Villalpando. Toledo, 1552.\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+    "url": "terminos/chimenea-francesa/",
+    "academic_pdf": "documentos/fichas/chimenea-francesa.pdf"
+  },
+  {
+    "num": 1155,
+    "cen": "CEN-5291",
+    "term": "Faldón",
+    "slug": "faldon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En las chimeneas, «faldón» es la voz histórica que Bails define como lo que forma su boca, compuesto por los dos lienzos y el dintel. El complemento «de chimenea» del Catálogo se elimina del lema principal porque la acepción queda determinada por el sentido de la ficha y por la definición de la fuente.",
+    "authors_text": "Benito Bails (1802).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• faldón • faldón de chimenea • boca • lienzos • dintel",
+    "comparison": "El Diccionario de Bails da una definición precisa y de baja ambigüedad. La comparación con las descripciones de chimenea de su Arquitectura civil confirma la arquitectura por partes: boca, lienzos, dintel, manto, garganta, campana y cañón forman una secuencia funcional diferenciada.",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1802 · siglo XIX. Autores y obras representados: Benito Bails.",
+    "utility": "Permite nombrar correctamente la envolvente inmediata de la boca en descripciones, inventarios y restauraciones de chimeneas históricas.",
+    "related": [
+      "Boca del hogar",
+      "Chimenea",
+      "Dintel",
+      "Lienzo",
+      "Manto",
+      "Campana"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "FALDON. En las chimeneas es lo que forma su boca; es á saber, los dos lienzos y el dintel.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil, voz «FALDON», p. 50 del facsímil."
+      }
+    ],
+    "search_text": "Faldón\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn las chimeneas, «faldón» es la voz histórica que Bails define como lo que forma su boca, compuesto por los dos lienzos y el dintel. El complemento «de chimenea» del Catálogo se elimina del lema principal porque la acepción queda determinada por el sentido de la ficha y por la definición de la fuente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5291 · BOCA DE CHIMENEA · 1 TESTIMONIO\nBenito Bails · 1802\n1. Definición del faldón\n«FALDON. En las chimeneas es lo que forma su boca; es á saber, los dos lienzos y el dintel.»\nDiccionario de arquitectura civil, voz «FALDON», p. 50 del facsímil.\nMR-FAL-01 · CEN-5291. Identifica el faldón por su posición y por tres componentes concretos: dos lienzos y dintel.\nLECTURA COMPARADA\nEl Diccionario de Bails da una definición precisa y de baja ambigüedad. La comparación con las descripciones de chimenea de su Arquitectura civil confirma la arquitectura por partes: boca, lienzos, dintel, manto, garganta, campana y cañón forman una secuencia funcional diferenciada.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• faldón\n• faldón de chimenea\n• boca\n• lienzos\n• dintel\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1802 · siglo XIX. Autores y obras representados: Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite nombrar correctamente la envolvente inmediata de la boca en descripciones, inventarios y restauraciones de chimeneas históricas.\nRELACIONADO CON\nBoca del hogar; Chimenea; Dintel; Lienzo; Manto; Campana.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/faldon/",
+    "academic_pdf": "documentos/fichas/faldon.pdf"
+  },
+  {
+    "num": 1156,
+    "cen": "CEN-5293",
+    "term": "Troncos de chimeneas",
+    "slug": "troncos-de-chimeneas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conjunto elevado en el que se reúnen varios cañones de chimenea antes de su remate exterior. Bails describe troncos compuestos por tres o cuatro cañones; Matallana acredita literalmente el plural «troncos de chimeneas» al definir la capeluza.",
+    "authors_text": "Benito Bails (1796); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1796,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• tronco de chimeneas • tronco • cañones de chimenea • capeluza",
+    "comparison": "Bails aporta la organización interna del tronco y Matallana acredita literalmente «troncos de chimeneas» como unidad arquitectónica susceptible de recibir un adorno o capeluza. El término designa la masa común de salida, no cada conducto individual.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1848 · siglos XVIII, XIX. Autores y obras representados: Benito Bails, Mariano Matallana.",
+    "utility": "Sirve para analizar coronaciones de cubierta, agrupación de flujos y composición exterior de varios cañones en una sola masa.",
+    "related": [
+      "Cañón de chimenea",
+      "Remate de chimenea",
+      "Capeluza",
+      "Cañones adosados",
+      "Boca de salida"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Planta de un tronco compuesto de quatro cañones de chimenea, de los quales hay tres engauchados al lado unos de otros, y el quarto está puesto ácia delante.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, explicación de figuras de chimeneas, p. 310 del facsímil."
+      },
+      {
+        "text": "CAPELUZA.= Adorno peculiar á los troncos de chimeneas.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, voz «CAPELUZA», p. 78 del facsímil."
+      }
+    ],
+    "search_text": "Troncos de chimeneas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConjunto elevado en el que se reúnen varios cañones de chimenea antes de su remate exterior. Bails describe troncos compuestos por tres o cuatro cañones; Matallana acredita literalmente el plural «troncos de chimeneas» al definir la capeluza.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5293 · AGRUPACIÓN DE CAÑONES DE HUMO · 2 TESTIMONIOS\nBenito Bails · 1796\n1. Tronco compuesto de cuatro cañones\n«Planta de un tronco compuesto de quatro cañones de chimenea, de los quales hay tres engauchados al lado unos de otros, y el quarto está puesto ácia delante.»\nArquitectura civil, explicación de figuras de chimeneas, p. 310 del facsímil.\nMR-TRC-01 · CEN-5293. Define el tronco como agrupación física de varios cañones y describe su disposición relativa.\nMariano Matallana · 1848\n2. Capeluza aplicada a troncos de chimeneas\n«CAPELUZA.= Adorno peculiar á los troncos de chimeneas.»\nVocabulario de arquitectura civil, voz «CAPELUZA», p. 78 del facsímil.\nMR-TRC-02 · CEN-5293. Confirma la lexicalización de “troncos de chimeneas” como soporte arquitectónico de un remate específico.\nLECTURA COMPARADA\nBails aporta la organización interna del tronco y Matallana acredita literalmente «troncos de chimeneas» como unidad arquitectónica susceptible de recibir un adorno o capeluza. El término designa la masa común de salida, no cada conducto individual.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• tronco de chimeneas\n• tronco\n• cañones de chimenea\n• capeluza\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1848 · siglos XVIII, XIX. Autores y obras representados: Benito Bails, Mariano Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para analizar coronaciones de cubierta, agrupación de flujos y composición exterior de varios cañones en una sola masa.\nRELACIONADO CON\nCañón de chimenea; Remate de chimenea; Capeluza; Cañones adosados; Boca de salida.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/troncos-de-chimeneas/",
+    "academic_pdf": "documentos/fichas/troncos-de-chimeneas.pdf"
+  },
+  {
+    "num": 1157,
+    "cen": "CEN-5296",
+    "term": "Delantera",
+    "slug": "delantera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En la fábrica de chimeneas, “delantera” califica la lengüeta o tabiquillo frontal del cañón, por oposición a las lengüetas costeras y de traviesa. Espinosa explicita esta nomenclatura en su vocabulario técnico; Bails usa “lengüeta delantera” al describir el armado y apoyo del cañón.",
+    "authors_text": "P. C. Espinosa (1859); Benito Bails (1796).",
+    "authors": [
+      "P. C. Espinosa",
+      "Benito Bails"
+    ],
+    "years": [
+      1859,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• delantera • lengüeta delantera • lengüeta costera • lengüeta de traviesa",
+    "comparison": "La voz aislada es polisémica en castellano, pero el contexto chimenea restringe su sentido con claridad. La comparación de Espinosa y Bails muestra continuidad de la relación posicional: delantera = tabique frontal; costera = lateral; traviesa = separación entre cañones.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1859 · siglos XVIII, XIX. Autores y obras representados: P. C. Espinosa, Benito Bails.",
+    "utility": "Permite leer detalles de sección de chimeneas y distinguir los tabiques por posición, especialmente en cañones múltiples o embebidos en muros.",
+    "related": [
+      "Lengüeta",
+      "Tabique de traviesa",
+      "Cañón de chimenea",
+      "Costera",
+      "Faldón"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "LENGÜETA.- Tabiquillo de ladrillo en las chimeneas; las lengüetas costeras son los tabiquillos de los costados; delantera los de frente, traviesa el de la separacion de dos chimeneas.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, vocabulario técnico, p. 361 del facsímil."
+      },
+      {
+        "text": "…barra de hierro de quadradillo, llamada barra de lengüeta, que se asienta á plomo, y en el arranque de la lengüeta delantera de un cañon…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, explicación de chimeneas, p. 309 del facsímil."
+      }
+    ],
+    "search_text": "Delantera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn la fábrica de chimeneas, “delantera” califica la lengüeta o tabiquillo frontal del cañón, por oposición a las lengüetas costeras y de traviesa. Espinosa explicita esta nomenclatura en su vocabulario técnico; Bails usa “lengüeta delantera” al describir el armado y apoyo del cañón.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5296 · LENGÜETAS Y TABIQUES DE CHIMENEA · 2 TESTIMONIOS\nP. C. Espinosa · 1859\n1. Delantera como lengüeta frontal\n«LENGÜETA.- Tabiquillo de ladrillo en las chimeneas; las lengüetas costeras son los tabiquillos de los costados; delantera los de frente, traviesa el de la separacion de dos chimeneas.»\nManual de construcciones de albañilería, vocabulario técnico, p. 361 del facsímil.\nMR-DEL-01 · CEN-5296. Define “delantera” por oposición espacial a costera y traviesa dentro del sistema de lengüetas.\nBenito Bails · 1796\n2. Lengüeta delantera en la fábrica del cañón\n«…barra de hierro de quadradillo, llamada barra de lengüeta, que se asienta á plomo, y en el arranque de la lengüeta delantera de un cañon…»\nArquitectura civil, explicación de chimeneas, p. 309 del facsímil.\nMR-DEL-02 · CEN-5296. Confirma el uso constructivo de “lengüeta delantera” y su relación con la armadura metálica del cañón.\nLECTURA COMPARADA\nLa voz aislada es polisémica en castellano, pero el contexto chimenea restringe su sentido con claridad. La comparación de Espinosa y Bails muestra continuidad de la relación posicional: delantera = tabique frontal; costera = lateral; traviesa = separación entre cañones.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• delantera\n• lengüeta delantera\n• lengüeta costera\n• lengüeta de traviesa\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1796–1859 · siglos XVIII, XIX. Autores y obras representados: P. C. Espinosa, Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite leer detalles de sección de chimeneas y distinguir los tabiques por posición, especialmente en cañones múltiples o embebidos en muros.\nRELACIONADO CON\nLengüeta; Tabique de traviesa; Cañón de chimenea; Costera; Faldón.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/delantera/",
+    "academic_pdf": "documentos/fichas/delantera.pdf"
+  },
+  {
+    "num": 1158,
+    "cen": "CEN-5298",
+    "term": "Tubos de barro cocido",
+    "slug": "tubos-de-barro-cocido",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conductos cerámicos históricamente documentados como «tubos de barro cocido» y «caños ó tubos de barro». Marcos y Bausa los recomienda para cañones de chimenea por su pequeño diámetro y mejor tiro; Espinosa amplía sus usos a aguas, bajadas, chimeneas y saneamiento. Se adopta como lema la forma plural literalmente atestiguada.",
+    "authors_text": "Ricardo Marcos y Bausa (1879); P. C. Espinosa (1859).",
+    "authors": [
+      "Ricardo Marcos y Bausá",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1879,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• tubo de barro cocido • caño de barro • tubo de barro • cañón de chimenea",
+    "comparison": "Marcos y Bausa acredita «tubos de barro cocido» en chimeneas; Espinosa documenta la familia «caños ó tubos de barro» para múltiples conducciones. La comparación muestra que la materialidad cerámica no determina por sí sola el servicio.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859–1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, P. C. Espinosa.",
+    "utility": "Útil para identificar instalaciones cerámicas históricas y diferenciar conductos de humo, agua o saneamiento mediante contexto y disposición.",
+    "related": [
+      "Tubo de fundición",
+      "Cañón de chimenea",
+      "Bajante",
+      "Saneamiento",
+      "Barro cocido"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Es preferible formar los cañones de las chimeneas con tubos de barro cocido, que siendo de pequeño diámetro, proporciona más tiro ó corriente…",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, “Chimeneas”, p. 104 del facsímil."
+      },
+      {
+        "text": "Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamiento…",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, sección de tubos de barro, p. 212 del facsímil."
+      }
+    ],
+    "search_text": "Tubos de barro cocido\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConductos cerámicos históricamente documentados como «tubos de barro cocido» y «caños ó tubos de barro». Marcos y Bausa los recomienda para cañones de chimenea por su pequeño diámetro y mejor tiro; Espinosa amplía sus usos a aguas, bajadas, chimeneas y saneamiento. Se adopta como lema la forma plural literalmente atestiguada.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5298 · CONDUCTOS CERÁMICOS · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Tubo cerámico para chimeneas\n«Es preferible formar los cañones de las chimeneas con tubos de barro cocido, que siendo de pequeño diámetro, proporciona más tiro ó corriente…»\nManual del albañil, “Chimeneas”, p. 104 del facsímil.\nMR-TBC-01 · CEN-5298. Vincula material, dimensión del conducto y comportamiento del tiro.\nP. C. Espinosa · 1859\n2. Aplicaciones de los caños o tubos de barro\n«Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamiento…»\nManual de construcciones de albañilería, sección de tubos de barro, p. 212 del facsímil.\nMR-TBC-02 · CEN-5298. Amplía el campo funcional y demuestra que el tubo cerámico es una pieza de instalación multipropósito.\nLECTURA COMPARADA\nMarcos y Bausa acredita «tubos de barro cocido» en chimeneas; Espinosa documenta la familia «caños ó tubos de barro» para múltiples conducciones. La comparación muestra que la materialidad cerámica no determina por sí sola el servicio.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• tubo de barro cocido\n• caño de barro\n• tubo de barro\n• cañón de chimenea\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859–1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para identificar instalaciones cerámicas históricas y diferenciar conductos de humo, agua o saneamiento mediante contexto y disposición.\nRELACIONADO CON\nTubo de fundición; Cañón de chimenea; Bajante; Saneamiento; Barro cocido.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/tubos-de-barro-cocido/",
+    "academic_pdf": "documentos/fichas/tubos-de-barro-cocido.pdf"
+  },
+  {
+    "num": 1159,
+    "cen": "CEN-5299",
+    "term": "Tubería de hierro fundido",
+    "slug": "tuberia-de-hierro-fundido",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conducto metálico documentado históricamente como «tubería de hierro fundido». Marcos y Bausa registra su adopción en Madrid para las bajadas de los edificios.",
+    "authors_text": "Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1879
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879."
+    ],
+    "variants": "• tubería de hierro fundido • tubo de hierro fundido • bajada • hierro fundido",
+    "comparison": "La fuente distingue el material y el servicio: la tubería de hierro fundido se adopta para bajadas y no constituye una denominación universal de todos los tubos metálicos.",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa.",
+    "utility": "Es útil para datar cambios tecnológicos en instalaciones y para reconocer bajantes metálicas históricas, diferenciándolas de tubos de palastro —chapa— y de tubos de barro cocido.",
+    "related": [
+      "Tubo de barro cocido",
+      "Palastro",
+      "Tubo descendente",
+      "Bajada",
+      "Hierro fundido"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "…para las bajadas de los edificios se va adoptando en Madrid la tubería de hierro fundido.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, capítulo de caños y tubos, p. 77 del facsímil."
+      }
+    ],
+    "search_text": "Tubería de hierro fundido\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto metálico documentado históricamente como «tubería de hierro fundido». Marcos y Bausa registra su adopción en Madrid para las bajadas de los edificios.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5299 · CONDUCTOS METÁLICOS · 1 TESTIMONIO\nRicardo Marcos y Bausa · 1879\n1. Hierro fundido para bajadas de edificios\n«…para las bajadas de los edificios se va adoptando en Madrid la tubería de hierro fundido.»\nManual del albañil, capítulo de caños y tubos, p. 77 del facsímil.\nMR-TFU-01 · CEN-5299. Documenta material, aplicación concreta y proceso de adopción urbana de la tubería de fundición.\nLECTURA COMPARADA\nLa fuente distingue el material y el servicio: la tubería de hierro fundido se adopta para bajadas y no constituye una denominación universal de todos los tubos metálicos.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• tubería de hierro fundido\n• tubo de hierro fundido\n• bajada\n• hierro fundido\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para datar cambios tecnológicos en instalaciones y para reconocer bajantes metálicas históricas, diferenciándolas de tubos de palastro —chapa— y de tubos de barro cocido.\nRELACIONADO CON\nTubo de barro cocido; Palastro; Tubo descendente; Bajada; Hierro fundido.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+    "url": "terminos/tuberia-de-hierro-fundido/",
+    "academic_pdf": "documentos/fichas/tuberia-de-hierro-fundido.pdf"
+  },
+  {
+    "num": 1160,
+    "cen": "CEN-5300",
+    "term": "Plancha de palastro",
+    "slug": "plancha-de-palastro",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lámina o plancha de hierro de poco grueso y gran ancho, utilizada en cierres, conductos, piezas móviles y protecciones. Marcos y Bausa define el palastro por su forma tableada; Calvo emplea de manera literal “plancha de palastro” en una solución de cubierta móvil de un hueco de mecanismo.",
+    "authors_text": "Ricardo Marcos y Bausa (1879); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Ricardo Marcos y Bausá",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1879,
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "• palastro • plancha de palastro • chapa de hierro • tubo de palastro",
+    "comparison": "Marcos aporta la naturaleza material; Calvo confirma la combinación lexicalizada plancha + palastro en uso constructivo. En chimeneas, el mismo material aparece como tubo de palastro; por ello la ficha distingue formato plano —plancha— de formato tubular, aunque ambos procedan de chapa de hierro.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1879–1899 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, Juan Calvo Escrivá.",
+    "utility": "Permite identificar elementos de chapa ferrosa en detalles del siglo XIX y evitar confundir palastro con hierro colado o fundido, materiales de fabricación y comportamiento distintos.",
+    "related": [
+      "Hierro",
+      "Tubo de palastro",
+      "Plancha de hierro",
+      "Tubo de fundición",
+      "Chapa"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "El palastro es un hierro tableado que tiene poco grueso y mucho ancho.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, materiales de hierro, p. 46 del facsímil."
+      },
+      {
+        "text": "…el hueco que queda posterior á dicha extremidad se cubre con una plancha de palastro fija, ó móvil á charnela…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, p. 61 impresa del pasaje constructivo."
+      }
+    ],
+    "search_text": "Plancha de palastro\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLámina o plancha de hierro de poco grueso y gran ancho, utilizada en cierres, conductos, piezas móviles y protecciones. Marcos y Bausa define el palastro por su forma tableada; Calvo emplea de manera literal “plancha de palastro” en una solución de cubierta móvil de un hueco de mecanismo.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5300 · CHAPA DE HIERRO Y REVESTIMIENTOS · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Definición del palastro\n«El palastro es un hierro tableado que tiene poco grueso y mucho ancho.»\nManual del albañil, materiales de hierro, p. 46 del facsímil.\nMR-PAL-01 · CEN-5300. Define morfológicamente el material por relación entre poco grueso y gran ancho.\nJuan Calvo Escrivá · 1899\n2. Plancha de palastro en obra\n«…el hueco que queda posterior á dicha extremidad se cubre con una plancha de palastro fija, ó móvil á charnela…»\nPuentes levadizos, p. 61 impresa del pasaje constructivo.\nMR-PAL-02 · CEN-5300. Confirma el uso literal de “plancha de palastro” como elemento de cierre y protección en una obra metálica.\nLECTURA COMPARADA\nMarcos aporta la naturaleza material; Calvo confirma la combinación lexicalizada plancha + palastro en uso constructivo. En chimeneas, el mismo material aparece como tubo de palastro; por ello la ficha distingue formato plano —plancha— de formato tubular, aunque ambos procedan de chapa de hierro.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• palastro\n• plancha de palastro\n• chapa de hierro\n• tubo de palastro\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1879–1899 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, Juan Calvo Escrivá.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar elementos de chapa ferrosa en detalles del siglo XIX y evitar confundir palastro con hierro colado o fundido, materiales de fabricación y comportamiento distintos.\nRELACIONADO CON\nHierro; Tubo de palastro; Plancha de hierro; Tubo de fundición; Chapa.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/plancha-de-palastro/",
+    "academic_pdf": "documentos/fichas/plancha-de-palastro.pdf"
+  },
+  {
+    "num": 1161,
+    "cen": "CEN-5302",
+    "term": "Montera",
+    "slug": "montera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz polisémica. En el campo de chimeneas, Adeline menciona monteras de barro o cilindros de plancha de hierro colocados en lo alto para desviar corrientes de aire y mantener regularidad del tiro. En otra acepción, el mismo vocabulario define montera como una especie de domo imbricado sobre el que borbolla el agua de una fuente.",
+    "authors_text": "J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1887
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Adeline, J. Vocabulario de términos de arte. Trad. y anot. José Ramón Mélida. Madrid, 1887."
+    ],
+    "variants": "• montera de chimenea • montera de barro • guarda-viento • montera de fuente • champignon",
+    "comparison": "Las dos acepciones comparten una posición superior y una forma de cobertura, pero no deben fundirse. La primera pertenece a ventilación y tiro; la segunda, a ornamentación hidráulica. La polisemia es documentalmente explícita y se conserva separada en el sentido histórico.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1887 · siglo XIX. Autores y obras representados: J. Adeline / José Ramón Mélida.",
+    "utility": "Es especialmente útil para evitar falsas interpretaciones en inventarios: una “montera” puede ser remate funcional de chimenea o elemento ornamental de fuente, según contexto.",
+    "related": [
+      "Remate de chimenea",
+      "Guarda-viento",
+      "Tiro",
+      "Fuente",
+      "Domo",
+      "Caperuza"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "…monteras de barro ó los cilindros de plancha de hierro colocados en lo alto de las chimeneas y destinados á desviar las corrientes de aire que pudieran dificultar la regularidad del tiro.",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, voz «Guarda-viento», p. 282 del facsímil."
+      },
+      {
+        "text": "Montera.- (Champignon.)- Especie de domo cubierto de imbricaciones sobre el que hace borbollones el agua del surtidor de una fuente.",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, voz «Montera», p. 360 del facsímil."
+      }
+    ],
+    "search_text": "Montera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz polisémica. En el campo de chimeneas, Adeline menciona monteras de barro o cilindros de plancha de hierro colocados en lo alto para desviar corrientes de aire y mantener regularidad del tiro. En otra acepción, el mismo vocabulario define montera como una especie de domo imbricado sobre el que borbolla el agua de una fuente.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5302 · REMATE DE CHIMENEA / ELEMENTO DE FUENTE · 2 TESTIMONIOS\nJ. Adeline / José Ramón Mélida · 1887\n1. Montera como dispositivo contra el viento\n«…monteras de barro ó los cilindros de plancha de hierro colocados en lo alto de las chimeneas y destinados á desviar las corrientes de aire que pudieran dificultar la regularidad del tiro.»\nVocabulario de términos de arte, voz «Guarda-viento», p. 282 del facsímil.\nMR-MON-01 · CEN-5302. Define la acepción de chimenea por posición y función aerodinámica.\nJ. Adeline / José Ramón Mélida · 1887\n2. Montera en una fuente\n«Montera.- (Champignon.)- Especie de domo cubierto de imbricaciones sobre el que hace borbollones el agua del surtidor de una fuente.»\nVocabulario de términos de arte, voz «Montera», p. 360 del facsímil.\nMR-MON-02 · CEN-5302. Documenta una segunda acepción independiente y obliga a tratar la polisemia de la voz.\nLECTURA COMPARADA\nLas dos acepciones comparten una posición superior y una forma de cobertura, pero no deben fundirse. La primera pertenece a ventilación y tiro; la segunda, a ornamentación hidráulica. La polisemia es documentalmente explícita y se conserva separada en el sentido histórico.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• montera de chimenea\n• montera de barro\n• guarda-viento\n• montera de fuente\n• champignon\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1887 · siglo XIX. Autores y obras representados: J. Adeline / José Ramón Mélida.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs especialmente útil para evitar falsas interpretaciones en inventarios: una “montera” puede ser remate funcional de chimenea o elemento ornamental de fuente, según contexto.\nRELACIONADO CON\nRemate de chimenea; Guarda-viento; Tiro; Fuente; Domo; Caperuza.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Adeline, J. Vocabulario de términos de arte. Trad. y anot. José Ramón Mélida. Madrid, 1887.",
+    "url": "terminos/montera/",
+    "academic_pdf": "documentos/fichas/montera.pdf"
+  },
+  {
+    "num": 1162,
+    "cen": "CEN-5303",
+    "term": "Cañones engauchados",
+    "slug": "canones-engauchados",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cañones de chimenea dispuestos contiguamente dentro de un mismo tronco. Bails describe literalmente cañones que «van engauchados al lado unos de otros» y emplea el participio técnico «engauchados».",
+    "authors_text": "Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• cañones engauchados • engauchados al lado unos de otros • cañones de chimenea • tronco compuesto",
+    "comparison": "El testimonio distingue cañón, relación entre conductos y tronco común. La fuente no usa «adosados»; usa «engauchados al lado unos de otros».",
+    "coverage": "La ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1796 · siglo XVIII. Autores y obras representados: Benito Bails.",
+    "utility": "Útil para interpretar plantas de chimeneas múltiples, distribución de conductos y agrupación dentro de un tronco común.",
+    "related": [
+      "Cañón de chimenea",
+      "Tronco de chimeneas",
+      "Tabique de traviesa",
+      "Delantera",
+      "Remate de chimenea"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…un tronco compuesto de quatro cañones de chimenea, de los quales hay tres engauchados al lado unos de otros…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, explicación de figuras de chimeneas, p. 310 del facsímil."
+      }
+    ],
+    "search_text": "Cañones engauchados\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCañones de chimenea dispuestos contiguamente dentro de un mismo tronco. Bails describe literalmente cañones que «van engauchados al lado unos de otros» y emplea el participio técnico «engauchados».\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5303 · AGRUPACIÓN Y PROXIMIDAD DE CONDUCTOS · 1 TESTIMONIO\nBenito Bails · 1796\n1. Cañones contiguos en un tronco\n«…un tronco compuesto de quatro cañones de chimenea, de los quales hay tres engauchados al lado unos de otros…»\nArquitectura civil, explicación de figuras de chimeneas, p. 310 del facsímil.\nMR-CAD-01 · CEN-5303. Atestigua la disposición contigua y el término técnico «engauchados» aplicado a los cañones.\nLECTURA COMPARADA\nEl testimonio distingue cañón, relación entre conductos y tronco común. La fuente no usa «adosados»; usa «engauchados al lado unos de otros».\nVARIANTES Y CONTROL TERMINOLÓGICO\n• cañones engauchados\n• engauchados al lado unos de otros\n• cañones de chimenea\n• tronco compuesto\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 1 testimonio históricos sustantivos. Cobertura cronológica: 1796 · siglo XVIII. Autores y obras representados: Benito Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para interpretar plantas de chimeneas múltiples, distribución de conductos y agrupación dentro de un tronco común.\nRELACIONADO CON\nCañón de chimenea; Tronco de chimeneas; Tabique de traviesa; Delantera; Remate de chimenea.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/canones-engauchados/",
+    "academic_pdf": "documentos/fichas/canones-engauchados.pdf"
+  },
+  {
+    "num": 1163,
+    "cen": "CEN-5307",
+    "term": "Trampilla de corredera",
+    "slug": "trampilla-de-corredera",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Dispositivo de cierre o regulación históricamente documentado como «trampilla de corredera». Espinosa lo describe en ceniceros de hogares; en otros esquemas identifica «registro» y «corredera» como piezas distintas.",
+    "authors_text": "P. C. Espinosa (1859).",
+    "authors": [
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• registro • corredera • trampilla de corredera • regulador",
+    "comparison": "La documentación distingue dos situaciones: «trampilla de corredera» como pieza única de cierre y, en otro aparato, «registro» y «corredera» como elementos separados. La primera locución ofrece una equivalencia inequívoca para el mecanismo censado y evita fusionar artificialmente dos nombres independientes.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.",
+    "utility": "Útil para estudiar regulación manual de hornos, hogares y conductos antes de válvulas modernas, y para identificar elementos móviles en secciones y dibujos técnicos.",
+    "related": [
+      "Hogar",
+      "Cenicero",
+      "Rejilla del hogar",
+      "Tiro",
+      "Trampilla",
+      "Válvula"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…se construye una parrilla de hierro sobre la cual se pone el combustible y ceniceros inferiores, con trampilla de corredera tambien de hierro.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, p. 195 impresa."
+      },
+      {
+        "text": "…B B registro para sacar el material […] k cenicero, l hogar; o corredera.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, explicación de figura de horno, pasaje de los registros y correderas."
+      }
+    ],
+    "search_text": "Trampilla de corredera\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDispositivo de cierre o regulación históricamente documentado como «trampilla de corredera». Espinosa lo describe en ceniceros de hogares; en otros esquemas identifica «registro» y «corredera» como piezas distintas.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5307 · REGULACIÓN DE HOGARES Y CONDUCTOS · 2 TESTIMONIOS\nP. C. Espinosa · 1859\n1. Trampilla de corredera en el cenicero\n«…se construye una parrilla de hierro sobre la cual se pone el combustible y ceniceros inferiores, con trampilla de corredera tambien de hierro.»\nManual de construcciones de albañilería, p. 195 impresa.\nMR-RCO-01 · CEN-5307. Documenta el movimiento por corredera aplicado al cierre inferior de un hogar.\nP. C. Espinosa · 1859\n2. Registro y corredera en un aparato de horno\n«…B B registro para sacar el material […] k cenicero, l hogar; o corredera.»\nManual de construcciones de albañilería, explicación de figura de horno, pasaje de los registros y correderas.\nMR-RCO-02 · CEN-5307. Confirma que registro y corredera forman parte del vocabulario funcional de regulación y servicio de hornos.\nLECTURA COMPARADA\nLa documentación distingue dos situaciones: «trampilla de corredera» como pieza única de cierre y, en otro aparato, «registro» y «corredera» como elementos separados. La primera locución ofrece una equivalencia inequívoca para el mecanismo censado y evita fusionar artificialmente dos nombres independientes.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• registro\n• corredera\n• trampilla de corredera\n• regulador\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859 · siglo XIX. Autores y obras representados: P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para estudiar regulación manual de hornos, hogares y conductos antes de válvulas modernas, y para identificar elementos móviles en secciones y dibujos técnicos.\nRELACIONADO CON\nHogar; Cenicero; Rejilla del hogar; Tiro; Trampilla; Válvula.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/trampilla-de-corredera/",
+    "academic_pdf": "documentos/fichas/trampilla-de-corredera.pdf"
+  },
+  {
+    "num": 1164,
+    "cen": "CEN-5310",
+    "term": "Ventilador",
+    "slug": "ventilador",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conducto de renovación de aire documentado históricamente como «ventilador». Matallana lo define expresamente como «el tubo que se pone en las salas de los enfermos… para renovar el aire» y lo equipara a respiradero.",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• tubo de ventilación • ventilador • respiradero • ventosa • renovar el aire",
+    "comparison": "Matallana distingue nombre y función: «ventilador» es el dispositivo tubular; «ventilación», la acción; «respiradero», una equivalencia funcional; «ventosa», una aplicación específica en chimeneas y comunes.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.",
+    "utility": "Es útil para historia de hospitales, salubridad doméstica y extracción pasiva de olores. Permite diferenciar ventilación de evacuación de humo y de bajadas hidráulicas.",
+    "related": [
+      "Ventilación",
+      "Ventilador",
+      "Respiradero",
+      "Ventosa",
+      "Cañón de evacuación",
+      "Aire"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "VENTILADOR.= El tubo que se pone en las salas de los enfermos en los hospitales para renovar el aire.= RESPIRADERO.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, p. 264 del facsímil."
+      },
+      {
+        "text": "VENTOSA.= […] Tubo de un cañon de chimenea para que no haga humos ó en los comunes para quitar los malos olores.= RESPIRADERO.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, p. 264 del facsímil."
+      }
+    ],
+    "search_text": "Ventilador\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto de renovación de aire documentado históricamente como «ventilador». Matallana lo define expresamente como «el tubo que se pone en las salas de los enfermos… para renovar el aire» y lo equipara a respiradero.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5310 · CONDUCTOS DE RENOVACIÓN DEL AIRE · 2 TESTIMONIOS\nMariano Matallana · 1848\n1. Ventilador como tubo para renovar aire\n«VENTILADOR.= El tubo que se pone en las salas de los enfermos en los hospitales para renovar el aire.= RESPIRADERO.»\nVocabulario de arquitectura civil, p. 264 del facsímil.\nMR-TVN-01 · CEN-5310. Acredita explícitamente un tubo con finalidad de renovación del aire y su equivalencia con respiradero.\nMariano Matallana · 1848\n2. Ventosa aplicada a chimeneas y comunes\n«VENTOSA.= […] Tubo de un cañon de chimenea para que no haga humos ó en los comunes para quitar los malos olores.= RESPIRADERO.»\nVocabulario de arquitectura civil, p. 264 del facsímil.\nMR-TVN-02 · CEN-5310. Amplía la familia a extracción de humo y malos olores, distinguiendo aplicaciones de un conducto ventilador.\nLECTURA COMPARADA\nMatallana distingue nombre y función: «ventilador» es el dispositivo tubular; «ventilación», la acción; «respiradero», una equivalencia funcional; «ventosa», una aplicación específica en chimeneas y comunes.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• tubo de ventilación\n• ventilador\n• respiradero\n• ventosa\n• renovar el aire\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1848 · siglo XIX. Autores y obras representados: Mariano Matallana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para historia de hospitales, salubridad doméstica y extracción pasiva de olores. Permite diferenciar ventilación de evacuación de humo y de bajadas hidráulicas.\nRELACIONADO CON\nVentilación; Ventilador; Respiradero; Ventosa; Cañón de evacuación; Aire.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/ventilador/",
+    "academic_pdf": "documentos/fichas/ventilador.pdf"
+  },
+  {
+    "num": 1165,
+    "cen": "CEN-5311",
+    "term": "Bajada",
+    "slug": "bajada",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conducto de descenso documentado históricamente como «bajada». Marcos y Bausa usa el término para las conducciones verticales de edificios y excusados; Espinosa habla de bajadas o tubos que conducen aguas desde los comunes.",
+    "authors_text": "Ricardo Marcos y Bausa (1879); P. C. Espinosa (1859).",
+    "authors": [
+      "Ricardo Marcos y Bausá",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1879,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• bajada • bajadas de los edificios • bajadas de comunes • tubo de barro • tubería de hierro fundido",
+    "comparison": "Marcos y Bausa documenta bajadas de los edificios y piezas que reúnen ramales superiores en uno inferior. Espinosa confirma que las bajadas pueden ejecutarse con tubos de barro o de hierro. La dirección vertical no basta para identificar la función: «bajada» la diferencia de los tubos de subida de humo.",
+    "coverage": "La ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859–1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, P. C. Espinosa.",
+    "utility": "Útil para estudiar saneamiento y evacuación vertical en edificios, y para diferenciar bajantes hidráulicas o residuales de conductos ascendentes de humo y ventilación.",
+    "related": [
+      "Bajada",
+      "Tubo de fundición",
+      "Tubo de barro cocido",
+      "Saneamiento",
+      "Tubo de ventilación",
+      "Cañón de evacuación"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…para las bajadas de los edificios se va adoptando en Madrid la tubería de hierro fundido.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "Manual del albañil, capítulo de caños y tubos, p. 77 del facsímil."
+      },
+      {
+        "text": "Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamiento…",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, p. 212 del facsímil."
+      }
+    ],
+    "search_text": "Bajada\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducto de descenso documentado históricamente como «bajada». Marcos y Bausa usa el término para las conducciones verticales de edificios y excusados; Espinosa habla de bajadas o tubos que conducen aguas desde los comunes.\nCOMPARADOR TEXTUAL COMPLETO\nNÚCLEO CANÓNICO · CEN-5311 · BAJADAS Y CONDUCCIONES VERTICALES · 2 TESTIMONIOS\nRicardo Marcos y Bausa · 1879\n1. Tubería de hierro fundido para bajadas\n«…para las bajadas de los edificios se va adoptando en Madrid la tubería de hierro fundido.»\nManual del albañil, capítulo de caños y tubos, p. 77 del facsímil.\nMR-TDE-01 · CEN-5311. Vincula de manera explícita la tubería vertical descendente con la función de bajada del edificio.\nP. C. Espinosa · 1859\n2. Tubos de barro aplicados a bajadas\n«Los caños ó tubos de barro tienen aplicacion para conducir aguas, para bajadas de letrinas, cañones de chimeneas, saneamiento…»\nManual de construcciones de albañilería, p. 212 del facsímil.\nMR-TDE-02 · CEN-5311. Demuestra que la función descendente también se resolvía con conductos cerámicos y no era exclusiva del hierro.\nLECTURA COMPARADA\nMarcos y Bausa documenta bajadas de los edificios y piezas que reúnen ramales superiores en uno inferior. Espinosa confirma que las bajadas pueden ejecutarse con tubos de barro o de hierro. La dirección vertical no basta para identificar la función: «bajada» la diferencia de los tubos de subida de humo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• bajada\n• bajadas de los edificios\n• bajadas de comunes\n• tubo de barro\n• tubería de hierro fundido\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha integra 2 testimonios históricos sustantivos. Cobertura cronológica: 1859–1879 · siglo XIX. Autores y obras representados: Ricardo Marcos y Bausa, P. C. Espinosa.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nÚtil para estudiar saneamiento y evacuación vertical en edificios, y para diferenciar bajantes hidráulicas o residuales de conductos ascendentes de humo y ventilación.\nRELACIONADO CON\nBajada; Tubo de fundición; Tubo de barro cocido; Saneamiento; Tubo de ventilación; Cañón de evacuación.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Marcos y Bausa, Ricardo. Manual del albañil. 3.ª ed. Madrid, 1879.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/bajada/",
+    "academic_pdf": "documentos/fichas/bajada.pdf"
   }
 ]
