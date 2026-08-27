@@ -93854,5 +93854,1844 @@
     "search_text": "Columnario\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConjunto o serie ordenada de columnas que forma o adorna atrios, claustros, corredores y otras composiciones. La voz se aproxima a columnata y sirve también como unidad compositiva para establecer intercolumnios y proporciones.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Conjunto de columnas en progresión\n«COLUMNARIO. s. m. A. Conjunto de columnas en progresion para adornar un Atrio, Claustro, &c.»\nDiccionario de las Nobles Artes, 1788, p. 81 del facsímil.\nMR-C-01 · La entrada define el conjunto por repetición ordenada y emplazamiento.\nDiego Antonio Rejón de Silva / Tomás Vicente Tosca · 1788\n2. Series que forman claustros y corredores\n«Columnarios son unas series de columnas, que forman ordinariamente los claustros y corredores.»\nDiccionario de las Nobles Artes, 1788, p. 81 del facsímil, citando a Tosca.\nMR-C-02 · La autoridad especifica dos configuraciones arquitectónicas habituales.\nChristian Rieger / Miguel Benavente · 1763\n3. Intercolumnios usados en columnarios\n«Los intercolumnios modernos Vignolianos siguientes, con los que se usan en los columnarios para todos los órdenes.»\nElementos de toda la arquitectura civil, 1763, p. 221 del facsímil.\nMR-C-03 · El uso muestra columnario como sistema compositivo sometido a reglas de espaciado.\nNÚCLEO CANÓNICO\nSerie ordenada de columnas en atrios, claustros y corredores.\nLECTURA COMPARADA\nRejón define el columnario como conjunto de columnas en progresión y cita a Tosca: series que forman claustros y corredores. Mariátegui remite a columnata. Rieger lo emplea como sistema de ordenación en el que se aplican intercolumnios. La voz oscila entre el conjunto físico y la regla compositiva que organiza las columnas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nColumnario y columnata aparecen como equivalentes en repertorios. Rieger usa columnario en sentido compositivo para discutir intercolumnios y proporciones de órdenes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDe 1763 a 1876 se documenta en tratado, diccionario y glosario. Los contextos abarcan claustros, corredores y estructuras cupuladas, siempre con la serie de columnas como principio común.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer una agrupación arquitectónica de columnas como conjunto unitario y estudiar su espaciado, en vez de considerar cada soporte de manera aislada.\nRELACIONADO CON\nColumnata; columna; intercolumnio; claustro; corredor; atrio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788.\nDiego Antonio Rejón de Silva / Tomás Vicente Tosca (1788). Diccionario de las Nobles Artes, 1788.\nChristian Rieger / Miguel Benavente (1763). Elementos de toda la arquitectura civil, 1763.",
     "url": "terminos/columnario/",
     "academic_pdf": "documentos/fichas/columnario.pdf"
+  },
+  {
+    "num": 1333,
+    "cen": "CEN-2358",
+    "term": "Correa",
+    "slug": "correa",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Madero horizontal de una armadura de cubierta que enlaza un cuchillo con el siguiente y recibe elementos secundarios dispuestos en el sentido de los pares. La voz nombra una pieza resistente y de enlace del entramado del tejado, no una tira flexible: su identificación depende de su posición entre cuchillos y de la carga transmitida por contrapares o cabríos.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1788,
+      1802,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "J. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887"
+    ],
+    "variants": "Correa se mantiene estable como denominación técnica. Rejón la aproxima funcionalmente a los tirantes; Bails y Adeline precisan su posición horizontal en la techumbre y su relación con contrapares o cabríos.",
+    "comparison": "Rejón describe la correa por analogía con el tirante y por su recorrido desde un tirante al cuchillo o copete. Bails fija con mayor precisión el sistema constructivo: la correa corre de cuchillo a cuchillo, se asienta sobre los pares mediante egiones y recibe los contrapares. Adeline simplifica la definición a su carácter horizontal y al apoyo de los cabríos. La sucesión muestra una progresiva condensación lexicográfica de una misma función estructural.",
+    "coverage": "La documentación integrada abarca 1788, 1802 y 1887. Los testimonios proceden de diccionarios de arquitectura y arte y describen la pieza desde su posición, sus apoyos y los elementos que recibe dentro de la cubierta.",
+    "utility": "Resulta decisiva para leer armaduras históricas sin confundir correa con par, contrapar, cabrío o tirante. Permite reconstruir la dirección de los esfuerzos y la secuencia de apoyo del entramado de cubierta.",
+    "related": [
+      "Cuchillo",
+      "par",
+      "contrapar",
+      "cabrío",
+      "tirante",
+      "egión",
+      "armadura",
+      "cubierta"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "CORREA, s. f. A. Especie de tirantes: como éstos van colocados de pared á pared, aquellas de un tirante a la pared del cuchillo ó copete de una armadura.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 87 del facsímil."
+      },
+      {
+        "text": "CORREA. s. f. Madero que coge desde un cuchillo de armadura á otro, y va asentado en los pares por medio de egiones, en el qual se clavan los contrapares.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 32 del facsímil."
+      }
+    ],
+    "search_text": "Correa\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMadero horizontal de una armadura de cubierta que enlaza un cuchillo con el siguiente y recibe elementos secundarios dispuestos en el sentido de los pares. La voz nombra una pieza resistente y de enlace del entramado del tejado, no una tira flexible: su identificación depende de su posición entre cuchillos y de la carga transmitida por contrapares o cabríos.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Correa como pieza de enlace en la armadura\n«CORREA, s. f. A. Especie de tirantes: como éstos van colocados de pared á pared, aquellas de un tirante a la pared del cuchillo ó copete de una armadura.»\nDiccionario de las Nobles Artes, 1788, p. 87 del facsímil.\nMR-C-01 · CEN-2358. Sitúa la pieza dentro de la armadura y la caracteriza por su dirección de enlace.\nBenito Bails · 1802\n2. De cuchillo a cuchillo y apoyo de los contrapares\n«CORREA. s. f. Madero que coge desde un cuchillo de armadura á otro, y va asentado en los pares por medio de egiones, en el qual se clavan los contrapares.»\nDiccionario de Arquitectura Civil, 1802, p. 32 del facsímil.\nMR-C-02 · CEN-2358. Explica con precisión la cadena constructiva correa-pares-egiones-contrapares.\nJ. Adeline / José Ramón Mélida · 1887\n3. Pieza horizontal que soporta cabríos\n«Correa.- (Panne.) -[Arq.]- Pieza de madera horizontal que forma parte de una techumbre y soporta los cabríos.»\nVocabulario de Términos de Arte, 1887, p. 156 del facsímil.\nMR-C-03 · CEN-2358. Condensa la acepción en posición horizontal y función portante sobre los cabríos.\nNÚCLEO CANÓNICO\nMadero horizontal de armadura que enlaza cuchillos y recibe contrapares o cabríos.\nLECTURA COMPARADA\nRejón describe la correa por analogía con el tirante y por su recorrido desde un tirante al cuchillo o copete. Bails fija con mayor precisión el sistema constructivo: la correa corre de cuchillo a cuchillo, se asienta sobre los pares mediante egiones y recibe los contrapares. Adeline simplifica la definición a su carácter horizontal y al apoyo de los cabríos. La sucesión muestra una progresiva condensación lexicográfica de una misma función estructural.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCorrea se mantiene estable como denominación técnica. Rejón la aproxima funcionalmente a los tirantes; Bails y Adeline precisan su posición horizontal en la techumbre y su relación con contrapares o cabríos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada abarca 1788, 1802 y 1887. Los testimonios proceden de diccionarios de arquitectura y arte y describen la pieza desde su posición, sus apoyos y los elementos que recibe dentro de la cubierta.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nResulta decisiva para leer armaduras históricas sin confundir correa con par, contrapar, cabrío o tirante. Permite reconstruir la dirección de los esfuerzos y la secuencia de apoyo del entramado de cubierta.\nRELACIONADO CON\nCuchillo; par; contrapar; cabrío; tirante; egión; armadura; cubierta.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nJ. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887",
+    "url": "terminos/correa/",
+    "academic_pdf": "documentos/fichas/correa.pdf"
+  },
+  {
+    "num": 1334,
+    "cen": "CEN-2416",
+    "term": "Cueva",
+    "slug": "cueva",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Espacio excavado bajo el nivel del suelo y asociado a usos domésticos o de almacenamiento; en la lexicografía artística del siglo XIX se define además por su condición subterránea y abovedada. En normativa urbana, la excavación de cuevas se vincula al dominio del propio solar y a la profundidad necesaria para no comprometer predios ajenos.",
+    "authors_text": "Juan de Torija (1760); Diego Antonio Rejón de Silva (1788); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Juan de Torija",
+      "Diego Antonio Rejón de Silva",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1760,
+      1788,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Juan de Torija (1760). Tratado breve sobre las Ordenanzas de Madrid, 1760, capítulo de las cuevas",
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "J. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887"
+    ],
+    "variants": "Cueva convive con denominaciones de piezas subterráneas como cantina, sótano y ajaquefa, pero no son equivalentes automáticos en todos los contextos. La expresión caña de cueva designa una parte interna de la cueva doméstica.",
+    "comparison": "Torija trata la cueva como excavación reglada dentro del propio sitio y fija una profundidad de referencia. Rejón muestra que la cueva doméstica podía organizarse en partes denominadas cañas. Adeline, ya en un vocabulario artístico, la reduce a una definición espacial: lugar subterráneo y abovedado. Las fuentes complementan regulación, organización interior y forma.",
+    "coverage": "Los testimonios integrados van de 1760 a 1887. La voz aparece en ordenanzas urbanas, vocabulario de nobles artes y repertorio de términos artísticos, lo que permite observar tanto su dimensión constructiva como su estabilización lexicográfica.",
+    "utility": "Ayuda a distinguir el espacio subterráneo excavado de otras piezas bajas de la casa y a interpretar referencias a su profundidad, cubrición y subdivisiones internas en documentación de obras y ordenanzas.",
+    "related": [
+      "Sótano",
+      "cantina",
+      "caña de cueva",
+      "bóveda",
+      "excavación",
+      "cimentación",
+      "ajaquefa"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "En propio sitio, qualquiera puede hacer cueva, profundándola diez pies…",
+        "author": "Juan de Torija",
+        "year": "1760",
+        "source": "Tratado breve sobre las Ordenanzas de Madrid, 1760, capítulo de las cuevas, p. 52 del facsímil."
+      },
+      {
+        "text": "CAÑA. A. Una parte de la cueva que se suele fabricar en una casa particular para usos domésticos.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 63 del facsímil."
+      }
+    ],
+    "search_text": "Cueva\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspacio excavado bajo el nivel del suelo y asociado a usos domésticos o de almacenamiento; en la lexicografía artística del siglo XIX se define además por su condición subterránea y abovedada. En normativa urbana, la excavación de cuevas se vincula al dominio del propio solar y a la profundidad necesaria para no comprometer predios ajenos.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Torija · 1760\n1. Excavación de la cueva dentro del propio sitio\n«En propio sitio, qualquiera puede hacer cueva, profundándola diez pies…»\nTratado breve sobre las Ordenanzas de Madrid, 1760, capítulo de las cuevas, p. 52 del facsímil.\nMR-C-01 · CEN-2416. Introduce la cueva como excavación sometida a condiciones de emplazamiento y profundidad.\nDiego Antonio Rejón de Silva · 1788\n2. Caña como parte de la cueva doméstica\n«CAÑA. A. Una parte de la cueva que se suele fabricar en una casa particular para usos domésticos.»\nDiccionario de las Nobles Artes, 1788, p. 63 del facsímil.\nMR-C-02 · CEN-2416. Demuestra que la cueva doméstica podía tener una subdivisión constructiva específica.\nJ. Adeline / José Ramón Mélida · 1887\n3. Definición espacial y abovedada\n«Cueva.-(Cave.)-[Arq.]-Lugar subterráneo y abovedado.»\nVocabulario de Términos de Arte, 1887, p. 169 del facsímil.\nMR-C-03 · CEN-2416. Fija dos rasgos formales básicos: posición subterránea y cubrición abovedada.\nNÚCLEO CANÓNICO\nEspacio subterráneo excavado, frecuentemente abovedado, vinculado a usos domésticos.\nLECTURA COMPARADA\nTorija trata la cueva como excavación reglada dentro del propio sitio y fija una profundidad de referencia. Rejón muestra que la cueva doméstica podía organizarse en partes denominadas cañas. Adeline, ya en un vocabulario artístico, la reduce a una definición espacial: lugar subterráneo y abovedado. Las fuentes complementan regulación, organización interior y forma.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCueva convive con denominaciones de piezas subterráneas como cantina, sótano y ajaquefa, pero no son equivalentes automáticos en todos los contextos. La expresión caña de cueva designa una parte interna de la cueva doméstica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios integrados van de 1760 a 1887. La voz aparece en ordenanzas urbanas, vocabulario de nobles artes y repertorio de términos artísticos, lo que permite observar tanto su dimensión constructiva como su estabilización lexicográfica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a distinguir el espacio subterráneo excavado de otras piezas bajas de la casa y a interpretar referencias a su profundidad, cubrición y subdivisiones internas en documentación de obras y ordenanzas.\nRELACIONADO CON\nSótano; cantina; caña de cueva; bóveda; excavación; cimentación; ajaquefa.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nJuan de Torija (1760). Tratado breve sobre las Ordenanzas de Madrid, 1760, capítulo de las cuevas\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nJ. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887",
+    "url": "terminos/cueva/",
+    "academic_pdf": "documentos/fichas/cueva.pdf"
+  },
+  {
+    "num": 1335,
+    "cen": "CEN-2503",
+    "term": "Desplomarse",
+    "slug": "desplomarse",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Perder un muro, pared o fachada su verticalidad, saliendo de la línea de plomada y venciendo hacia un lado. La voz describe una alteración geométrica observable de la fábrica que puede manifestarse como inclinación general o como vientre hacia el exterior.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1796); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1796,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1796). Arquitectura Civil, 1796",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Desplomarse se relaciona con desplomo, sustantivo que nombra el vicio resultante, y con aplanarse o hundirse sólo en determinados repertorios; estas últimas voces no deben confundirse con la mera pérdida de verticalidad.",
+    "comparison": "Rejón formula la acción como torcerse o vencerse de la pared o edificio. Bails la define geométricamente respecto de la plomada y en su tratado aplica el verbo a una fachada que haría vientre hacia afuera si la escarpa comenzara demasiado arriba. La definición y el ejemplo constructivo explican tanto el diagnóstico como una causa de diseño.",
+    "coverage": "La acepción arquitectónica queda documentada entre 1788 y 1802, con un ejemplo doctrinal de 1796. Los textos vinculan la voz a paredes, fachadas, escarpas y control de verticalidad.",
+    "utility": "Permite interpretar patologías históricas de muros y diferenciar la inclinación fuera de plomo de ruina, asiento o simple irregularidad superficial. Es útil para leer informes de estabilidad y recomendaciones sobre escarpas.",
+    "related": [
+      "Desplomo",
+      "plomada",
+      "pared",
+      "fachada",
+      "escarpa",
+      "asiento",
+      "ruina"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "DESPLOMARSE. v. r. A. Torcerse ó vencerse á un lado una pared ó edificio.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 94 del facsímil."
+      },
+      {
+        "text": "…no podrían menos de desplomarse las fachadas, haciendo vientre ácia afuera en aquella parte.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 244 del facsímil."
+      }
+    ],
+    "search_text": "Desplomarse\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPerder un muro, pared o fachada su verticalidad, saliendo de la línea de plomada y venciendo hacia un lado. La voz describe una alteración geométrica observable de la fábrica que puede manifestarse como inclinación general o como vientre hacia el exterior.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Vencimiento lateral de pared o edificio\n«DESPLOMARSE. v. r. A. Torcerse ó vencerse á un lado una pared ó edificio.»\nDiccionario de las Nobles Artes, 1788, p. 94 del facsímil.\nMR-D-01 · CEN-2503. Define la acción por el cambio de posición del cuerpo construido.\nBenito Bails · 1796\n2. Fachada que hace vientre hacia afuera\n«…no podrían menos de desplomarse las fachadas, haciendo vientre ácia afuera en aquella parte.»\nArquitectura Civil, 1796, p. 244 del facsímil.\nMR-D-02 · CEN-2503. El ejemplo relaciona el desplome con la disposición de la escarpa de una fachada.\nBenito Bails · 1802\n3. Salida de la línea vertical\n«DESPLOMARSE. v. r. Salirse un muro de la plomada ó línea vertical.»\nDiccionario de Arquitectura Civil, 1802, p. 36 del facsímil.\nMR-D-03 · CEN-2503. Formula el criterio geométrico exacto para reconocer el desplome.\nNÚCLEO CANÓNICO\nPerder una pared o fachada su verticalidad respecto de la plomada.\nLECTURA COMPARADA\nRejón formula la acción como torcerse o vencerse de la pared o edificio. Bails la define geométricamente respecto de la plomada y en su tratado aplica el verbo a una fachada que haría vientre hacia afuera si la escarpa comenzara demasiado arriba. La definición y el ejemplo constructivo explican tanto el diagnóstico como una causa de diseño.\nVARIANTES Y CONTROL TERMINOLÓGICO\nDesplomarse se relaciona con desplomo, sustantivo que nombra el vicio resultante, y con aplanarse o hundirse sólo en determinados repertorios; estas últimas voces no deben confundirse con la mera pérdida de verticalidad.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa acepción arquitectónica queda documentada entre 1788 y 1802, con un ejemplo doctrinal de 1796. Los textos vinculan la voz a paredes, fachadas, escarpas y control de verticalidad.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar patologías históricas de muros y diferenciar la inclinación fuera de plomo de ruina, asiento o simple irregularidad superficial. Es útil para leer informes de estabilidad y recomendaciones sobre escarpas.\nRELACIONADO CON\nDesplomo; plomada; pared; fachada; escarpa; asiento; ruina.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1796). Arquitectura Civil, 1796\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/desplomarse/",
+    "academic_pdf": "documentos/fichas/desplomarse.pdf"
+  },
+  {
+    "num": 1336,
+    "cen": "CEN-2509",
+    "term": "Desván",
+    "slug": "desvan",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Hueco o espacio situado bajo la armadura de cubierta y sobre el último piso de una casa. Puede constituir una pieza alta aprovechable o reducirse a una zona de escasa altura; el vocabulario doméstico lo aproxima a boardilla y camaranchón.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Desván se documenta junto a boardilla y camaranchón. Rejón distingue además el desván gatero, de altura tan reducida que no permite permanecer de pie, lo que muestra una subtipología por capacidad de uso.",
+    "comparison": "Rejón define el desván por su posición entre la armadura y el último piso y, en la subentrada desván gatero, introduce la altura útil como criterio. Matallana equipara camaranchón con desván o boardilla en lo más alto de la casa. La evidencia sitúa la voz en la distribución vertical doméstica y no en cualquier espacio de almacenamiento.",
+    "coverage": "Los testimonios principales se concentran entre 1788 y 1848. Se documentan tanto la definición arquitectónica como la equivalencia doméstica con boardilla y la existencia de un subtipo de altura reducida.",
+    "utility": "Permite reconocer el volumen habitable o residual bajo cubierta y distinguirlo de una buharda, que puede ser una ventana del propio desván, o de un piso completo.",
+    "related": [
+      "Boardilla",
+      "camaranchón",
+      "buharda",
+      "armadura",
+      "último piso",
+      "cubierta",
+      "desván gatero"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "DESVAN, s. m. A. El hueco interior que dexa la armadura sobre el último piso de una casa.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 94 del facsímil."
+      },
+      {
+        "text": "DESVAN GATERO. A. Aquel en que no puede ponerse un hombre derecho…",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 94 del facsímil."
+      }
+    ],
+    "search_text": "Desván\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nHueco o espacio situado bajo la armadura de cubierta y sobre el último piso de una casa. Puede constituir una pieza alta aprovechable o reducirse a una zona de escasa altura; el vocabulario doméstico lo aproxima a boardilla y camaranchón.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Hueco dejado por la armadura\n«DESVAN, s. m. A. El hueco interior que dexa la armadura sobre el último piso de una casa.»\nDiccionario de las Nobles Artes, 1788, p. 94 del facsímil.\nMR-D-01 · CEN-2509. Define el espacio por su relación con la cubierta y el último nivel habitable.\nDiego Antonio Rejón de Silva · 1788\n2. Desván gatero y altura útil\n«DESVAN GATERO. A. Aquel en que no puede ponerse un hombre derecho…»\nDiccionario de las Nobles Artes, 1788, p. 94 del facsímil.\nMR-D-02 · CEN-2509. Introduce un subtipo determinado por la escasa altura del hueco bajo cubierta.\nMariano Matallana · 1848\n3. Equivalencia con camaranchón y boardilla\n«CAMARANCHON.=Desvan, boardilla en lo mas alto de una casa.»\nVocabulario de Arquitectura Civil, 1848, p. 74 del facsímil.\nMR-D-03 · CEN-2509. Confirma la localización superior y la equivalencia léxica en el vocabulario doméstico.\nNÚCLEO CANÓNICO\nEspacio interior bajo la armadura y sobre el último piso de la casa.\nLECTURA COMPARADA\nRejón define el desván por su posición entre la armadura y el último piso y, en la subentrada desván gatero, introduce la altura útil como criterio. Matallana equipara camaranchón con desván o boardilla en lo más alto de la casa. La evidencia sitúa la voz en la distribución vertical doméstica y no en cualquier espacio de almacenamiento.\nVARIANTES Y CONTROL TERMINOLÓGICO\nDesván se documenta junto a boardilla y camaranchón. Rejón distingue además el desván gatero, de altura tan reducida que no permite permanecer de pie, lo que muestra una subtipología por capacidad de uso.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios principales se concentran entre 1788 y 1848. Se documentan tanto la definición arquitectónica como la equivalencia doméstica con boardilla y la existencia de un subtipo de altura reducida.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer el volumen habitable o residual bajo cubierta y distinguirlo de una buharda, que puede ser una ventana del propio desván, o de un piso completo.\nRELACIONADO CON\nBoardilla; camaranchón; buharda; armadura; último piso; cubierta; desván gatero.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/desvan/",
+    "academic_pdf": "documentos/fichas/desvan.pdf"
+  },
+  {
+    "num": 1337,
+    "cen": "CEN-2548",
+    "term": "Domo",
+    "slug": "domo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cúpula o cubierta de superficie curva que corona un espacio arquitectónico. En la tradición de Rieger y Rejón puede ser una cúpula ligera levantada sobre sustentantes; Bails fija lexicográficamente la equivalencia domo = cúpula.",
+    "authors_text": "Christian Rieger / Miguel Benavente (1763); Diego Antonio Rejón de Silva (1788); Benito Bails (1802).",
+    "authors": [
+      "Christian Rieger",
+      "Miguel Benavente",
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1763,
+      1788,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Christian Rieger / Miguel Benavente (1763). Elementos de toda la arquitectura civil, 1763",
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Domo alterna con cúpula; Rieger y Rejón emplean explícitamente la locución «Domo, ó cúpula ligera». Bails registra también dombo como equivalente de cúpula o media naranja, pero dombo constituye una forma distinta y no se mezcla con el lema.",
+    "comparison": "Rieger usa domo en una prescripción compositiva sobre una cúpula ligera sostenida por sustentantes. Rejón reproduce ese valor y lo remite a cúpula. Bails elimina el contexto compositivo y conserva la equivalencia lexicográfica. La secuencia pasa de un uso descriptivo a una definición breve sin alterar el objeto arquitectónico.",
+    "coverage": "La voz se documenta de 1763 a 1802 en tratado, diccionario de nobles artes y diccionario de arquitectura civil. Los testimonios combinan configuración formal y equivalencia terminológica.",
+    "utility": "Ayuda a identificar cuándo domo designa la cubierta cupular y evita leerlo como nombre de un edificio completo. Su equivalencia histórica con cúpula permite recuperar pasajes bajo ambas voces.",
+    "related": [
+      "Cúpula",
+      "media naranja",
+      "sustentante",
+      "tambor",
+      "bóveda",
+      "dombo"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Un Domo, ò Cupula ligera, que se erige con sustentantes hermosos, pero sin algun columnario…",
+        "author": "Christian Rieger / Miguel Benavente",
+        "year": "1763",
+        "source": "Elementos de toda la arquitectura civil, 1763, p. 292 del facsímil."
+      },
+      {
+        "text": "DOMO. s. m. A. Lo mismo que Cúpula… Un Domo, ó cúpula ligera, que se erige sobre sustentantes hermosos.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 98 del facsímil."
+      }
+    ],
+    "search_text": "Domo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCúpula o cubierta de superficie curva que corona un espacio arquitectónico. En la tradición de Rieger y Rejón puede ser una cúpula ligera levantada sobre sustentantes; Bails fija lexicográficamente la equivalencia domo = cúpula.\nCOMPARADOR TEXTUAL COMPLETO\nChristian Rieger / Miguel Benavente · 1763\n1. Cúpula ligera sobre sustentantes\n«Un Domo, ò Cupula ligera, que se erige con sustentantes hermosos, pero sin algun columnario…»\nElementos de toda la arquitectura civil, 1763, p. 292 del facsímil.\nMR-D-01 · CEN-2548. Documenta el término dentro de una solución compositiva cupular.\nDiego Antonio Rejón de Silva · 1788\n2. Equivalencia entre domo y cúpula\n«DOMO. s. m. A. Lo mismo que Cúpula… Un Domo, ó cúpula ligera, que se erige sobre sustentantes hermosos.»\nDiccionario de las Nobles Artes, 1788, p. 98 del facsímil.\nMR-D-02 · CEN-2548. Reúne definición por equivalencia y ejemplo de uso arquitectónico.\nBenito Bails · 1802\n3. Definición lexicográfica\n«DOMO. s. m. Lo mismo que CÚPULA.»\nDiccionario de Arquitectura Civil, 1802, p. 38 del facsímil.\nMR-D-03 · CEN-2548. Confirma la estabilización de la equivalencia terminológica.\nNÚCLEO CANÓNICO\nCúpula que cubre o corona un espacio, a veces levantada sobre sustentantes.\nLECTURA COMPARADA\nRieger usa domo en una prescripción compositiva sobre una cúpula ligera sostenida por sustentantes. Rejón reproduce ese valor y lo remite a cúpula. Bails elimina el contexto compositivo y conserva la equivalencia lexicográfica. La secuencia pasa de un uso descriptivo a una definición breve sin alterar el objeto arquitectónico.\nVARIANTES Y CONTROL TERMINOLÓGICO\nDomo alterna con cúpula; Rieger y Rejón emplean explícitamente la locución «Domo, ó cúpula ligera». Bails registra también dombo como equivalente de cúpula o media naranja, pero dombo constituye una forma distinta y no se mezcla con el lema.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz se documenta de 1763 a 1802 en tratado, diccionario de nobles artes y diccionario de arquitectura civil. Los testimonios combinan configuración formal y equivalencia terminológica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a identificar cuándo domo designa la cubierta cupular y evita leerlo como nombre de un edificio completo. Su equivalencia histórica con cúpula permite recuperar pasajes bajo ambas voces.\nRELACIONADO CON\nCúpula; media naranja; sustentante; tambor; bóveda; dombo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nChristian Rieger / Miguel Benavente (1763). Elementos de toda la arquitectura civil, 1763\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/domo/",
+    "academic_pdf": "documentos/fichas/domo.pdf"
+  },
+  {
+    "num": 1338,
+    "cen": "CEN-2559",
+    "term": "Ecfora",
+    "slug": "ecfora",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Salida o vuelo total de un miembro arquitectónico respecto del sólido o soporte sobre el que se proyecta. La medida puede contarse desde el eje del cuerpo principal hasta el extremo del miembro y, en algunos repertorios, también desde el vivo.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848, entrada «Ecfora»"
+    ],
+    "variants": "Ecfora aparece como término métrico y compositivo. Rejón añade una segunda convención de medición «desde el vivo», mientras Bails y Matallana privilegian el cómputo desde el eje del sólido.",
+    "comparison": "Rejón y Bails coinciden en el ejemplo de la cornisa medida desde el eje de la columna. Rejón explicita además que la salida puede contarse desde el vivo. Matallana conserva la acepción en el vocabulario decimonónico. La variación no afecta el significado de vuelo, sino el punto de referencia de su medida.",
+    "coverage": "La voz está documentada entre 1788 y 1848. Los repertorios especializados la aplican a miembros salientes y, de modo ejemplar, al vuelo de la cornisa respecto de la columna.",
+    "utility": "Permite interpretar correctamente dimensiones de vuelo en órdenes y molduras y detectar qué línea de referencia emplea un autor antes de comparar proporciones entre tratados.",
+    "related": [
+      "Vuelo",
+      "salida",
+      "cornisa",
+      "vivo",
+      "eje",
+      "miembro arquitectónico",
+      "proyección"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ECFORA. s. f. A. El vuelo ó salida total de un miembro arquitectónico desde el exe del sólido principal; como el vuelo de toda la cornisa contado desde el exe de la columna. Se toma también por el vuelo contado desde el vivo.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 98 del facsímil."
+      },
+      {
+        "text": "ECFORA. s. f. La salida ó vuelo total de un miembro arquitectónico contado desde el exe del sólido sobre que descansa hasta uno de sus extremos; como el vuelo de toda la cornisa contado desde el exe de la columna.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 38 del facsímil."
+      }
+    ],
+    "search_text": "Ecfora\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSalida o vuelo total de un miembro arquitectónico respecto del sólido o soporte sobre el que se proyecta. La medida puede contarse desde el eje del cuerpo principal hasta el extremo del miembro y, en algunos repertorios, también desde el vivo.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Vuelo desde el eje o desde el vivo\n«ECFORA. s. f. A. El vuelo ó salida total de un miembro arquitectónico desde el exe del sólido principal; como el vuelo de toda la cornisa contado desde el exe de la columna. Se toma también por el vuelo contado desde el vivo.»\nDiccionario de las Nobles Artes, 1788, p. 98 del facsímil.\nMR-E-01 · CEN-2559. Documenta las dos referencias históricas empleadas para expresar el vuelo.\nBenito Bails · 1802\n2. Salida total de un miembro\n«ECFORA. s. f. La salida ó vuelo total de un miembro arquitectónico contado desde el exe del sólido sobre que descansa hasta uno de sus extremos; como el vuelo de toda la cornisa contado desde el exe de la columna.»\nDiccionario de Arquitectura Civil, 1802, p. 38 del facsímil.\nMR-E-02 · CEN-2559. Precisa el carácter métrico del término y el ejemplo de la cornisa.\nMariano Matallana · 1848\n3. Conservación del tecnicismo de vuelo\n«ECFORA. La salida ó vuelo total de un miembro arquitectónico…»\nVocabulario de Arquitectura Civil, 1848, entrada «Ecfora», p. 116 del facsímil.\nMR-E-03 · CEN-2559. Confirma la continuidad del término en el vocabulario arquitectónico del siglo XIX.\nNÚCLEO CANÓNICO\nVuelo total de un miembro arquitectónico medido respecto de su soporte.\nLECTURA COMPARADA\nRejón y Bails coinciden en el ejemplo de la cornisa medida desde el eje de la columna. Rejón explicita además que la salida puede contarse desde el vivo. Matallana conserva la acepción en el vocabulario decimonónico. La variación no afecta el significado de vuelo, sino el punto de referencia de su medida.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEcfora aparece como término métrico y compositivo. Rejón añade una segunda convención de medición «desde el vivo», mientras Bails y Matallana privilegian el cómputo desde el eje del sólido.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz está documentada entre 1788 y 1848. Los repertorios especializados la aplican a miembros salientes y, de modo ejemplar, al vuelo de la cornisa respecto de la columna.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar correctamente dimensiones de vuelo en órdenes y molduras y detectar qué línea de referencia emplea un autor antes de comparar proporciones entre tratados.\nRELACIONADO CON\nVuelo; salida; cornisa; vivo; eje; miembro arquitectónico; proyección.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848, entrada «Ecfora»",
+    "url": "terminos/ecfora/",
+    "academic_pdf": "documentos/fichas/ecfora.pdf"
+  },
+  {
+    "num": 1339,
+    "cen": "CEN-2726",
+    "term": "Entalle",
+    "slug": "entalle",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Trabajo de talla o entalladura aplicado a miembros y objetos arquitectónicos, especialmente en madera y otros materiales aptos para recibir ornamento labrado. La voz puede nombrar tanto la labor resultante como, por extensión, la presencia de decoración tallada.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1788,
+      1848,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+      "Eduardo Mariátegui (1876). Glosario de algunos antiguos vocablos de arquitectura, 1876"
+    ],
+    "variants": "Entalle se relaciona directamente con entalladura y entallar. Rejón lo marca como poco usado; Mariátegui conserva la equivalencia «obra de entalladura», mientras Matallana desarrolla la familia verbal y nominal.",
+    "comparison": "Rejón define entalle por remisión a entalladura y lo ejemplifica como oposición a una columna lisa. Mariátegui recupera la misma autoridad histórica y mantiene el valor de obra tallada. Matallana explica la acción de entallar en madera, bronce o mármol, ampliando los materiales sin cambiar el núcleo de labra ornamental.",
+    "coverage": "Los testimonios de 1788, 1848 y 1876 muestran continuidad de una voz ya sentida como poco usada, pero todavía inteligible dentro de la familia entallar-entalladura.",
+    "utility": "Facilita reconocer menciones históricas de decoración tallada que no emplean directamente talla o relieve y ayuda a relacionar el resultado ornamental con la operación del entallador.",
+    "related": [
+      "Entalladura",
+      "entallar",
+      "talla",
+      "relieve",
+      "adorno",
+      "entallador",
+      "moldura"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ENTALLE, s. m. poc. us. E. Lo mismo que Entalladura… Ellas solas (las columnas) fuesen lisas sin tener entalle, ni adorno ninguno.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 106 del facsímil."
+      },
+      {
+        "text": "ENTALLADURA.=La accion y efecto de entallar.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 124 del facsímil."
+      }
+    ],
+    "search_text": "Entalle\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTrabajo de talla o entalladura aplicado a miembros y objetos arquitectónicos, especialmente en madera y otros materiales aptos para recibir ornamento labrado. La voz puede nombrar tanto la labor resultante como, por extensión, la presencia de decoración tallada.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Entalle como entalladura ornamental\n«ENTALLE, s. m. poc. us. E. Lo mismo que Entalladura… Ellas solas (las columnas) fuesen lisas sin tener entalle, ni adorno ninguno.»\nDiccionario de las Nobles Artes, 1788, p. 106 del facsímil.\nMR-E-01 · CEN-2726. La cita contrapone superficie lisa y labor tallada, fijando el valor ornamental.\nMariano Matallana · 1848\n2. Familia técnica entalladura-entallar\n«ENTALLADURA.=La accion y efecto de entallar.»\nVocabulario de Arquitectura Civil, 1848, p. 124 del facsímil.\nMR-E-02 · CEN-2726. Sitúa entalle dentro de una familia léxica de operación y resultado de talla.\nEduardo Mariátegui · 1876\n3. Obra de entalladura\n«ENTALLE. Obra de entalladura… “Ellas solas fuesen lisas sin tener entalle ni adorno ninguno.”»\nGlosario de algunos antiguos vocablos de arquitectura, 1876, p. 61 del facsímil.\nMR-E-03 · CEN-2726. Confirma la equivalencia y conserva un ejemplo histórico de aplicación a columnas.\nNÚCLEO CANÓNICO\nLabor tallada o entalladura que produce ornamento en miembros arquitectónicos.\nLECTURA COMPARADA\nRejón define entalle por remisión a entalladura y lo ejemplifica como oposición a una columna lisa. Mariátegui recupera la misma autoridad histórica y mantiene el valor de obra tallada. Matallana explica la acción de entallar en madera, bronce o mármol, ampliando los materiales sin cambiar el núcleo de labra ornamental.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEntalle se relaciona directamente con entalladura y entallar. Rejón lo marca como poco usado; Mariátegui conserva la equivalencia «obra de entalladura», mientras Matallana desarrolla la familia verbal y nominal.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1788, 1848 y 1876 muestran continuidad de una voz ya sentida como poco usada, pero todavía inteligible dentro de la familia entallar-entalladura.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nFacilita reconocer menciones históricas de decoración tallada que no emplean directamente talla o relieve y ayuda a relacionar el resultado ornamental con la operación del entallador.\nRELACIONADO CON\nEntalladura; entallar; talla; relieve; adorno; entallador; moldura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848\nEduardo Mariátegui (1876). Glosario de algunos antiguos vocablos de arquitectura, 1876",
+    "url": "terminos/entalle/",
+    "academic_pdf": "documentos/fichas/entalle.pdf"
+  },
+  {
+    "num": 1340,
+    "cen": "CEN-2777",
+    "term": "Escapo",
+    "slug": "escapo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cuerpo o fuste de la columna considerado entre basa y capitel. En la práctica de los órdenes, el término sirve además para localizar diámetros de referencia, como el imo escapo en la parte inferior del fuste.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1796); Benito Bails (1802); Miguel de Urrea (1582).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1788,
+      1796,
+      1802,
+      1582
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1796). Arquitectura Civil, 1796",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "Escapo es equivalente histórico de fuste, caña y, en determinados repertorios, vivo de la columna. La expresión imo escapo designa la zona inferior del fuste usada para medir su diámetro.",
+    "comparison": "Rejón y Bails formulan una equivalencia lexicográfica entre escapo, caña y fuste. Bails, en el tratado de 1796, emplea «imo escapo» en una prescripción de proporciones, demostrando que la voz no era sólo una remisión de diccionario, sino un punto concreto de medición en el orden. Urrea (1582) añade un testimonio temprano que urrea acredita la variante Scapo y sus funciones portantes.",
+    "coverage": "La documentación integrada se concentra entre 1788 y 1802, con uso doctrinal en 1796. El término aparece tanto en definiciones como en instrucciones proporcionales de la columna. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.",
+    "utility": "Permite localizar con exactitud el tramo de columna al que se refieren medidas de diámetro y evita confundir escapo con basa, capitel o una moldura del fuste.",
+    "related": [
+      "Fuste",
+      "caña",
+      "vivo",
+      "imo escapo",
+      "columna",
+      "diámetro",
+      "orden"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ESCAPO, s. m. A. Lo mismo que Caña ó fusto… Escapo ó vivo de la columna…",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 110 del facsímil."
+      },
+      {
+        "text": "…diámetro de la columna en su imo escapo…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 726 del facsímil."
+      }
+    ],
+    "search_text": "Escapo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCuerpo o fuste de la columna considerado entre basa y capitel. En la práctica de los órdenes, el término sirve además para localizar diámetros de referencia, como el imo escapo en la parte inferior del fuste.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Equivalencia con caña o fuste\n«ESCAPO, s. m. A. Lo mismo que Caña ó fusto… Escapo ó vivo de la columna…»\nDiccionario de las Nobles Artes, 1788, p. 110 del facsímil.\nMR-E-01 · CEN-2777. Fija la equivalencia y documenta vivo como denominación contextual del cuerpo de la columna.\nBenito Bails · 1796\n2. Diámetro en el imo escapo\n«…diámetro de la columna en su imo escapo…»\nArquitectura Civil, 1796, p. 726 del facsímil.\nMR-E-02 · CEN-2777. Muestra la utilización del término como referencia métrica inferior del fuste.\nBenito Bails · 1802\n3. Remisión a fuste, caña y vivo\n«ESCAPO. s. m. Lo mismo que FUSTE, CAÑA, VIVO.»\nDiccionario de Arquitectura Civil, 1802, p. 45 del facsímil.\nMR-E-03 · CEN-2777. Consolida la red de equivalencias terminológicas del cuerpo de la columna.\nMiguel de Urrea · 1582\n4. Scapo como columna, poste y sustentáculo\n«Scapo. columna. Scapo. poste. Scapo. madero o boueda sustentaculo de la escalera sobre que assientan los grados.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 294 del facsímil.\nMR-P043-08-04 · Urrea acredita la variante Scapo y sus funciones portantes.\nNÚCLEO CANÓNICO\nFuste o caña de la columna y referencia métrica de su cuerpo.\nLECTURA COMPARADA\nRejón y Bails formulan una equivalencia lexicográfica entre escapo, caña y fuste. Bails, en el tratado de 1796, emplea «imo escapo» en una prescripción de proporciones, demostrando que la voz no era sólo una remisión de diccionario, sino un punto concreto de medición en el orden. Urrea (1582) añade un testimonio temprano que urrea acredita la variante Scapo y sus funciones portantes.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEscapo es equivalente histórico de fuste, caña y, en determinados repertorios, vivo de la columna. La expresión imo escapo designa la zona inferior del fuste usada para medir su diámetro.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se concentra entre 1788 y 1802, con uso doctrinal en 1796. El término aparece tanto en definiciones como en instrucciones proporcionales de la columna. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite localizar con exactitud el tramo de columna al que se refieren medidas de diámetro y evita confundir escapo con basa, capitel o una moldura del fuste.\nRELACIONADO CON\nFuste; caña; vivo; imo escapo; columna; diámetro; orden.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1796). Arquitectura Civil, 1796\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/escapo/",
+    "academic_pdf": "documentos/fichas/escapo.pdf"
+  },
+  {
+    "num": 1341,
+    "cen": "CEN-3279",
+    "term": "Lima",
+    "slug": "lima",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En armaduras y tejados, línea o pieza situada en el encuentro de dos faldones. Cuando el encuentro es entrante forma una lima hoya y recibe aguas; cuando es saliente constituye una lima tesa. La acepción arquitectónica se separa de la herramienta homónima.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Lima hoya y lima tesa son las dos subdenominaciones documentadas. Rejón escribe «lima oya»; Bails usa «lima hoya». El lema simple lima funciona como base de ambos compuestos.",
+    "comparison": "Rejón define la lima hoya como canal maestra del ángulo entrante y la lima tesa como ángulo saliente. Bails conserva la oposición hoya/tesa en su diccionario. Matallana explica además la lima como lugar donde se juntan dos armaduras formando concavidad a manera de canal. La polisemia interna depende, por tanto, de la geometría del encuentro.",
+    "coverage": "Los testimonios de 1788, 1802 y 1848 documentan la acepción de cubierta con definiciones convergentes. La continuidad confirma la importancia del binomio hoya/tesa en la descripción de armaduras.",
+    "utility": "Es indispensable para leer trazas y memorias de cubiertas: permite distinguir valle y limatesa, identificar recorridos de agua y comprender la geometría de los encuentros de faldones.",
+    "related": [
+      "Lima hoya",
+      "lima tesa",
+      "faldón",
+      "vertiente",
+      "canal maestra",
+      "armadura",
+      "tejado"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "LIMA OYA. A. Canal maestra en un texado, para recibir las aguas de otras, porque es el ángulo entrante que forman dos vertientes ó faldones de armadura.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 143 del facsímil."
+      },
+      {
+        "text": "LIMA TESA. A. El ángulo saliente que forman dos faldones ó vertientes de armadura…",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 143 del facsímil."
+      }
+    ],
+    "search_text": "Lima\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn armaduras y tejados, línea o pieza situada en el encuentro de dos faldones. Cuando el encuentro es entrante forma una lima hoya y recibe aguas; cuando es saliente constituye una lima tesa. La acepción arquitectónica se separa de la herramienta homónima.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Lima hoya como canal maestra\n«LIMA OYA. A. Canal maestra en un texado, para recibir las aguas de otras, porque es el ángulo entrante que forman dos vertientes ó faldones de armadura.»\nDiccionario de las Nobles Artes, 1788, p. 143 del facsímil.\nMR-L-01 · CEN-3279. Define la variante entrante por geometría y evacuación de aguas.\nDiego Antonio Rejón de Silva · 1788\n2. Lima tesa como ángulo saliente\n«LIMA TESA. A. El ángulo saliente que forman dos faldones ó vertientes de armadura…»\nDiccionario de las Nobles Artes, 1788, p. 143 del facsímil.\nMR-L-02 · CEN-3279. Completa el sistema con la variante saliente del encuentro.\nMariano Matallana · 1848\n3. Encuentro de armaduras en concavidad\n«LIMA.=Canal grande que se coloca en el ángulo de los tejados… =El parage donde se juntan dos armaduras formando una concavidad á manera de canal…»\nVocabulario de Arquitectura Civil, 1848, p. 171 del facsímil.\nMR-L-03 · CEN-3279. Amplía la definición hacia la pieza y el lugar de encuentro de las armaduras.\nNÚCLEO CANÓNICO\nEncuentro entrante o saliente de dos faldones de cubierta: lima hoya o lima tesa.\nLECTURA COMPARADA\nRejón define la lima hoya como canal maestra del ángulo entrante y la lima tesa como ángulo saliente. Bails conserva la oposición hoya/tesa en su diccionario. Matallana explica además la lima como lugar donde se juntan dos armaduras formando concavidad a manera de canal. La polisemia interna depende, por tanto, de la geometría del encuentro.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLima hoya y lima tesa son las dos subdenominaciones documentadas. Rejón escribe «lima oya»; Bails usa «lima hoya». El lema simple lima funciona como base de ambos compuestos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1788, 1802 y 1848 documentan la acepción de cubierta con definiciones convergentes. La continuidad confirma la importancia del binomio hoya/tesa en la descripción de armaduras.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs indispensable para leer trazas y memorias de cubiertas: permite distinguir valle y limatesa, identificar recorridos de agua y comprender la geometría de los encuentros de faldones.\nRELACIONADO CON\nLima hoya; lima tesa; faldón; vertiente; canal maestra; armadura; tejado.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/lima/",
+    "academic_pdf": "documentos/fichas/lima.pdf"
+  },
+  {
+    "num": 1342,
+    "cen": "CEN-3399",
+    "term": "Marranos",
+    "slug": "marranos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conjunto o entramado de maderos robustos asentado en el fondo de pozos o zanjas húmedas para recibir y afirmar cimentaciones; por extensión, gruesas piezas horizontales empleadas como apoyo en apeos. Su función principal es repartir y estabilizar cargas en condiciones de terreno o excavación desfavorables.",
+    "authors_text": "Fray Lorenzo de San Nicolás (1639); Diego Antonio Rejón de Silva (1788); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Fray Lorenzo de San Nicolás",
+      "Diego Antonio Rejón de Silva",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1639,
+      1788,
+      1887
+    ],
+    "centuries": [
+      "XVII",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Fray Lorenzo de San Nicolás (1639). Arte y uso de Arquitectura, primera parte, 1639",
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "J. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887"
+    ],
+    "variants": "Marranos se documenta normalmente en plural cuando nombra el conjunto de maderos. Los textos diferencian su empleo bajo cimentaciones húmedas y su uso como apoyo horizontal de pies derechos y tornapuntas.",
+    "comparison": "Fray Lorenzo describe marranos de pino colocados en pozos como vigas sobre las que se fundan paredes. Rejón transforma esa práctica en definición: maderos trabados en el suelo de pozo o zanja con agua para afirmar cimientos. Adeline añade el uso en apeos, donde piezas horizontales reciben pies derechos y tornapuntas. La extensión funcional mantiene siempre el carácter de apoyo robusto y horizontal.",
+    "coverage": "La voz se documenta desde 1639 hasta 1887. El arco cronológico enlaza práctica de cimentación barroca, lexicografía del siglo XVIII y sistematización decimonónica del apeo.",
+    "utility": "Permite reconocer sistemas históricos de cimentación sobre madera en terrenos con agua y distinguirlos de pilotes verticales, emparrillados genéricos o durmientes de otras estructuras.",
+    "related": [
+      "Cimiento",
+      "pozo",
+      "zanja",
+      "emparrillado",
+      "apeo",
+      "pie derecho",
+      "tornapunta",
+      "viga"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…echamos los marranos de pino [en] los pozos, que son unas vigas sobre que se fundan las paredes de los pozos…",
+        "author": "Fray Lorenzo de San Nicolás",
+        "year": "1639",
+        "source": "Arte y uso de Arquitectura, primera parte, 1639, p. 166 del facsímil."
+      },
+      {
+        "text": "MARRANOS, s. m. pl. A. Llámase así el conjunto de maderos fuertemente ensamblados ó trabados, que se sienta en el suelo del pozo, ó de la zanja que brota agua para afirmar los cimientos.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 152 del facsímil."
+      }
+    ],
+    "search_text": "Marranos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConjunto o entramado de maderos robustos asentado en el fondo de pozos o zanjas húmedas para recibir y afirmar cimentaciones; por extensión, gruesas piezas horizontales empleadas como apoyo en apeos. Su función principal es repartir y estabilizar cargas en condiciones de terreno o excavación desfavorables.\nCOMPARADOR TEXTUAL COMPLETO\nFray Lorenzo de San Nicolás · 1639\n1. Vigas de pino bajo paredes de pozo\n«…echamos los marranos de pino [en] los pozos, que son unas vigas sobre que se fundan las paredes de los pozos…»\nArte y uso de Arquitectura, primera parte, 1639, p. 166 del facsímil.\nMR-M-01 · CEN-3399. Documenta la práctica temprana de usar marranos como base de paredes en pozos.\nDiego Antonio Rejón de Silva · 1788\n2. Maderos trabados para afirmar cimientos\n«MARRANOS, s. m. pl. A. Llámase así el conjunto de maderos fuertemente ensamblados ó trabados, que se sienta en el suelo del pozo, ó de la zanja que brota agua para afirmar los cimientos.»\nDiccionario de las Nobles Artes, 1788, p. 152 del facsímil.\nMR-M-02 · CEN-3399. Define material, disposición, emplazamiento y finalidad de cimentación.\nJ. Adeline / José Ramón Mélida · 1887\n3. Apoyo horizontal en apeos y cimentaciones\n«Marranos.-[Arq.] Gruesas piezas de madera que, colocadas horizontalmente, por lo común bajo tierra, sirven de apoyo á los pies derechos y tornapuntas de los apeos.»\nVocabulario de Términos de Arte, 1887, p. 343 del facsímil.\nMR-M-03 · CEN-3399. Extiende la voz al sistema de apeo conservando su condición de apoyo horizontal robusto.\nNÚCLEO CANÓNICO\nMaderos ensamblados y horizontales que forman apoyo de cimentación o apeo.\nLECTURA COMPARADA\nFray Lorenzo describe marranos de pino colocados en pozos como vigas sobre las que se fundan paredes. Rejón transforma esa práctica en definición: maderos trabados en el suelo de pozo o zanja con agua para afirmar cimientos. Adeline añade el uso en apeos, donde piezas horizontales reciben pies derechos y tornapuntas. La extensión funcional mantiene siempre el carácter de apoyo robusto y horizontal.\nVARIANTES Y CONTROL TERMINOLÓGICO\nMarranos se documenta normalmente en plural cuando nombra el conjunto de maderos. Los textos diferencian su empleo bajo cimentaciones húmedas y su uso como apoyo horizontal de pies derechos y tornapuntas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz se documenta desde 1639 hasta 1887. El arco cronológico enlaza práctica de cimentación barroca, lexicografía del siglo XVIII y sistematización decimonónica del apeo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer sistemas históricos de cimentación sobre madera en terrenos con agua y distinguirlos de pilotes verticales, emparrillados genéricos o durmientes de otras estructuras.\nRELACIONADO CON\nCimiento; pozo; zanja; emparrillado; apeo; pie derecho; tornapunta; viga.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nFray Lorenzo de San Nicolás (1639). Arte y uso de Arquitectura, primera parte, 1639\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nJ. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887",
+    "url": "terminos/marranos/",
+    "academic_pdf": "documentos/fichas/marranos.pdf"
+  },
+  {
+    "num": 1343,
+    "cen": "CEN-3453",
+    "term": "Modelo",
+    "slug": "modelo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Representación material reducida de un edificio o de sus partes, fabricada en madera, cartón u otros materiales, destinada a anticipar el efecto de la obra y a guiar su dirección. Los tratados advierten que una escala demasiado pequeña puede falsear la percepción de la magnitud arquitectónica.",
+    "authors_text": "Benito Bails (1796); Benito Bails (1802).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1796,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails (1796). Arquitectura Civil, 1796",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Modelo mantiene su forma léxica, pero sus usos abarcan el edificio completo y modelos parciales de miembros o partes esenciales. No debe confundirse con dibujo o planta, aunque comparte con ellos función de representación previa.",
+    "comparison": "Bails, en 1796, critica los modelos pequeños porque no transmiten la majestad de edificios grandes y recomienda ampliar las partes esenciales cuando sea necesario. En 1802 define el modelo como edificio pequeño construido para anticipar el efecto y servir de guía. La teoría de escala y la definición instrumental se complementan.",
+    "coverage": "Los testimonios integrados pertenecen a Bails en 1796 y 1802 y muestran el paso de una reflexión sobre escala y percepción a una definición de uso profesional.",
+    "utility": "Ayuda a estudiar prácticas históricas de proyecto y comunicación material, especialmente cuando una memoria alude a comprobar proporciones o efectos antes de levantar la fábrica.",
+    "related": [
+      "Dibujo",
+      "planta",
+      "alzado",
+      "traza",
+      "maqueta",
+      "proporción",
+      "ejecución"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "Los modelos chicos nunca nos dan á conocer la magestad de los grandes edificios…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 53 del facsímil."
+      },
+      {
+        "text": "MODELO. s. m. Edificio pequeño de madera, carton, &c. que representa el que se ha de fabricar, para dar á conocer el efecto que hará despues de levantado, y guiar á los que han de dirigir la obra.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 70 del facsímil."
+      }
+    ],
+    "search_text": "Modelo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nRepresentación material reducida de un edificio o de sus partes, fabricada en madera, cartón u otros materiales, destinada a anticipar el efecto de la obra y a guiar su dirección. Los tratados advierten que una escala demasiado pequeña puede falsear la percepción de la magnitud arquitectónica.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Limitaciones de los modelos pequeños\n«Los modelos chicos nunca nos dan á conocer la magestad de los grandes edificios…»\nArquitectura Civil, 1796, p. 53 del facsímil.\nMR-M-01 · CEN-3453. Advierte que la escala del modelo condiciona la percepción de la grandeza arquitectónica.\nBenito Bails · 1802\n2. Modelo como edificio pequeño de representación\n«MODELO. s. m. Edificio pequeño de madera, carton, &c. que representa el que se ha de fabricar, para dar á conocer el efecto que hará despues de levantado, y guiar á los que han de dirigir la obra.»\nDiccionario de Arquitectura Civil, 1802, p. 70 del facsímil.\nMR-M-02 · CEN-3453. Define materiales, función representativa y utilidad directiva del modelo.\nNÚCLEO CANÓNICO\nRepresentación material del edificio para prever su efecto y guiar la ejecución.\nLECTURA COMPARADA\nBails, en 1796, critica los modelos pequeños porque no transmiten la majestad de edificios grandes y recomienda ampliar las partes esenciales cuando sea necesario. En 1802 define el modelo como edificio pequeño construido para anticipar el efecto y servir de guía. La teoría de escala y la definición instrumental se complementan.\nVARIANTES Y CONTROL TERMINOLÓGICO\nModelo mantiene su forma léxica, pero sus usos abarcan el edificio completo y modelos parciales de miembros o partes esenciales. No debe confundirse con dibujo o planta, aunque comparte con ellos función de representación previa.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios integrados pertenecen a Bails en 1796 y 1802 y muestran el paso de una reflexión sobre escala y percepción a una definición de uso profesional.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a estudiar prácticas históricas de proyecto y comunicación material, especialmente cuando una memoria alude a comprobar proporciones o efectos antes de levantar la fábrica.\nRELACIONADO CON\nDibujo; planta; alzado; traza; maqueta; proporción; ejecución.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nBenito Bails (1796). Arquitectura Civil, 1796\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/modelo/",
+    "academic_pdf": "documentos/fichas/modelo.pdf"
+  },
+  {
+    "num": 1344,
+    "cen": "CEN-3622",
+    "term": "Orlo",
+    "slug": "orlo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz de acepciones arquitectónicas distintas según el repertorio. Rejón la emplea como equivalente de plinto; Bails la usa para el pequeño filete o borde que remata la campana de un capitel. La coincidencia formal del nombre no autoriza a reducir ambos usos a una única pieza.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1796).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1796). Arquitectura Civil, 1796"
+    ],
+    "variants": "Orlo aparece como sinónimo de plinto en Rejón y como borde o filete de la campana del capitel en Bails. La diferencia es semántica, no meramente gráfica, y debe conservarse en la interpretación de cada fuente.",
+    "comparison": "Rejón formula una equivalencia directa «orlo = plinto». Bails, al describir el capitel, llama orlo a la gradecilla o filete situada bajo el husillo o bocel pequeño y asociada al vivo de la campana. Los testimonios no describen la misma pieza: uno pertenece a la base o plinto y otro al perfil del capitel. Esta divergencia es el dato histórico central de la voz.",
+    "coverage": "La documentación integrada se concentra entre 1788 y 1796. Aunque breve, registra dos acepciones arquitectónicas inequívocas y materialmente diferentes.",
+    "utility": "Previene una falsa sinonimia al interpretar órdenes arquitectónicos: obliga a decidir por contexto si orlo se refiere a plinto o al filete de la campana del capitel.",
+    "related": [
+      "Plinto",
+      "filete",
+      "campana",
+      "capitel",
+      "bocel",
+      "vivo",
+      "moldura"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ORLO. s. m. A. Lo mismo que Plinto.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 167 del facsímil."
+      },
+      {
+        "text": "…la gradecilla ó filete que va debaxo del husillo ó bocel pequeño y hace el orlo de la campana, ó vivo del capitel…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 708 del facsímil."
+      }
+    ],
+    "search_text": "Orlo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz de acepciones arquitectónicas distintas según el repertorio. Rejón la emplea como equivalente de plinto; Bails la usa para el pequeño filete o borde que remata la campana de un capitel. La coincidencia formal del nombre no autoriza a reducir ambos usos a una única pieza.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Orlo como plinto\n«ORLO. s. m. A. Lo mismo que Plinto.»\nDiccionario de las Nobles Artes, 1788, p. 167 del facsímil.\nMR-O-01 · CEN-3622. Documenta una acepción lexicográfica inequívoca de equivalencia con plinto.\nBenito Bails · 1796\n2. Orlo como filete de la campana del capitel\n«…la gradecilla ó filete que va debaxo del husillo ó bocel pequeño y hace el orlo de la campana, ó vivo del capitel…»\nArquitectura Civil, 1796, p. 708 del facsímil.\nMR-O-02 · CEN-3622. Documenta una segunda acepción situada en el perfil del capitel.\nNÚCLEO CANÓNICO\nTérmino polisémico: plinto en un repertorio; filete o borde de capitel en otro.\nLECTURA COMPARADA\nRejón formula una equivalencia directa «orlo = plinto». Bails, al describir el capitel, llama orlo a la gradecilla o filete situada bajo el husillo o bocel pequeño y asociada al vivo de la campana. Los testimonios no describen la misma pieza: uno pertenece a la base o plinto y otro al perfil del capitel. Esta divergencia es el dato histórico central de la voz.\nVARIANTES Y CONTROL TERMINOLÓGICO\nOrlo aparece como sinónimo de plinto en Rejón y como borde o filete de la campana del capitel en Bails. La diferencia es semántica, no meramente gráfica, y debe conservarse en la interpretación de cada fuente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se concentra entre 1788 y 1796. Aunque breve, registra dos acepciones arquitectónicas inequívocas y materialmente diferentes.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPreviene una falsa sinonimia al interpretar órdenes arquitectónicos: obliga a decidir por contexto si orlo se refiere a plinto o al filete de la campana del capitel.\nRELACIONADO CON\nPlinto; filete; campana; capitel; bocel; vivo; moldura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1796). Arquitectura Civil, 1796",
+    "url": "terminos/orlo/",
+    "academic_pdf": "documentos/fichas/orlo.pdf"
+  },
+  {
+    "num": 1345,
+    "cen": "CEN-3686",
+    "term": "Parastades",
+    "slug": "parastades",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pilastras o retropilastras anchas asociadas a columnas, con frecuencia situadas detrás de ellas y capaces de recibir arcos, vigas o la estructura de pórticos y galerías. Su anchura puede expresarse modularmente respecto de la columna.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1787,
+      1788,
+      1582
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787",
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "Parastade se documenta en singular y parastades en plural. Ortiz emplea la equivalencia «parástades ó retropilastras», que aclara su colocación posterior respecto de las columnas.",
+    "comparison": "Ortiz identifica las parástades de la basílica de Fano con retropilastras detrás de las columnas y les atribuye el soporte de la contignación del pórtico. Rejón define la parastade como pilastra ancha en la que puede ir empotrada una columna y da una proporción modular. Un texto enfatiza posición y carga; el otro, forma y medida. Urrea (1582) añade un testimonio temprano que la variante histórica se explica por forma, posición y relación con la columna.",
+    "coverage": "Los testimonios principales son de 1787 y 1788, vinculados a la recepción vitruviana y a la lexicografía académica de arquitectura. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.",
+    "utility": "Permite distinguir una parastade de una pilastra decorativa aislada y reconstruir su relación física con columnas, arcos y pórticos en descripciones de basílicas y galerías.",
+    "related": [
+      "Retropilastra",
+      "pilastra",
+      "columna",
+      "pórtico",
+      "galería",
+      "módulo",
+      "contignación"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "…parástades ó retropilastras en su basílica de Fano detras de las colunas, para sostener… los quartones y contignacion de los pórticos.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, 1787, p. 162 del facsímil."
+      },
+      {
+        "text": "PARASTADE. s. f. A. Pilastra ancha, en que va ordinariamente empotrada una columna ú otra pilastra, y recibe los arcos de una galería… Las parastades tendrán de ancho tres módulos…",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 170 del facsímil."
+      }
+    ],
+    "search_text": "Parastades\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPilastras o retropilastras anchas asociadas a columnas, con frecuencia situadas detrás de ellas y capaces de recibir arcos, vigas o la estructura de pórticos y galerías. Su anchura puede expresarse modularmente respecto de la columna.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Retropilastras detrás de columnas\n«…parástades ó retropilastras en su basílica de Fano detras de las colunas, para sostener… los quartones y contignacion de los pórticos.»\nLos diez libros de Arquitectura, 1787, p. 162 del facsímil.\nMR-P-01 · CEN-3686. Establece posición posterior y función resistente en el pórtico.\nDiego Antonio Rejón de Silva · 1788\n2. Pilastra ancha y proporción modular\n«PARASTADE. s. f. A. Pilastra ancha, en que va ordinariamente empotrada una columna ú otra pilastra, y recibe los arcos de una galería… Las parastades tendrán de ancho tres módulos…»\nDiccionario de las Nobles Artes, 1788, p. 170 del facsímil.\nMR-P-02 · CEN-3686. Combina definición morfológica, relación con columna y medida modular.\nMiguel de Urrea · 1582\n3. Parastatas como jambas o pilastras\n«Parastatas. Iambas, o pilastras, que suelen salir a fuera de las columnas a los dos lados.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 293 del facsímil.\nMR-P043-13-04 · La variante histórica se explica por forma, posición y relación con la columna.\nNÚCLEO CANÓNICO\nPilastras anchas asociadas a columnas y empleadas como apoyo de arcos o estructuras de pórtico.\nLECTURA COMPARADA\nOrtiz identifica las parástades de la basílica de Fano con retropilastras detrás de las columnas y les atribuye el soporte de la contignación del pórtico. Rejón define la parastade como pilastra ancha en la que puede ir empotrada una columna y da una proporción modular. Un texto enfatiza posición y carga; el otro, forma y medida. Urrea (1582) añade un testimonio temprano que la variante histórica se explica por forma, posición y relación con la columna.\nVARIANTES Y CONTROL TERMINOLÓGICO\nParastade se documenta en singular y parastades en plural. Ortiz emplea la equivalencia «parástades ó retropilastras», que aclara su colocación posterior respecto de las columnas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios principales son de 1787 y 1788, vinculados a la recepción vitruviana y a la lexicografía académica de arquitectura. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir una parastade de una pilastra decorativa aislada y reconstruir su relación física con columnas, arcos y pórticos en descripciones de basílicas y galerías.\nRELACIONADO CON\nRetropilastra; pilastra; columna; pórtico; galería; módulo; contignación.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMarco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/parastades/",
+    "academic_pdf": "documentos/fichas/parastades.pdf"
+  },
+  {
+    "num": 1346,
+    "cen": "CEN-4027",
+    "term": "Quarto",
+    "slug": "quarto",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pieza o estancia de una casa y, en otros usos, conjunto de piezas organizado como apartamiento. La voz forma parte del vocabulario histórico de distribución doméstica y se especifica mediante denominaciones como quarto baxo, principal o entresuelo.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Quarto conserva la grafía histórica con q. Bails lo hace equivalente a apartamiento y registra subtipos por nivel; Rejón define de modo más restringido la pieza o estancia individual.",
+    "comparison": "Rejón toma quarto como una de las piezas que componen la casa. Bails lo equipara a apartamiento y despliega subcategorías ligadas a la posición vertical. La diferencia de amplitud muestra que el término podía oscilar entre estancia individual y unidad distributiva más compleja.",
+    "coverage": "Las definiciones integradas de 1788 y 1802 pertenecen a repertorios especializados y reflejan dos escalas de uso dentro de la vivienda.",
+    "utility": "Es útil para interpretar inventarios y descripciones de casas donde quarto no equivale necesariamente a dormitorio moderno: puede ser estancia genérica o conjunto distributivo según el autor.",
+    "related": [
+      "Apartamiento",
+      "estancia",
+      "pieza",
+      "antesala",
+      "quarto principal",
+      "quarto baxo",
+      "entresuelo"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "QUARTO, s. m. A. La pieza ó estancia de las que componen una casa.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 190 del facsímil."
+      },
+      {
+        "text": "QUARTO. s. m. Lo mismo que APARTAMIENTO.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 90 del facsímil."
+      }
+    ],
+    "search_text": "Quarto\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPieza o estancia de una casa y, en otros usos, conjunto de piezas organizado como apartamiento. La voz forma parte del vocabulario histórico de distribución doméstica y se especifica mediante denominaciones como quarto baxo, principal o entresuelo.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Pieza o estancia de la casa\n«QUARTO, s. m. A. La pieza ó estancia de las que componen una casa.»\nDiccionario de las Nobles Artes, 1788, p. 190 del facsímil.\nMR-Q-01 · CEN-4027. Define el cuarto en la escala de la pieza individual de la vivienda.\nBenito Bails · 1802\n2. Equivalencia con apartamiento\n«QUARTO. s. m. Lo mismo que APARTAMIENTO.»\nDiccionario de Arquitectura Civil, 1802, p. 90 del facsímil.\nMR-Q-02 · CEN-4027. Amplía la voz hacia la unidad distributiva y enlaza con subtipos por planta.\nNÚCLEO CANÓNICO\nPieza o conjunto de piezas que forma una unidad de distribución doméstica.\nLECTURA COMPARADA\nRejón toma quarto como una de las piezas que componen la casa. Bails lo equipara a apartamiento y despliega subcategorías ligadas a la posición vertical. La diferencia de amplitud muestra que el término podía oscilar entre estancia individual y unidad distributiva más compleja.\nVARIANTES Y CONTROL TERMINOLÓGICO\nQuarto conserva la grafía histórica con q. Bails lo hace equivalente a apartamiento y registra subtipos por nivel; Rejón define de modo más restringido la pieza o estancia individual.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLas definiciones integradas de 1788 y 1802 pertenecen a repertorios especializados y reflejan dos escalas de uso dentro de la vivienda.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar inventarios y descripciones de casas donde quarto no equivale necesariamente a dormitorio moderno: puede ser estancia genérica o conjunto distributivo según el autor.\nRELACIONADO CON\nApartamiento; estancia; pieza; antesala; quarto principal; quarto baxo; entresuelo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/quarto/",
+    "academic_pdf": "documentos/fichas/quarto.pdf"
+  },
+  {
+    "num": 1347,
+    "cen": "CEN-4087",
+    "term": "Relex",
+    "slug": "relex",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Disminución, cerramiento o retranqueo progresivo de una pared o cimiento hacia la parte superior. La voz describe una sección que pierde grueso conforme asciende y se relaciona históricamente con escarpa o escarpe.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Relex se hace equivalente a escarpa en Bails y a escarpe en Rejón. La familia incluye relexar, formar la pared en relex. No se incorpora aquí la homografía de otros campos que no describe paredes o cimientos.",
+    "comparison": "Rejón define relex como diminución de pared o cimiento y lo remite a escarpe. Bails formula el mismo principio con la palabra cerramiento y remite a escarpa; además registra relexar como la acción de formar la pared con esa disposición. La coincidencia afecta tanto al resultado geométrico como a la operación constructiva.",
+    "coverage": "La acepción arquitectónica está claramente documentada en 1788 y 1802. Ambos repertorios la sitúan en muros y cimentaciones, no en otros sentidos del término.",
+    "utility": "Permite leer secciones históricas de muros con talud o reducción superior y diferenciar este recurso de un desplome accidental: el relex es una disposición constructiva intencional.",
+    "related": [
+      "Escarpa",
+      "escarpe",
+      "relexar",
+      "pared",
+      "cimiento",
+      "talud",
+      "grueso"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "RELEX. s. m. A. Diminución de la pared, ó cimiento acia la parte superior. Lo mismo que Escarpe.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 195 del facsímil."
+      },
+      {
+        "text": "RELEX. s. m. El cerramiento ó diminucion de la pared ó cimiento hácia la parte superior. Es lo mismo que ESCARPA.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 92 del facsímil."
+      }
+    ],
+    "search_text": "Relex\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDisminución, cerramiento o retranqueo progresivo de una pared o cimiento hacia la parte superior. La voz describe una sección que pierde grueso conforme asciende y se relaciona históricamente con escarpa o escarpe.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Diminución de pared o cimiento\n«RELEX. s. m. A. Diminución de la pared, ó cimiento acia la parte superior. Lo mismo que Escarpe.»\nDiccionario de las Nobles Artes, 1788, p. 195 del facsímil.\nMR-R-01 · CEN-4087. Define la reducción superior y su equivalencia histórica con escarpe.\nBenito Bails · 1802\n2. Cerramiento superior y equivalencia con escarpa\n«RELEX. s. m. El cerramiento ó diminucion de la pared ó cimiento hácia la parte superior. Es lo mismo que ESCARPA.»\nDiccionario de Arquitectura Civil, 1802, p. 92 del facsímil.\nMR-R-02 · CEN-4087. Confirma la geometría del término y la remisión a escarpa.\nNÚCLEO CANÓNICO\nDisminución del grueso de una pared o cimiento hacia su parte superior.\nLECTURA COMPARADA\nRejón define relex como diminución de pared o cimiento y lo remite a escarpe. Bails formula el mismo principio con la palabra cerramiento y remite a escarpa; además registra relexar como la acción de formar la pared con esa disposición. La coincidencia afecta tanto al resultado geométrico como a la operación constructiva.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRelex se hace equivalente a escarpa en Bails y a escarpe en Rejón. La familia incluye relexar, formar la pared en relex. No se incorpora aquí la homografía de otros campos que no describe paredes o cimientos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa acepción arquitectónica está claramente documentada en 1788 y 1802. Ambos repertorios la sitúan en muros y cimentaciones, no en otros sentidos del término.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite leer secciones históricas de muros con talud o reducción superior y diferenciar este recurso de un desplome accidental: el relex es una disposición constructiva intencional.\nRELACIONADO CON\nEscarpa; escarpe; relexar; pared; cimiento; talud; grueso.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/relex/",
+    "academic_pdf": "documentos/fichas/relex.pdf"
+  },
+  {
+    "num": 1348,
+    "cen": "CEN-4095",
+    "term": "Reparo",
+    "slug": "reparo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Composición, arreglo o intervención destinada a restituir una fábrica o una de sus partes deterioradas. El término funciona como categoría general de reparación y se concreta en operaciones especializadas como recalzo de cimientos y retejo de cubiertas.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Reparo alterna con composición en los diccionarios. Reparar expresa la acción general; recalzo y retejar son reparos específicos de cimientos y tejados.",
+    "comparison": "Rejón define reparo como composición de una fábrica y reparar como asegurarla cuando el tiempo o un accidente la deterioran. Bails aplica el sustantivo a dos ámbitos concretos: recalzo en cimientos y retejo en cubiertas. La relación entre término general y operaciones particulares muestra una jerarquía técnica del vocabulario de mantenimiento.",
+    "coverage": "Los testimonios integrados de 1788 y 1802 abarcan definición general y dos aplicaciones constructivas. La voz aparece ligada al deterioro material y a la restitución de seguridad o servicio.",
+    "utility": "Permite clasificar intervenciones históricas de mantenimiento sin confundir reparo con obra nueva; además ayuda a identificar qué parte del edificio determina el nombre específico de la operación.",
+    "related": [
+      "Reparar",
+      "composición",
+      "recalzo",
+      "retejar",
+      "cimiento",
+      "tejado",
+      "deterioro"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "REPARO. s. m. A. Composición de una fábrica ó parte de ella.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 196 del facsímil."
+      },
+      {
+        "text": "RECALZO. s. m. Compostura ó reparo que se hace en los cimientos de un edificio, pared, &c.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 92 del facsímil."
+      }
+    ],
+    "search_text": "Reparo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nComposición, arreglo o intervención destinada a restituir una fábrica o una de sus partes deterioradas. El término funciona como categoría general de reparación y se concreta en operaciones especializadas como recalzo de cimientos y retejo de cubiertas.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Composición de una fábrica\n«REPARO. s. m. A. Composición de una fábrica ó parte de ella.»\nDiccionario de las Nobles Artes, 1788, p. 196 del facsímil.\nMR-R-01 · CEN-4095. Fija el sentido general de intervención sobre una fábrica existente.\nBenito Bails · 1802\n2. Recalzo como reparo de cimientos\n«RECALZO. s. m. Compostura ó reparo que se hace en los cimientos de un edificio, pared, &c.»\nDiccionario de Arquitectura Civil, 1802, p. 92 del facsímil.\nMR-R-02 · CEN-4095. Documenta un reparo especializado en la base resistente de la obra.\nBenito Bails · 1802\n3. Retejar como reparo de cubierta\n«RETEJAR. v. a. Reparo ó composición que se hace en el tejado que está maltratado.»\nDiccionario de Arquitectura Civil, 1802, p. 94 del facsímil.\nMR-R-03 · CEN-4095. Muestra la aplicación de reparo a la restitución de una cubierta dañada.\nNÚCLEO CANÓNICO\nIntervención de composición y aseguramiento de una fábrica deteriorada.\nLECTURA COMPARADA\nRejón define reparo como composición de una fábrica y reparar como asegurarla cuando el tiempo o un accidente la deterioran. Bails aplica el sustantivo a dos ámbitos concretos: recalzo en cimientos y retejo en cubiertas. La relación entre término general y operaciones particulares muestra una jerarquía técnica del vocabulario de mantenimiento.\nVARIANTES Y CONTROL TERMINOLÓGICO\nReparo alterna con composición en los diccionarios. Reparar expresa la acción general; recalzo y retejar son reparos específicos de cimientos y tejados.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios integrados de 1788 y 1802 abarcan definición general y dos aplicaciones constructivas. La voz aparece ligada al deterioro material y a la restitución de seguridad o servicio.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite clasificar intervenciones históricas de mantenimiento sin confundir reparo con obra nueva; además ayuda a identificar qué parte del edificio determina el nombre específico de la operación.\nRELACIONADO CON\nReparar; composición; recalzo; retejar; cimiento; tejado; deterioro.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/reparo/",
+    "academic_pdf": "documentos/fichas/reparo.pdf"
+  },
+  {
+    "num": 1349,
+    "cen": "CEN-4278",
+    "term": "Sobrestante",
+    "slug": "sobrestante",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Persona encargada de la vigilancia cotidiana de una obra y de la administración inmediata de trabajadores, materiales, jornales y cuentas. Se sitúa entre la dirección superior y la ejecución, con funciones de control material y económico del tajo.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1796); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1796,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1796). Arquitectura Civil, 1796",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Sobrestante mantiene una forma estable. Rejón acentúa el cuidado de trabajadores y recepción de materiales; Bails pone el énfasis en cuenta y razón de materiales y jornales.",
+    "comparison": "Rejón define una función de supervisión laboral, recepción y ajuste de materiales y cuentas. Bails atribuye el cargo al asentista o ejecutor y centra su responsabilidad en la contabilidad de materiales y jornales. En el tratado de 1796, la vigilancia de los sobrestantes aparece como factor práctico del coste y del buen gobierno de la obra.",
+    "coverage": "La evidencia integrada se concentra entre 1788 y 1802, con un uso doctrinal en 1796. Los textos permiten reconstruir un perfil profesional de gestión de obra, no sólo de inspección visual.",
+    "utility": "Ayuda a identificar responsabilidades de administración de obra en contratos, presupuestos y diarios de construcción, diferenciando al sobrestante del arquitecto, asentista y operario.",
+    "related": [
+      "Asentista",
+      "arquitecto",
+      "aparejador",
+      "jornal",
+      "materiales",
+      "cuenta",
+      "obra"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "SOBRESTANTE s. m. A. La Persona destinada á cuidar de los trabajadores en una fábrica, y á recibir materiales, ajustar y llevar cuentas, &c.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 206 del facsímil."
+      },
+      {
+        "text": "…la vigilancia de los Sobrestantes, el conocimiento del precio de los jornales…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 206 del facsímil."
+      }
+    ],
+    "search_text": "Sobrestante\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPersona encargada de la vigilancia cotidiana de una obra y de la administración inmediata de trabajadores, materiales, jornales y cuentas. Se sitúa entre la dirección superior y la ejecución, con funciones de control material y económico del tajo.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Cuidado de trabajadores, materiales y cuentas\n«SOBRESTANTE s. m. A. La Persona destinada á cuidar de los trabajadores en una fábrica, y á recibir materiales, ajustar y llevar cuentas, &c.»\nDiccionario de las Nobles Artes, 1788, p. 206 del facsímil.\nMR-S-01 · CEN-4278. Enumera la doble responsabilidad laboral y administrativa del cargo.\nBenito Bails · 1796\n2. Vigilancia del sobrestante en la economía de la obra\n«…la vigilancia de los Sobrestantes, el conocimiento del precio de los jornales…»\nArquitectura Civil, 1796, p. 206 del facsímil.\nMR-S-02 · CEN-4278. Inserta la función del sobrestante dentro de los factores de organización y coste de la construcción.\nBenito Bails · 1802\n3. Cuenta y razón de materiales y jornales\n«SOBRESTANTE. s. m. El que en una obra está encargado por el Asentista, ó el que la hace, de la cuenta y razon de los materiales, jornales, &c.»\nDiccionario de Arquitectura Civil, 1802, p. 100 del facsímil.\nMR-S-03 · CEN-4278. Define su dependencia organizativa y su responsabilidad contable.\nNÚCLEO CANÓNICO\nEncargado de vigilar la obra y controlar trabajadores, materiales, jornales y cuentas.\nLECTURA COMPARADA\nRejón define una función de supervisión laboral, recepción y ajuste de materiales y cuentas. Bails atribuye el cargo al asentista o ejecutor y centra su responsabilidad en la contabilidad de materiales y jornales. En el tratado de 1796, la vigilancia de los sobrestantes aparece como factor práctico del coste y del buen gobierno de la obra.\nVARIANTES Y CONTROL TERMINOLÓGICO\nSobrestante mantiene una forma estable. Rejón acentúa el cuidado de trabajadores y recepción de materiales; Bails pone el énfasis en cuenta y razón de materiales y jornales.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada se concentra entre 1788 y 1802, con un uso doctrinal en 1796. Los textos permiten reconstruir un perfil profesional de gestión de obra, no sólo de inspección visual.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a identificar responsabilidades de administración de obra en contratos, presupuestos y diarios de construcción, diferenciando al sobrestante del arquitecto, asentista y operario.\nRELACIONADO CON\nAsentista; arquitecto; aparejador; jornal; materiales; cuenta; obra.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1796). Arquitectura Civil, 1796\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/sobrestante/",
+    "academic_pdf": "documentos/fichas/sobrestante.pdf"
+  },
+  {
+    "num": 1350,
+    "cen": "CEN-4365",
+    "term": "Taxea",
+    "slug": "taxea",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Canal abierto en tierra para conducir o dar curso al agua. La voz aparece vinculada por equivalencia a atarxea y atargea, formas que permiten reconocer la continuidad de una misma infraestructura hidráulica en diferentes repertorios.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Taxea se relaciona explícitamente con ATARXEA en Bails y con ATARGEA en Matallana. Estas formas históricas se registran como equivalencias documentadas, no como simples semejanzas gráficas.",
+    "comparison": "Rejón ofrece la definición funcional de taxea como canal abierto. Bails remite atarxea a taxea, mientras Matallana invierte la relación y equipara taxea con atargea. Los tres repertorios construyen una red de equivalencias que conserva el núcleo hidráulico aunque varíe la grafía.",
+    "coverage": "La voz y sus equivalencias se documentan entre 1788 y 1848. La serie lexicográfica permite seguir la estabilización de variantes asociadas al canal de conducción de agua.",
+    "utility": "Facilita recuperar en textos históricos infraestructuras de drenaje y conducción que pueden aparecer bajo taxea, atarxea o atargea, evitando separarlas artificialmente como objetos distintos.",
+    "related": [
+      "Atarxea",
+      "atargea",
+      "canal",
+      "agua",
+      "desagüe",
+      "conducción",
+      "alcantarilla"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "TAXEA. s. f. A. Canal abierto en la tierra para dar curso al agua.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 213 del facsímil."
+      },
+      {
+        "text": "ATARXEA. s. f. Lo mismo que TAXEA.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 121 del facsímil."
+      }
+    ],
+    "search_text": "Taxea\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCanal abierto en tierra para conducir o dar curso al agua. La voz aparece vinculada por equivalencia a atarxea y atargea, formas que permiten reconocer la continuidad de una misma infraestructura hidráulica en diferentes repertorios.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Canal abierto para dar curso al agua\n«TAXEA. s. f. A. Canal abierto en la tierra para dar curso al agua.»\nDiccionario de las Nobles Artes, 1788, p. 213 del facsímil.\nMR-T-01 · CEN-4365. Define forma, emplazamiento y función hidráulica de la voz.\nBenito Bails · 1802\n2. Atarxea como equivalencia\n«ATARXEA. s. f. Lo mismo que TAXEA.»\nDiccionario de Arquitectura Civil, 1802, p. 121 del facsímil.\nMR-T-02 · CEN-4365. Documenta una variante histórica expresamente remitida al lema.\nMariano Matallana · 1848\n3. Equivalencia con atargea\n«TAXEA = ATARGEA.»\nVocabulario de Arquitectura Civil, 1848, p. 250 del facsímil.\nMR-T-03 · CEN-4365. Confirma otra forma histórica de la misma infraestructura hidráulica.\nNÚCLEO CANÓNICO\nCanal abierto en tierra destinado a conducir agua.\nLECTURA COMPARADA\nRejón ofrece la definición funcional de taxea como canal abierto. Bails remite atarxea a taxea, mientras Matallana invierte la relación y equipara taxea con atargea. Los tres repertorios construyen una red de equivalencias que conserva el núcleo hidráulico aunque varíe la grafía.\nVARIANTES Y CONTROL TERMINOLÓGICO\nTaxea se relaciona explícitamente con ATARXEA en Bails y con ATARGEA en Matallana. Estas formas históricas se registran como equivalencias documentadas, no como simples semejanzas gráficas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz y sus equivalencias se documentan entre 1788 y 1848. La serie lexicográfica permite seguir la estabilización de variantes asociadas al canal de conducción de agua.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nFacilita recuperar en textos históricos infraestructuras de drenaje y conducción que pueden aparecer bajo taxea, atarxea o atargea, evitando separarlas artificialmente como objetos distintos.\nRELACIONADO CON\nAtarxea; atargea; canal; agua; desagüe; conducción; alcantarilla.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/taxea/",
+    "academic_pdf": "documentos/fichas/taxea.pdf"
+  },
+  {
+    "num": 1351,
+    "cen": "CEN-4520",
+    "term": "Tracista",
+    "slug": "tracista",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Profesional que inventa, dispone y da las trazas o diseños de una obra. En arquitectura, la voz puede aplicarse al arquitecto en cuanto autor intelectual de la disposición y representación previa, sin reducirse al ejecutor material.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Tracista se relaciona con traza, trazar y arquitecto. Matallana explicita la equivalencia con arquitecto cuando la actividad consiste en disponer e inventar el edificio o fábrica.",
+    "comparison": "Rejón define al tracista por la producción de trazas para todo género de obras y lo identifica como arquitecto. Matallana añade los verbos diseñar, disponer e inventar, haciendo explícita la dimensión proyectual. Las dos definiciones convergen en la autoría intelectual de la obra.",
+    "coverage": "Los testimonios de 1788 y 1848 pertenecen a repertorios especializados y muestran estabilidad de la acepción profesional durante seis décadas.",
+    "utility": "Permite reconocer en expedientes y contratos al autor de la concepción gráfica o compositiva, diferenciándolo de quienes únicamente ejecutan o supervisan materialmente la fábrica.",
+    "related": [
+      "Traza",
+      "trazar",
+      "diseño",
+      "arquitecto",
+      "artífice",
+      "proyecto",
+      "disposición"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "TRACISTA. s. m. A. Nombre que se dá al Arquitecto que da las trazas para todo género de obras.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 221 del facsímil."
+      },
+      {
+        "text": "TRACISTA.=El que diseña ó traza un edificio, fábrica, etc.=El que le dispone é inventa.=ARQUITECTO.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 256 del facsímil."
+      }
+    ],
+    "search_text": "Tracista\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nProfesional que inventa, dispone y da las trazas o diseños de una obra. En arquitectura, la voz puede aplicarse al arquitecto en cuanto autor intelectual de la disposición y representación previa, sin reducirse al ejecutor material.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Arquitecto que da las trazas\n«TRACISTA. s. m. A. Nombre que se dá al Arquitecto que da las trazas para todo género de obras.»\nDiccionario de las Nobles Artes, 1788, p. 221 del facsímil.\nMR-T-01 · CEN-4520. Vincula la voz a la función proyectual del arquitecto.\nMariano Matallana · 1848\n2. Diseñar, disponer e inventar una fábrica\n«TRACISTA.=El que diseña ó traza un edificio, fábrica, etc.=El que le dispone é inventa.=ARQUITECTO.»\nVocabulario de Arquitectura Civil, 1848, p. 256 del facsímil.\nMR-T-02 · CEN-4520. Desglosa las operaciones intelectuales implicadas en la traza.\nNÚCLEO CANÓNICO\nAutor de las trazas que inventa, dispone y diseña la obra.\nLECTURA COMPARADA\nRejón define al tracista por la producción de trazas para todo género de obras y lo identifica como arquitecto. Matallana añade los verbos diseñar, disponer e inventar, haciendo explícita la dimensión proyectual. Las dos definiciones convergen en la autoría intelectual de la obra.\nVARIANTES Y CONTROL TERMINOLÓGICO\nTracista se relaciona con traza, trazar y arquitecto. Matallana explicita la equivalencia con arquitecto cuando la actividad consiste en disponer e inventar el edificio o fábrica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1788 y 1848 pertenecen a repertorios especializados y muestran estabilidad de la acepción profesional durante seis décadas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer en expedientes y contratos al autor de la concepción gráfica o compositiva, diferenciándolo de quienes únicamente ejecutan o supervisan materialmente la fábrica.\nRELACIONADO CON\nTraza; trazar; diseño; arquitecto; artífice; proyecto; disposición.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/tracista/",
+    "academic_pdf": "documentos/fichas/tracista.pdf"
+  },
+  {
+    "num": 1352,
+    "cen": "CEN-4887",
+    "term": "Línea perpendicular",
+    "slug": "linea-perpendicular",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Línea que forma ángulos rectos con otra y que, en razonamientos constructivos, puede expresar también la dirección vertical de una carga de arriba abajo. El término enlaza definición geométrica y aplicación mecánica.",
+    "authors_text": "Benito Bails (1796); Benito Bails (1802); Miguel de Urrea (1582).",
+    "authors": [
+      "Benito Bails",
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1796,
+      1802,
+      1582
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails (1796). Arquitectura Civil, 1796",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "La locución línea perpendicular aparece literalmente. En aplicaciones de estática, perpendicular puede referirse a la dirección vertical de la acción del peso; su sentido debe leerse respecto de la referencia geométrica declarada por el autor.",
+    "comparison": "Bails define en 1802 la perpendicularidad por la formación de dos ángulos rectos. En el tratado de 1796 traslada esa relación a la mecánica de cargas, donde una fuerza obra en línea perpendicular de arriba abajo. La definición geométrica fundamenta el uso constructivo. Urrea (1582) añade un testimonio temprano que la glosa aporta una equivalencia geométrica inequívoca.",
+    "coverage": "Los dos testimonios integrados proceden de Bails, 1796 y 1802, y representan respectivamente aplicación mecánica y formulación geométrica. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.",
+    "utility": "Permite interpretar con rigor instrucciones de trazado y descripciones de cargas, evitando asumir que perpendicular significa siempre vertical sin identificar la línea o plano de referencia.",
+    "related": [
+      "Perpendicular",
+      "ángulo recto",
+      "vertical",
+      "plomada",
+      "carga",
+      "gravedad",
+      "línea"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Cargas hay cuyo peso obra en línea perpendicular, esto es, de arriba abaxo…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura Civil, 1796, p. 153 del facsímil."
+      },
+      {
+        "text": "De una línea perpendicular á otra se dice que causa dos ángulos rectos.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 24 del facsímil."
+      }
+    ],
+    "search_text": "Línea perpendicular\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLínea que forma ángulos rectos con otra y que, en razonamientos constructivos, puede expresar también la dirección vertical de una carga de arriba abajo. El término enlaza definición geométrica y aplicación mecánica.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Dirección perpendicular de una carga\n«Cargas hay cuyo peso obra en línea perpendicular, esto es, de arriba abaxo…»\nArquitectura Civil, 1796, p. 153 del facsímil.\nMR-LP-01 · CEN-4887. Aplica el concepto geométrico a la dirección del peso en la construcción.\nBenito Bails · 1802\n2. Perpendicularidad como ángulos rectos\n«De una línea perpendicular á otra se dice que causa dos ángulos rectos.»\nDiccionario de Arquitectura Civil, 1802, p. 24 del facsímil.\nMR-LP-02 · CEN-4887. Fija la relación geométrica que sirve de base a los usos técnicos.\nMiguel de Urrea · 1582\n3. Cathetas como líneas perpendiculares\n«Cathetas. Lineas perpendiculares.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 288 del facsímil.\nMR-P043-20-04 · La glosa aporta una equivalencia geométrica inequívoca.\nNÚCLEO CANÓNICO\nLínea que forma ángulos rectos con otra y puede expresar dirección vertical de carga.\nLECTURA COMPARADA\nBails define en 1802 la perpendicularidad por la formación de dos ángulos rectos. En el tratado de 1796 traslada esa relación a la mecánica de cargas, donde una fuerza obra en línea perpendicular de arriba abajo. La definición geométrica fundamenta el uso constructivo. Urrea (1582) añade un testimonio temprano que la glosa aporta una equivalencia geométrica inequívoca.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución línea perpendicular aparece literalmente. En aplicaciones de estática, perpendicular puede referirse a la dirección vertical de la acción del peso; su sentido debe leerse respecto de la referencia geométrica declarada por el autor.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos dos testimonios integrados proceden de Bails, 1796 y 1802, y representan respectivamente aplicación mecánica y formulación geométrica. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar con rigor instrucciones de trazado y descripciones de cargas, evitando asumir que perpendicular significa siempre vertical sin identificar la línea o plano de referencia.\nRELACIONADO CON\nPerpendicular; ángulo recto; vertical; plomada; carga; gravedad; línea.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nBenito Bails (1796). Arquitectura Civil, 1796\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/linea-perpendicular/",
+    "academic_pdf": "documentos/fichas/linea-perpendicular.pdf"
+  },
+  {
+    "num": 1353,
+    "cen": "CEN-0402",
+    "term": "Albayalde",
+    "slug": "albayalde",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pigmento blanco obtenido del plomo y empleado en pintura. En la tradición vitruviana puede quemarse para obtener sandáraca artificial, de modo que la voz participa tanto del vocabulario cromático como del conocimiento histórico de preparación de materiales pictóricos.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Diego Antonio Rejón de Silva (1788); Miguel de Urrea (1582).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Diego Antonio Rejón de Silva",
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1787,
+      1788,
+      1582
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787",
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "Albayalde mantiene la forma castellana documentada. Ortiz lo relaciona con sandáraca artificial por transformación térmica; Rejón lo define directamente como color blanco transformado del plomo.",
+    "comparison": "Ortiz no define el pigmento aislado, sino que describe su transformación por combustión en sandáraca artificial. Rejón ofrece al año siguiente una definición breve centrada en origen material y color. Juntos muestran la materia prima y una de sus manipulaciones técnicas. Urrea (1582) añade un testimonio temprano que la grafía Aluayalde documenta materia y transformación por calcinación.",
+    "coverage": "La evidencia integrada corresponde a 1787 y 1788 y enlaza tratado vitruviano y diccionario de artes, ambos en el ámbito de materiales de pintura. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.",
+    "utility": "Ayuda a interpretar especificaciones de policromía y recetas históricas donde el pigmento puede aparecer como blanco de plomo o como precursor de otros colores obtenidos por calentamiento.",
+    "related": [
+      "Plomo",
+      "pigmento",
+      "pintura",
+      "sandáraca",
+      "color blanco",
+      "preparación"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Hay sandaraca artificial, hecha de albayalde quemado; y es mejor que la mineral…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, 1787, p. 197 del facsímil."
+      },
+      {
+        "text": "ALBAYALDE. s. m. P. Color blanco, transformado del plomo para pintar.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 27 del facsímil."
+      }
+    ],
+    "search_text": "Albayalde\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPigmento blanco obtenido del plomo y empleado en pintura. En la tradición vitruviana puede quemarse para obtener sandáraca artificial, de modo que la voz participa tanto del vocabulario cromático como del conocimiento histórico de preparación de materiales pictóricos.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Albayalde quemado para sandáraca artificial\n«Hay sandaraca artificial, hecha de albayalde quemado; y es mejor que la mineral…»\nLos diez libros de Arquitectura, 1787, p. 197 del facsímil.\nMR-A-01 · CEN-0402. Documenta una transformación técnica del albayalde dentro de la preparación de pigmentos.\nDiego Antonio Rejón de Silva · 1788\n2. Color blanco procedente del plomo\n«ALBAYALDE. s. m. P. Color blanco, transformado del plomo para pintar.»\nDiccionario de las Nobles Artes, 1788, p. 27 del facsímil.\nMR-A-02 · CEN-0402. Define materia de origen, color y uso pictórico.\nMiguel de Urrea · 1582\n3. Albayalde y sandáraca\n«Cerusa. Aluayalde, del qual quemado se haze sandaracha.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 288 del facsímil.\nMR-P043-21-04 · La grafía Aluayalde documenta materia y transformación por calcinación.\nNÚCLEO CANÓNICO\nPigmento blanco de plomo empleado en pintura y preparaciones cromáticas.\nLECTURA COMPARADA\nOrtiz no define el pigmento aislado, sino que describe su transformación por combustión en sandáraca artificial. Rejón ofrece al año siguiente una definición breve centrada en origen material y color. Juntos muestran la materia prima y una de sus manipulaciones técnicas. Urrea (1582) añade un testimonio temprano que la grafía Aluayalde documenta materia y transformación por calcinación.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAlbayalde mantiene la forma castellana documentada. Ortiz lo relaciona con sandáraca artificial por transformación térmica; Rejón lo define directamente como color blanco transformado del plomo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada corresponde a 1787 y 1788 y enlaza tratado vitruviano y diccionario de artes, ambos en el ámbito de materiales de pintura. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar especificaciones de policromía y recetas históricas donde el pigmento puede aparecer como blanco de plomo o como precursor de otros colores obtenidos por calentamiento.\nRELACIONADO CON\nPlomo; pigmento; pintura; sandáraca; color blanco; preparación.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMarco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/albayalde/",
+    "academic_pdf": "documentos/fichas/albayalde.pdf"
+  },
+  {
+    "num": 1354,
+    "cen": "CEN-1473",
+    "term": "Asna",
+    "slug": "asna",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Madero menor de una armadura de tejado, relacionado con las costaneras y dispuesto a partir de la pieza principal o caballete sobre los pares. La voz aparece con frecuencia en plural, asnas.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, suplemento, 1788",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Asna se documenta sobre todo como asnas. Rejón remite el plural a costaneras; Matallana describe las asnas como vigas menores que salen de la principal del tejado. No debe confundirse con asnilla o asnillo, que designan caballetes de andamio.",
+    "comparison": "Rejón conserva asnas como voz anticuada y la remite a costaneras. Matallana añade la descripción constructiva de vigas menores vinculadas al caballete y a los pares. La remisión lexicográfica y la explicación de su posición permiten separar asna de los asnillos de obra.",
+    "coverage": "Los testimonios integrados de 1788 y 1848 documentan equivalencia terminológica y situación en la cubierta.",
+    "utility": "Permite identificar piezas secundarias de armadura en documentación antigua y evita confundirlas con los asnillos o burros usados para andamios de poca altura.",
+    "related": [
+      "Costanera",
+      "caballete",
+      "par",
+      "armadura",
+      "tejado",
+      "asnillo",
+      "asnilla"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ASNAS. s. f. pl. antiq. Véase Costaneras.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, suplemento, 1788, p. 234 del facsímil."
+      },
+      {
+        "text": "ASNAS.=Las vigas menores que salen de la principal del tejado, llamada caballete, sobre los pares. COSTANERAS.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 51 del facsímil."
+      }
+    ],
+    "search_text": "Asna\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMadero menor de una armadura de tejado, relacionado con las costaneras y dispuesto a partir de la pieza principal o caballete sobre los pares. La voz aparece con frecuencia en plural, asnas.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Remisión de asnas a costaneras\n«ASNAS. s. f. pl. antiq. Véase Costaneras.»\nDiccionario de las Nobles Artes, suplemento, 1788, p. 234 del facsímil.\nMR-A-01 · CEN-1473. Acredita la voz histórica y su equivalencia con costaneras.\nMariano Matallana · 1848\n2. Vigas menores del tejado\n«ASNAS.=Las vigas menores que salen de la principal del tejado, llamada caballete, sobre los pares. COSTANERAS.»\nVocabulario de Arquitectura Civil, 1848, p. 51 del facsímil.\nMR-A-02 · CEN-1473. Precisa tamaño relativo, relación con caballete y apoyo sobre los pares.\nNÚCLEO CANÓNICO\nMadero menor de cubierta, equivalente a costanera en repertorios históricos.\nLECTURA COMPARADA\nRejón conserva asnas como voz anticuada y la remite a costaneras. Matallana añade la descripción constructiva de vigas menores vinculadas al caballete y a los pares. La remisión lexicográfica y la explicación de su posición permiten separar asna de los asnillos de obra.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAsna se documenta sobre todo como asnas. Rejón remite el plural a costaneras; Matallana describe las asnas como vigas menores que salen de la principal del tejado. No debe confundirse con asnilla o asnillo, que designan caballetes de andamio.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios integrados de 1788 y 1848 documentan equivalencia terminológica y situación en la cubierta.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar piezas secundarias de armadura en documentación antigua y evita confundirlas con los asnillos o burros usados para andamios de poca altura.\nRELACIONADO CON\nCostanera; caballete; par; armadura; tejado; asnillo; asnilla.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, suplemento, 1788\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/asna/",
+    "academic_pdf": "documentos/fichas/asna.pdf"
+  },
+  {
+    "num": 1355,
+    "cen": "CEN-0159",
+    "term": "Acorde",
+    "slug": "acorde",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Relación de conformidad y conveniencia entre las partes de una composición arquitectónica, apreciable en la disposición del plano, la coordinación de adornos, la unidad de carácter y el estilo, y también en el dibujo o sombreado del proyecto. Matallana distingue un acorde de composición y otro de gusto o estilo.",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848, continuación doctrinal"
+    ],
+    "variants": "Acorde se emplea como sustantivo técnico en el vocabulario de Matallana. Sus dos categorías explícitas son acorde de composición y acorde de gusto ó estilo; la voz se aproxima a conveniencia y unidad, pero no se reduce a simetría geométrica.",
+    "comparison": "La documentación de Matallana presenta el término en dos momentos complementarios. Primero enumera sus ámbitos de aplicación —dibujo, plano, adornos, carácter y estilo— y distingue dos clases. Más adelante aclara que acorde designa especialmente las relaciones de conveniencia, estilo, gusto y ejecución entre todas las partes del edificio. La segunda formulación precisa el alcance relacional de la primera.",
+    "coverage": "La evidencia integrada procede del Vocabulario de arquitectura civil de 1848, donde la voz recibe un desarrollo doctrinal inusualmente amplio. No se fuerza una comparación interautoral que el corpus no proporciona con igual precisión.",
+    "utility": "Aporta una categoría histórica para estudiar coherencia compositiva más amplia que la proporción numérica: permite analizar cómo un autor relaciona planta, ornamento, carácter, estilo y ejecución como partes de un mismo juicio arquitectónico.",
+    "related": [
+      "Composición",
+      "gusto",
+      "estilo",
+      "conveniencia",
+      "carácter",
+      "ornamento",
+      "unidad"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ACORDE.=Los arquitectos emplean esta palabra… ya cuando dibujan ó sombrean sus proyectos, ya con relacion á la disposicion del plano, distribucion de sus adornos, á la coordinacion de sus partes y á la unidad de carácter y de estilo. Se distinguen… dos clases de acorde, el de composición y el de gusto ó estilo…",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 13 del facsímil."
+      },
+      {
+        "text": "…la de acorde designa especialmente las relaciones de conveniencia, de estilo, de gusto y de ejecucion de todas las partes de un edificio entre sí…",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, continuación doctrinal, p. 108 del facsímil."
+      }
+    ],
+    "search_text": "Acorde\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nRelación de conformidad y conveniencia entre las partes de una composición arquitectónica, apreciable en la disposición del plano, la coordinación de adornos, la unidad de carácter y el estilo, y también en el dibujo o sombreado del proyecto. Matallana distingue un acorde de composición y otro de gusto o estilo.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Acorde de composición y de gusto o estilo\n«ACORDE.=Los arquitectos emplean esta palabra… ya cuando dibujan ó sombrean sus proyectos, ya con relacion á la disposicion del plano, distribucion de sus adornos, á la coordinacion de sus partes y á la unidad de carácter y de estilo. Se distinguen… dos clases de acorde, el de composición y el de gusto ó estilo…»\nVocabulario de Arquitectura Civil, 1848, p. 13 del facsímil.\nMR-A-01 · CEN-0159. Define los campos concretos de aplicación del concepto y sus dos clases.\nMariano Matallana · 1848\n2. Relaciones de conveniencia entre partes del edificio\n«…la de acorde designa especialmente las relaciones de conveniencia, de estilo, de gusto y de ejecucion de todas las partes de un edificio entre sí…»\nVocabulario de Arquitectura Civil, 1848, continuación doctrinal, p. 108 del facsímil.\nMR-A-02 · CEN-0159. Aclara que el acorde es una relación entre partes y no una cualidad aislada de un elemento.\nNÚCLEO CANÓNICO\nConcordancia entre partes, disposición, adornos y estilo de una composición arquitectónica.\nLECTURA COMPARADA\nLa documentación de Matallana presenta el término en dos momentos complementarios. Primero enumera sus ámbitos de aplicación —dibujo, plano, adornos, carácter y estilo— y distingue dos clases. Más adelante aclara que acorde designa especialmente las relaciones de conveniencia, estilo, gusto y ejecución entre todas las partes del edificio. La segunda formulación precisa el alcance relacional de la primera.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAcorde se emplea como sustantivo técnico en el vocabulario de Matallana. Sus dos categorías explícitas son acorde de composición y acorde de gusto ó estilo; la voz se aproxima a conveniencia y unidad, pero no se reduce a simetría geométrica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada procede del Vocabulario de arquitectura civil de 1848, donde la voz recibe un desarrollo doctrinal inusualmente amplio. No se fuerza una comparación interautoral que el corpus no proporciona con igual precisión.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta una categoría histórica para estudiar coherencia compositiva más amplia que la proporción numérica: permite analizar cómo un autor relaciona planta, ornamento, carácter, estilo y ejecución como partes de un mismo juicio arquitectónico.\nRELACIONADO CON\nComposición; gusto; estilo; conveniencia; carácter; ornamento; unidad.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848, continuación doctrinal",
+    "url": "terminos/acorde/",
+    "academic_pdf": "documentos/fichas/acorde.pdf"
+  },
+  {
+    "num": 1356,
+    "cen": "CEN-0193",
+    "term": "Acuerdo",
+    "slug": "acuerdo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Convergencia de sentimientos, pareceres u opiniones acerca de un asunto, de la que puede resultar un dictamen. En el vocabulario profesional de arquitectura, la voz designa el resultado deliberativo que precede o fundamenta una decisión colegiada o consultiva.",
+    "authors_text": "Mariano Matallana (1848).",
+    "authors": [
+      "Mariano Matallana"
+    ],
+    "years": [
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848"
+    ],
+    "variants": "Acuerdo aparece como sustantivo de deliberación. Su relación con dictamen es explícita en Matallana; no se confunde con acordelado, acuerdado o voces constructivas derivadas de cuerda.",
+    "comparison": "El testimonio de Matallana es suficientemente preciso para fijar el alcance de la voz: no describe una pieza material, sino un estado de coincidencia entre juicios que puede desembocar en dictamen. Al no existir otro testimonio de las fuentes históricas con igual valor terminológico arquitectónico, la interpretación se limita a ese marco profesional y no fabrica una evolución comparativa inexistente.",
+    "coverage": "La evidencia integrada se concentra en el Vocabulario de arquitectura civil de 1848. La definición enlaza la práctica del acuerdo profesional con la emisión de dictámenes.",
+    "utility": "Permite interpretar actas, consultas y expedientes de obra en los que varias opiniones técnicas convergen antes de formalizar un dictamen, diferenciando el acuerdo del documento final que puede resultar de él.",
+    "related": [
+      "Dictamen",
+      "parecer",
+      "opinión",
+      "consulta",
+      "deliberación",
+      "arquitecto"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ACUERDO.=Union de sentimientos, de pareceres, de opiniones sobre un asunto de la que puede resultar un dictámen.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 15 del facsímil."
+      }
+    ],
+    "search_text": "Acuerdo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConvergencia de sentimientos, pareceres u opiniones acerca de un asunto, de la que puede resultar un dictamen. En el vocabulario profesional de arquitectura, la voz designa el resultado deliberativo que precede o fundamenta una decisión colegiada o consultiva.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Convergencia de pareceres y resultado en dictamen\n«ACUERDO.=Union de sentimientos, de pareceres, de opiniones sobre un asunto de la que puede resultar un dictámen.»\nVocabulario de Arquitectura Civil, 1848, p. 15 del facsímil.\nMR-A-01 · CEN-0193. Define de manera directa la función deliberativa de la voz en el vocabulario profesional.\nNÚCLEO CANÓNICO\nConvergencia de pareceres capaz de producir un dictamen.\nLECTURA COMPARADA\nEl testimonio de Matallana es suficientemente preciso para fijar el alcance de la voz: no describe una pieza material, sino un estado de coincidencia entre juicios que puede desembocar en dictamen. Al no existir otro testimonio de las fuentes históricas con igual valor terminológico arquitectónico, la interpretación se limita a ese marco profesional y no fabrica una evolución comparativa inexistente.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAcuerdo aparece como sustantivo de deliberación. Su relación con dictamen es explícita en Matallana; no se confunde con acordelado, acuerdado o voces constructivas derivadas de cuerda.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada se concentra en el Vocabulario de arquitectura civil de 1848. La definición enlaza la práctica del acuerdo profesional con la emisión de dictámenes.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar actas, consultas y expedientes de obra en los que varias opiniones técnicas convergen antes de formalizar un dictamen, diferenciando el acuerdo del documento final que puede resultar de él.\nRELACIONADO CON\nDictamen; parecer; opinión; consulta; deliberación; arquitecto.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+    "url": "terminos/acuerdo/",
+    "academic_pdf": "documentos/fichas/acuerdo.pdf"
+  },
+  {
+    "num": 1357,
+    "cen": "CEN-0330",
+    "term": "Aillaxas",
+    "slug": "aillaxas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pedazos o restos de tablas y maderos que sobran en una fábrica. La voz pertenece al vocabulario de aprovechamiento y residuo de la madera en obra y aparece también con la grafía ayllaxas.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Aillaxas y ayllaxas son grafías históricas documentadas para la misma noción. Rejón las contrapone a una denominación más general de restos de madera; Bails fija la forma AILLAXAS como entrada.",
+    "comparison": "Rejón usa ayllaxas al precisar cómo deben llamarse los restos de maderas, junto con zoquetería. Bails define Aillaxas directamente como pedazos sobrantes de tablas y maderos. Los textos coinciden en material y condición residual y sólo difieren en grafía y grado de definición.",
+    "coverage": "La voz está documentada en 1788 y 1802, dentro de repertorios lexicográficos de arquitectura.",
+    "utility": "Ayuda a identificar menciones de sobrantes de carpintería en cuentas y descripciones de obra, evitando interpretarlas como piezas estructurales completas.",
+    "related": [
+      "Ayllaxas",
+      "zoquetería",
+      "madera",
+      "tabla",
+      "madero",
+      "sobrante",
+      "carpintería"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Puede aplicarse á los restos de maderas, pero éstos mas bien se llaman zoquetería y ayllaxas.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 94 del facsímil."
+      },
+      {
+        "text": "AILLAXAS. s. f. pl. Los pedazos de tablas y de maderos que sobran en una fábrica.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 116 del facsímil."
+      }
+    ],
+    "search_text": "Aillaxas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPedazos o restos de tablas y maderos que sobran en una fábrica. La voz pertenece al vocabulario de aprovechamiento y residuo de la madera en obra y aparece también con la grafía ayllaxas.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Ayllaxas como restos de maderas\n«Puede aplicarse á los restos de maderas, pero éstos mas bien se llaman zoquetería y ayllaxas.»\nDiccionario de las Nobles Artes, 1788, p. 94 del facsímil.\nMR-A-01 · CEN-0330. Acredita la variante gráfica y el campo material de los sobrantes de madera.\nBenito Bails · 1802\n2. Pedazos sobrantes de tablas y maderos\n«AILLAXAS. s. f. pl. Los pedazos de tablas y de maderos que sobran en una fábrica.»\nDiccionario de Arquitectura Civil, 1802, p. 116 del facsímil.\nMR-A-02 · CEN-0330. Define materialmente la voz por el carácter sobrante de las piezas.\nNÚCLEO CANÓNICO\nRestos de tablas y maderos sobrantes de una fábrica.\nLECTURA COMPARADA\nRejón usa ayllaxas al precisar cómo deben llamarse los restos de maderas, junto con zoquetería. Bails define Aillaxas directamente como pedazos sobrantes de tablas y maderos. Los textos coinciden en material y condición residual y sólo difieren en grafía y grado de definición.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAillaxas y ayllaxas son grafías históricas documentadas para la misma noción. Rejón las contrapone a una denominación más general de restos de madera; Bails fija la forma AILLAXAS como entrada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz está documentada en 1788 y 1802, dentro de repertorios lexicográficos de arquitectura.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a identificar menciones de sobrantes de carpintería en cuentas y descripciones de obra, evitando interpretarlas como piezas estructurales completas.\nRELACIONADO CON\nAyllaxas; zoquetería; madera; tabla; madero; sobrante; carpintería.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/aillaxas/",
+    "academic_pdf": "documentos/fichas/aillaxas.pdf"
+  },
+  {
+    "num": 1358,
+    "cen": "CEN-0379",
+    "term": "Alaveo",
+    "slug": "alaveo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Defecto de planitud de una superficie que presenta salientes, hoyos, torsión o desviaciones respecto de un plano. En cantería y carpintería se reconoce mediante reglas y puede corregirse por la operación de desalavear.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Simonin / Fausto Martínez de la Torre y Josef Asensio (1795); Benito Bails (1802).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Benito Bails"
+    ],
+    "years": [
+      1788,
+      1795,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788",
+      "Simonin / Fausto Martínez de la Torre y Josef Asensio (1795). Arte de la Montea, 1795",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Alaveo es la forma documentada; Bails registra una errata impresa «ALABEO» corregida a «ALAVEO». Desalavear nombra la operación de quitar el defecto.",
+    "comparison": "Rejón formula el defecto como eminencias u hoyos en una superficie que debía ser plana. Simonin explica el procedimiento para comprobar si un paramento tiene alaveo y cuánto material debe retirarse. Bails define desalavear como quitar el alaveo. Definición, diagnóstico y corrección forman una secuencia técnica completa.",
+    "coverage": "La voz y su familia se documentan entre 1788 y 1802, con desarrollo operativo en Simonin de 1795. Los contextos pertenecen a superficies y paramentos de trabajo.",
+    "utility": "Permite reconocer una patología geométrica de piezas y paramentos y distinguirla de desplome, que afecta a la verticalidad del conjunto, o de simples irregularidades de acabado.",
+    "related": [
+      "Desalavear",
+      "paramento",
+      "superficie",
+      "regla",
+      "planitud",
+      "desplome",
+      "labra"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ALAVEO. s. m. A. El defecto que se advierte en una superficie, que debiendo ser exactamente plana, tiene eminencias ú hoyos.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes, 1788, p. 27 del facsímil."
+      },
+      {
+        "text": "Para saber si un Paramento ó superficie tiene alaveo, y lo que se le ha de quitar para desalavearle; se sientan de canto dos reglas…",
+        "author": "Simonin / Fausto Martínez de la Torre y Josef Asensio",
+        "year": "1795",
+        "source": "Arte de la Montea, 1795, p. 14 del facsímil."
+      }
+    ],
+    "search_text": "Alaveo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDefecto de planitud de una superficie que presenta salientes, hoyos, torsión o desviaciones respecto de un plano. En cantería y carpintería se reconoce mediante reglas y puede corregirse por la operación de desalavear.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Defecto de una superficie que debía ser plana\n«ALAVEO. s. m. A. El defecto que se advierte en una superficie, que debiendo ser exactamente plana, tiene eminencias ú hoyos.»\nDiccionario de las Nobles Artes, 1788, p. 27 del facsímil.\nMR-A-01 · CEN-0379. Fija el término como desviación respecto de la planitud esperada.\nSimonin / Fausto Martínez de la Torre y Josef Asensio · 1795\n2. Comprobación y corrección del alaveo\n«Para saber si un Paramento ó superficie tiene alaveo, y lo que se le ha de quitar para desalavearle; se sientan de canto dos reglas…»\nArte de la Montea, 1795, p. 14 del facsímil.\nMR-A-02 · CEN-0379. Documenta un método práctico de diagnóstico y material a retirar.\nBenito Bails · 1802\n3. Desalavear como quitar el defecto\n«DESALAVEAR. v. a. Quitar el alaveo.»\nDiccionario de Arquitectura Civil, 1802, p. 35 del facsímil.\nMR-A-03 · CEN-0379. Confirma la familia verbal que nombra la corrección del defecto.\nNÚCLEO CANÓNICO\nDefecto de planitud o torsión de una superficie que debe ser plana.\nLECTURA COMPARADA\nRejón formula el defecto como eminencias u hoyos en una superficie que debía ser plana. Simonin explica el procedimiento para comprobar si un paramento tiene alaveo y cuánto material debe retirarse. Bails define desalavear como quitar el alaveo. Definición, diagnóstico y corrección forman una secuencia técnica completa.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAlaveo es la forma documentada; Bails registra una errata impresa «ALABEO» corregida a «ALAVEO». Desalavear nombra la operación de quitar el defecto.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz y su familia se documentan entre 1788 y 1802, con desarrollo operativo en Simonin de 1795. Los contextos pertenecen a superficies y paramentos de trabajo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer una patología geométrica de piezas y paramentos y distinguirla de desplome, que afecta a la verticalidad del conjunto, o de simples irregularidades de acabado.\nRELACIONADO CON\nDesalavear; paramento; superficie; regla; planitud; desplome; labra.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nDiego Antonio Rejón de Silva (1788). Diccionario de las Nobles Artes, 1788\nSimonin / Fausto Martínez de la Torre y Josef Asensio (1795). Arte de la Montea, 1795\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/alaveo/",
+    "academic_pdf": "documentos/fichas/alaveo.pdf"
+  },
+  {
+    "num": 1359,
+    "cen": "CEN-1422",
+    "term": "Artífice",
+    "slug": "artifice",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Profesor o practicante cualificado de un arte. En textos arquitectónicos puede designar de manera amplia al ejecutor competente y, en ciertos repertorios, solaparse con artista, facultativo o arquitecto; esa equivalencia depende del contexto y no convierte toda aparición de artífice en sinónimo estricto de arquitecto.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Benito Bails (1802).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Benito Bails"
+    ],
+    "years": [
+      1787,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787, libro I",
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802"
+    ],
+    "variants": "Artífice convive con artista, facultativo, operario y arquitecto. Bails declara que en su propia obra artífice, artista, facultativo y arquitecto suelen significar lo mismo; Ortiz distingue, en cambio, al arquitecto como director de operarios o artífices.",
+    "comparison": "Ortiz emplea artífices para los operarios cuya dirección corresponde al arquitecto, de modo que la voz mantiene un alcance amplio. Bails, al explicar su terminología, hace equivalentes artífice, artista, facultativo y arquitecto dentro de su obra. La diferencia demuestra que el valor profesional de artífice debe resolverse por el sistema léxico de cada autor.",
+    "coverage": "Los testimonios de 1787 y 1802 muestran dos relaciones distintas con arquitecto: subordinación operativa en un pasaje vitruviano y equivalencia contextual en el diccionario de Bails.",
+    "utility": "Es clave para atribuir correctamente funciones profesionales en fuentes históricas: evita identificar automáticamente a cualquier artífice con el arquitecto director y permite reconocer cuándo un autor sí usa ambas voces de modo equivalente.",
+    "related": [
+      "Artista",
+      "facultativo",
+      "arquitecto",
+      "operario",
+      "oficial",
+      "profesor de arte"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Estos son los Architectos… Nosotros diremos Cabo y Director de los operarios o artífices.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura, 1787, libro I, p. 2 del facsímil."
+      },
+      {
+        "text": "ARTISTA. Lo mismo que ARTÍFICE: el profesor de algun arte. Artífice, artista, facultativo, arquitecto, suelen significar en esta obra lo mismo que Arquitecto.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 12 del facsímil."
+      }
+    ],
+    "search_text": "Artífice\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nProfesor o practicante cualificado de un arte. En textos arquitectónicos puede designar de manera amplia al ejecutor competente y, en ciertos repertorios, solaparse con artista, facultativo o arquitecto; esa equivalencia depende del contexto y no convierte toda aparición de artífice en sinónimo estricto de arquitecto.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Arquitecto como director de operarios o artífices\n«Estos son los Architectos… Nosotros diremos Cabo y Director de los operarios o artífices.»\nLos diez libros de Arquitectura, 1787, libro I, p. 2 del facsímil.\nMR-A-01 · CEN-1422. Muestra un contexto en que artífices designa a quienes son dirigidos por el arquitecto.\nBenito Bails · 1802\n2. Artífice como profesor de un arte\n«ARTISTA. Lo mismo que ARTÍFICE: el profesor de algun arte. Artífice, artista, facultativo, arquitecto, suelen significar en esta obra lo mismo que Arquitecto.»\nDiccionario de Arquitectura Civil, 1802, p. 12 del facsímil.\nMR-A-02 · CEN-1422. Explicita el alcance amplio del término y la equivalencia contextual adoptada por Bails.\nNÚCLEO CANÓNICO\nProfesor o practicante cualificado de un arte, con alcance variable según el contexto.\nLECTURA COMPARADA\nOrtiz emplea artífices para los operarios cuya dirección corresponde al arquitecto, de modo que la voz mantiene un alcance amplio. Bails, al explicar su terminología, hace equivalentes artífice, artista, facultativo y arquitecto dentro de su obra. La diferencia demuestra que el valor profesional de artífice debe resolverse por el sistema léxico de cada autor.\nVARIANTES Y CONTROL TERMINOLÓGICO\nArtífice convive con artista, facultativo, operario y arquitecto. Bails declara que en su propia obra artífice, artista, facultativo y arquitecto suelen significar lo mismo; Ortiz distingue, en cambio, al arquitecto como director de operarios o artífices.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1787 y 1802 muestran dos relaciones distintas con arquitecto: subordinación operativa en un pasaje vitruviano y equivalencia contextual en el diccionario de Bails.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para atribuir correctamente funciones profesionales en fuentes históricas: evita identificar automáticamente a cualquier artífice con el arquitecto director y permite reconocer cuándo un autor sí usa ambas voces de modo equivalente.\nRELACIONADO CON\nArtista; facultativo; arquitecto; operario; oficial; profesor de arte.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMarco Vitruvio Polión / Joseph Ortiz y Sanz (1787). Los diez libros de Arquitectura, 1787, libro I\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+    "url": "terminos/artifice/",
+    "academic_pdf": "documentos/fichas/artifice.pdf"
+  },
+  {
+    "num": 1360,
+    "cen": "CEN-1463",
+    "term": "Asfalto",
+    "slug": "asfalto",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Materia bituminosa compacta, oscura e inflamable utilizada en construcción por su impermeabilidad y resistencia superficial. Los textos del siglo XIX la aplican a pavimentos, obras hidráulicas y cubiertas, aunque advierten problemas de reblandecimiento o fusión en climas cálidos.",
+    "authors_text": "Mariano Matallana (1848); P. C. Espinosa (1859); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Mariano Matallana",
+      "P. C. Espinosa",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1848,
+      1859,
+      1879
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+      "P. C. Espinosa (1859). Manual de construcciones de albañilería, 1859",
+      "Ricardo Marcos y Bausa (1879). Manual del Albañil, 1879"
+    ],
+    "variants": "Asfalto aparece como sustantivo material. Su campo constructivo se amplía desde la descripción mineral y sus propiedades a usos como revestimiento, pavimento y cubierta; no se confunde con esmalto, equivalencia de otro contexto pictórico presente en repertorios anteriores.",
+    "comparison": "Matallana describe propiedades físicas —masa betuminosa, sólida y quebradiza— y enumera aplicaciones relacionadas con impermeabilidad. Espinosa lo incluye entre materiales accesorios de albañilería. Marcos y Bausa analiza su uso en tejados y señala la desventaja de fundirse con facilidad en países cálidos. Las fuentes combinan naturaleza, clasificación constructiva y comportamiento en servicio.",
+    "coverage": "La acepción constructiva se documenta entre 1848 y 1879. Los testimonios proceden de vocabulario, manual de albañilería y manual de oficio.",
+    "utility": "Permite estudiar la incorporación de materiales bituminosos a la construcción decimonónica y evaluar por qué ciertas aplicaciones se consideraban apropiadas para impermeabilización pero problemáticas bajo altas temperaturas.",
+    "related": [
+      "Betún",
+      "impermeabilización",
+      "pavimento",
+      "cubierta",
+      "mastic",
+      "estuco",
+      "obra hidráulica"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ASFALTO. Masa compacta, betuminosa, inflamable, sólida, lustrosa y quebradiza, comunmente negra ó parda oscura…",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 51 del facsímil."
+      },
+      {
+        "text": "…estucos, escayolas, asfaltos y mastics, como materiales accesorios en las construcciones de albañileria.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 270 del facsímil."
+      }
+    ],
+    "search_text": "Asfalto\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMateria bituminosa compacta, oscura e inflamable utilizada en construcción por su impermeabilidad y resistencia superficial. Los textos del siglo XIX la aplican a pavimentos, obras hidráulicas y cubiertas, aunque advierten problemas de reblandecimiento o fusión en climas cálidos.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Materia bituminosa y propiedades constructivas\n«ASFALTO. Masa compacta, betuminosa, inflamable, sólida, lustrosa y quebradiza, comunmente negra ó parda oscura…»\nVocabulario de Arquitectura Civil, 1848, p. 51 del facsímil.\nMR-A-01 · CEN-1463. Define la naturaleza física del material que explica sus aplicaciones constructivas.\nP. C. Espinosa · 1859\n2. Material accesorio de albañilería\n«…estucos, escayolas, asfaltos y mastics, como materiales accesorios en las construcciones de albañileria.»\nManual de construcciones de albañilería, 1859, p. 270 del facsímil.\nMR-A-02 · CEN-1463. Sitúa el asfalto dentro de la clasificación práctica de materiales de construcción.\nRicardo Marcos y Bausa · 1879\n3. Asfalto en tejados y comportamiento térmico\n«…el asfalto, que tiene el inconveniente de exigir muchas reparaciones á causa de fundirse con facilidad en los países cálidos…»\nManual del Albañil, 1879, p. 100 del facsímil.\nMR-A-03 · CEN-1463. Introduce una limitación de servicio concreta para su empleo en cubiertas.\nNÚCLEO CANÓNICO\nMaterial bituminoso impermeable empleado en pavimentos, obras hidráulicas y cubiertas.\nLECTURA COMPARADA\nMatallana describe propiedades físicas —masa betuminosa, sólida y quebradiza— y enumera aplicaciones relacionadas con impermeabilidad. Espinosa lo incluye entre materiales accesorios de albañilería. Marcos y Bausa analiza su uso en tejados y señala la desventaja de fundirse con facilidad en países cálidos. Las fuentes combinan naturaleza, clasificación constructiva y comportamiento en servicio.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAsfalto aparece como sustantivo material. Su campo constructivo se amplía desde la descripción mineral y sus propiedades a usos como revestimiento, pavimento y cubierta; no se confunde con esmalto, equivalencia de otro contexto pictórico presente en repertorios anteriores.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa acepción constructiva se documenta entre 1848 y 1879. Los testimonios proceden de vocabulario, manual de albañilería y manual de oficio.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar la incorporación de materiales bituminosos a la construcción decimonónica y evaluar por qué ciertas aplicaciones se consideraban apropiadas para impermeabilización pero problemáticas bajo altas temperaturas.\nRELACIONADO CON\nBetún; impermeabilización; pavimento; cubierta; mastic; estuco; obra hidráulica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848\nP. C. Espinosa (1859). Manual de construcciones de albañilería, 1859\nRicardo Marcos y Bausa (1879). Manual del Albañil, 1879",
+    "url": "terminos/asfalto/",
+    "academic_pdf": "documentos/fichas/asfalto.pdf"
+  },
+  {
+    "num": 1361,
+    "cen": "CEN-1478",
+    "term": "Asnillos",
+    "slug": "asnillos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Caballetes o soportes bajos de obra formados por un madero horizontal sostenido por dos pies, sobre los que se apoyan tablones para trabajar a poca altura. Se emplean especialmente en reparaciones y en el levantamiento de paredes cuando no se necesita un andamio alto.",
+    "authors_text": "Benito Bails (1802); Mariano Matallana (1848); P. C. Espinosa (1859).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1802,
+      1848,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Benito Bails (1802). Diccionario de Arquitectura Civil, 1802",
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+      "P. C. Espinosa (1859). Manual de construcciones de albañilería, 1859"
+    ],
+    "variants": "Asnillos y asnillas son formas equivalentes; Bails remite a borricos y Matallana a burros. Estas voces pertenecen al equipo de obra y son distintas de asnas, piezas de armadura de cubierta.",
+    "comparison": "Bails establece la equivalencia asnillos/asnillas con borricos. Matallana conserva la remisión a burros. Espinosa ofrece la descripción material y el uso: madero o puente sobre dos pies, empleado en reparaciones o paredes de poca altura. La secuencia pasa de sinonimia lexicográfica a definición constructiva del útil.",
+    "coverage": "Los testimonios de 1802, 1848 y 1859 muestran continuidad de la voz en vocabularios y manual práctico de albañilería.",
+    "utility": "Permite identificar correctamente equipos de andamiaje ligero y separar los asnillos de las asnas de cubierta o de estructuras de mayor altura.",
+    "related": [
+      "Asnilla",
+      "borrico",
+      "burro",
+      "caballete",
+      "andamio",
+      "tablón",
+      "reparación"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ASNILLOS. s. m. pl. Llámanse tambien Asnillas. Lo mismo que BORRICOS.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de Arquitectura Civil, 1802, p. 121 del facsímil."
+      },
+      {
+        "text": "ASNILLAS Ó ASNILLOS. V. BURROS.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 51 del facsímil."
+      }
+    ],
+    "search_text": "Asnillos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCaballetes o soportes bajos de obra formados por un madero horizontal sostenido por dos pies, sobre los que se apoyan tablones para trabajar a poca altura. Se emplean especialmente en reparaciones y en el levantamiento de paredes cuando no se necesita un andamio alto.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Asnillos o asnillas como borricos\n«ASNILLOS. s. m. pl. Llámanse tambien Asnillas. Lo mismo que BORRICOS.»\nDiccionario de Arquitectura Civil, 1802, p. 121 del facsímil.\nMR-A-01 · CEN-1478. Acredita las variantes y la equivalencia histórica con borricos.\nMariano Matallana · 1848\n2. Remisión a burros\n«ASNILLAS Ó ASNILLOS. V. BURROS.»\nVocabulario de Arquitectura Civil, 1848, p. 51 del facsímil.\nMR-A-02 · CEN-1478. Confirma la sinonimia de oficio en otro repertorio decimonónico.\nP. C. Espinosa · 1859\n3. Caballetes para reparaciones y paredes bajas\n«Cuando las alturas son cortas, tanto para reparaciones como para levantar paredes, se emplean asnillos ó caballetes. Están compuestos de un madero ó puente en que se apoyan los tablones, sostenidos por dos piés…»\nManual de construcciones de albañilería, 1859, p. 336 del facsímil.\nMR-A-03 · CEN-1478. Describe forma, componentes y situaciones de uso del útil.\nNÚCLEO CANÓNICO\nCaballetes bajos de andamio, con puente horizontal sobre dos pies, para trabajos a poca altura.\nLECTURA COMPARADA\nBails establece la equivalencia asnillos/asnillas con borricos. Matallana conserva la remisión a burros. Espinosa ofrece la descripción material y el uso: madero o puente sobre dos pies, empleado en reparaciones o paredes de poca altura. La secuencia pasa de sinonimia lexicográfica a definición constructiva del útil.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAsnillos y asnillas son formas equivalentes; Bails remite a borricos y Matallana a burros. Estas voces pertenecen al equipo de obra y son distintas de asnas, piezas de armadura de cubierta.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1802, 1848 y 1859 muestran continuidad de la voz en vocabularios y manual práctico de albañilería.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar correctamente equipos de andamiaje ligero y separar los asnillos de las asnas de cubierta o de estructuras de mayor altura.\nRELACIONADO CON\nAsnilla; borrico; burro; caballete; andamio; tablón; reparación.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nBenito Bails (1802). Diccionario de Arquitectura Civil, 1802\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848\nP. C. Espinosa (1859). Manual de construcciones de albañilería, 1859",
+    "url": "terminos/asnillos/",
+    "academic_pdf": "documentos/fichas/asnillos.pdf"
+  },
+  {
+    "num": 1362,
+    "cen": "CEN-0685",
+    "term": "Ambon",
+    "slug": "ambon",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Tribuna o púlpito elevado y accesible por gradas, característico de antiguas iglesias y basílicas cristianas, desde el que se predicaba o se leían la Epístola y el Evangelio. Podía disponerse en pares enfrentados dentro de la nave.",
+    "authors_text": "Mariano Matallana (1848); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Mariano Matallana",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1848,
+      1887
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Mariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848",
+      "J. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887"
+    ],
+    "variants": "Ambon aparece sin tilde en los repertorios históricos consultados; la normalización moderna ambón conserva el mismo referente. Adeline registra el francés ambon y describe la disposición en dos tribunas enfrentadas.",
+    "comparison": "Matallana define el ambon por forma —grada o tribuna con escalones— y por uso litúrgico. Adeline lo interpreta como púlpito de las basílicas cristianas, precisa la lectura de Epístola y Evangelio y señala que los ambones dejaron de usarse al finalizar la primera mitad del siglo XIII. La segunda fuente añade tipología histórica y cronología a la definición funcional.",
+    "coverage": "La documentación integrada corresponde a 1848 y 1887, aunque ambas fuentes describen un elemento de tradición cristiana mucho más antigua. El interés de las fuentes históricas reside en cómo el siglo XIX recupera y define esa pieza histórica.",
+    "utility": "Permite identificar tribunas litúrgicas antiguas distintas del púlpito moderno y comprender su ubicación y uso en reconstrucciones de basílicas y descripciones arqueológicas.",
+    "related": [
+      "Púlpito",
+      "tribuna",
+      "basílica",
+      "nave",
+      "Epístola",
+      "Evangelio",
+      "grada"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Órdenes y elementos"
+    ],
+    "quotes": [
+      {
+        "text": "AMBON. Grada, especie de tribuna con escalones, que se usaba antiguamente en las iglesias, en la cual se predicaba y se cantaba la epístola y el evangelio.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de Arquitectura Civil, 1848, p. 26 del facsímil."
+      },
+      {
+        "text": "Ambón.-(Ambon.)-[Arq.]- Púlpito de las basílicas cristianas…",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de Términos de Arte, 1887, p. 26 del facsímil."
+      }
+    ],
+    "search_text": "Ambon\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTribuna o púlpito elevado y accesible por gradas, característico de antiguas iglesias y basílicas cristianas, desde el que se predicaba o se leían la Epístola y el Evangelio. Podía disponerse en pares enfrentados dentro de la nave.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Tribuna escalonada de iglesia\n«AMBON. Grada, especie de tribuna con escalones, que se usaba antiguamente en las iglesias, en la cual se predicaba y se cantaba la epístola y el evangelio.»\nVocabulario de Arquitectura Civil, 1848, p. 26 del facsímil.\nMR-A-01 · CEN-0685. Define forma elevada, emplazamiento e itinerario litúrgico de uso.\nJ. Adeline / José Ramón Mélida · 1887\n2. Púlpito de las basílicas cristianas\n«Ambón.-(Ambon.)-[Arq.]- Púlpito de las basílicas cristianas…»\nVocabulario de Términos de Arte, 1887, p. 26 del facsímil.\nMR-A-02 · CEN-0685. Sitúa el elemento en la tipología basilical cristiana y dentro de la historia del mobiliario arquitectónico.\nNÚCLEO CANÓNICO\nTribuna elevada de basílica o iglesia para predicación y lecturas litúrgicas.\nLECTURA COMPARADA\nMatallana define el ambon por forma —grada o tribuna con escalones— y por uso litúrgico. Adeline lo interpreta como púlpito de las basílicas cristianas, precisa la lectura de Epístola y Evangelio y señala que los ambones dejaron de usarse al finalizar la primera mitad del siglo XIII. La segunda fuente añade tipología histórica y cronología a la definición funcional.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAmbon aparece sin tilde en los repertorios históricos consultados; la normalización moderna ambón conserva el mismo referente. Adeline registra el francés ambon y describe la disposición en dos tribunas enfrentadas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada corresponde a 1848 y 1887, aunque ambas fuentes describen un elemento de tradición cristiana mucho más antigua. El interés de las fuentes históricas reside en cómo el siglo XIX recupera y define esa pieza histórica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar tribunas litúrgicas antiguas distintas del púlpito moderno y comprender su ubicación y uso en reconstrucciones de basílicas y descripciones arqueológicas.\nRELACIONADO CON\nPúlpito; tribuna; basílica; nave; Epístola; Evangelio; grada.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMariano Matallana (1848). Vocabulario de Arquitectura Civil, 1848\nJ. Adeline / José Ramón Mélida (1887). Vocabulario de Términos de Arte, 1887",
+    "url": "terminos/ambon/",
+    "academic_pdf": "documentos/fichas/ambon.pdf"
   }
 ]
