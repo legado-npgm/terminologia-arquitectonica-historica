@@ -99111,5 +99111,1717 @@
     "search_text": "Eje horizontal\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nRecta horizontal alrededor de la cual gira un tablero, báscula u otra pieza móvil. En los puentes levadizos determina la articulación principal, organiza la posición del tablero y condiciona la transmisión de esfuerzos mediante cadenas, flechas, contrapesos o palancas.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Báscula giratoria alrededor de un eje horizontal\n«...una báscula superior é interior giratoria alrededor de un eje horizontal, que formaba una segunda puerta cuando el puente estaba levantado...»\nPuentes levadizos. Guadalajara, 1899, p. 13 del facsímil.\nMR-5424-01 · CEN-5424. El eje horizontal sirve a una pieza de equilibrado que además adquiere una función de cierre.\nJuan Calvo Escrivá · 1899\n2. Principio general del tablero giratorio\n«...se emplean los puentes levadizos en los que el tablero es giratorio alrededor de un eje horizontal.»\nPuentes levadizos. Guadalajara, 1899, p. 15 del facsímil.\nMR-5424-02 · CEN-5424. Calvo resume el principio mecánico general de la familia de puentes: un tablero que rota alrededor de un eje horizontal.\nJuan Calvo Escrivá · 1899\n3. Eje horizontal en el puente de flechas\n«Hállase constituído por un tablero A O giratorio al rededor del eje horizontal O...»\nPuentes levadizos. Guadalajara, 1899, p. 37 del facsímil.\nMR-5424-03 · CEN-5424. El ejemplo concreto localiza geométricamente el eje y permite relacionarlo con flechas, cadenas y contrapeso.\nLECTURA COMPARADA\nLos tres testimonios avanzan de una aplicación particular a una definición general y de nuevo a un caso constructivo detallado. El eje horizontal aparece como invariante cinemático al que se subordinan distintos sistemas de equilibrio.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución eje horizontal es estable y descriptiva. En otros tratados aparece en geometría y estereotomía, pero aquí se conserva la acepción mecánica del puente levadizo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación más rica se encuentra en Calvo, aunque otras fuentes del siglo XIX emplean la locución en máquinas y geometría. Se integran los pasajes que explican específicamente el movimiento del puente.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para leer planos y descripciones de mecanismos históricos, pues permite identificar la articulación real incluso cuando cambian las flechas, cadenas o contrapesos.\nRELACIONADO CON\nEje de giro; Tablero; Báscula; Flecha; Cadena; Contrapeso; Puente levadizo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Juan Calvo Escrivá. Puentes levadizos. Guadalajara, 1899.",
     "url": "terminos/eje-horizontal/",
     "academic_pdf": "documentos/fichas/eje-horizontal.pdf"
+  },
+  {
+    "num": 1421,
+    "cen": "CEN-5426",
+    "term": "Foso",
+    "slug": "foso",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Excavación defensiva dispuesta delante de una muralla o de una obra fortificada, cuya anchura y profundidad dificultan el acceso al recinto y condicionan el trazado de sus cimentaciones, escarpas, puentes y comunicaciones. En la arquitectura militar, el foso no es un vacío residual: funciona como obstáculo continuo y como espacio geométrico que organiza la defensa del perímetro.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Benito Bails (1796); Eduardo Mariátegui (1876); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Benito Bails",
+      "Eduardo Mariátegui",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1787,
+      1796,
+      1876,
+      1899
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "1876 E. Mariategui. Glosario de Arquitectura(9).pdf",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Foso permanece estable. Mariátegui documenta cava como equivalente histórico y distingue también fonsario para el foso que circunda una plaza. En la arquitectura militar convive con escarpa, contraescarpa, poterna y puente levadizo; refosete designa una excavación menor subordinada a una entrada.",
+    "comparison": "Ortiz y Sanz y Bails conservan la tradición vitruviana del foso como excavación amplia vinculada con la cimentación del muro; Mariátegui, en 1876, registra cava como equivalente histórico; Calvo, en 1899, desplaza la atención hacia su operación militar, donde el foso es el obstáculo cuya continuidad se interrumpe y restituye mediante el puente móvil. La secuencia combina fábrica, equivalencia léxica y funcionamiento defensivo.",
+    "coverage": "La documentación integrada se extiende de 1787 a 1899 y reúne cuatro autores. Ortiz y Sanz y Bails transmiten la relación entre foso y cimentación; Mariátegui aporta equivalencia terminológica con cava; Calvo lo sitúa dentro del sistema operativo del puente móvil. La concentración final en fortificación no impide reconocer la continuidad del concepto desde la tradición vitruviana.",
+    "utility": "Permite precisar cómo el vacío excavado participa de la arquitectura militar tanto como los muros: condiciona cimentaciones, accesos, recorridos y dispositivos móviles, y evita reducir la fortificación a sus elementos emergentes.",
+    "related": [
+      "Muralla",
+      "escarpa",
+      "contraescarpa",
+      "refosete",
+      "poterna",
+      "puente levadizo",
+      "foso seco"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "En estos parages se hará el foso muy capaz en anchura y profundidad: luego la zanja del muro se cavará dentro del foso mismo…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura de M. Vitruvio Polión, 1787, p. 35 del facsímil consultado."
+      },
+      {
+        "text": "En este caso (de hacer terraplenes) se han de abrir fosos los mas anchos y largos que se pueda, cavando los cimientos de la pared hasta el fondo de dichos fosos…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Elementos de matemática. Tomo IX, parte I: Arquitectura civil, 1796, p. 284 del facsímil consultado."
+      }
+    ],
+    "search_text": "Foso\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nExcavación defensiva dispuesta delante de una muralla o de una obra fortificada, cuya anchura y profundidad dificultan el acceso al recinto y condicionan el trazado de sus cimentaciones, escarpas, puentes y comunicaciones. En la arquitectura militar, el foso no es un vacío residual: funciona como obstáculo continuo y como espacio geométrico que organiza la defensa del perímetro.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Anchura, profundidad y cimentación dentro del foso\n«En estos parages se hará el foso muy capaz en anchura y profundidad: luego la zanja del muro se cavará dentro del foso mismo…»\nLos diez libros de Arquitectura de M. Vitruvio Polión, 1787, p. 35 del facsímil consultado.\nMR-P046-01-01 · CEN-5426. El pasaje fija el foso como parte activa del sistema defensivo y lo vincula directamente con la cimentación de la muralla.\nBenito Bails · 1796\n2. Fosos anchos y largos para el terraplén y sus cimientos\n«En este caso (de hacer terraplenes) se han de abrir fosos los mas anchos y largos que se pueda, cavando los cimientos de la pared hasta el fondo de dichos fosos…»\nElementos de matemática. Tomo IX, parte I: Arquitectura civil, 1796, p. 284 del facsímil consultado.\nMR-P046-01-02 · CEN-5426. Bails conserva la regla vitruviana y la integra en una explicación de paredes de terraplén, vinculando foso, cimentación y resistencia.\nEduardo Mariátegui · 1876\n3. Cava como equivalente histórico de foso\n«CAVA. Excavacion hecha para defender, dar luces ó sanear una construccion.=FOSO.—“El foso á quien otros llaman cava”…»\nGlosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares, 1876, p. 44 del facsímil consultado.\nMR-P046-01-03 · CEN-5426. Mariátegui documenta una equivalencia histórica explícita entre cava y foso y añade el valor de excavación defensiva.\nJuan Calvo Escrivá · 1899\n4. El foso como obstáculo que el puente debe restituir\n«Si la idea del foso ha sido contemporánea de la de muralla, en su calidad ambas de obstáculos… parece que la de franquear aquél por un medio que permitiera… la restitución al obstáculo de su valor como tal…»\nPuentes levadizos, 1899, p. 3 del facsímil consultado.\nMR-P046-01-04 · CEN-5426. Calvo explica la lógica militar del foso desde la movilidad del paso: el puente lo salva sólo temporalmente y debe permitir recuperar su eficacia defensiva.\nJuan Calvo Escrivá · 1899\n5. Foso general y pequeño refosete de entrada\n«…el puente móvil sirve para salvar no el general de la obra, sino un refosete establecido en la poterna de entrada, cuyo suelo está al nivel del foso general.»\nPuentes levadizos, 1899, p. 15 del facsímil consultado.\nMR-P046-01-05 · CEN-5426. La distinción entre foso general y refosete muestra una jerarquía espacial interna del sistema defensivo.\nLECTURA COMPARADA\nOrtiz y Sanz y Bails conservan la tradición vitruviana del foso como excavación amplia vinculada con la cimentación del muro; Mariátegui, en 1876, registra cava como equivalente histórico; Calvo, en 1899, desplaza la atención hacia su operación militar, donde el foso es el obstáculo cuya continuidad se interrumpe y restituye mediante el puente móvil. La secuencia combina fábrica, equivalencia léxica y funcionamiento defensivo.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFoso permanece estable. Mariátegui documenta cava como equivalente histórico y distingue también fonsario para el foso que circunda una plaza. En la arquitectura militar convive con escarpa, contraescarpa, poterna y puente levadizo; refosete designa una excavación menor subordinada a una entrada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se extiende de 1787 a 1899 y reúne cuatro autores. Ortiz y Sanz y Bails transmiten la relación entre foso y cimentación; Mariátegui aporta equivalencia terminológica con cava; Calvo lo sitúa dentro del sistema operativo del puente móvil. La concentración final en fortificación no impide reconocer la continuidad del concepto desde la tradición vitruviana.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite precisar cómo el vacío excavado participa de la arquitectura militar tanto como los muros: condiciona cimentaciones, accesos, recorridos y dispositivos móviles, y evita reducir la fortificación a sus elementos emergentes.\nRELACIONADO CON\nMuralla; escarpa; contraescarpa; refosete; poterna; puente levadizo; foso seco.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• 1876 E. Mariategui. Glosario de Arquitectura(9).pdf\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/foso/",
+    "academic_pdf": "documentos/fichas/foso.pdf"
+  },
+  {
+    "num": 1422,
+    "cen": "CEN-5428",
+    "term": "Refosete",
+    "slug": "refosete",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Foso menor practicado en el acceso de una fortificación, particularmente en la poterna, distinto del foso general de la obra. Su función es interrumpir localmente el paso y ser salvado por un puente móvil, manteniendo la cota del suelo en relación con el foso principal.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Refosete aparece como forma técnica singular. No se equipara automáticamente a foso: la fuente establece una relación de subordinación entre ambos.",
+    "comparison": "La documentación conservada es concentrada pero inequívoca: Calvo no usa refosete como sinónimo de foso, sino como una pieza menor y localizada dentro del dispositivo de entrada. La precisión depende precisamente de ese contraste dimensional y funcional.",
+    "coverage": "La documentación pertinente queda concentrada en Calvo (1899), donde refosete aparece en una formulación singular y técnicamente delimitada por su relación con la poterna y el foso general. Esa concentración documental aconseja conservar su significado estrecho.",
+    "utility": "Es útil para leer con precisión planos y descripciones de accesos fortificados, donde una excavación menor puede confundirse con el foso principal y alterar la interpretación del puente o de la poterna.",
+    "related": [
+      "Foso",
+      "poterna",
+      "puente móvil",
+      "entrada fortificada",
+      "escarpa"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "…el puente móvil sirve para salvar no el general de la obra, sino un refosete establecido en la poterna de entrada, cuyo suelo está al nivel del foso general.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 15 del facsímil consultado."
+      }
+    ],
+    "search_text": "Refosete\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFoso menor practicado en el acceso de una fortificación, particularmente en la poterna, distinto del foso general de la obra. Su función es interrumpir localmente el paso y ser salvado por un puente móvil, manteniendo la cota del suelo en relación con el foso principal.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Refosete de la poterna\n«…el puente móvil sirve para salvar no el general de la obra, sino un refosete establecido en la poterna de entrada, cuyo suelo está al nivel del foso general.»\nPuentes levadizos, 1899, p. 15 del facsímil consultado.\nMR-P046-02-01 · CEN-5428. El testimonio define por contraste el refosete: excavación menor, localizada en la poterna y articulada con el foso general.\nLECTURA COMPARADA\nLa documentación conservada es concentrada pero inequívoca: Calvo no usa refosete como sinónimo de foso, sino como una pieza menor y localizada dentro del dispositivo de entrada. La precisión depende precisamente de ese contraste dimensional y funcional.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRefosete aparece como forma técnica singular. No se equipara automáticamente a foso: la fuente establece una relación de subordinación entre ambos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación pertinente queda concentrada en Calvo (1899), donde refosete aparece en una formulación singular y técnicamente delimitada por su relación con la poterna y el foso general. Esa concentración documental aconseja conservar su significado estrecho.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para leer con precisión planos y descripciones de accesos fortificados, donde una excavación menor puede confundirse con el foso principal y alterar la interpretación del puente o de la poterna.\nRELACIONADO CON\nFoso; poterna; puente móvil; entrada fortificada; escarpa.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/refosete/",
+    "academic_pdf": "documentos/fichas/refosete.pdf"
+  },
+  {
+    "num": 1423,
+    "cen": "CEN-5432",
+    "term": "Muñones",
+    "slug": "munones",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Extremos cilíndricos o redondeados de un eje de giro, dimensionados para transmitir las cargas del tablero o de una pieza móvil hacia sus apoyos y permitir la rotación con el menor rozamiento posible. En los puentes levadizos forman parte esencial del eje del tablero y de otras poleas o órganos giratorios.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Muñón / muñones es la forma técnica empleada. Su relación con muñonera es complementaria: uno gira, la otra lo recibe y sostiene.",
+    "comparison": "Calvo pasa de la definición constructiva del muñón a su dimensionado y, después, a su efecto en el cálculo. La pieza se entiende simultáneamente como terminación del eje, superficie resistente y origen de rozamiento; esas tres dimensiones explican por qué su geometría no puede decidirse sólo por resistencia.",
+    "coverage": "Los testimonios se concentran en Calvo (1899), pero aparecen en tres momentos funcionalmente distintos: definición geométrica del extremo del eje, dimensionado resistente y cálculo del rozamiento. La reiteración no es redundante porque cada pasaje documenta una propiedad diferente del muñón.",
+    "utility": "Distingue con precisión el órgano giratorio del apoyo que lo aloja y permite interpretar cálculos de fricción, detalles de eje y fallos de maniobra en puentes levadizos.",
+    "related": [
+      "Eje de giro",
+      "muñonera",
+      "cojinete",
+      "rozamiento",
+      "roldana",
+      "tablero móvil"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…una pieza de hierro de sección cuadrada… cuyas extremidades redondeadas constituyen los muñones…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 17 del facsímil consultado."
+      },
+      {
+        "text": "Los muñones… deben tener las dimensiones necesarias para resistir á los esfuerzos que han de soportar, sin aumentar demasiado su diámetro para disminuir en lo posible las resistencias pasivas.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 18 del facsímil consultado."
+      }
+    ],
+    "search_text": "Muñones\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nExtremos cilíndricos o redondeados de un eje de giro, dimensionados para transmitir las cargas del tablero o de una pieza móvil hacia sus apoyos y permitir la rotación con el menor rozamiento posible. En los puentes levadizos forman parte esencial del eje del tablero y de otras poleas o órganos giratorios.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Extremos redondeados que forman los muñones\n«…una pieza de hierro de sección cuadrada… cuyas extremidades redondeadas constituyen los muñones…»\nPuentes levadizos, 1899, p. 17 del facsímil consultado.\nMR-P046-03-01 · CEN-5432. La formulación describe materialmente el muñón como terminación redondeada del eje de giro.\nJuan Calvo Escrivá · 1899\n2. Dimensionado para resistir esfuerzos y reducir resistencia\n«Los muñones… deben tener las dimensiones necesarias para resistir á los esfuerzos que han de soportar, sin aumentar demasiado su diámetro para disminuir en lo posible las resistencias pasivas.»\nPuentes levadizos, 1899, p. 18 del facsímil consultado.\nMR-P046-03-02 · CEN-5432. El pasaje añade el compromiso mecánico entre resistencia estructural y reducción de pérdidas por rozamiento.\nJuan Calvo Escrivá · 1899\n3. Rozamiento de los muñones como resistencia pasiva\n«…se desprecian las resistencias pasivas debidas á los rozamientos de los muñones del eje de giro del tablero ó las poleas…»\nPuentes levadizos, 1899, p. 35 del facsímil consultado.\nMR-P046-03-03 · CEN-5432. Sitúa el muñón dentro del cálculo del rendimiento mecánico del puente, no sólo como pieza geométrica del eje.\nLECTURA COMPARADA\nCalvo pasa de la definición constructiva del muñón a su dimensionado y, después, a su efecto en el cálculo. La pieza se entiende simultáneamente como terminación del eje, superficie resistente y origen de rozamiento; esas tres dimensiones explican por qué su geometría no puede decidirse sólo por resistencia.\nVARIANTES Y CONTROL TERMINOLÓGICO\nMuñón / muñones es la forma técnica empleada. Su relación con muñonera es complementaria: uno gira, la otra lo recibe y sostiene.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios se concentran en Calvo (1899), pero aparecen en tres momentos funcionalmente distintos: definición geométrica del extremo del eje, dimensionado resistente y cálculo del rozamiento. La reiteración no es redundante porque cada pasaje documenta una propiedad diferente del muñón.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nDistingue con precisión el órgano giratorio del apoyo que lo aloja y permite interpretar cálculos de fricción, detalles de eje y fallos de maniobra en puentes levadizos.\nRELACIONADO CON\nEje de giro; muñonera; cojinete; rozamiento; roldana; tablero móvil.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/munones/",
+    "academic_pdf": "documentos/fichas/munones.pdf"
+  },
+  {
+    "num": 1424,
+    "cen": "CEN-5433",
+    "term": "Coginetes",
+    "slug": "coginetes",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas de apoyo que reciben ejes o árboles giratorios y mantienen su alineación, reduciendo desgaste y rozamiento. En los puentes levadizos pueden ser intermedios, semicirculares y sin cubierta; su material se elige por la presión admisible y el coeficiente de fricción con el hierro.",
+    "authors_text": "P. C. Espinosa (1859); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "P. C. Espinosa",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1859,
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Coginete es grafía histórica documentada en Calvo; cojinete aparece en Espinosa y otras fuentes técnicas del XIX. Se tratan como variantes ortográficas de la misma pieza mecánica cuando función y contexto coinciden.",
+    "comparison": "Espinosa aporta la forma cojinetes y su uso general en máquinas; Calvo mantiene la grafía coginetes y especializa el detalle para el eje de un puente levadizo. El conjunto muestra continuidad funcional con variación ortográfica y una mayor precisión de geometría, materiales y posición a finales del siglo XIX.",
+    "coverage": "La secuencia 1859–1899 combina la grafía cojinetes de Espinosa con coginetes en Calvo. La evidencia abarca empleo material —bronce—, posición intermedia en el eje y relación con el rozamiento, suficiente para documentar continuidad funcional bajo variación ortográfica.",
+    "utility": "Permite relacionar terminología mecánica y constructiva, identificar variantes gráficas y separar el apoyo intermedio del eje respecto de la muñonera extrema.",
+    "related": [
+      "Cojinete",
+      "muñón",
+      "muñonera",
+      "eje de giro",
+      "bronce",
+      "rozamiento"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…los ejes de los cestos y de las ruedas A. B de hierro forjado; los cojinetes son de bronce…",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 80 del facsímil consultado."
+      },
+      {
+        "text": "Los citados coginetes intermedios… son de sección semicircular en la parte de apoyo del eje de giro, y carecen, en general, de las cubiertas que llevan las muñoneras extremas.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 19 del facsímil consultado."
+      }
+    ],
+    "search_text": "Coginetes\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas de apoyo que reciben ejes o árboles giratorios y mantienen su alineación, reduciendo desgaste y rozamiento. En los puentes levadizos pueden ser intermedios, semicirculares y sin cubierta; su material se elige por la presión admisible y el coeficiente de fricción con el hierro.\nCOMPARADOR TEXTUAL COMPLETO\nP. C. Espinosa · 1859\n1. Cojinetes de bronce en una máquina de cal\n«…los ejes de los cestos y de las ruedas A. B de hierro forjado; los cojinetes son de bronce…»\nManual de construcciones de albañilería, 1859, p. 80 del facsímil consultado.\nMR-P046-04-01 · CEN-5433. Espinosa documenta la grafía moderna cojinetes y el empleo del bronce como material de apoyo en maquinaria.\nJuan Calvo Escrivá · 1899\n2. Coginetes intermedios del eje de giro\n«Los citados coginetes intermedios… son de sección semicircular en la parte de apoyo del eje de giro, y carecen, en general, de las cubiertas que llevan las muñoneras extremas.»\nPuentes levadizos, 1899, p. 19 del facsímil consultado.\nMR-P046-04-02 · CEN-5433. Calvo diferencia morfológica y funcionalmente los coginetes intermedios de las muñoneras extremas.\nJuan Calvo Escrivá · 1899\n3. Materiales y disminución del rozamiento\n«Los coginetes se harán, en general, de bronce, metal blanco ó plomo endurecido… cuyo coeficiente de rozamiento con el hierro no es muy grande…»\nPuentes levadizos, 1899, p. 19 del facsímil consultado.\nMR-P046-04-03 · CEN-5433. El material del cojinete se vincula expresamente a la presión y al rozamiento del eje.\nLECTURA COMPARADA\nEspinosa aporta la forma cojinetes y su uso general en máquinas; Calvo mantiene la grafía coginetes y especializa el detalle para el eje de un puente levadizo. El conjunto muestra continuidad funcional con variación ortográfica y una mayor precisión de geometría, materiales y posición a finales del siglo XIX.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCoginete es grafía histórica documentada en Calvo; cojinete aparece en Espinosa y otras fuentes técnicas del XIX. Se tratan como variantes ortográficas de la misma pieza mecánica cuando función y contexto coinciden.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1859–1899 combina la grafía cojinetes de Espinosa con coginetes en Calvo. La evidencia abarca empleo material —bronce—, posición intermedia en el eje y relación con el rozamiento, suficiente para documentar continuidad funcional bajo variación ortográfica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite relacionar terminología mecánica y constructiva, identificar variantes gráficas y separar el apoyo intermedio del eje respecto de la muñonera extrema.\nRELACIONADO CON\nCojinete; muñón; muñonera; eje de giro; bronce; rozamiento.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/coginetes/",
+    "academic_pdf": "documentos/fichas/coginetes.pdf"
+  },
+  {
+    "num": 1425,
+    "cen": "CEN-5434",
+    "term": "Muñoneras",
+    "slug": "munoneras",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Apoyos extremos destinados a recibir los muñones de un eje, mantenerlo en posición y permitir su giro. En puentes levadizos se diferencian de los coginetes intermedios por su situación extrema y, habitualmente, por llevar cubiertas que aseguran el muñón.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Muñonera deriva funcionalmente de muñón y conserva esa relación morfológica. No se confunde con cojinete: Calvo los aproxima, pero reserva muñonera para los apoyos extremos cubiertos.",
+    "comparison": "Las tres ocurrencias muestran una misma función de alojamiento del elemento giratorio, pero en escalas distintas: eje principal y articulación secundaria. La mención de cubiertas y posibilidad de corrección confirma que la muñonera es un órgano de apoyo accesible y ajustable.",
+    "coverage": "La evidencia está concentrada en Calvo (1899) y comprende tanto el eje principal del tablero como una articulación secundaria. Los pasajes permiten caracterizar la muñonera por posición extrema, alojamiento del muñón, cubierta y posibilidad de ajuste.",
+    "utility": "Aclara planos y memorias de mecanismos donde el término puede parecer un simple alojamiento, cuando en realidad interviene en alineación, mantenimiento y rozamiento.",
+    "related": [
+      "Muñón",
+      "cojinete",
+      "eje de giro",
+      "articulación",
+      "tablero"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Las muñoneras… tienen las disposiciones adoptadas generalmente en los árboles de las máquinas y deben establecerse de modo tal, que puedan ser fácilmente descubiertas, así como corregidas en su posición…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 18 del facsímil consultado."
+      },
+      {
+        "text": "Los citados coginetes intermedios… carecen, en general, de las cubiertas que llevan las muñoneras extremas.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 19 del facsímil consultado."
+      }
+    ],
+    "search_text": "Muñoneras\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nApoyos extremos destinados a recibir los muñones de un eje, mantenerlo en posición y permitir su giro. En puentes levadizos se diferencian de los coginetes intermedios por su situación extrema y, habitualmente, por llevar cubiertas que aseguran el muñón.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Muñoneras del eje del tablero\n«Las muñoneras… tienen las disposiciones adoptadas generalmente en los árboles de las máquinas y deben establecerse de modo tal, que puedan ser fácilmente descubiertas, así como corregidas en su posición…»\nPuentes levadizos, 1899, p. 18 del facsímil consultado.\nMR-P046-05-01 · CEN-5434. Se define la muñonera por su función de apoyo y por la necesidad de ajuste y mantenimiento.\nJuan Calvo Escrivá · 1899\n2. Diferencia con los coginetes intermedios\n«Los citados coginetes intermedios… carecen, en general, de las cubiertas que llevan las muñoneras extremas.»\nPuentes levadizos, 1899, p. 19 del facsímil consultado.\nMR-P046-05-02 · CEN-5434. La comparación identifica una diferencia material concreta entre apoyo intermedio y extremo.\nJuan Calvo Escrivá · 1899\n3. Muñoneras en una articulación del guardalados\n«…la rama horizontal presenta dos partes redondeadas que se introducen en muñoneras fijas al tablero exteriormente…»\nPuentes levadizos, 1899, p. 29 del facsímil consultado.\nMR-P046-05-03 · CEN-5434. La voz se extiende a articulaciones secundarias del mecanismo, no sólo al eje principal del tablero.\nLECTURA COMPARADA\nLas tres ocurrencias muestran una misma función de alojamiento del elemento giratorio, pero en escalas distintas: eje principal y articulación secundaria. La mención de cubiertas y posibilidad de corrección confirma que la muñonera es un órgano de apoyo accesible y ajustable.\nVARIANTES Y CONTROL TERMINOLÓGICO\nMuñonera deriva funcionalmente de muñón y conserva esa relación morfológica. No se confunde con cojinete: Calvo los aproxima, pero reserva muñonera para los apoyos extremos cubiertos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia está concentrada en Calvo (1899) y comprende tanto el eje principal del tablero como una articulación secundaria. Los pasajes permiten caracterizar la muñonera por posición extrema, alojamiento del muñón, cubierta y posibilidad de ajuste.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAclara planos y memorias de mecanismos donde el término puede parecer un simple alojamiento, cuando en realidad interviene en alineación, mantenimiento y rozamiento.\nRELACIONADO CON\nMuñón; cojinete; eje de giro; articulación; tablero.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/munoneras/",
+    "academic_pdf": "documentos/fichas/munoneras.pdf"
+  },
+  {
+    "num": 1426,
+    "cen": "CEN-5438",
+    "term": "Punto de enganche",
+    "slug": "punto-de-enganche",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Lugar geométrico y constructivo en que una cadena o barra de suspensión se une al tablero de un puente móvil. Su posición condiciona el brazo de palanca, la tensión transmitida y, en algunos sistemas, se hace variable para conservar el equilibrio durante el giro.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "La locución punto de enganche está literalmente documentada. En plural, puntos de enganche designa los dos lados del tablero o varias uniones equivalentes.",
+    "comparison": "En la descripción general el punto es una unión física que puede elevarse; en el sistema Beaulieu se transforma en entidad cinemática que recorre una curva. Esa evolución conceptual permite pasar de la simple fijación constructiva al control geométrico de la tensión.",
+    "coverage": "Calvo (1899) proporciona una serie continua sobre el punto de enganche: posición elevada para facilitar el equilibrio, desplazamiento del propio punto y solución mediante roldana en contacto con una guía. Las tres ocurrencias describen configuraciones mecánicas distintas de un mismo concepto.",
+    "utility": "Resulta esencial para interpretar esquemas de puentes de cadenas: permite localizar dónde actúa la suspensión y comprender por qué una modificación aparentemente pequeña cambia la ley de equilibrio.",
+    "related": [
+      "Cadena de suspensión",
+      "tablero",
+      "contrapeso",
+      "punto de contacto",
+      "brazo de palanca",
+      "roldana"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Otras veces es necesario para facilitar el equilibrio, elevar el punto de enganche de las expresadas cadenas…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 20 del facsímil consultado."
+      },
+      {
+        "text": "…el punto de enganche al tablero de las cadenas de suspensión, para que la tensión de éstas se conserve constante, ha de describir un arco de círculo…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 146 del facsímil consultado."
+      }
+    ],
+    "search_text": "Punto de enganche\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLugar geométrico y constructivo en que una cadena o barra de suspensión se une al tablero de un puente móvil. Su posición condiciona el brazo de palanca, la tensión transmitida y, en algunos sistemas, se hace variable para conservar el equilibrio durante el giro.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Elevación del punto para facilitar el equilibrio\n«Otras veces es necesario para facilitar el equilibrio, elevar el punto de enganche de las expresadas cadenas…»\nPuentes levadizos, 1899, p. 20 del facsímil consultado.\nMR-P046-06-01 · CEN-5438. La ubicación del enganche aparece como variable de diseño con efecto directo en el equilibrio.\nJuan Calvo Escrivá · 1899\n2. Punto de enganche móvil\n«…el punto de enganche al tablero de las cadenas de suspensión, para que la tensión de éstas se conserve constante, ha de describir un arco de círculo…»\nPuentes levadizos, 1899, p. 146 del facsímil consultado.\nMR-P046-06-02 · CEN-5438. La fuente convierte el enganche en un punto cinemático cuyo recorrido se calcula para mantener la tensión.\nJuan Calvo Escrivá · 1899\n3. El contacto de la roldana actúa como enganche\n«…el punto de contacto de las roldanas con las viguetas, que viene á ser el de enganche… describe un arco de círculo…»\nPuentes levadizos, 1899, p. 147 del facsímil consultado.\nMR-P046-06-03 · CEN-5438. El pasaje muestra cómo una pieza móvil materializa geométricamente el punto de enganche.\nLECTURA COMPARADA\nEn la descripción general el punto es una unión física que puede elevarse; en el sistema Beaulieu se transforma en entidad cinemática que recorre una curva. Esa evolución conceptual permite pasar de la simple fijación constructiva al control geométrico de la tensión.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución punto de enganche está literalmente documentada. En plural, puntos de enganche designa los dos lados del tablero o varias uniones equivalentes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nCalvo (1899) proporciona una serie continua sobre el punto de enganche: posición elevada para facilitar el equilibrio, desplazamiento del propio punto y solución mediante roldana en contacto con una guía. Las tres ocurrencias describen configuraciones mecánicas distintas de un mismo concepto.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nResulta esencial para interpretar esquemas de puentes de cadenas: permite localizar dónde actúa la suspensión y comprender por qué una modificación aparentemente pequeña cambia la ley de equilibrio.\nRELACIONADO CON\nCadena de suspensión; tablero; contrapeso; punto de contacto; brazo de palanca; roldana.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/punto-de-enganche/",
+    "academic_pdf": "documentos/fichas/punto-de-enganche.pdf"
+  },
+  {
+    "num": 1427,
+    "cen": "CEN-5444",
+    "term": "Contrapeso",
+    "slug": "contrapeso",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Peso dispuesto para equilibrar total o parcialmente otro peso o esfuerzo dentro de una máquina. En puentes levadizos reduce el esfuerzo de maniobra y puede incorporarse al propio tablero, suspenderse de cadenas o desplazarse conforme a una ley geométrica determinada.",
+    "authors_text": "Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); P. C. Espinosa (1859); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "P. C. Espinosa",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1787,
+      1859,
+      1899
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Contrapeso / contrapesos mantiene la misma base semántica. Calvo advierte que no conviene llamar constante o variable al contrapeso cuando lo que varía es la fuerza equilibradora o su brazo de palanca.",
+    "comparison": "Ortiz y Sanz muestra el principio mecánico general mediante un contrapeso oculto; Espinosa lo aplica a una tapa articulada de maquinaria; Calvo lo especializa en la arquitectura militar y distingue entre masa integrada al tablero y masas regulables. La continuidad funcional es clara: compensar peso y reducir esfuerzo, aunque cambie el dispositivo.",
+    "coverage": "La secuencia 1787–1899 reúne mecanismos de distinta escala: artificios descritos por Ortiz y Sanz, maquinaria constructiva de Espinosa y puentes levadizos de Calvo. La repetición del principio en tres ámbitos independientes confirma la estabilidad del valor equilibrador.",
+    "utility": "Permite distinguir masa física, fuerza transmitida y brazo de palanca, una separación indispensable para leer correctamente los tratados de mecanismos arquitectónicos.",
+    "related": [
+      "Fuerza equilibradora",
+      "brazo de palanca",
+      "tablero",
+      "cadena",
+      "peso",
+      "equilibrio"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…despues de baxado se subiese él mismo por medio de un contrapeso oculto pendiente de un cordel…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura de M. Vitruvio Polión, 1787, p. 246 del facsímil consultado."
+      },
+      {
+        "text": "La tapa d, móvil por medio de una charnela, se equilibra por un contrapeso E, lo que permite abrirla con facilidad.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 254 del facsímil consultado."
+      }
+    ],
+    "search_text": "Contrapeso\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPeso dispuesto para equilibrar total o parcialmente otro peso o esfuerzo dentro de una máquina. En puentes levadizos reduce el esfuerzo de maniobra y puede incorporarse al propio tablero, suspenderse de cadenas o desplazarse conforme a una ley geométrica determinada.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n1. Contrapeso en un dispositivo automático\n«…despues de baxado se subiese él mismo por medio de un contrapeso oculto pendiente de un cordel…»\nLos diez libros de Arquitectura de M. Vitruvio Polión, 1787, p. 246 del facsímil consultado.\nMR-P046-07-01 · CEN-5444. La traducción vitruviana documenta el contrapeso como agente equilibrador en un mecanismo automático anterior al puente moderno.\nP. C. Espinosa · 1859\n2. Contrapeso que equilibra la tapa de una prensa\n«La tapa d, móvil por medio de una charnela, se equilibra por un contrapeso E, lo que permite abrirla con facilidad.»\nManual de construcciones de albañilería, 1859, p. 254 del facsímil consultado.\nMR-P046-07-02 · CEN-5444. Espinosa muestra el contrapeso como recurso de equilibrio aplicado a una tapa articulada y vincula directamente equilibrio y reducción del esfuerzo de apertura.\nJuan Calvo Escrivá · 1899\n3. La prolongación del tablero sirve de contrapeso\n«…siendo el tablero mucho más ancho que el foso… la parte excedente servía de contrapeso…»\nPuentes levadizos, 1899, p. 7 del facsímil consultado.\nMR-P046-07-03 · CEN-5444. El equilibrio puede lograrse con masa integrada en la propia geometría del tablero.\nJuan Calvo Escrivá · 1899\n4. Contrapesos regulables con planchas de fundición\n«Los contrapesos… pueden constituirse… por medio de una serie de planchas de fundición… su número puede aumentarse ó disminuirse para restablecer el equilibrio…»\nPuentes levadizos, 1899, p. 59 del facsímil consultado.\nMR-P046-07-04 · CEN-5444. Se añade la dimensión de ajuste: el contrapeso es una masa calibrable frente a variaciones de carga y ambiente.\nLECTURA COMPARADA\nOrtiz y Sanz muestra el principio mecánico general mediante un contrapeso oculto; Espinosa lo aplica a una tapa articulada de maquinaria; Calvo lo especializa en la arquitectura militar y distingue entre masa integrada al tablero y masas regulables. La continuidad funcional es clara: compensar peso y reducir esfuerzo, aunque cambie el dispositivo.\nVARIANTES Y CONTROL TERMINOLÓGICO\nContrapeso / contrapesos mantiene la misma base semántica. Calvo advierte que no conviene llamar constante o variable al contrapeso cuando lo que varía es la fuerza equilibradora o su brazo de palanca.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1787–1899 reúne mecanismos de distinta escala: artificios descritos por Ortiz y Sanz, maquinaria constructiva de Espinosa y puentes levadizos de Calvo. La repetición del principio en tres ámbitos independientes confirma la estabilidad del valor equilibrador.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir masa física, fuerza transmitida y brazo de palanca, una separación indispensable para leer correctamente los tratados de mecanismos arquitectónicos.\nRELACIONADO CON\nFuerza equilibradora; brazo de palanca; tablero; cadena; peso; equilibrio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/contrapeso/",
+    "academic_pdf": "documentos/fichas/contrapeso.pdf"
+  },
+  {
+    "num": 1428,
+    "cen": "CEN-5445",
+    "term": "Báscula",
+    "slug": "bascula",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Disposición móvil que oscila alrededor de un eje, con movimiento compensado entre sus extremos. En los puentes levadizos, puente de báscula designa el tablero giratorio alrededor de un eje horizontal; en maquinaria constructiva, báscula puede nombrar una palanca oscilante que transmite movimientos alternativos.",
+    "authors_text": "P. C. Espinosa (1859); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "P. C. Espinosa",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1859,
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Báscula se usa dentro de locuciones como puente de báscula y báscula inferior. El verbo bascular aparece para el movimiento correspondiente.",
+    "comparison": "Espinosa documenta báscula como palanca oscilante en maquinaria; Calvo aplica el mismo principio de giro a una familia de puentes y distingue la báscula inferior. La continuidad mecánica reside en la rotación alrededor de un eje, mientras la escala pasa de órgano de máquina a tablero de paso.",
+    "coverage": "La documentación integrada cubre 1859–1899. Espinosa aporta una aplicación mecánica de pequeña escala y Calvo desarrolla la tipología de puente de báscula, con referencias históricas, disposición inferior y giro del tablero. Ambos contextos confirman el núcleo oscilatorio de la voz.",
+    "utility": "Ayuda a reconocer un tipo de puente por su cinemática, evitando confundir el tablero basculante con sistemas de flechas o con tableros simplemente retirables.",
+    "related": [
+      "Puente levadizo",
+      "eje de giro",
+      "contrapeso",
+      "flechas",
+      "tablero",
+      "bascular"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…una palanca X, la cual tiene otra articulada Y, que actúa en un eje con una palanca de báscula Z. En cada extremo de esta báscula hay varillas verticales que suben y bajan alternativamente…",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 242 del facsímil consultado."
+      },
+      {
+        "text": "…un puente de báscula inclinado… [y] nuevos puentes de báscula ó pasaderas portátiles…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 8 del facsímil consultado."
+      }
+    ],
+    "search_text": "Báscula\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDisposición móvil que oscila alrededor de un eje, con movimiento compensado entre sus extremos. En los puentes levadizos, puente de báscula designa el tablero giratorio alrededor de un eje horizontal; en maquinaria constructiva, báscula puede nombrar una palanca oscilante que transmite movimientos alternativos.\nCOMPARADOR TEXTUAL COMPLETO\nP. C. Espinosa · 1859\n1. Palanca de báscula con movimiento alternado\n«…una palanca X, la cual tiene otra articulada Y, que actúa en un eje con una palanca de báscula Z. En cada extremo de esta báscula hay varillas verticales que suben y bajan alternativamente…»\nManual de construcciones de albañilería, 1859, p. 242 del facsímil consultado.\nMR-P046-08-01 · CEN-5445. Espinosa documenta báscula como pieza articulada que oscila alrededor de un eje y transmite un movimiento alternativo.\nJuan Calvo Escrivá · 1899\n2. Puentes de báscula y continuidad histórica\n«…un puente de báscula inclinado… [y] nuevos puentes de báscula ó pasaderas portátiles…»\nPuentes levadizos, 1899, p. 8 del facsímil consultado.\nMR-P046-08-02 · CEN-5445. La voz se documenta como denominación tipológica de puentes móviles ya en la reseña histórica.\nJuan Calvo Escrivá · 1899\n3. Báscula inferior alrededor de eje horizontal\n«…el puente levadizo era de báscula inferior, giratorio alrededor del eje proyectado en o…»\nPuentes levadizos, 1899, p. 10 del facsímil consultado.\nMR-P046-08-03 · CEN-5445. El pasaje fija la rasgo cinemático: giro del tablero en torno de un eje horizontal.\nJuan Calvo Escrivá · 1899\n4. Generalización de la báscula inferior\n«…se generalizó entonces más el puente de báscula inferior… las prolongaciones de los largueros más allá del eje de giro, llevaban los contrapesos en su extremo…»\nPuentes levadizos, 1899, p. 11 del facsímil consultado.\nMR-P046-08-04 · CEN-5445. La descripción relaciona tipología, posición del eje y disposición del contrapeso.\nLECTURA COMPARADA\nEspinosa documenta báscula como palanca oscilante en maquinaria; Calvo aplica el mismo principio de giro a una familia de puentes y distingue la báscula inferior. La continuidad mecánica reside en la rotación alrededor de un eje, mientras la escala pasa de órgano de máquina a tablero de paso.\nVARIANTES Y CONTROL TERMINOLÓGICO\nBáscula se usa dentro de locuciones como puente de báscula y báscula inferior. El verbo bascular aparece para el movimiento correspondiente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada cubre 1859–1899. Espinosa aporta una aplicación mecánica de pequeña escala y Calvo desarrolla la tipología de puente de báscula, con referencias históricas, disposición inferior y giro del tablero. Ambos contextos confirman el núcleo oscilatorio de la voz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a reconocer un tipo de puente por su cinemática, evitando confundir el tablero basculante con sistemas de flechas o con tableros simplemente retirables.\nRELACIONADO CON\nPuente levadizo; eje de giro; contrapeso; flechas; tablero; bascular.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/bascula/",
+    "academic_pdf": "documentos/fichas/bascula.pdf"
+  },
+  {
+    "num": 1429,
+    "cen": "CEN-5446",
+    "term": "Flechas",
+    "slug": "flechas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Brazos elevados de ciertos puentes levadizos a los que se enlazan cadenas de suspensión y que transmiten el esfuerzo de maniobra al tablero. Su presencia deja huellas arquitectónicas características, como ranuras superiores en las puertas, y permite variantes con una o varias flechas.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Flecha es polisémica. En P-046 se estudia la acepción de brazo de puente levadizo; no se confunde con la sagita o altura de un arco o bóveda.",
+    "comparison": "Calvo ofrece una secuencia completa: la flecha se reconoce por sus efectos en la fachada, puede organizarse en número distinto y participa materialmente del equilibrio al recibir contrapesos. Esta acepción mecánica debe separarse de la flecha geométrica de un arco, bien documentada en otros tratados.",
+    "coverage": "La acepción pertinente queda concentrada en Calvo (1899), donde flecha designa el brazo estructural del puente levadizo y no otros valores geométricos o constructivos de la palabra. Los testimonios cubren su huella en fábrica, la solución de flecha central y la incorporación de contrapesos.",
+    "utility": "Permite interpretar ranuras, mechinales y disposiciones superiores de puertas fortificadas y distinguir vestigios de un puente de flechas frente a otros mecanismos.",
+    "related": [
+      "Puente de flechas",
+      "cadena",
+      "contrapeso",
+      "poterna",
+      "ranura",
+      "flecha geométrica"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "…se generalizó más el empleo del puente de flechas… su existencia se hace patente… por las ranuras existentes para el paso de las flechas, superiormente á las puertas…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 9 del facsímil consultado."
+      },
+      {
+        "text": "…una pequeña poterna, cuyo puente levadizo era de una sola flecha central…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 9 del facsímil consultado."
+      }
+    ],
+    "search_text": "Flechas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nBrazos elevados de ciertos puentes levadizos a los que se enlazan cadenas de suspensión y que transmiten el esfuerzo de maniobra al tablero. Su presencia deja huellas arquitectónicas características, como ranuras superiores en las puertas, y permite variantes con una o varias flechas.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Huella arquitectónica del puente de flechas\n«…se generalizó más el empleo del puente de flechas… su existencia se hace patente… por las ranuras existentes para el paso de las flechas, superiormente á las puertas…»\nPuentes levadizos, 1899, p. 9 del facsímil consultado.\nMR-P046-09-01 · CEN-5446. Las flechas no sólo son piezas del mecanismo: determinan ranuras visibles en la fábrica de la puerta.\nJuan Calvo Escrivá · 1899\n2. Puente de una sola flecha central\n«…una pequeña poterna, cuyo puente levadizo era de una sola flecha central…»\nPuentes levadizos, 1899, p. 9 del facsímil consultado.\nMR-P046-09-02 · CEN-5446. La fuente documenta una configuración tipológica de flecha única asociada a una poterna menor.\nJuan Calvo Escrivá · 1899\n3. Contrapesos en la parte posterior de las flechas\n«Los contrapesos dispuestos en la parte posterior de las flechas pueden constituirse… por medio de una serie de planchas de fundición…»\nPuentes levadizos, 1899, p. 59 del facsímil consultado.\nMR-P046-09-03 · CEN-5446. La flecha actúa también como soporte del contrapeso en determinados sistemas.\nLECTURA COMPARADA\nCalvo ofrece una secuencia completa: la flecha se reconoce por sus efectos en la fachada, puede organizarse en número distinto y participa materialmente del equilibrio al recibir contrapesos. Esta acepción mecánica debe separarse de la flecha geométrica de un arco, bien documentada en otros tratados.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFlecha es polisémica. En P-046 se estudia la acepción de brazo de puente levadizo; no se confunde con la sagita o altura de un arco o bóveda.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa acepción pertinente queda concentrada en Calvo (1899), donde flecha designa el brazo estructural del puente levadizo y no otros valores geométricos o constructivos de la palabra. Los testimonios cubren su huella en fábrica, la solución de flecha central y la incorporación de contrapesos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar ranuras, mechinales y disposiciones superiores de puertas fortificadas y distinguir vestigios de un puente de flechas frente a otros mecanismos.\nRELACIONADO CON\nPuente de flechas; cadena; contrapeso; poterna; ranura; flecha geométrica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/flechas/",
+    "academic_pdf": "documentos/fichas/flechas.pdf"
+  },
+  {
+    "num": 1430,
+    "cen": "CEN-5448",
+    "term": "Fuerza equilibradora constante",
+    "slug": "fuerza-equilibradora-constante",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Categoría mecánica de puente levadizo en la que la fuerza que equilibra al tablero mantiene magnitud constante durante el movimiento, aunque pueda variar el brazo con que actúa. La clasificación atiende a la fuerza transmitida y no a la masa material del contrapeso.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "La locución aparece literalmente en plural dentro de puentes de fuerza equilibradora constante. Su opuesto documental es fuerza equilibradora variable.",
+    "comparison": "La primera cita crea la clase; la segunda corrige la nomenclatura que atribuye constancia al contrapeso. La precisión es decisiva: el equilibrio se describe mediante fuerza y brazo de palanca, aunque físicamente la carga proceda de una masa fija.",
+    "coverage": "La expresión aparece en Calvo (1899) como término de clasificación mecánica y se desarrolla inmediatamente al explicar que la constancia afecta a la fuerza equilibradora. La documentación es breve pero contiene definición de clase y fundamento físico.",
+    "utility": "Sirve para leer correctamente clasificaciones mecánicas de puentes y para separar la variable física que actúa sobre el tablero de la mera materialidad del contrapeso.",
+    "related": [
+      "Fuerza equilibradora variable",
+      "contrapeso",
+      "brazo de palanca",
+      "equilibrio",
+      "puente levadizo"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "…se podría originar una clasificación racional… atendiendo solo á que varíe ó no Q; y según esto se formarán los dos grupos siguientes: puentes de fuerza equilibradora constante y puentes de fuerza equilibradora variable.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 32 del facsímil consultado."
+      },
+      {
+        "text": "Debe entenderse bien que lo que separa unos tipos de puentes de otros es que la fuerza equilibradora sea variable, siendo su brazo de palanca constante ó vice-versa, no el contrapeso…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 33 del facsímil consultado."
+      }
+    ],
+    "search_text": "Fuerza equilibradora constante\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCategoría mecánica de puente levadizo en la que la fuerza que equilibra al tablero mantiene magnitud constante durante el movimiento, aunque pueda variar el brazo con que actúa. La clasificación atiende a la fuerza transmitida y no a la masa material del contrapeso.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Clasificación por variación o constancia de la fuerza\n«…se podría originar una clasificación racional… atendiendo solo á que varíe ó no Q; y según esto se formarán los dos grupos siguientes: puentes de fuerza equilibradora constante y puentes de fuerza equilibradora variable.»\nPuentes levadizos, 1899, p. 32 del facsímil consultado.\nMR-P046-10-01 · CEN-5448. El pasaje establece literalmente la categoría y la variable que gobierna la clasificación.\nJuan Calvo Escrivá · 1899\n2. La constancia pertenece a la fuerza, no al contrapeso\n«Debe entenderse bien que lo que separa unos tipos de puentes de otros es que la fuerza equilibradora sea variable, siendo su brazo de palanca constante ó vice-versa, no el contrapeso…»\nPuentes levadizos, 1899, p. 33 del facsímil consultado.\nMR-P046-10-02 · CEN-5448. Calvo evita una confusión terminológica: masa del contrapeso y fuerza equilibradora no son conceptos equivalentes.\nLECTURA COMPARADA\nLa primera cita crea la clase; la segunda corrige la nomenclatura que atribuye constancia al contrapeso. La precisión es decisiva: el equilibrio se describe mediante fuerza y brazo de palanca, aunque físicamente la carga proceda de una masa fija.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución aparece literalmente en plural dentro de puentes de fuerza equilibradora constante. Su opuesto documental es fuerza equilibradora variable.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa expresión aparece en Calvo (1899) como término de clasificación mecánica y se desarrolla inmediatamente al explicar que la constancia afecta a la fuerza equilibradora. La documentación es breve pero contiene definición de clase y fundamento físico.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para leer correctamente clasificaciones mecánicas de puentes y para separar la variable física que actúa sobre el tablero de la mera materialidad del contrapeso.\nRELACIONADO CON\nFuerza equilibradora variable; contrapeso; brazo de palanca; equilibrio; puente levadizo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/fuerza-equilibradora-constante/",
+    "academic_pdf": "documentos/fichas/fuerza-equilibradora-constante.pdf"
+  },
+  {
+    "num": 1431,
+    "cen": "CEN-5449",
+    "term": "Fuerza equilibradora variable",
+    "slug": "fuerza-equilibradora-variable",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Categoría mecánica de puente levadizo en la que la fuerza equilibradora modifica su magnitud a lo largo del giro del tablero, en relación con la geometría del mecanismo y el brazo de palanca. La variabilidad se refiere a la fuerza efectiva y no necesariamente al peso del contrapeso.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Fuerza equilibradora variable es locución literal. Forma pareja terminológica con fuerza equilibradora constante y ambas dependen de la variable Q empleada en el cálculo.",
+    "comparison": "La oposición constante/variable es estrictamente mecánica. Calvo insiste en que la misma masa puede producir una fuerza variable si cambia su dirección o brazo; por ello la denominación no describe el contrapeso como objeto, sino el efecto equilibrador que llega al tablero.",
+    "coverage": "La documentación se concentra en Calvo (1899), donde la expresión encabeza una de las dos clases de puentes por comportamiento del equilibrio. El desarrollo siguiente precisa que puede variar la fuerza o el brazo de aplicación, fijando el alcance técnico del adjetivo variable.",
+    "utility": "Aporta una distinción precisa para estudiar mecanismos históricos sin trasladar a la masa del contrapeso propiedades que pertenecen a la fuerza transmitida.",
+    "related": [
+      "Fuerza equilibradora constante",
+      "contrapeso",
+      "brazo de palanca",
+      "tensión",
+      "equilibrio"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "…se formarán los dos grupos siguientes: puentes de fuerza equilibradora constante y puentes de fuerza equilibradora variable.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 32 del facsímil consultado."
+      },
+      {
+        "text": "…lo que separa unos tipos de puentes de otros es que la fuerza equilibradora sea variable, siendo su brazo de palanca constante ó vice-versa, no el contrapeso…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 33 del facsímil consultado."
+      }
+    ],
+    "search_text": "Fuerza equilibradora variable\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCategoría mecánica de puente levadizo en la que la fuerza equilibradora modifica su magnitud a lo largo del giro del tablero, en relación con la geometría del mecanismo y el brazo de palanca. La variabilidad se refiere a la fuerza efectiva y no necesariamente al peso del contrapeso.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Grupo de puentes de fuerza equilibradora variable\n«…se formarán los dos grupos siguientes: puentes de fuerza equilibradora constante y puentes de fuerza equilibradora variable.»\nPuentes levadizos, 1899, p. 32 del facsímil consultado.\nMR-P046-11-01 · CEN-5449. La expresión queda atestiguada como una de las dos clases principales de la clasificación de Calvo.\nJuan Calvo Escrivá · 1899\n2. Variable puede ser la fuerza o el brazo\n«…lo que separa unos tipos de puentes de otros es que la fuerza equilibradora sea variable, siendo su brazo de palanca constante ó vice-versa, no el contrapeso…»\nPuentes levadizos, 1899, p. 33 del facsímil consultado.\nMR-P046-11-02 · CEN-5449. El testimonio explica el significado operativo de variable dentro de la locución.\nLECTURA COMPARADA\nLa oposición constante/variable es estrictamente mecánica. Calvo insiste en que la misma masa puede producir una fuerza variable si cambia su dirección o brazo; por ello la denominación no describe el contrapeso como objeto, sino el efecto equilibrador que llega al tablero.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFuerza equilibradora variable es locución literal. Forma pareja terminológica con fuerza equilibradora constante y ambas dependen de la variable Q empleada en el cálculo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación se concentra en Calvo (1899), donde la expresión encabeza una de las dos clases de puentes por comportamiento del equilibrio. El desarrollo siguiente precisa que puede variar la fuerza o el brazo de aplicación, fijando el alcance técnico del adjetivo variable.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta una distinción precisa para estudiar mecanismos históricos sin trasladar a la masa del contrapeso propiedades que pertenecen a la fuerza transmitida.\nRELACIONADO CON\nFuerza equilibradora constante; contrapeso; brazo de palanca; tensión; equilibrio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/fuerza-equilibradora-variable/",
+    "academic_pdf": "documentos/fichas/fuerza-equilibradora-variable.pdf"
+  },
+  {
+    "num": 1432,
+    "cen": "CEN-5476",
+    "term": "Evolvente",
+    "slug": "evolvente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Curva generada al desenrollar una recta o cordón tangente sobre una curva evoluta; en los mecanismos de puentes levadizos se usa para definir perfiles capaces de transformar el movimiento de cadenas y contrapesos manteniendo determinadas condiciones de equilibrio.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Evolvente se usa como sustantivo geométrico y se relaciona con evoluta. En Calvo aparecen evolvente del círculo, evolvente mínima y evolvente asociada a curvas de mecanismo.",
+    "comparison": "Los pasajes van desde la definición operativa por trazado a la aplicación en equilibrio y a la adaptación por falta de espacio. La evolvente no es una figura gráfica aislada: es una curva de diseño cuyo perfil material condiciona la trayectoria del contrapeso.",
+    "coverage": "Calvo (1899) documenta evolvente en varios tramos del análisis geométrico: construcción desde el círculo, aplicación a la curva de Belidor, adaptación a restricciones de espacio y satisfacción de la condición de equilibrio. La multiplicidad de pasajes cubre definición, trazado y aplicación.",
+    "utility": "Permite reconstruir el paso entre geometría descriptiva y diseño de mecanismos: una propiedad de la curva se convierte en perfil construido para gobernar movimiento y equilibrio.",
+    "related": [
+      "Evoluta",
+      "espiral",
+      "contrapeso",
+      "cadena",
+      "curva guía",
+      "radio de curvatura"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "…sobre esta evolvente del círculo O debe encontrarse el punto buscado de la curva…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 99 del facsímil consultado."
+      },
+      {
+        "text": "…para que el centro de gravedad… recorra la sinusoide, será preciso que aquella curva sea la evolvente de ésta.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 102 del facsímil consultado."
+      }
+    ],
+    "search_text": "Evolvente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCurva generada al desenrollar una recta o cordón tangente sobre una curva evoluta; en los mecanismos de puentes levadizos se usa para definir perfiles capaces de transformar el movimiento de cadenas y contrapesos manteniendo determinadas condiciones de equilibrio.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Evolvente del círculo como lugar geométrico\n«…sobre esta evolvente del círculo O debe encontrarse el punto buscado de la curva…»\nPuentes levadizos, 1899, p. 99 del facsímil consultado.\nMR-P046-12-01 · CEN-5476. Se documenta la construcción geométrica de una evolvente como parte del trazado del mecanismo.\nJuan Calvo Escrivá · 1899\n2. Evolvente de la curva de Belidor\n«…para que el centro de gravedad… recorra la sinusoide, será preciso que aquella curva sea la evolvente de ésta.»\nPuentes levadizos, 1899, p. 102 del facsímil consultado.\nMR-P046-12-02 · CEN-5476. La evolvente se usa como relación geométrica entre trayectoria del contrapeso y perfil de contacto.\nJuan Calvo Escrivá · 1899\n3. Evolvente mínima por restricción de espacio\n«Evolvente mínima.—Puede haber casos en que… la falta de espacio exija reducir las de la evolvente…»\nPuentes levadizos, 1899, p. 125 del facsímil consultado.\nMR-P046-12-03 · CEN-5476. El concepto adquiere una dimensión constructiva: el perfil se ajusta a disponibilidad espacial sin abandonar la ley geométrica.\nJuan Calvo Escrivá · 1899\n4. La evolvente satisface la condición de equilibrio\n«La evolvente así determinada permite satisfacer á la condición de equilibrio…»\nPuentes levadizos, 1899, p. 131 del facsímil consultado.\nMR-P046-12-04 · CEN-5476. Se expresa de forma directa la función mecánica de la curva dentro del sistema.\nLECTURA COMPARADA\nLos pasajes van desde la definición operativa por trazado a la aplicación en equilibrio y a la adaptación por falta de espacio. La evolvente no es una figura gráfica aislada: es una curva de diseño cuyo perfil material condiciona la trayectoria del contrapeso.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEvolvente se usa como sustantivo geométrico y se relaciona con evoluta. En Calvo aparecen evolvente del círculo, evolvente mínima y evolvente asociada a curvas de mecanismo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nCalvo (1899) documenta evolvente en varios tramos del análisis geométrico: construcción desde el círculo, aplicación a la curva de Belidor, adaptación a restricciones de espacio y satisfacción de la condición de equilibrio. La multiplicidad de pasajes cubre definición, trazado y aplicación.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconstruir el paso entre geometría descriptiva y diseño de mecanismos: una propiedad de la curva se convierte en perfil construido para gobernar movimiento y equilibrio.\nRELACIONADO CON\nEvoluta; espiral; contrapeso; cadena; curva guía; radio de curvatura.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/evolvente/",
+    "academic_pdf": "documentos/fichas/evolvente.pdf"
+  },
+  {
+    "num": 1433,
+    "cen": "CEN-5497",
+    "term": "Resistencia debida á la inercia de las masas",
+    "slug": "resistencia-debida-a-la-inercia-de-las-masas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Componente de las resistencias pasivas de un puente móvil originada por la aceleración de las masas que han de ponerse en movimiento. Su efecto se concentra especialmente al iniciar el movimiento y, en el cálculo de Calvo, resulta pequeño frente a las pérdidas causadas por rozamientos.",
+    "authors_text": "Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "La locución aparece como encabezado técnico y como partida de cálculo. La preposición á conserva la ortografía del impreso en el lema catalogado.",
+    "comparison": "Calvo primero define la clase, después explica su comportamiento dinámico y finalmente cuantifica su pequeña participación dentro del esfuerzo total. La secuencia demuestra que la expresión pertenece a un cálculo completo de maniobra y no a una descripción genérica del peso.",
+    "coverage": "La evidencia se concentra en la sección de cálculo de Calvo (1899), desde la clasificación de resistencias pasivas hasta el desarrollo algebraico y un ejemplo numérico. Los tres niveles —enunciado, formulación y cuantificación— delimitan con precisión la resistencia debida a la inercia.",
+    "utility": "Es clave para interpretar memorias de cálculo históricas sin confundir masa, peso, inercia y fricción, y para valorar qué resistencias condicionaban realmente el dimensionado de la maniobra.",
+    "related": [
+      "Resistencias pasivas",
+      "rozamientos",
+      "muñones",
+      "tablero",
+      "fuerza viva",
+      "esfuerzo de maniobra"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Son de dos clases: las originadas por la inercia de las masas que hay que poner en movimiento… y… las engendradas por los rozamientos…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 239 del facsímil consultado."
+      },
+      {
+        "text": "…interesa á nuestro objeto calcular cuál es el esfuerzo necesario para vencer la inercia del tablero en los primeros momentos, pues tal esfuerzo es uno de los sumandos que constituyen el total necesario para la producción del movimiento.",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 240 del facsímil consultado."
+      }
+    ],
+    "search_text": "Resistencia debida á la inercia de las masas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nComponente de las resistencias pasivas de un puente móvil originada por la aceleración de las masas que han de ponerse en movimiento. Su efecto se concentra especialmente al iniciar el movimiento y, en el cálculo de Calvo, resulta pequeño frente a las pérdidas causadas por rozamientos.\nCOMPARADOR TEXTUAL COMPLETO\nJuan Calvo Escrivá · 1899\n1. Clasificación de las resistencias pasivas\n«Son de dos clases: las originadas por la inercia de las masas que hay que poner en movimiento… y… las engendradas por los rozamientos…»\nPuentes levadizos, 1899, p. 239 del facsímil consultado.\nMR-P046-13-01 · CEN-5497. El pasaje coloca la inercia como primera clase de resistencia pasiva y la compara con el rozamiento.\nJuan Calvo Escrivá · 1899\n2. Esfuerzo inicial necesario para vencer la inercia\n«…interesa á nuestro objeto calcular cuál es el esfuerzo necesario para vencer la inercia del tablero en los primeros momentos, pues tal esfuerzo es uno de los sumandos que constituyen el total necesario para la producción del movimiento.»\nPuentes levadizos, 1899, p. 240 del facsímil consultado.\nMR-P046-13-02 · CEN-5497. La resistencia se interpreta como esfuerzo transitorio de arranque, no como pérdida uniforme durante toda la maniobra.\nJuan Calvo Escrivá · 1899\n3. Peso relativo de la inercia en un ejemplo numérico\n«Resistencia debida á la inercia de las masas…… 3,75 kgs.»\nPuentes levadizos, 1899, p. 256 del facsímil consultado.\nMR-P046-13-03 · CEN-5497. El cuadro numérico permite comparar cuantitativamente esta resistencia con fricción en muñones, enganches y poleas.\nLECTURA COMPARADA\nCalvo primero define la clase, después explica su comportamiento dinámico y finalmente cuantifica su pequeña participación dentro del esfuerzo total. La secuencia demuestra que la expresión pertenece a un cálculo completo de maniobra y no a una descripción genérica del peso.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución aparece como encabezado técnico y como partida de cálculo. La preposición á conserva la ortografía del impreso en el lema catalogado.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se concentra en la sección de cálculo de Calvo (1899), desde la clasificación de resistencias pasivas hasta el desarrollo algebraico y un ejemplo numérico. Los tres niveles —enunciado, formulación y cuantificación— delimitan con precisión la resistencia debida a la inercia.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs clave para interpretar memorias de cálculo históricas sin confundir masa, peso, inercia y fricción, y para valorar qué resistencias condicionaban realmente el dimensionado de la maniobra.\nRELACIONADO CON\nResistencias pasivas; rozamientos; muñones; tablero; fuerza viva; esfuerzo de maniobra.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/resistencia-debida-a-la-inercia-de-las-masas/",
+    "academic_pdf": "documentos/fichas/resistencia-debida-a-la-inercia-de-las-masas.pdf"
+  },
+  {
+    "num": 1434,
+    "cen": "CEN-5498",
+    "term": "Rozamientos",
+    "slug": "rozamientos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Resistencia producida por el contacto entre superficies, ya sea por deslizamiento, giro o tránsito. En fábrica pétrea interviene entre lechos de dovelas; en materiales de piso condiciona el desgaste; en mecanismos de puentes levadizos aparece en muñones, cojinetes, poleas, roldanas y guías y altera el equilibrio teórico.",
+    "authors_text": "Benito Bails (1796); P. C. Espinosa (1859); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "Benito Bails",
+      "P. C. Espinosa",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1796,
+      1859,
+      1899
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Rozamiento aparece en singular para una interfaz concreta y rozamientos en plural para el conjunto de pérdidas del mecanismo.",
+    "comparison": "Bails usa el rozamiento para discutir estabilidad en fábrica pétrea; Espinosa lo convierte en criterio de durabilidad de pavimentos frente al tránsito; Calvo lo integra en el balance de resistencias pasivas de una máquina. La voz conserva el contacto entre superficies como núcleo físico, pero cambia el problema técnico: estabilidad, desgaste y pérdidas mecánicas.",
+    "coverage": "La secuencia 1796–1899 recorre tres campos constructivos: dovelas en Bails, pavimentos en Espinosa y órganos móviles en Calvo. La amplitud de aplicaciones explica el paso del singular para un contacto determinado al plural rozamientos cuando se suman pérdidas de varios puntos de un mecanismo.",
+    "utility": "Permite estudiar cómo una noción física común atraviesa fábrica y mecanismo, y cómo la arquitectura técnica incorpora progresivamente cálculos de fricción en el diseño.",
+    "related": [
+      "Fricción",
+      "resistencias pasivas",
+      "muñón",
+      "cojinete",
+      "roldana",
+      "dovela"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "…no pueden oponer otra resistencia que la del rozamiento de los lechos de sus dovelas, el qual se reputa por de cortísimo momento en el empujo de las bóvedas…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796, p. 614 del facsímil consultado."
+      },
+      {
+        "text": "…deben ser suficientemente duras y compactas para resistir al rozamiento del tránsito.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 207 del facsímil consultado."
+      }
+    ],
+    "search_text": "Rozamientos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nResistencia producida por el contacto entre superficies, ya sea por deslizamiento, giro o tránsito. En fábrica pétrea interviene entre lechos de dovelas; en materiales de piso condiciona el desgaste; en mecanismos de puentes levadizos aparece en muñones, cojinetes, poleas, roldanas y guías y altera el equilibrio teórico.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Rozamiento de los lechos de las dovelas\n«…no pueden oponer otra resistencia que la del rozamiento de los lechos de sus dovelas, el qual se reputa por de cortísimo momento en el empujo de las bóvedas…»\nArquitectura civil, 1796, p. 614 del facsímil consultado.\nMR-P046-14-01 · CEN-5498. Bails documenta el rozamiento en una lectura estructural de bóvedas, anterior a la mecanización de Calvo.\nP. C. Espinosa · 1859\n2. Rozamiento del tránsito como exigencia material\n«…deben ser suficientemente duras y compactas para resistir al rozamiento del tránsito.»\nManual de construcciones de albañilería, 1859, p. 207 del facsímil consultado.\nMR-P046-14-02 · CEN-5498. Espinosa aplica rozamiento al desgaste de pavimentos, ampliando la voz desde contactos estructurales o mecánicos hacia una exigencia de resistencia superficial.\nJuan Calvo Escrivá · 1899\n3. Rozamientos como segunda clase de resistencia pasiva\n«…las engendradas por los rozamientos en los diversos órganos del sistema… alcanzan valores de alguna consideración.»\nPuentes levadizos, 1899, p. 239 del facsímil consultado.\nMR-P046-14-03 · CEN-5498. Calvo convierte la fricción en una partida sistemática del cálculo de maniobra.\nJuan Calvo Escrivá · 1899\n4. Rozamiento de muñones y muñoneras\n«Las partes… tienen… movimientos de rotación… provistos de muñones alojados en sus muñoneras correspondientes, dando origen á rozamientos opuestos á la acción de las fuerzas activas…»\nPuentes levadizos, 1899, p. 243 del facsímil consultado.\nMR-P046-14-04 · CEN-5498. El pasaje vincula el fenómeno directamente con las superficies giratorias del mecanismo.\nJuan Calvo Escrivá · 1899\n5. Rozamiento de roldanas y guías\n«…los rozamientos que se originan en los ejes de rotación de las roldanas y por el contacto de éstas con las viguetas guías son considerables…»\nPuentes levadizos, 1899, p. 147 del facsímil consultado.\nMR-P046-14-05 · CEN-5498. Añade un segundo tipo de contacto: rodadura y deslizamiento sobre guías.\nLECTURA COMPARADA\nBails usa el rozamiento para discutir estabilidad en fábrica pétrea; Espinosa lo convierte en criterio de durabilidad de pavimentos frente al tránsito; Calvo lo integra en el balance de resistencias pasivas de una máquina. La voz conserva el contacto entre superficies como núcleo físico, pero cambia el problema técnico: estabilidad, desgaste y pérdidas mecánicas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRozamiento aparece en singular para una interfaz concreta y rozamientos en plural para el conjunto de pérdidas del mecanismo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1796–1899 recorre tres campos constructivos: dovelas en Bails, pavimentos en Espinosa y órganos móviles en Calvo. La amplitud de aplicaciones explica el paso del singular para un contacto determinado al plural rozamientos cuando se suman pérdidas de varios puntos de un mecanismo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar cómo una noción física común atraviesa fábrica y mecanismo, y cómo la arquitectura técnica incorpora progresivamente cálculos de fricción en el diseño.\nRELACIONADO CON\nFricción; resistencias pasivas; muñón; cojinete; roldana; dovela.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/rozamientos/",
+    "academic_pdf": "documentos/fichas/rozamientos.pdf"
+  },
+  {
+    "num": 1435,
+    "cen": "CEN-5505",
+    "term": "Roldanas",
+    "slug": "roldanas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pequeñas ruedas o rodillos incorporados a articulaciones o guías para facilitar el movimiento, recibir cadenas o disminuir el rozamiento. En puentes levadizos pueden rodar sobre líneas o viguetas y convertir su contacto en un punto móvil de enganche.",
+    "authors_text": "P. C. Espinosa (1859); Juan Calvo Escrivá (1899).",
+    "authors": [
+      "P. C. Espinosa",
+      "Juan Calvo Escrivá"
+    ],
+    "years": [
+      1859,
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899."
+    ],
+    "variants": "Roldana / roldanas se mantiene estable. Su proximidad con polea depende del uso: la roldana puede actuar como rueda de rodadura sobre una guía y no necesariamente como polea de cambio para una cadena.",
+    "comparison": "Espinosa documenta el uso general de roldanas en aparatos de obra; Calvo las incorpora a mecanismos de equilibrio donde su trayectoria tiene consecuencias geométricas. Así, de órgano móvil sencillo pasan a formar parte de una ley cinemática precisa.",
+    "coverage": "La secuencia 1859–1899 reúne una aplicación general de roldanas en maquinaria, documentada por Espinosa, y su especialización en dispositivos de puente levadizo en Calvo. Los pasajes muestran rodadura, guía y transmisión del movimiento.",
+    "utility": "Ayuda a distinguir piezas que en un dibujo pueden parecer poleas, pero cuyo trabajo efectivo es rodar sobre una guía o sostener una articulación móvil.",
+    "related": [
+      "Polea",
+      "cojinete",
+      "rozamiento",
+      "punto de enganche",
+      "guía",
+      "rueda"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "Las cajas p q q r están unidas por medio de ganchos y colocadas sobre roldanas.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería, 1859, p. 63 del facsímil consultado."
+      },
+      {
+        "text": "…las barras A B… llevan en B unas roldanas que ruedan sobre una línea horizontal B H…",
+        "author": "Juan Calvo Escrivá",
+        "year": "1899",
+        "source": "Puentes levadizos, 1899, p. 118 del facsímil consultado."
+      }
+    ],
+    "search_text": "Roldanas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPequeñas ruedas o rodillos incorporados a articulaciones o guías para facilitar el movimiento, recibir cadenas o disminuir el rozamiento. En puentes levadizos pueden rodar sobre líneas o viguetas y convertir su contacto en un punto móvil de enganche.\nCOMPARADOR TEXTUAL COMPLETO\nP. C. Espinosa · 1859\n1. Cajas apoyadas sobre roldanas\n«Las cajas p q q r están unidas por medio de ganchos y colocadas sobre roldanas.»\nManual de construcciones de albañilería, 1859, p. 63 del facsímil consultado.\nMR-P046-15-01 · CEN-5505. La voz se documenta en maquinaria de obra como apoyo móvil para desplazamiento de cajas.\nJuan Calvo Escrivá · 1899\n2. Roldanas que ruedan sobre una horizontal\n«…las barras A B… llevan en B unas roldanas que ruedan sobre una línea horizontal B H…»\nPuentes levadizos, 1899, p. 118 del facsímil consultado.\nMR-P046-15-02 · CEN-5505. Calvo muestra la roldana como órgano que impone una trayectoria recta al punto de articulación.\nJuan Calvo Escrivá · 1899\n3. Roldana, guía y punto de enganche\n«…al eje de una roldana que puede resbalar apoyándose en la cara inferior… el punto de contacto de las roldanas con las viguetas, que viene á ser el de enganche…»\nPuentes levadizos, 1899, p. 147 del facsímil consultado.\nMR-P046-15-03 · CEN-5505. La roldana participa simultáneamente en el contacto, guiado y geometría del enganche.\nLECTURA COMPARADA\nEspinosa documenta el uso general de roldanas en aparatos de obra; Calvo las incorpora a mecanismos de equilibrio donde su trayectoria tiene consecuencias geométricas. Así, de órgano móvil sencillo pasan a formar parte de una ley cinemática precisa.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRoldana / roldanas se mantiene estable. Su proximidad con polea depende del uso: la roldana puede actuar como rueda de rodadura sobre una guía y no necesariamente como polea de cambio para una cadena.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1859–1899 reúne una aplicación general de roldanas en maquinaria, documentada por Espinosa, y su especialización en dispositivos de puente levadizo en Calvo. Los pasajes muestran rodadura, guía y transmisión del movimiento.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a distinguir piezas que en un dibujo pueden parecer poleas, pero cuyo trabajo efectivo es rodar sobre una guía o sostener una articulación móvil.\nRELACIONADO CON\nPolea; cojinete; rozamiento; punto de enganche; guía; rueda.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Calvo Escrivá, Juan. Puentes levadizos. Guadalajara: Imprenta y Encuadernación Provincial, 1899.",
+    "url": "terminos/roldanas/",
+    "academic_pdf": "documentos/fichas/roldanas.pdf"
+  },
+  {
+    "num": 1436,
+    "cen": "CEN-5510",
+    "term": "Cáliz",
+    "slug": "caliz",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Vaso sagrado destinado a la consagración del vino en la misa, concebido como pieza de orfebrería compuesta por pie, manzana o nudo, balaustre y copa. Su forma debe responder a la limpieza ritual, la estabilidad y una proporción legible entre altura, diámetro y partes ornamentales.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1585,
+      1887
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Caliz / cáliz y calizes / cálices muestran la normalización gráfica del mismo término. Las grafías de Arphe se conservan en cita y se normalizan en el lema.",
+    "comparison": "Arphe describe el cáliz desde su materialidad y proporción, mientras Adeline lo define como tipología de orfebrería y resume su función ritual. La forma de copa sobre pie permanece, pero el siglo XIX convierte en definición lexicográfica lo que en 1585 era un problema de diseño, limpieza y composición.",
+    "coverage": "La documentación integrada comienza con la descripción proporcional de Arphe (1585) y llega a la definición artística de Adeline/Mélida (1887). El primero aporta materia, despiece y proporción; el segundo consolida forma y función litúrgica, ofreciendo continuidad de más de tres siglos.",
+    "utility": "Permite estudiar cómo reglas de proporción arquitectónica se trasladan a la orfebrería litúrgica y cómo la necesidad ritual condiciona forma, relieve y elección de material.",
+    "related": [
+      "Patena",
+      "vinajeras",
+      "portapaz",
+      "orfebrería",
+      "copa",
+      "manzana"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "…mandó que los calizes se hiziessen de metal que no criaße corrura… y desde este tiempo se començaron a hazer de oro y plata…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 264 del facsímil consultado."
+      },
+      {
+        "text": "…todo el alto se divide en diez partes… dos al alto del pie… dos y media al alto de la mançana… y tres al alto de la copa…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 265 del facsímil consultado."
+      }
+    ],
+    "search_text": "Cáliz\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVaso sagrado destinado a la consagración del vino en la misa, concebido como pieza de orfebrería compuesta por pie, manzana o nudo, balaustre y copa. Su forma debe responder a la limpieza ritual, la estabilidad y una proporción legible entre altura, diámetro y partes ornamentales.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Materia y condición del cáliz\n«…mandó que los calizes se hiziessen de metal que no criaße corrura… y desde este tiempo se començaron a hazer de oro y plata…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 264 del facsímil consultado.\nMR-P046-16-01 · CEN-5510. Arphe relaciona el material con la limpieza y seguridad del vaso sagrado.\nJuan de Arphe y Villafañe · 1585\n2. Despiece proporcional del cáliz\n«…todo el alto se divide en diez partes… dos al alto del pie… dos y media al alto de la mançana… y tres al alto de la copa…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 265 del facsímil consultado.\nMR-P046-16-02 · CEN-5510. El pasaje convierte el cáliz en objeto mensurable y compuesto, gobernado por relaciones proporcionales.\nJ. Adeline / José Ramón Mélida · 1887\n3. Definición artística y litúrgica\n«Cáliz.—Vaso sagrado que sirve en la misa para la consagración del vino. El cáliz en forma de copa profunda, montada sobre un pie, es una de las piezas de orfebrería religiosa…»\nVocabulario de términos de arte, 1887, p. 95 del facsímil consultado.\nMR-P046-16-03 · CEN-5510. La definición decimonónica confirma la función y enfatiza su pertenencia a la orfebrería religiosa.\nLECTURA COMPARADA\nArphe describe el cáliz desde su materialidad y proporción, mientras Adeline lo define como tipología de orfebrería y resume su función ritual. La forma de copa sobre pie permanece, pero el siglo XIX convierte en definición lexicográfica lo que en 1585 era un problema de diseño, limpieza y composición.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCaliz / cáliz y calizes / cálices muestran la normalización gráfica del mismo término. Las grafías de Arphe se conservan en cita y se normalizan en el lema.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada comienza con la descripción proporcional de Arphe (1585) y llega a la definición artística de Adeline/Mélida (1887). El primero aporta materia, despiece y proporción; el segundo consolida forma y función litúrgica, ofreciendo continuidad de más de tres siglos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar cómo reglas de proporción arquitectónica se trasladan a la orfebrería litúrgica y cómo la necesidad ritual condiciona forma, relieve y elección de material.\nRELACIONADO CON\nPatena; vinajeras; portapaz; orfebrería; copa; manzana.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/caliz/",
+    "academic_pdf": "documentos/fichas/caliz.pdf"
+  },
+  {
+    "num": 1437,
+    "cen": "CEN-5511",
+    "term": "Patena",
+    "slug": "patena",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Plato litúrgico asociado al cáliz, de escasa concavidad y diámetro relacionado con la copa. Su superficie se mantiene libre de relieve para evitar dificultades de uso y limpieza en contacto con las especies consagradas.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Patena aparece literalmente en singular; la tradición gráfica no presenta aquí una variante que altere su identificación.",
+    "comparison": "El testimonio de Arphe es suficiente para definir la pieza sin añadir comparaciones inexistentes: su significado emerge de la dependencia métrica con el cáliz y de la exigencia de una superficie poco ahondada y sin relieve.",
+    "coverage": "La evidencia pertinente se concentra en Arphe (1585), con un único pasaje sustantivo que fija diámetro, escasa concavidad y prohibición de relieve. La ausencia de otros testimonios autónomos no debilita el valor del pasaje, que reúne forma, medida y condición de uso.",
+    "utility": "Aporta una regla concreta para reconocer y reconstruir dimensiones relativas entre piezas de un juego litúrgico del siglo XVI.",
+    "related": [
+      "Cáliz",
+      "copa",
+      "orfebrería",
+      "especies consagradas"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "La patena a de tener de area toda la circunferencia de dentro del pie, y el hueco de ella muy poco, y tan grande como la boca de la copa; y en esta patena no se pone obra relevada…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado."
+      }
+    ],
+    "search_text": "Patena\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPlato litúrgico asociado al cáliz, de escasa concavidad y diámetro relacionado con la copa. Su superficie se mantiene libre de relieve para evitar dificultades de uso y limpieza en contacto con las especies consagradas.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Diámetro, hueco y ausencia de relieve\n«La patena a de tener de area toda la circunferencia de dentro del pie, y el hueco de ella muy poco, y tan grande como la boca de la copa; y en esta patena no se pone obra relevada…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado.\nMR-P046-17-01 · CEN-5511. El único pasaje sustantivo de las fuentes históricas fija simultáneamente geometría, relación con el cáliz y restricción ornamental.\nLECTURA COMPARADA\nEl testimonio de Arphe es suficiente para definir la pieza sin añadir comparaciones inexistentes: su significado emerge de la dependencia métrica con el cáliz y de la exigencia de una superficie poco ahondada y sin relieve.\nVARIANTES Y CONTROL TERMINOLÓGICO\nPatena aparece literalmente en singular; la tradición gráfica no presenta aquí una variante que altere su identificación.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia pertinente se concentra en Arphe (1585), con un único pasaje sustantivo que fija diámetro, escasa concavidad y prohibición de relieve. La ausencia de otros testimonios autónomos no debilita el valor del pasaje, que reúne forma, medida y condición de uso.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta una regla concreta para reconocer y reconstruir dimensiones relativas entre piezas de un juego litúrgico del siglo XVI.\nRELACIONADO CON\nCáliz; copa; orfebrería; especies consagradas.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/patena/",
+    "academic_pdf": "documentos/fichas/patena.pdf"
+  },
+  {
+    "num": 1438,
+    "cen": "CEN-5512",
+    "term": "Vinajeras",
+    "slug": "vinajeras",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pareja de pequeños vasos litúrgicos para contener y verter vino y agua en la misa. En Arphe se proporcionan respecto del cáliz, con cuerpo preferentemente oval, pico vertedor y boca abierta para facilitar la limpieza; en el siglo XIX la voz conserva la misma función de servicio.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1585,
+      1887
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Vinageras es la grafía de Arphe; vinajeras es la forma normalizada del siglo XIX y del lema. La alternancia g/j no modifica la identidad del objeto.",
+    "comparison": "La descripción de 1585 es proyectual: dimensión, pico, asa y limpieza. Adeline mantiene el nombre y reduce la definición a su contenido ritual. La continuidad de función es notable pese a la simplificación lexicográfica posterior.",
+    "coverage": "La documentación enlaza Arphe (1585), que proporciona geometría y proporción de las vinajeras, con Adeline/Mélida (1887), que explicita su contenido litúrgico de vino y agua. La continuidad funcional se acompaña de un cambio desde la regla de diseño hacia la definición de uso.",
+    "utility": "Permite reconocer una pareja de recipientes cuyo diseño dependía del cáliz y reconstruir la continuidad terminológica entre orfebrería renacentista y vocabulario artístico moderno.",
+    "related": [
+      "Cáliz",
+      "patena",
+      "vino",
+      "agua",
+      "jarro",
+      "orfebrería litúrgica"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Las vinageras se hazen de una tercia parte del alto del caliz… pero las mejores son de figura oval, y la boca esparzida para que puedan limpiarse.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado."
+      },
+      {
+        "text": "…las vinajeras destinadas á contener el vino y el agua…",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte, 1887, p. 511 del facsímil consultado."
+      }
+    ],
+    "search_text": "Vinajeras\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPareja de pequeños vasos litúrgicos para contener y verter vino y agua en la misa. En Arphe se proporcionan respecto del cáliz, con cuerpo preferentemente oval, pico vertedor y boca abierta para facilitar la limpieza; en el siglo XIX la voz conserva la misma función de servicio.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Forma oval y proporción respecto del cáliz\n«Las vinageras se hazen de una tercia parte del alto del caliz… pero las mejores son de figura oval, y la boca esparzida para que puedan limpiarse.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado.\nMR-P046-18-01 · CEN-5512. Arphe define tamaño, forma y criterio de limpieza de las vinajeras.\nJ. Adeline / José Ramón Mélida · 1887\n2. Vino y agua como contenido litúrgico\n«…las vinajeras destinadas á contener el vino y el agua…»\nVocabulario de términos de arte, 1887, p. 511 del facsímil consultado.\nMR-P046-18-02 · CEN-5512. La fuente decimonónica confirma la función de los dos recipientes dentro del servicio litúrgico.\nLECTURA COMPARADA\nLa descripción de 1585 es proyectual: dimensión, pico, asa y limpieza. Adeline mantiene el nombre y reduce la definición a su contenido ritual. La continuidad de función es notable pese a la simplificación lexicográfica posterior.\nVARIANTES Y CONTROL TERMINOLÓGICO\nVinageras es la grafía de Arphe; vinajeras es la forma normalizada del siglo XIX y del lema. La alternancia g/j no modifica la identidad del objeto.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación enlaza Arphe (1585), que proporciona geometría y proporción de las vinajeras, con Adeline/Mélida (1887), que explicita su contenido litúrgico de vino y agua. La continuidad funcional se acompaña de un cambio desde la regla de diseño hacia la definición de uso.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer una pareja de recipientes cuyo diseño dependía del cáliz y reconstruir la continuidad terminológica entre orfebrería renacentista y vocabulario artístico moderno.\nRELACIONADO CON\nCáliz; patena; vino; agua; jarro; orfebrería litúrgica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/vinajeras/",
+    "academic_pdf": "documentos/fichas/vinajeras.pdf"
+  },
+  {
+    "num": 1439,
+    "cen": "CEN-5513",
+    "term": "Portapaces",
+    "slug": "portapaces",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas de altar destinadas a presentar la paz durante la misa, configuradas como pequeñas arquitecturas de mano con basamento, cuerpo, encasamento y remate. Su composición admite frontispicios agudos, redondos o escarzanos y debe mantener suficiente estabilidad sin hacerse pesada.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Portapaz es el singular; portapazes es el plural histórico de Arphe. Portapaces es normalización ortográfica inequívoca del plural, conservando la misma voz y función.",
+    "comparison": "Arphe vincula la función ceremonial con una composición estrictamente arquitectónica. La portapaz debe poder sujetarse y presentarse, pero se ordena como una portada en miniatura, con cuerpo, banco, frontispicio y encasamento.",
+    "coverage": "Los testimonios pertinentes se concentran en Arphe (1585). Dos pasajes consecutivos documentan, respectivamente, la función del portapaz y su composición como pequeña portada proporcionada; la forma plural normalizada deriva de las formas históricas portapaz y portapazes.",
+    "utility": "Muestra con especial claridad la transferencia de lenguaje arquitectónico a objetos de orfebrería: una pieza manipulable se proyecta mediante basamentos, órdenes y frontispicios.",
+    "related": [
+      "Paz",
+      "altar",
+      "frontispicio",
+      "encasamento",
+      "orfebrería",
+      "portada"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Las portapazes se hizieron para dar la paz en la missa…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado."
+      },
+      {
+        "text": "La proporcion que se a tenido por mas razonable en una portapaz es la doble… y siempre se hazen como portadas con sus frontispicios agudos o redondos, o escarçanos…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 267 del facsímil consultado."
+      }
+    ],
+    "search_text": "Portapaces\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas de altar destinadas a presentar la paz durante la misa, configuradas como pequeñas arquitecturas de mano con basamento, cuerpo, encasamento y remate. Su composición admite frontispicios agudos, redondos o escarzanos y debe mantener suficiente estabilidad sin hacerse pesada.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Origen funcional y composición general\n«Las portapazes se hizieron para dar la paz en la missa…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 266 del facsímil consultado.\nMR-P046-19-01 · CEN-5513. La forma plural histórica portapazes acredita directamente el objeto y su función ritual.\nJuan de Arphe y Villafañe · 1585\n2. Proporción doble y forma de portada\n«La proporcion que se a tenido por mas razonable en una portapaz es la doble… y siempre se hazen como portadas con sus frontispicios agudos o redondos, o escarçanos…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 267 del facsímil consultado.\nMR-P046-19-02 · CEN-5513. La pieza se diseña con reglas arquitectónicas de portada y proporción.\nLECTURA COMPARADA\nArphe vincula la función ceremonial con una composición estrictamente arquitectónica. La portapaz debe poder sujetarse y presentarse, pero se ordena como una portada en miniatura, con cuerpo, banco, frontispicio y encasamento.\nVARIANTES Y CONTROL TERMINOLÓGICO\nPortapaz es el singular; portapazes es el plural histórico de Arphe. Portapaces es normalización ortográfica inequívoca del plural, conservando la misma voz y función.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios pertinentes se concentran en Arphe (1585). Dos pasajes consecutivos documentan, respectivamente, la función del portapaz y su composición como pequeña portada proporcionada; la forma plural normalizada deriva de las formas históricas portapaz y portapazes.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nMuestra con especial claridad la transferencia de lenguaje arquitectónico a objetos de orfebrería: una pieza manipulable se proyecta mediante basamentos, órdenes y frontispicios.\nRELACIONADO CON\nPaz; altar; frontispicio; encasamento; orfebrería; portada.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/portapaces/",
+    "academic_pdf": "documentos/fichas/portapaces.pdf"
+  },
+  {
+    "num": 1440,
+    "cen": "CEN-5516",
+    "term": "Aguamanil",
+    "slug": "aguamanil",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Jarro litúrgico para el agua del pontifical, acompañado por una fuente o palangana. Su forma se establece mediante relaciones entre pie, cuerpo, cuello, pico, asa y vertiente, con dimensiones coordinadas con la fuente receptora.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Aguamanil aparece literalmente; Arphe emplea también aguamaniles en plural. La fuente asociada no se integra en el lema, aunque es inseparable en la descripción funcional.",
+    "comparison": "El primer pasaje afirma la unidad tipológica aguamanil-fuente; el segundo descompone el jarro en partes mensurables. No se trata de un recipiente genérico de agua, sino de una pieza litúrgica cuya silueta deriva de relaciones proporcionales.",
+    "coverage": "La evidencia sustantiva queda concentrada en Arphe (1585), donde aguamanil y fuente se estudian como conjunto. Los dos pasajes aportan relación proporcional y dimensionado de cuerpo, cuello, pico y asa, suficientes para reconstruir su lógica formal.",
+    "utility": "Permite identificar la morfología de un objeto de servicio pontifical y estudiar cómo el diseño de orfebrería se resuelve mediante criterios equivalentes a los de la composición arquitectónica.",
+    "related": [
+      "Fuente",
+      "jarro",
+      "pontifical",
+      "asa",
+      "pico",
+      "orfebrería"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "En un aguamanil y en una fuente es esta proporcion la que se a escrito…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 270 del facsímil consultado."
+      },
+      {
+        "text": "Todo el alto de la pieça se divide en doze partes… al cuerpo seys partes… al pico… y… el buelo tiene tres partes… y la asa cinco…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 271 del facsímil consultado."
+      }
+    ],
+    "search_text": "Aguamanil\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nJarro litúrgico para el agua del pontifical, acompañado por una fuente o palangana. Su forma se establece mediante relaciones entre pie, cuerpo, cuello, pico, asa y vertiente, con dimensiones coordinadas con la fuente receptora.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Aguamanil y fuente como conjunto proporcional\n«En un aguamanil y en una fuente es esta proporcion la que se a escrito…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 270 del facsímil consultado.\nMR-P046-20-01 · CEN-5516. Arphe presenta jarro y fuente como dos piezas coordinadas del mismo servicio.\nJuan de Arphe y Villafañe · 1585\n2. Dimensiones de cuerpo, cuello, pico y asa\n«Todo el alto de la pieça se divide en doze partes… al cuerpo seys partes… al pico… y… el buelo tiene tres partes… y la asa cinco…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 271 del facsímil consultado.\nMR-P046-20-02 · CEN-5516. La descripción permite reconstruir la geometría completa del jarro y su relación con la fuente.\nLECTURA COMPARADA\nEl primer pasaje afirma la unidad tipológica aguamanil-fuente; el segundo descompone el jarro en partes mensurables. No se trata de un recipiente genérico de agua, sino de una pieza litúrgica cuya silueta deriva de relaciones proporcionales.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAguamanil aparece literalmente; Arphe emplea también aguamaniles en plural. La fuente asociada no se integra en el lema, aunque es inseparable en la descripción funcional.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva queda concentrada en Arphe (1585), donde aguamanil y fuente se estudian como conjunto. Los dos pasajes aportan relación proporcional y dimensionado de cuerpo, cuello, pico y asa, suficientes para reconstruir su lógica formal.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar la morfología de un objeto de servicio pontifical y estudiar cómo el diseño de orfebrería se resuelve mediante criterios equivalentes a los de la composición arquitectónica.\nRELACIONADO CON\nFuente; jarro; pontifical; asa; pico; orfebrería.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/aguamanil/",
+    "academic_pdf": "documentos/fichas/aguamanil.pdf"
+  },
+  {
+    "num": 1441,
+    "cen": "CEN-5518",
+    "term": "Báculo",
+    "slug": "baculo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Insignia pontifical formada por una vara rematada en gran vuelta o voluta, enriquecida con nudos, balaustres, columnas, encasamentos y figuras. Su parte curva se traza geométricamente y el conjunto se concibe como objeto de procesión y representación eclesiástica.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); Mariano Matallana (1848).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1585,
+      1848
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "El Catálogo consignaba Bacio, pero el facsímil de Arphe muestra inequívocamente BACULO / baculo, también confirmado por el desarrollo del capítulo y la tabla. Bacio se corrige como errata y no se registra como variante histórica.",
+    "comparison": "Arphe documenta el báculo eclesiástico con una descripción formal muy desarrollada; Matallana conserva la misma palabra para un instrumento de medición. La divergencia demuestra una polisemia real: la identidad del báculo pontifical depende de vara, voluta y uso litúrgico, no sólo del nombre.",
+    "coverage": "La documentación reúne dos acepciones claramente separadas: Arphe (1585) describe el báculo pontifical con vara, vuelta y labor ornamental; Matallana (1848) usa la misma palabra para un instrumento de medición de alturas. La cronología confirma polisemia y obliga a distinguir los contextos.",
+    "utility": "La corrección del lema evita convertir una lectura defectuosa en voz histórica y permite además estudiar la polisemia entre insignia e instrumento de medición.",
+    "related": [
+      "Pontifical",
+      "voluta",
+      "manzana",
+      "vara",
+      "encasamento",
+      "instrumento de alturas"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "El baculo contiene una gran buelta compuesta de manera balaustral… en que sigue su modo cada qual.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 271 del facsímil consultado."
+      },
+      {
+        "text": "…el cuerpo de la buelta del baculo… se haze… [con] centros… y en la mançana se hazen columnas y frescos con sus encasamentos y figuras… por ser el uso del baculo en fiestas particulares, se haze rico de labor.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 272 del facsímil consultado."
+      }
+    ],
+    "search_text": "Báculo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInsignia pontifical formada por una vara rematada en gran vuelta o voluta, enriquecida con nudos, balaustres, columnas, encasamentos y figuras. Su parte curva se traza geométricamente y el conjunto se concibe como objeto de procesión y representación eclesiástica.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Gran vuelta y composición de balaustres\n«El baculo contiene una gran buelta compuesta de manera balaustral… en que sigue su modo cada qual.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 271 del facsímil consultado.\nMR-P046-21-01 · CEN-5518. La fuente acredita el lema histórico y caracteriza la voluta como rasgo morfológico esencial.\nJuan de Arphe y Villafañe · 1585\n2. Trazado de la vuelta y riqueza de labor\n«…el cuerpo de la buelta del baculo… se haze… [con] centros… y en la mançana se hazen columnas y frescos con sus encasamentos y figuras… por ser el uso del baculo en fiestas particulares, se haze rico de labor.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 272 del facsímil consultado.\nMR-P046-21-02 · CEN-5518. Arphe combina construcción geométrica, microarquitectura y función ceremonial.\nMariano Matallana · 1848\n3. Báculo como instrumento de alturas: acepción distinta\n«BACULO.=Instrumento de cruz para tomar alturas.»\nVocabulario de arquitectura civil, 1848, p. 56 del facsímil consultado.\nMR-P046-21-03 · CEN-5518. El siglo XIX registra una acepción técnica distinta, útil para controlar la polisemia sin confundirla con el báculo pontifical.\nLECTURA COMPARADA\nArphe documenta el báculo eclesiástico con una descripción formal muy desarrollada; Matallana conserva la misma palabra para un instrumento de medición. La divergencia demuestra una polisemia real: la identidad del báculo pontifical depende de vara, voluta y uso litúrgico, no sólo del nombre.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEl Catálogo consignaba Bacio, pero el facsímil de Arphe muestra inequívocamente BACULO / baculo, también confirmado por el desarrollo del capítulo y la tabla. Bacio se corrige como errata y no se registra como variante histórica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación reúne dos acepciones claramente separadas: Arphe (1585) describe el báculo pontifical con vara, vuelta y labor ornamental; Matallana (1848) usa la misma palabra para un instrumento de medición de alturas. La cronología confirma polisemia y obliga a distinguir los contextos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nLa corrección del lema evita convertir una lectura defectuosa en voz histórica y permite además estudiar la polisemia entre insignia e instrumento de medición.\nRELACIONADO CON\nPontifical; voluta; manzana; vara; encasamento; instrumento de alturas.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/baculo/",
+    "academic_pdf": "documentos/fichas/baculo.pdf"
+  },
+  {
+    "num": 1442,
+    "cen": "CEN-5519",
+    "term": "Guiones",
+    "slug": "guiones",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas procesionales de asta y cuerpo ornamental cuya proporción se relaciona con otras insignias eclesiásticas de acompañamiento. En Arphe aparecen dentro del sistema de piezas para procesión y se dimensionan conforme al modelo compositivo previamente expuesto.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Guion / guiones posee otras acepciones constructivas en las fuentes históricas —por ejemplo, piezas de entramado—. Aquí se conserva únicamente la acepción procesional señalada por Arphe.",
+    "comparison": "La documentación pertinente de Arphe no desarrolla una definición aislada, sino que inserta los guiones en una secuencia de piezas procesionales. Esa dependencia es significativa: su dimensión se obtiene por analogía con el patrón precedente y no por una regla autónoma extensa.",
+    "coverage": "La evidencia pertinente queda circunscrita a Arphe (1585), donde guiones aparece dentro de las piezas de procesión y se regula por proporción. Otras apariciones de guion en contextos ajenos no aportan documentación autónoma para esta acepción ceremonial.",
+    "utility": "Permite distinguir una insignia procesional de términos homónimos de carpintería y evita transferir entre ambos sentidos datos de forma o función.",
+    "related": [
+      "Procesión",
+      "cirial",
+      "cruz portátil",
+      "asta",
+      "insignia"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Los guiones guardan esta misma proporcion en su tamaño.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 274 del facsímil consultado."
+      }
+    ],
+    "search_text": "Guiones\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas procesionales de asta y cuerpo ornamental cuya proporción se relaciona con otras insignias eclesiásticas de acompañamiento. En Arphe aparecen dentro del sistema de piezas para procesión y se dimensionan conforme al modelo compositivo previamente expuesto.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Proporción de los guiones\n«Los guiones guardan esta misma proporcion en su tamaño.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 274 del facsímil consultado.\nMR-P046-22-01 · CEN-5519. El pasaje acredita la voz en contexto procesional y la integra en una serie de piezas proporcionadas por analogía formal.\nLECTURA COMPARADA\nLa documentación pertinente de Arphe no desarrolla una definición aislada, sino que inserta los guiones en una secuencia de piezas procesionales. Esa dependencia es significativa: su dimensión se obtiene por analogía con el patrón precedente y no por una regla autónoma extensa.\nVARIANTES Y CONTROL TERMINOLÓGICO\nGuion / guiones posee otras acepciones constructivas en las fuentes históricas —por ejemplo, piezas de entramado—. Aquí se conserva únicamente la acepción procesional señalada por Arphe.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia pertinente queda circunscrita a Arphe (1585), donde guiones aparece dentro de las piezas de procesión y se regula por proporción. Otras apariciones de guion en contextos ajenos no aportan documentación autónoma para esta acepción ceremonial.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir una insignia procesional de términos homónimos de carpintería y evita transferir entre ambos sentidos datos de forma o función.\nRELACIONADO CON\nProcesión; cirial; cruz portátil; asta; insignia.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/guiones/",
+    "academic_pdf": "documentos/fichas/guiones.pdf"
+  },
+  {
+    "num": 1443,
+    "cen": "CEN-5520",
+    "term": "Ciriales",
+    "slug": "ciriales",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Piezas procesionales destinadas a portar cirios, formadas por un cuerpo proporcionado y un mechero superior. Arphe fija dimensiones relativas de ancho, altura y salida del mechero, integrándolas en el mismo sistema formal que las demás piezas de procesión.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Cirial / ciriales aparece con su valor litúrgico. No se localizaron variantes históricas relevantes entre las fuentes históricas.",
+    "comparison": "El único testimonio autónomo es muy concreto: no ofrece una definición verbal extensa, pero combina nombre, escala y parte funcional. Esa información basta para distinguir el cirial de otras astas procesionales sin inventar una comparación inexistente.",
+    "coverage": "La documentación sustantiva se concentra en Arphe (1585), con un pasaje que fija dimensiones del cirial y la salida del mechero. La escasez documental es real, pero el testimonio combina proporción y función lumínica en una formulación técnica suficiente.",
+    "utility": "Aporta dimensiones históricas de una pieza frecuentemente reconocida sólo por iconografía y permite relacionar su función de iluminación con su composición material.",
+    "related": [
+      "Guion",
+      "cirio",
+      "mechero",
+      "procesión",
+      "asta"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Los ciriales son de una tercia de vara en ancho y la mitad de alto… y el mechero sale… como se muestra en la figura…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 274 del facsímil consultado."
+      }
+    ],
+    "search_text": "Ciriales\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPiezas procesionales destinadas a portar cirios, formadas por un cuerpo proporcionado y un mechero superior. Arphe fija dimensiones relativas de ancho, altura y salida del mechero, integrándolas en el mismo sistema formal que las demás piezas de procesión.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Dimensiones del cirial y salida del mechero\n«Los ciriales son de una tercia de vara en ancho y la mitad de alto… y el mechero sale… como se muestra en la figura…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 274 del facsímil consultado.\nMR-P046-23-01 · CEN-5520. El testimonio aporta la identificación, dimensiones y componente funcional superior del cirial.\nLECTURA COMPARADA\nEl único testimonio autónomo es muy concreto: no ofrece una definición verbal extensa, pero combina nombre, escala y parte funcional. Esa información basta para distinguir el cirial de otras astas procesionales sin inventar una comparación inexistente.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCirial / ciriales aparece con su valor litúrgico. No se localizaron variantes históricas relevantes entre las fuentes históricas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación sustantiva se concentra en Arphe (1585), con un pasaje que fija dimensiones del cirial y la salida del mechero. La escasez documental es real, pero el testimonio combina proporción y función lumínica en una formulación técnica suficiente.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta dimensiones históricas de una pieza frecuentemente reconocida sólo por iconografía y permite relacionar su función de iluminación con su composición material.\nRELACIONADO CON\nGuion; cirio; mechero; procesión; asta.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/ciriales/",
+    "academic_pdf": "documentos/fichas/ciriales.pdf"
+  },
+  {
+    "num": 1444,
+    "cen": "CEN-5521",
+    "term": "Encensario",
+    "slug": "encensario",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Vaso litúrgico suspendido por cadenas para contener brasas e incienso, con caja inferior para el fuego y cuerpo calado o abierto que facilita la salida del humo. Su composición combina estabilidad, resistencia a golpes, longitud de cadenas y posibilidades de ornato arquitectónico.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1585,
+      1887
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Encensario es la grafía de Arphe; incensario domina en Adeline. Ambas designan inequívocamente el mismo vaso litúrgico suspendido.",
+    "comparison": "Arphe estudia el objeto como problema de proporción, calor, humo y resistencia; Adeline condensa esos rasgos en una definición moderna. La transición de encensario a incensario es gráfica, mientras que cadenas, combustión y salida de humo permanecen como núcleo funcional.",
+    "coverage": "La secuencia 1585–1887 permite seguir Encensario/Incensario desde la descripción constructiva de Arphe hasta la definición de Adeline/Mélida. Arphe aporta caja de fuego, cuerpo de humo y cadenas; el vocabulario decimonónico sintetiza el objeto como vaso metálico suspendido para quemar incienso.",
+    "utility": "Permite vincular forma y uso físico del objeto: las aberturas, cadenas y refuerzos responden directamente al fuego, humo, oscilación y manipulación procesional.",
+    "related": [
+      "Incienso",
+      "cadena",
+      "humo",
+      "fuego",
+      "orfebrería",
+      "procesión"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Tienen tal proporcion los encensarios… [una parte] para la caſca… donde se pone el fuego, y… para el cuerpo mayor del humo…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 276 del facsímil consultado."
+      },
+      {
+        "text": "La cadena de medio sea tan luenga que dos altos del cuerpo en sí contenga… el uso del encensario [es] muy peligroso por los golpes que suele recibir, especialmente el pie y caſca…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 276 del facsímil consultado."
+      }
+    ],
+    "search_text": "Encensario\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVaso litúrgico suspendido por cadenas para contener brasas e incienso, con caja inferior para el fuego y cuerpo calado o abierto que facilita la salida del humo. Su composición combina estabilidad, resistencia a golpes, longitud de cadenas y posibilidades de ornato arquitectónico.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Proporción, caja de fuego y cuerpo de humo\n«Tienen tal proporcion los encensarios… [una parte] para la caſca… donde se pone el fuego, y… para el cuerpo mayor del humo…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 276 del facsímil consultado.\nMR-P046-24-01 · CEN-5521. Arphe descompone el encensario según la función térmica de sus partes.\nJuan de Arphe y Villafañe · 1585\n2. Cadenas y resistencia del recipiente\n«La cadena de medio sea tan luenga que dos altos del cuerpo en sí contenga… el uso del encensario [es] muy peligroso por los golpes que suele recibir, especialmente el pie y caſca…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 276 del facsímil consultado.\nMR-P046-24-02 · CEN-5521. Se relacionan longitud de suspensión y necesidad de reforzar las zonas expuestas a golpes.\nJ. Adeline / José Ramón Mélida · 1887\n3. Definición posterior como vaso suspendido\n«Incensario.—Vaso sagrado de metal con tapadera calada y suspendido por largas cadenas, en el cual se quema incienso.»\nVocabulario de términos de arte, 1887, p. 300 del facsímil consultado.\nMR-P046-24-03 · CEN-5521. La forma incensario confirma la misma función y resume la tipología en el vocabulario artístico del XIX.\nLECTURA COMPARADA\nArphe estudia el objeto como problema de proporción, calor, humo y resistencia; Adeline condensa esos rasgos en una definición moderna. La transición de encensario a incensario es gráfica, mientras que cadenas, combustión y salida de humo permanecen como núcleo funcional.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEncensario es la grafía de Arphe; incensario domina en Adeline. Ambas designan inequívocamente el mismo vaso litúrgico suspendido.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1585–1887 permite seguir Encensario/Incensario desde la descripción constructiva de Arphe hasta la definición de Adeline/Mélida. Arphe aporta caja de fuego, cuerpo de humo y cadenas; el vocabulario decimonónico sintetiza el objeto como vaso metálico suspendido para quemar incienso.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite vincular forma y uso físico del objeto: las aberturas, cadenas y refuerzos responden directamente al fuego, humo, oscilación y manipulación procesional.\nRELACIONADO CON\nIncienso; cadena; humo; fuego; orfebrería; procesión.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/encensario/",
+    "academic_pdf": "documentos/fichas/encensario.pdf"
+  },
+  {
+    "num": 1445,
+    "cen": "CEN-5523",
+    "term": "Sceptros",
+    "slug": "sceptros",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Insignias procesionales rematadas sobre asta, de cuerpo redondo, cuadrado, hexagonal u octogonal, organizadas con nudos, cañones, cajas, columnas, molduras, frontispicios y figuras. Su parte superior se refuerza para resistir golpes durante el uso procesional.",
+    "authors_text": "Juan de Arphe y Villafañe (1585).",
+    "authors": [
+      "Juan de Arfe y Villafañe"
+    ],
+    "years": [
+      1585
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585."
+    ],
+    "variants": "Sceptro / Sceptros conserva la grafía culta del impreso de 1585. Sceptros es el plural documentado y se mantiene como lema histórico.",
+    "comparison": "Arphe no trata el sceptro como simple emblema; lo construye como una pequeña arquitectura de asta. La ornamentación está subordinada a la proporción de un orden y, al mismo tiempo, a exigencias prácticas de resistencia en calles y edificios.",
+    "coverage": "La evidencia sustantiva se concentra en Arphe (1585) y ocupa dos pasajes complementarios: forma y remate del sceptro, y aplicación de órdenes y refuerzo para resistir el uso procesional. La documentación combina representación simbólica con condiciones de fabricación.",
+    "utility": "Aporta un caso especialmente claro de aplicación de órdenes, columnas y frontispicios a una insignia móvil, útil para estudiar escalas transversales de la cultura arquitectónica.",
+    "related": [
+      "Asta",
+      "procesión",
+      "guion",
+      "cirial",
+      "orden arquitectónico",
+      "frontispicio"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Los Sceptros son redondos y quadrados que rematan arriba sobre una asta… llevan caxas, columnas y molduras, frontispicios, remates y figuras.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 277 del facsímil consultado."
+      },
+      {
+        "text": "…se hazen en orden de architectura con la proporcion de la orden que se siguiere… [y] los remates sean rezios y cortos, porque no se quiebren quando se arriman a las paredes…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 278 del facsímil consultado."
+      }
+    ],
+    "search_text": "Sceptros\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInsignias procesionales rematadas sobre asta, de cuerpo redondo, cuadrado, hexagonal u octogonal, organizadas con nudos, cañones, cajas, columnas, molduras, frontispicios y figuras. Su parte superior se refuerza para resistir golpes durante el uso procesional.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Cuerpo redondo o cuadrado y remate sobre asta\n«Los Sceptros son redondos y quadrados que rematan arriba sobre una asta… llevan caxas, columnas y molduras, frontispicios, remates y figuras.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 277 del facsímil consultado.\nMR-P046-25-01 · CEN-5523. La fuente identifica materiales formales concretos tomados del repertorio arquitectónico.\nJuan de Arphe y Villafañe · 1585\n2. Orden arquitectónica y resistencia al uso\n«…se hazen en orden de architectura con la proporcion de la orden que se siguiere… [y] los remates sean rezios y cortos, porque no se quiebren quando se arriman a las paredes…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 278 del facsímil consultado.\nMR-P046-25-02 · CEN-5523. El diseño debe conciliar composición arquitectónica y resistencia a golpes de la procesión.\nLECTURA COMPARADA\nArphe no trata el sceptro como simple emblema; lo construye como una pequeña arquitectura de asta. La ornamentación está subordinada a la proporción de un orden y, al mismo tiempo, a exigencias prácticas de resistencia en calles y edificios.\nVARIANTES Y CONTROL TERMINOLÓGICO\nSceptro / Sceptros conserva la grafía culta del impreso de 1585. Sceptros es el plural documentado y se mantiene como lema histórico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva se concentra en Arphe (1585) y ocupa dos pasajes complementarios: forma y remate del sceptro, y aplicación de órdenes y refuerzo para resistir el uso procesional. La documentación combina representación simbólica con condiciones de fabricación.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAporta un caso especialmente claro de aplicación de órdenes, columnas y frontispicios a una insignia móvil, útil para estudiar escalas transversales de la cultura arquitectónica.\nRELACIONADO CON\nAsta; procesión; guion; cirial; orden arquitectónico; frontispicio.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+    "url": "terminos/sceptros/",
+    "academic_pdf": "documentos/fichas/sceptros.pdf"
+  },
+  {
+    "num": 1446,
+    "cen": "CEN-5524",
+    "term": "Lámpara",
+    "slug": "lampara",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Luminaria suspendida de capillas y altares, compuesta por recipiente o cuerpo, vasos de vidrio para la luz, cadenas y remate. En la tradición arquitectónica también da nombre, por semejanza formal, a un tipo de ornamento colgante empleado en bóvedas góticas.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); Mariano Matallana (1848).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1585,
+      1848
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Lampada es la forma de Arphe; lámpara aparece plenamente normalizada en el XIX. La variante no altera el objeto, aunque Matallana registra además la locución ornamental de lámpara.",
+    "comparison": "Arphe presenta la lámpara —lampada— como objeto funcional suspendido cuya forma responde a luz, aceite, limpieza y cadenas. Matallana documenta una especialización metafórica: de lámpara pasa a nombrar un ornamento arquitectónico por semejanza de silueta.",
+    "coverage": "La documentación integrada une la lámpada de Arphe (1585), entendida como objeto suspendido de iluminación con vaso de aceite, y la expresión ornamental de Matallana (1848), donde de lámpara nombra un remate de bóveda. La voz pasa del objeto a una semejanza formal arquitectónica.",
+    "utility": "Permite seguir un desplazamiento semántico concreto desde un objeto suspendido real hacia un motivo formal de bóveda, con continuidad basada en la silueta colgante.",
+    "related": [
+      "Lámpada",
+      "altar",
+      "cadena",
+      "vidrio",
+      "aceite",
+      "ornamento de lámpara",
+      "bóveda gótica"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Las lampadas son luz de las capillas y gran adorno para los altares… y las cadenas que ay para subirlas…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 281 del facsímil consultado."
+      },
+      {
+        "text": "Para poner el vaso de vidro que tiene la luz… [y] todos los miembros se guarnecen de obra baxa de relievo, por causa del azeyte que cria oſcura y suziedad…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 281 del facsímil consultado."
+      }
+    ],
+    "search_text": "Lámpara\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nLuminaria suspendida de capillas y altares, compuesta por recipiente o cuerpo, vasos de vidrio para la luz, cadenas y remate. En la tradición arquitectónica también da nombre, por semejanza formal, a un tipo de ornamento colgante empleado en bóvedas góticas.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Lámpada de capilla y cadenas de suspensión\n«Las lampadas son luz de las capillas y gran adorno para los altares… y las cadenas que ay para subirlas…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 281 del facsímil consultado.\nMR-P046-26-01 · CEN-5524. La forma lampada reúne iluminación, ornato y suspensión en el espacio eclesiástico.\nJuan de Arphe y Villafañe · 1585\n2. Vaso de vidrio y limpieza del aceite\n«Para poner el vaso de vidro que tiene la luz… [y] todos los miembros se guarnecen de obra baxa de relievo, por causa del azeyte que cria oſcura y suziedad…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 281 del facsímil consultado.\nMR-P046-26-02 · CEN-5524. La forma responde a mantenimiento, aceite y accesibilidad de limpieza, además del ornato.\nMariano Matallana · 1848\n3. De lámpara como ornamento de bóveda\n«De lámpara.=Adorno semejante al remate que presenta una lámpara en su parte inferior, y muy usado en la decoración de las bóvedas de los templos góticos.»\nVocabulario de arquitectura civil, 1848, p. 138 del facsímil consultado.\nMR-P046-26-03 · CEN-5524. La voz se proyecta por analogía desde el objeto luminoso hacia un motivo arquitectónico colgante.\nLECTURA COMPARADA\nArphe presenta la lámpara —lampada— como objeto funcional suspendido cuya forma responde a luz, aceite, limpieza y cadenas. Matallana documenta una especialización metafórica: de lámpara pasa a nombrar un ornamento arquitectónico por semejanza de silueta.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLampada es la forma de Arphe; lámpara aparece plenamente normalizada en el XIX. La variante no altera el objeto, aunque Matallana registra además la locución ornamental de lámpara.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada une la lámpada de Arphe (1585), entendida como objeto suspendido de iluminación con vaso de aceite, y la expresión ornamental de Matallana (1848), donde de lámpara nombra un remate de bóveda. La voz pasa del objeto a una semejanza formal arquitectónica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite seguir un desplazamiento semántico concreto desde un objeto suspendido real hacia un motivo formal de bóveda, con continuidad basada en la silueta colgante.\nRELACIONADO CON\nLámpada; altar; cadena; vidrio; aceite; ornamento de lámpara; bóveda gótica.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/lampara/",
+    "academic_pdf": "documentos/fichas/lampara.pdf"
+  },
+  {
+    "num": 1447,
+    "cen": "CEN-5525",
+    "term": "Custodia",
+    "slug": "custodia",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Objeto eucarístico destinado a contener y mostrar la hostia consagrada, concebido en el siglo XVI como un pequeño templo de uno o varios cuerpos. Puede ser de asiento o portátil y se organiza mediante órdenes, columnas, arcos, capillas, relieves y remates, de forma que la microarquitectura participa de su significado triunfal.",
+    "authors_text": "Juan de Arphe y Villafañe (1585); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Juan de Arfe y Villafañe",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1585,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Custodia es forma estable. Arphe distingue custodia de asiento y custodia portátil. Las variaciones afectan a tipología y escala, no a la identidad del término.",
+    "comparison": "Arphe describe custodias arquitectónicas de cuerpos superpuestos; Rejón todavía las entiende como alhajas de forma arquitectónica, y Matallana registra la configuración radial de ostensorio. La función eucarística permanece, mientras la morfología documentada cambia de templete estratificado a círculo radiado sobre pie.",
+    "coverage": "La secuencia 1585–1848 ofrece una evolución especialmente rica: Arphe concibe la custodia como templo en miniatura; Rejón mantiene la conciencia de su forma arquitectónica sin equipararla a edificio; Matallana registra el ostensorio radial y el templete procesional. La función eucarística permanece mientras cambia la morfología.",
+    "utility": "Es particularmente útil para estudiar la frontera entre arquitectura y artes suntuarias: la pieza adopta órdenes, columnas y capillas sin ser edificio y luego evoluciona hacia el ostensorio radial.",
+    "related": [
+      "Custodia de asiento",
+      "custodia portátil",
+      "ostensorio",
+      "columna abalaustrada",
+      "orden jónico",
+      "orfebrería"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Custodia, es templo rico, fabricado para triunfo de Christo verdadero… y son estas en dos maneras, la una de assiento y la otra portatil.",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 283 del facsímil consultado."
+      },
+      {
+        "text": "El cuerpo primero… de orden Jonica… El cuerpo segundo se haze de orden Corynthia… El cuerpo tercero se haze de orden compoſita…",
+        "author": "Juan de Arphe y Villafañe",
+        "year": "1585",
+        "source": "De varia commensuración para la escultura y arquitectura, 1585, p. 284 del facsímil consultado."
+      }
+    ],
+    "search_text": "Custodia\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nObjeto eucarístico destinado a contener y mostrar la hostia consagrada, concebido en el siglo XVI como un pequeño templo de uno o varios cuerpos. Puede ser de asiento o portátil y se organiza mediante órdenes, columnas, arcos, capillas, relieves y remates, de forma que la microarquitectura participa de su significado triunfal.\nCOMPARADOR TEXTUAL COMPLETO\nJuan de Arphe y Villafañe · 1585\n1. Custodia como templo rico y dos tipos\n«Custodia, es templo rico, fabricado para triunfo de Christo verdadero… y son estas en dos maneras, la una de assiento y la otra portatil.»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 283 del facsímil consultado.\nMR-P046-27-01 · CEN-5525. Arphe define la custodia por su función eucarística y por su concepción explícitamente arquitectónica.\nJuan de Arphe y Villafañe · 1585\n2. Órdenes sucesivos en los cuerpos\n«El cuerpo primero… de orden Jonica… El cuerpo segundo se haze de orden Corynthia… El cuerpo tercero se haze de orden compoſita…»\nDe varia commensuración para la escultura y arquitectura, 1585, p. 284 del facsímil consultado.\nMR-P046-27-02 · CEN-5525. La pieza se estructura como superposición de órdenes y cuerpos arquitectónicos.\nDiego Antonio Rejón de Silva · 1788\n3. Forma arquitectónica sin ser edificio\n«[La columna abalaustrada] solo se puede usar en Custodias ú otras alhajas, que aunque tienen forma arquitectónica, no son edificios.»\nDiccionario de las Nobles Artes, 1788, p. 79 del facsímil consultado.\nMR-P046-27-03 · CEN-5525. Rejón formula con claridad la condición híbrida: objeto mueble de forma arquitectónica.\nMariano Matallana · 1848\n4. Definición del ostensorio y templete procesional\n«CUSTODIA. Círculo de oro ó de plata, guarnecido de radios á manera de sol, en cuyo centro se coloca entre dos cristales la hostia consagrada…»\nVocabulario de arquitectura civil, 1848, p. 103 del facsímil consultado.\nMR-P046-27-04 · CEN-5525. Matallana documenta una morfología posterior, más próxima al ostensorio radial, y confirma la continuidad de la función eucarística.\nLECTURA COMPARADA\nArphe describe custodias arquitectónicas de cuerpos superpuestos; Rejón todavía las entiende como alhajas de forma arquitectónica, y Matallana registra la configuración radial de ostensorio. La función eucarística permanece, mientras la morfología documentada cambia de templete estratificado a círculo radiado sobre pie.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCustodia es forma estable. Arphe distingue custodia de asiento y custodia portátil. Las variaciones afectan a tipología y escala, no a la identidad del término.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1585–1848 ofrece una evolución especialmente rica: Arphe concibe la custodia como templo en miniatura; Rejón mantiene la conciencia de su forma arquitectónica sin equipararla a edificio; Matallana registra el ostensorio radial y el templete procesional. La función eucarística permanece mientras cambia la morfología.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs particularmente útil para estudiar la frontera entre arquitectura y artes suntuarias: la pieza adopta órdenes, columnas y capillas sin ser edificio y luego evoluciona hacia el ostensorio radial.\nRELACIONADO CON\nCustodia de asiento; custodia portátil; ostensorio; columna abalaustrada; orden jónico; orfebrería.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Arphe y Villafañe, Juan de. De varia commensuración para la escultura y arquitectura. Sevilla: Andrea Pescioni y Juan de León, 1585.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/custodia/",
+    "academic_pdf": "documentos/fichas/custodia.pdf"
+  },
+  {
+    "num": 1448,
+    "cen": "CEN-0932",
+    "term": "Apoyo",
+    "slug": "apoyo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Punto, superficie o pieza que recibe y transmite una carga o alrededor de la cual se organiza un movimiento. En carpintería puede ser el asiento de vigas, postes o viguetas; en mecanismos, punto de apoyo designa la parte fija respecto de la cual se mueven otras piezas.",
+    "authors_text": "Mariano Matallana (1848); Luis Gaztelu (1899).",
+    "authors": [
+      "Mariano Matallana",
+      "Luis Gaztelu"
+    ],
+    "years": [
+      1848,
+      1899
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899."
+    ],
+    "variants": "Apoyo aparece tanto aislado como en locuciones: punto de apoyo, apoyo de madera, superficie de apoyo. El sentido se determina por la relación de sustentación o transmisión de esfuerzos.",
+    "comparison": "Matallana reúne una acepción mecánica abstracta y un ejemplo estructural central; Gaztelu presenta el apoyo como poste de madera sobre dado. La voz funciona así en escalas distintas, desde punto geométrico de giro hasta pieza construida que recibe cargas.",
+    "coverage": "La evidencia integrada se concentra en el siglo XIX. Matallana (1848) documenta apoyo como centro de movimiento y como punto de sustentación en una escalera de caracol; Gaztelu (1899) lo materializa en postes de madera asentados sobre dados de piedra. Los testimonios cubren valor mecánico y soporte construido.",
+    "utility": "Permite distinguir entre apoyo como lugar geométrico y como pieza material, distinción necesaria para interpretar memorias de cálculo, detalles de carpintería y descripciones de máquinas.",
+    "related": [
+      "Punto de apoyo",
+      "sustentación",
+      "poste",
+      "dado",
+      "asiento",
+      "carga"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "De apoyo.=La parte de una máquina, al rededor de la cual se mueven las otras.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848, p. 224 del facsímil consultado."
+      },
+      {
+        "text": "NABO.=Cilindro de madera… al que sirve de centro y punto de apoyo, como sucede en las escaleras de caracol, en los chapiteles de las torres…",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848, p. 190 del facsímil consultado."
+      }
+    ],
+    "search_text": "Apoyo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPunto, superficie o pieza que recibe y transmite una carga o alrededor de la cual se organiza un movimiento. En carpintería puede ser el asiento de vigas, postes o viguetas; en mecanismos, punto de apoyo designa la parte fija respecto de la cual se mueven otras piezas.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Punto de apoyo de una máquina\n«De apoyo.=La parte de una máquina, al rededor de la cual se mueven las otras.»\nVocabulario de arquitectura civil, 1848, p. 224 del facsímil consultado.\nMR-P046-28-01 · CEN-0932. La definición vincula apoyo con referencia fija y movimiento mecánico.\nMariano Matallana · 1848\n2. Nabo como centro y punto de apoyo\n«NABO.=Cilindro de madera… al que sirve de centro y punto de apoyo, como sucede en las escaleras de caracol, en los chapiteles de las torres…»\nVocabulario de arquitectura civil, 1848, p. 190 del facsímil consultado.\nMR-P046-28-02 · CEN-0932. El término se concreta en estructuras de carpintería: un elemento central recibe piezas y organiza su geometría.\nLuis Gaztelu · 1899\n3. Apoyos de madera sobre dados de piedra\n«Apoyos de madera.—Los apoyos de madera son postes que descansan generalmente sobre dados de piedra…»\nCarpintería de armar, 1899, p. 138 del facsímil consultado.\nMR-P046-28-03 · CEN-0932. Gaztelu documenta la acepción material del apoyo como elemento vertical sustentante y su asiento pétreo.\nLECTURA COMPARADA\nMatallana reúne una acepción mecánica abstracta y un ejemplo estructural central; Gaztelu presenta el apoyo como poste de madera sobre dado. La voz funciona así en escalas distintas, desde punto geométrico de giro hasta pieza construida que recibe cargas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nApoyo aparece tanto aislado como en locuciones: punto de apoyo, apoyo de madera, superficie de apoyo. El sentido se determina por la relación de sustentación o transmisión de esfuerzos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada se concentra en el siglo XIX. Matallana (1848) documenta apoyo como centro de movimiento y como punto de sustentación en una escalera de caracol; Gaztelu (1899) lo materializa en postes de madera asentados sobre dados de piedra. Los testimonios cubren valor mecánico y soporte construido.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir entre apoyo como lugar geométrico y como pieza material, distinción necesaria para interpretar memorias de cálculo, detalles de carpintería y descripciones de máquinas.\nRELACIONADO CON\nPunto de apoyo; sustentación; poste; dado; asiento; carga.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899.",
+    "url": "terminos/apoyo/",
+    "academic_pdf": "documentos/fichas/apoyo.pdf"
+  },
+  {
+    "num": 1449,
+    "cen": "CEN-1234",
+    "term": "Armario",
+    "slug": "armario",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Mueble o armazón cerrado por puertas, equipado interiormente con anaqueles o cajones para guardar objetos y capaz de integrarse en la distribución y decoración arquitectónica. En el siglo XIX se documentan armarios aprovechando irregularidades de planta y armarios disimulados dentro del espesor o revestimiento de los muros.",
+    "authors_text": "Mariano Matallana (1848); Benito Bails (1796); J. Adeline / José Ramón Mélida (1887); Luis Gaztelu (1899).",
+    "authors": [
+      "Mariano Matallana",
+      "Benito Bails",
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Luis Gaztelu"
+    ],
+    "years": [
+      1848,
+      1796,
+      1887,
+      1899
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+      "Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899."
+    ],
+    "variants": "Armario / armarios se mantiene estable. Las expresiones armario disimulado y armario en pared especializan la forma de integración sin crear una voz diferente.",
+    "comparison": "Bails presenta el armario como estrategia espacial; Matallana lo define como armazón de madera y pieza decorativa; Adeline/Mélida lo delimita frente al aparador; Gaztelu explica su integración constructiva en el paramento. La secuencia muestra el paso de recurso distributivo a definición mueble y, finalmente, a elemento incorporado a la pared.",
+    "coverage": "La documentación integrada va de 1796 a 1899 y combina tratado de arquitectura, vocabularios y manual constructivo. Las fuentes permiten seguir uso espacial, definición material, contraste tipológico con el aparador e integración del armario dentro del muro.",
+    "utility": "Es útil para estudiar la relación entre mobiliario fijo y arquitectura interior, especialmente la transformación de huecos e irregularidades en almacenamiento integrado.",
+    "related": [
+      "Alacena",
+      "paramento",
+      "carpintería de taller",
+      "retrete",
+      "revestimiento",
+      "mueble fijo"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ARMARIO.=Armazon de madera cerrado por una ó dos puertas con vasares ó cajones en su interior, y que sirve para guardar toda especie de objetos, y contribuir á la decoracion de una pieza.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil, 1848, p. 38 del facsímil consultado."
+      },
+      {
+        "text": "…estas irregularidades pueden aprovecharse haciendo en ellas armarios donde guardar cosas, que sirvan al aseo.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796, p. 94 del facsímil consultado."
+      }
+    ],
+    "search_text": "Armario\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMueble o armazón cerrado por puertas, equipado interiormente con anaqueles o cajones para guardar objetos y capaz de integrarse en la distribución y decoración arquitectónica. En el siglo XIX se documentan armarios aprovechando irregularidades de planta y armarios disimulados dentro del espesor o revestimiento de los muros.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Definición de armazón cerrado y función decorativa\n«ARMARIO.=Armazon de madera cerrado por una ó dos puertas con vasares ó cajones en su interior, y que sirve para guardar toda especie de objetos, y contribuir á la decoracion de una pieza.»\nVocabulario de arquitectura civil, 1848, p. 38 del facsímil consultado.\nMR-P046-29-01 · CEN-1234. Matallana reúne construcción de madera, capacidad de almacenamiento e integración decorativa.\nBenito Bails · 1796\n2. Armarios que aprovechan irregularidades de planta\n«…estas irregularidades pueden aprovecharse haciendo en ellas armarios donde guardar cosas, que sirvan al aseo.»\nArquitectura civil, 1796, p. 94 del facsímil consultado.\nMR-P046-29-02 · CEN-1234. Bails introduce el armario como recurso de distribución que ocupa espacios residuales de la planta.\nJ. Adeline / José Ramón Mélida · 1887\n3. Diferencia funcional entre armario y aparador\n«Los aparadores son también verdaderos armarios… con la diferencia constante de que el armario puede no llevar anaqueles, mientras que el aparador lleva siempre una anaquelería baja que sirve de mesa.»\nVocabulario de términos de arte, 1887, p. 31 del facsímil consultado.\nMR-P046-29-03 · CEN-1234. La comparación lexicográfica precisa el armario por contraste con el aparador y muestra que la presencia de anaqueles no es condición necesaria de la voz.\nLuis Gaztelu · 1899\n4. Armarios disimulados en las paredes\n«Si se construyen armarios disimulados en las paredes, su armazón se hace de pino… y los paneles de relleno se enrasan en el plano del paramento de la habitación…»\nCarpintería de armar, 1899, p. 158 del facsímil consultado.\nMR-P046-29-04 · CEN-1234. La fuente describe una integración constructiva avanzada entre mueble, paramento y acabado interior.\nLECTURA COMPARADA\nBails presenta el armario como estrategia espacial; Matallana lo define como armazón de madera y pieza decorativa; Adeline/Mélida lo delimita frente al aparador; Gaztelu explica su integración constructiva en el paramento. La secuencia muestra el paso de recurso distributivo a definición mueble y, finalmente, a elemento incorporado a la pared.\nVARIANTES Y CONTROL TERMINOLÓGICO\nArmario / armarios se mantiene estable. Las expresiones armario disimulado y armario en pared especializan la forma de integración sin crear una voz diferente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada va de 1796 a 1899 y combina tratado de arquitectura, vocabularios y manual constructivo. Las fuentes permiten seguir uso espacial, definición material, contraste tipológico con el aparador e integración del armario dentro del muro.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para estudiar la relación entre mobiliario fijo y arquitectura interior, especialmente la transformación de huecos e irregularidades en almacenamiento integrado.\nRELACIONADO CON\nAlacena; paramento; carpintería de taller; retrete; revestimiento; mueble fijo.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.\n• Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899.",
+    "url": "terminos/armario/",
+    "academic_pdf": "documentos/fichas/armario.pdf"
+  },
+  {
+    "num": 1450,
+    "cen": "CEN-1424",
+    "term": "Artista",
+    "slug": "artista",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Profesor o practicante de un arte cuyo dominio no se reduce a la ejecución manual: los tratados distinguen al artista meramente práctico del artista cabal, formado en principios y capaz de juzgar belleza, proporción y conveniencia. En vocabulario arquitectónico del XIX puede aproximarse a artífice, facultativo y arquitecto según el contexto.",
+    "authors_text": "Benito Bails (1796); Simonin / Fausto Martínez de la Torre y Josef Asensio (1795); Manuel Fornés y Gurrea (1841); Benito Bails (1802).",
+    "authors": [
+      "Benito Bails",
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Manuel Fornés y Gurrea"
+    ],
+    "years": [
+      1796,
+      1795,
+      1841,
+      1802
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Simonin. Tratado elemental de los cortes de cantería, o arte de la montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.",
+      "1841 M. Fornes Gurrea. Practica del Arte de Edificar(9).pdf",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "Artista es estable gráficamente. No debe convertirse sin contexto en sinónimo absoluto de arquitecto: Bails señala que esa equivalencia opera dentro de su obra, mientras otros autores la usan para profesores de distintas artes.",
+    "comparison": "Simonin sitúa al buen artista entre técnica y gusto; Bails, en 1796, enfrenta práctica incompleta y dominio cabal; su Diccionario de 1802 define artista como profesor de un arte y lo aproxima a artífice; Fornés, en 1841, añade responsabilidad profesional al exigir razones científicas y experiencia práctica. La voz funciona como categoría amplia cuya autoridad depende de formación, juicio y contexto profesional.",
+    "coverage": "La documentación integrada se extiende de 1795 a 1841. Simonin, Bails y Fornés representan tratado técnico, reflexión teórica, definición lexicográfica y ejercicio profesional; esa diversidad permite distinguir artista como categoría general de profesor de un arte de sus equivalencias contextuales con artífice o arquitecto.",
+    "utility": "Permite estudiar la construcción histórica de la autoría artística y las fronteras entre oficio manual, formación teórica, gusto y profesión arquitectónica.",
+    "related": [
+      "Artífice",
+      "arquitecto",
+      "facultativo",
+      "profesor",
+      "buen gusto",
+      "práctica",
+      "teoría"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "¡O! si profesar un arte fuera lo mismo que saberle; si todo artista práctico fuera artista cabal ó consumado…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Arquitectura civil, 1796, p. 3 del facsímil consultado."
+      },
+      {
+        "text": "¿qué importaría á un buen Artista saber executar Bóvedas sin otro mérito que vencer las dificultades si sus obras fueran desaprobadas por el buen gusto?",
+        "author": "Simonin / Fausto Martínez de la Torre y Josef Asensio",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería o arte de la montea, 1795, p. 6 del facsímil consultado."
+      }
+    ],
+    "search_text": "Artista\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nProfesor o practicante de un arte cuyo dominio no se reduce a la ejecución manual: los tratados distinguen al artista meramente práctico del artista cabal, formado en principios y capaz de juzgar belleza, proporción y conveniencia. En vocabulario arquitectónico del XIX puede aproximarse a artífice, facultativo y arquitecto según el contexto.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Artista práctico frente a artista cabal\n«¡O! si profesar un arte fuera lo mismo que saberle; si todo artista práctico fuera artista cabal ó consumado…»\nArquitectura civil, 1796, p. 3 del facsímil consultado.\nMR-P046-30-01 · CEN-1424. Bails separa ejercicio práctico y dominio integral del arte, situando la formación teórica como condición del artista cabal.\nSimonin / Fausto Martínez de la Torre y Josef Asensio · 1795\n2. El buen artista y el buen gusto en la montea\n«¿qué importaría á un buen Artista saber executar Bóvedas sin otro mérito que vencer las dificultades si sus obras fueran desaprobadas por el buen gusto?»\nTratado elemental de los cortes de cantería o arte de la montea, 1795, p. 6 del facsímil consultado.\nMR-P046-30-02 · CEN-1424. El artista se define por la unión de capacidad técnica y juicio de belleza, no por la mera resolución mecánica.\nManuel Fornés y Gurrea · 1841\n3. Artista y conocimiento teórico-práctico para dictámenes\n«Sin los conocimientos prácticos del arte que se profesa, tengo por imposible que pueda ningun artista dar razones científicas y convincentes en los dictámenes ó informes que se le pidan.»\nObservaciones sobre la práctica del arte de edificar, 1841, p. 6 del facsímil consultado.\nMR-P046-30-03 · CEN-1424. Fornés liga la condición de artista con la responsabilidad de argumentar técnicamente y con la posesión conjunta de conocimiento teórico y práctico.\nBenito Bails · 1802\n4. Artista como profesor de un arte\n«ARTISTA. Lo mismo que ARTÍFICE: el profesor de algun arte. Artífice, artista, facultativo, arquitecto, suelen significar en esta obra lo mismo que Arquitecto.»\nDiccionario de arquitectura civil, 1802, p. 12 del facsímil consultado.\nMR-P046-30-04 · CEN-1424. La definición lexicográfica fija la equivalencia contextual que Bails utiliza dentro de su obra arquitectónica.\nLECTURA COMPARADA\nSimonin sitúa al buen artista entre técnica y gusto; Bails, en 1796, enfrenta práctica incompleta y dominio cabal; su Diccionario de 1802 define artista como profesor de un arte y lo aproxima a artífice; Fornés, en 1841, añade responsabilidad profesional al exigir razones científicas y experiencia práctica. La voz funciona como categoría amplia cuya autoridad depende de formación, juicio y contexto profesional.\nVARIANTES Y CONTROL TERMINOLÓGICO\nArtista es estable gráficamente. No debe convertirse sin contexto en sinónimo absoluto de arquitecto: Bails señala que esa equivalencia opera dentro de su obra, mientras otros autores la usan para profesores de distintas artes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se extiende de 1795 a 1841. Simonin, Bails y Fornés representan tratado técnico, reflexión teórica, definición lexicográfica y ejercicio profesional; esa diversidad permite distinguir artista como categoría general de profesor de un arte de sus equivalencias contextuales con artífice o arquitecto.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar la construcción histórica de la autoría artística y las fronteras entre oficio manual, formación teórica, gusto y profesión arquitectónica.\nRELACIONADO CON\nArtífice; arquitecto; facultativo; profesor; buen gusto; práctica; teoría.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Simonin. Tratado elemental de los cortes de cantería, o arte de la montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• 1841 M. Fornes Gurrea. Practica del Arte de Edificar(9).pdf\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/artista/",
+    "academic_pdf": "documentos/fichas/artista.pdf"
   }
 ]
