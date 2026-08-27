@@ -100823,5 +100823,1831 @@
     "search_text": "Artista\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nProfesor o practicante de un arte cuyo dominio no se reduce a la ejecución manual: los tratados distinguen al artista meramente práctico del artista cabal, formado en principios y capaz de juzgar belleza, proporción y conveniencia. En vocabulario arquitectónico del XIX puede aproximarse a artífice, facultativo y arquitecto según el contexto.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Artista práctico frente a artista cabal\n«¡O! si profesar un arte fuera lo mismo que saberle; si todo artista práctico fuera artista cabal ó consumado…»\nArquitectura civil, 1796, p. 3 del facsímil consultado.\nMR-P046-30-01 · CEN-1424. Bails separa ejercicio práctico y dominio integral del arte, situando la formación teórica como condición del artista cabal.\nSimonin / Fausto Martínez de la Torre y Josef Asensio · 1795\n2. El buen artista y el buen gusto en la montea\n«¿qué importaría á un buen Artista saber executar Bóvedas sin otro mérito que vencer las dificultades si sus obras fueran desaprobadas por el buen gusto?»\nTratado elemental de los cortes de cantería o arte de la montea, 1795, p. 6 del facsímil consultado.\nMR-P046-30-02 · CEN-1424. El artista se define por la unión de capacidad técnica y juicio de belleza, no por la mera resolución mecánica.\nManuel Fornés y Gurrea · 1841\n3. Artista y conocimiento teórico-práctico para dictámenes\n«Sin los conocimientos prácticos del arte que se profesa, tengo por imposible que pueda ningun artista dar razones científicas y convincentes en los dictámenes ó informes que se le pidan.»\nObservaciones sobre la práctica del arte de edificar, 1841, p. 6 del facsímil consultado.\nMR-P046-30-03 · CEN-1424. Fornés liga la condición de artista con la responsabilidad de argumentar técnicamente y con la posesión conjunta de conocimiento teórico y práctico.\nBenito Bails · 1802\n4. Artista como profesor de un arte\n«ARTISTA. Lo mismo que ARTÍFICE: el profesor de algun arte. Artífice, artista, facultativo, arquitecto, suelen significar en esta obra lo mismo que Arquitecto.»\nDiccionario de arquitectura civil, 1802, p. 12 del facsímil consultado.\nMR-P046-30-04 · CEN-1424. La definición lexicográfica fija la equivalencia contextual que Bails utiliza dentro de su obra arquitectónica.\nLECTURA COMPARADA\nSimonin sitúa al buen artista entre técnica y gusto; Bails, en 1796, enfrenta práctica incompleta y dominio cabal; su Diccionario de 1802 define artista como profesor de un arte y lo aproxima a artífice; Fornés, en 1841, añade responsabilidad profesional al exigir razones científicas y experiencia práctica. La voz funciona como categoría amplia cuya autoridad depende de formación, juicio y contexto profesional.\nVARIANTES Y CONTROL TERMINOLÓGICO\nArtista es estable gráficamente. No debe convertirse sin contexto en sinónimo absoluto de arquitecto: Bails señala que esa equivalencia opera dentro de su obra, mientras otros autores la usan para profesores de distintas artes.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se extiende de 1795 a 1841. Simonin, Bails y Fornés representan tratado técnico, reflexión teórica, definición lexicográfica y ejercicio profesional; esa diversidad permite distinguir artista como categoría general de profesor de un arte de sus equivalencias contextuales con artífice o arquitecto.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite estudiar la construcción histórica de la autoría artística y las fronteras entre oficio manual, formación teórica, gusto y profesión arquitectónica.\nRELACIONADO CON\nArtífice; arquitecto; facultativo; profesor; buen gusto; práctica; teoría.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Simonin. Tratado elemental de los cortes de cantería, o arte de la montea. Trad. Fausto Martínez de la Torre y Josef Asensio. Madrid: Viuda de Josef García, 1795.\n• 1841 M. Fornes Gurrea. Practica del Arte de Edificar(9).pdf\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
     "url": "terminos/artista/",
     "academic_pdf": "documentos/fichas/artista.pdf"
+  },
+  {
+    "num": 1451,
+    "cen": "CEN-1453",
+    "term": "Asentista",
+    "slug": "asentista",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Persona que, mediante precio ajustado, se obliga a ejecutar una fábrica o una parte determinada de ella. En la práctica de obra aparece ligada al sistema de contratas por oficios: recibe del arquitecto la especificación de lo que debe ejecutar, su modo de medición y sus condiciones económicas. La documentación decimonónica distingue con claridad su responsabilidad ejecutiva de la autoría intelectual y facultativa del proyecto.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796); Manuel Fornés y Gurrea (1841).",
+    "authors": [
+      "Benito Bails",
+      "Manuel Fornés y Gurrea"
+    ],
+    "years": [
+      1802,
+      1796,
+      1841
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. Valencia: Imprenta de Cabrerizo, 1841."
+    ],
+    "variants": "La forma asentista es estable en la documentación consultada. Bails la aproxima a asentador en una de sus remisiones lexicográficas, pero la documentación del avance muestra que el asentista tiene alcance contractual más amplio que la mera operación de asentar piezas.",
+    "comparison": "Bails define la figura por su obligación contractual y, en el tratado de 1796, la integra en una economía de oficios que recibe del arquitecto una descripción medible de lo que ha de ejecutar. Fornés introduce una distinción decisiva: el asentista puede asumir la construcción material sin convertirse por ello en autor del proyecto. La voz pertenece así al campo de la contratación y de la ejecución, no al de la autoría arquitectónica.",
+    "coverage": "La evidencia se concentra entre el final del siglo XVIII y mediados del XIX, en textos que tratan presupuesto, contrata, medición y responsabilidad profesional. La documentación más sustantiva procede de Bails y Fornés.",
+    "utility": "Permite interpretar expedientes de obra, presupuestos y contratos históricos distinguiendo al ejecutor contratado del arquitecto proyectista y de los oficiales que trabajan bajo condiciones previamente tasadas.",
+    "related": [
+      "Asentador",
+      "Avance",
+      "Contrata",
+      "Destajo",
+      "Sobrestante",
+      "Arquitecto",
+      "Oficio"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ASENTISTA. s. m. El que por un precio ajustado se obliga á hacer una fábrica ó alguna parte suya.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado."
+      },
+      {
+        "text": "En el avance de una fábrica debe expresar con individualidad el Arquitecto las obras de los diferentes oficios, los quales son otros tantos asentistas, que han de poner las manos en su edificacion.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 159 del facsímil consultado."
+      }
+    ],
+    "search_text": "Asentista\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPersona que, mediante precio ajustado, se obliga a ejecutar una fábrica o una parte determinada de ella. En la práctica de obra aparece ligada al sistema de contratas por oficios: recibe del arquitecto la especificación de lo que debe ejecutar, su modo de medición y sus condiciones económicas. La documentación decimonónica distingue con claridad su responsabilidad ejecutiva de la autoría intelectual y facultativa del proyecto.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición contractual del asentista\n«ASENTISTA. s. m. El que por un precio ajustado se obliga á hacer una fábrica ó alguna parte suya.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado.\nMR-P047-01-01 · CEN-1453. Fija el núcleo contractual de la voz: obligación de ejecutar obra por precio convenido.\nBenito Bails · 1796\n2. Los oficios como asentistas de la fábrica\n«En el avance de una fábrica debe expresar con individualidad el Arquitecto las obras de los diferentes oficios, los quales son otros tantos asentistas, que han de poner las manos en su edificacion.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 159 del facsímil consultado.\nMR-P047-01-02 · CEN-1453. Sitúa al asentista dentro de la organización efectiva de la obra y vincula su trabajo con cada oficio contratado.\nBenito Bails · 1796\n3. El avance como guía de ejecución\n«Un avance bien formado es para cada asentista ú oficio una especie de muestra de su trabajo, que le guia en todas sus maniobras; en él halla no solo el orden por el qual cada obra se ha de hacer, mas tambien como se ha de executar.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 160 del facsímil consultado.\nMR-P047-01-03 · CEN-1453. Aclara la relación entre asentista, especificación, secuencia de trabajo y medición.\nManuel Fornés y Gurrea · 1841\n4. Asentista y autoría de la obra\n«Por lo mismo se ve cuán infundados son los conceptos de algunos al creer que el asentista de una obra es autor de ella.»\n1841 M. Fornes Gurrea. Practica del Arte de Edificar(9), 1841, p. 108 del facsímil consultado.\nMR-P047-01-04 · CEN-1453. Separa la ejecución por contrata de la responsabilidad intelectual del proyectista.\nLECTURA COMPARADA\nBails define la figura por su obligación contractual y, en el tratado de 1796, la integra en una economía de oficios que recibe del arquitecto una descripción medible de lo que ha de ejecutar. Fornés introduce una distinción decisiva: el asentista puede asumir la construcción material sin convertirse por ello en autor del proyecto. La voz pertenece así al campo de la contratación y de la ejecución, no al de la autoría arquitectónica.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa forma asentista es estable en la documentación consultada. Bails la aproxima a asentador en una de sus remisiones lexicográficas, pero la documentación del avance muestra que el asentista tiene alcance contractual más amplio que la mera operación de asentar piezas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se concentra entre el final del siglo XVIII y mediados del XIX, en textos que tratan presupuesto, contrata, medición y responsabilidad profesional. La documentación más sustantiva procede de Bails y Fornés.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar expedientes de obra, presupuestos y contratos históricos distinguiendo al ejecutor contratado del arquitecto proyectista y de los oficiales que trabajan bajo condiciones previamente tasadas.\nRELACIONADO CON\nAsentador; Avance; Contrata; Destajo; Sobrestante; Arquitecto; Oficio\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Fornés y Gurrea, Manuel. Observaciones sobre la práctica del arte de edificar. Valencia: Imprenta de Cabrerizo, 1841.",
+    "url": "terminos/asentista/",
+    "academic_pdf": "documentos/fichas/asentista.pdf"
+  },
+  {
+    "num": 1452,
+    "cen": "CEN-2116",
+    "term": "Chopo",
+    "slug": "chopo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Madera de álamo empleada históricamente en construcción y trabajos ligeros. Los tratados vitruvianos resaltan su facilidad de labra y, en determinadas especies y condiciones, su particular comportamiento en medios húmedos: el chopo llega a prescribirse para estacadas bajo cimientos en terrenos paludosos. A fines del siglo XIX aparece también como madera apta para ebanistería cuando se preserva de la humedad.",
+    "authors_text": "Claude Perrault / Joseph Castañeda (1761); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Luis Gaztelu (1899).",
+    "authors": [
+      "Claude Perrault",
+      "Joseph Castañeda",
+      "Marco Vitruvio Polión",
+      "Joseph Francisco Ortiz y Sanz",
+      "Luis Gaztelu"
+    ],
+    "years": [
+      1761,
+      1787,
+      1899
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Vitruvio Polión, Marco / Claude Perrault. Compendio de los diez libros de Arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid, 1761.",
+      "Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.",
+      "Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899."
+    ],
+    "variants": "Chopo aparece junto a álamo en la tradición moderna. La ficha mantiene Chopo como entrada, sin convertir automáticamente álamo blanco, álamo negro o temblón en equivalentes absolutos: las fuentes distinguen variedades y comportamientos.",
+    "comparison": "Perrault/Castañeda presenta el chopo como madera fácil de labrar y adecuada a trabajos ligeros; Ortiz y Sanz conserva la tradición vitruviana que le atribuye una función muy distinta y técnicamente precisa en estacadas de cimentación paludosa. Gaztelu, ya en 1899, desplaza el interés hacia el álamo blanco o chopo de Holanda para ebanistería, condicionado a mantenerse al abrigo de la humedad. La misma voz cubre, por tanto, usos diferenciados según especie, ambiente y exigencia constructiva.",
+    "coverage": "La voz queda documentada desde la traducción vitruviana de 1761 hasta la carpintería técnica de 1899. Las evidencias combinan propiedades materiales, facilidad de labra, pilotes o estacadas de cimentación y usos de ebanistería.",
+    "utility": "Es útil para identificar una madera cuyo valor histórico depende del ambiente de servicio: permite distinguir el chopo empleado en cimentación húmeda del chopo seleccionado para piezas ligeras o ebanistería.",
+    "related": [
+      "Álamo",
+      "Madera",
+      "Estaca",
+      "Pilotaje",
+      "Cimiento",
+      "Roble",
+      "Sauce",
+      "Ebanistería"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "El Chopo, Tejo y el Sauce sirven unicamente para obras ligeras, y la facilidad de labrarlos los hace proprios para la Escultura.",
+        "author": "Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "1761 C. Perrault. Los Diez Libros de Arquitectura de Vitruvio(10), 1761, p. 44 del facsímil consultado."
+      },
+      {
+        "text": "El chopo que se cria en las margenes de los rios, y parece madera de poca utilidad, tiene sin embargo muy buenas condiciones [...] sirve para las estacadas unidas que se hacen debaxo de los fundamentos de las fabricas en sitios paludosos.",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "1787 J. Ortiz y Sanz. Los Diez Libros de M. Vitruvio Polion(10), 1787, p. 68 del facsímil consultado."
+      }
+    ],
+    "search_text": "Chopo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMadera de álamo empleada históricamente en construcción y trabajos ligeros. Los tratados vitruvianos resaltan su facilidad de labra y, en determinadas especies y condiciones, su particular comportamiento en medios húmedos: el chopo llega a prescribirse para estacadas bajo cimientos en terrenos paludosos. A fines del siglo XIX aparece también como madera apta para ebanistería cuando se preserva de la humedad.\nCOMPARADOR TEXTUAL COMPLETO\nClaude Perrault / Joseph Castañeda · 1761\n1. Obras ligeras y facilidad de labra\n«El Chopo, Tejo y el Sauce sirven unicamente para obras ligeras, y la facilidad de labrarlos los hace proprios para la Escultura.»\n1761 C. Perrault. Los Diez Libros de Arquitectura de Vitruvio(10), 1761, p. 44 del facsímil consultado.\nMR-P047-02-01 · CEN-2116. Caracteriza el chopo por ligereza de uso y facilidad de trabajo.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n2. Chopo en cimientos paludosos\n«El chopo que se cria en las margenes de los rios, y parece madera de poca utilidad, tiene sin embargo muy buenas condiciones [...] sirve para las estacadas unidas que se hacen debaxo de los fundamentos de las fabricas en sitios paludosos.»\n1787 J. Ortiz y Sanz. Los Diez Libros de M. Vitruvio Polion(10), 1787, p. 68 del facsímil consultado.\nMR-P047-02-02 · CEN-2116. Documenta una aplicación estructural específica condicionada por la humedad del terreno.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n3. Estacas de chopo en terreno flojo\n«Se hincarán dentro estacas de chopo, de olivo, ó de roble, chamuscadas, metiendo las á golpe de máquina.»\n1787 J. Ortiz y Sanz. Los Diez Libros de M. Vitruvio Polion(10), 1787, p. 85 del facsímil consultado.\nMR-P047-02-03 · CEN-2116. Convierte la propiedad del material en prescripción constructiva para cimentaciones.\nLuis Gaztelu · 1899\n4. Chopo de Holanda en ebanistería\n«El álamo blanco ó chopo de Holanda sirve para obras de ebanistería, de muy buen aspecto y de mucha duración si están al abrigo de la humedad.»\n1899 Luis Gaztelu. Carpinteria de Armar(9), 1899, p. 7 del facsímil consultado.\nMR-P047-02-04 · CEN-2116. Muestra la especialización moderna del chopo en carpintería fina y la importancia de las condiciones de exposición.\nLECTURA COMPARADA\nPerrault/Castañeda presenta el chopo como madera fácil de labrar y adecuada a trabajos ligeros; Ortiz y Sanz conserva la tradición vitruviana que le atribuye una función muy distinta y técnicamente precisa en estacadas de cimentación paludosa. Gaztelu, ya en 1899, desplaza el interés hacia el álamo blanco o chopo de Holanda para ebanistería, condicionado a mantenerse al abrigo de la humedad. La misma voz cubre, por tanto, usos diferenciados según especie, ambiente y exigencia constructiva.\nVARIANTES Y CONTROL TERMINOLÓGICO\nChopo aparece junto a álamo en la tradición moderna. La ficha mantiene Chopo como entrada, sin convertir automáticamente álamo blanco, álamo negro o temblón en equivalentes absolutos: las fuentes distinguen variedades y comportamientos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz queda documentada desde la traducción vitruviana de 1761 hasta la carpintería técnica de 1899. Las evidencias combinan propiedades materiales, facilidad de labra, pilotes o estacadas de cimentación y usos de ebanistería.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para identificar una madera cuyo valor histórico depende del ambiente de servicio: permite distinguir el chopo empleado en cimentación húmeda del chopo seleccionado para piezas ligeras o ebanistería.\nRELACIONADO CON\nÁlamo; Madera; Estaca; Pilotaje; Cimiento; Roble; Sauce; Ebanistería\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vitruvio Polión, Marco / Claude Perrault. Compendio de los diez libros de Arquitectura de Vitruvio. Trad. Joseph Castañeda. Madrid, 1761.\n• Vitruvio Polión, Marco. Los diez libros de Arquitectura. Trad. y comentarios de Joseph Ortiz y Sanz. Madrid: Imprenta Real, 1787.\n• Gaztelu, Luis. Carpintería de armar. Madrid: Bailly-Baillière e Hijos, 1899.",
+    "url": "terminos/chopo/",
+    "academic_pdf": "documentos/fichas/chopo.pdf"
+  },
+  {
+    "num": 1453,
+    "cen": "CEN-2741",
+    "term": "Entrepaño",
+    "slug": "entrepano",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz de doble alcance constructivo. En arquitectura designa el tramo o hueco de pared comprendido entre dos columnas empotradas o dos pilastras. En carpintería denomina también las tablas o cuarterones colocados entre peinazos en puertas y ventanas. La coexistencia de ambas acepciones obliga a interpretar el término según el sistema material en que aparece.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1788,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876."
+    ],
+    "variants": "Entrepaño mantiene la misma forma, con plural entrepaños. Debe distinguirse de paño, tablero, cuarterón y entrestrío: pueden relacionarse por posición intermedia, pero no son intercambiables en todos los contextos.",
+    "comparison": "Rejón y Bails coinciden en el sentido arquitectónico de paño o hueco intermedio entre columnas o pilastras. Bails registra además, en la misma entrada, el sentido carpintero de tablero menor entre peinazos, que Mariátegui documenta todavía en el siglo XIX al hablar de entrepaños engargolados. No se trata de una oscilación accidental: la voz designa en ambos casos una superficie intermedia delimitada por miembros estructurales o de bastidor.",
+    "coverage": "La documentación abarca 1788–1876 y reúne acepciones de arquitectura y carpintería. El doble sentido está explicitado en diccionarios y confirmado por uso técnico posterior.",
+    "utility": "Permite evitar una lectura única del término en inventarios y descripciones: un entrepaño puede ser parte del muro entre soportes o un panel de madera entre peinazos, según la escala y el oficio descritos.",
+    "related": [
+      "Paño",
+      "Cuarterón",
+      "Peinazo",
+      "Puerta",
+      "Ventana",
+      "Pilastra",
+      "Columna"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ENTREPAÑO. s. m. El hueco de pared que media entre dos columnas empotradas, ó dos pilastras.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 128 del facsímil consultado."
+      },
+      {
+        "text": "ENTREPAÑO. Qualquiera de las tablas pequeñas ó quarterones que se meten entre los peynazos de las puertas y ventanas.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 128 del facsímil consultado."
+      }
+    ],
+    "search_text": "Entrepaño\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz de doble alcance constructivo. En arquitectura designa el tramo o hueco de pared comprendido entre dos columnas empotradas o dos pilastras. En carpintería denomina también las tablas o cuarterones colocados entre peinazos en puertas y ventanas. La coexistencia de ambas acepciones obliga a interpretar el término según el sistema material en que aparece.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Entrepaño entre soportes\n«ENTREPAÑO. s. m. El hueco de pared que media entre dos columnas empotradas, ó dos pilastras.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 128 del facsímil consultado.\nMR-P047-03-01 · CEN-2741. Fija la acepción arquitectónica como paño intermedio entre elementos verticales.\nBenito Bails · 1802\n2. Entrepaño de puerta o ventana\n«ENTREPAÑO. Qualquiera de las tablas pequeñas ó quarterones que se meten entre los peynazos de las puertas y ventanas.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 128 del facsímil consultado.\nMR-P047-03-02 · CEN-2741. Documenta la segunda acepción, propia de carpintería de hojas y bastidores.\nDiego Antonio Rejón de Silva · 1788\n3. Claro entre columnas\n«ENTREPAÑO. s. m. A. El hueco de pared que media entre dos colunas empotradas, ó dos pilastras.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 108 del facsímil consultado.\nMR-P047-03-03 · CEN-2741. Confirma tempranamente la acepción de muro o claro entre soportes.\nEduardo Mariátegui · 1876\n4. Entrepaños engargolados\n«con entrepaños engargolados entre largueros y peinazos.»\n1876 E. Mariategui. Glosario de Arquitectura(9), 1876, p. 115 del facsímil consultado.\nMR-P047-03-04 · CEN-2741. Muestra la pervivencia de la acepción de panel de carpintería en un contexto de ensamblaje.\nLECTURA COMPARADA\nRejón y Bails coinciden en el sentido arquitectónico de paño o hueco intermedio entre columnas o pilastras. Bails registra además, en la misma entrada, el sentido carpintero de tablero menor entre peinazos, que Mariátegui documenta todavía en el siglo XIX al hablar de entrepaños engargolados. No se trata de una oscilación accidental: la voz designa en ambos casos una superficie intermedia delimitada por miembros estructurales o de bastidor.\nVARIANTES Y CONTROL TERMINOLÓGICO\nEntrepaño mantiene la misma forma, con plural entrepaños. Debe distinguirse de paño, tablero, cuarterón y entrestrío: pueden relacionarse por posición intermedia, pero no son intercambiables en todos los contextos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación abarca 1788–1876 y reúne acepciones de arquitectura y carpintería. El doble sentido está explicitado en diccionarios y confirmado por uso técnico posterior.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite evitar una lectura única del término en inventarios y descripciones: un entrepaño puede ser parte del muro entre soportes o un panel de madera entre peinazos, según la escala y el oficio descritos.\nRELACIONADO CON\nPaño; Cuarterón; Peinazo; Puerta; Ventana; Pilastra; Columna\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876.",
+    "url": "terminos/entrepano/",
+    "academic_pdf": "documentos/fichas/entrepano.pdf"
+  },
+  {
+    "num": 1454,
+    "cen": "CEN-4015",
+    "term": "Puzolana",
+    "slug": "puzolana",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Material terroso o pulverulento que, mezclado con cal, produce morteros de particular aptitud para obras expuestas al agua. La tradición técnica relaciona la puzolana natural con la región de Puzol/Pozzuoli y desarrolla después equivalentes artificiales, proporciones de mezcla y criterios de reconocimiento.",
+    "authors_text": "Benito Bails (1796); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1796,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Las fuentes alternan puzzolana y puzolana. La forma moderna Puzolana normaliza la duplicación gráfica sin alterar el concepto. No debe confundirse la puzolana con cualquier arena o tierra: su rasgo histórico decisivo es la aptitud para producir con la cal una mezcla hidráulica.",
+    "comparison": "Bails organiza el concepto alrededor de la reacción de la puzolana con la cal y su eficacia en obras acuáticas, e incluye la posibilidad de fabricar equivalentes artificiales. Marcos y Bausa conserva esa tradición pero la traslada a un manual práctico, donde añade señales físicas para reconocer el material. La evolución no cambia el núcleo hidráulico: lo vuelve más operativo en selección, mezcla y control de calidad.",
+    "coverage": "La evidencia se concentra en el final del XVIII y el XIX, con tratamiento extenso de naturaleza, procedencia, sustitutos, dosificación y comportamiento bajo agua.",
+    "utility": "Es una voz clave para interpretar morteros hidráulicos históricos y reconocer cuándo la mención de una tierra o polvo implica una función reactiva con la cal y no un árido ordinario.",
+    "related": [
+      "Cal",
+      "Mortero",
+      "Mezcla",
+      "Obra hidráulica",
+      "Cemento",
+      "Arena",
+      "Puzolana artificial"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "La puzzolana es un material [...] una especie de polvos, tierra ó arena que mezclada con la cal hace una mezcla admirable particularmente para las obras aquáticas.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 196 del facsímil consultado."
+      },
+      {
+        "text": "Hay muchos materiales que tienen la misma propiedad de la puzzolana, de los quales se pueden hacer puzzolanas artificiales.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 197 del facsímil consultado."
+      }
+    ],
+    "search_text": "Puzolana\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMaterial terroso o pulverulento que, mezclado con cal, produce morteros de particular aptitud para obras expuestas al agua. La tradición técnica relaciona la puzolana natural con la región de Puzol/Pozzuoli y desarrolla después equivalentes artificiales, proporciones de mezcla y criterios de reconocimiento.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Naturaleza y uso hidráulico\n«La puzzolana es un material [...] una especie de polvos, tierra ó arena que mezclada con la cal hace una mezcla admirable particularmente para las obras aquáticas.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 196 del facsímil consultado.\nMR-P047-04-01 · CEN-4015. Fija el valor histórico del material por su capacidad de conferir comportamiento hidráulico a la mezcla.\nBenito Bails · 1796\n2. Puzolana artificial\n«Hay muchos materiales que tienen la misma propiedad de la puzzolana, de los quales se pueden hacer puzzolanas artificiales.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 197 del facsímil consultado.\nMR-P047-04-02 · CEN-4015. Amplía la voz desde el material natural a sustancias equivalentes preparadas.\nBenito Bails · 1796\n3. Mezcla y permanencia bajo el agua\n«La mezcla de puzzolana [...] se endurece debaxo del agua, y adquiere con el tiempo una solidez extraordinaria.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 198 del facsímil consultado.\nMR-P047-04-03 · CEN-4015. Relaciona dosificación, fraguado y durabilidad en obra hidráulica.\nRicardo Marcos y Bausa · 1879\n4. Reconocimiento de la buena puzolana\n«La mejor puzolana es la que procede de Puzzol [...] las buenas puzolanas son terrosas, de grano blando y adherentes á la lengua.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 9 del facsímil consultado.\nMR-P047-04-04 · CEN-4015. Aporta criterios prácticos decimonónicos de identificación y selección del material.\nLECTURA COMPARADA\nBails organiza el concepto alrededor de la reacción de la puzolana con la cal y su eficacia en obras acuáticas, e incluye la posibilidad de fabricar equivalentes artificiales. Marcos y Bausa conserva esa tradición pero la traslada a un manual práctico, donde añade señales físicas para reconocer el material. La evolución no cambia el núcleo hidráulico: lo vuelve más operativo en selección, mezcla y control de calidad.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLas fuentes alternan puzzolana y puzolana. La forma moderna Puzolana normaliza la duplicación gráfica sin alterar el concepto. No debe confundirse la puzolana con cualquier arena o tierra: su rasgo histórico decisivo es la aptitud para producir con la cal una mezcla hidráulica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se concentra en el final del XVIII y el XIX, con tratamiento extenso de naturaleza, procedencia, sustitutos, dosificación y comportamiento bajo agua.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs una voz clave para interpretar morteros hidráulicos históricos y reconocer cuándo la mención de una tierra o polvo implica una función reactiva con la cal y no un árido ordinario.\nRELACIONADO CON\nCal; Mortero; Mezcla; Obra hidráulica; Cemento; Arena; Puzolana artificial\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/puzolana/",
+    "academic_pdf": "documentos/fichas/puzolana.pdf"
+  },
+  {
+    "num": 1455,
+    "cen": "CEN-0648",
+    "term": "Alto",
+    "slug": "alto",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz que en arquitectura expresa tanto la dimensión vertical de un cuerpo como, en la locución alto de una casa, cada uno de los pisos o niveles superpuestos del edificio. El contexto permite distinguir la medida de altura del uso sustantivado equivalente a piso.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Alto funciona como sustantivo y como expresión de medida. En la tradición consultada alto de una casa equivale a piso; no debe identificarse automáticamente con ático, planta baja o cualquier nivel específico.",
+    "comparison": "Rejón documenta el uso de alto como nivel habitable; Bails ofrece el contraste más claro al yuxtaponer ese sentido con el dimensional; Matallana mantiene ambos. La polisemia no es problemática si se atiende a la construcción sintáctica: “de alto” expresa medida vertical, mientras “alto de una casa” puede equivaler a piso.",
+    "coverage": "Los testimonios lexicográficos de 1788, 1802 y 1848 muestran continuidad estable de las dos acepciones arquitectónicas.",
+    "utility": "Es útil para leer mediciones, descripciones y tasaciones sin confundir una cifra “de alto” con la numeración de los pisos de una casa.",
+    "related": [
+      "Altura",
+      "Piso",
+      "Planta",
+      "Nivel",
+      "Edificio",
+      "Columna",
+      "Pared"
+    ],
+    "themes": [
+      "Proporción",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "ALTO. La elevacion ó altura que tiene un edificio, pared ú otro cuerpo de Arquitectura: así decimos, esta columna tiene seis pies de alto.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 117 del facsímil consultado."
+      },
+      {
+        "text": "ALTO DE UNA CASA. s. m. Cada uno de los suelos que la divide en varias habitaciones ó viviendas unas encima de otras. Lo mismo que PISO.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 117 del facsímil consultado."
+      }
+    ],
+    "search_text": "Alto\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz que en arquitectura expresa tanto la dimensión vertical de un cuerpo como, en la locución alto de una casa, cada uno de los pisos o niveles superpuestos del edificio. El contexto permite distinguir la medida de altura del uso sustantivado equivalente a piso.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Alto como dimensión vertical\n«ALTO. La elevacion ó altura que tiene un edificio, pared ú otro cuerpo de Arquitectura: así decimos, esta columna tiene seis pies de alto.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 117 del facsímil consultado.\nMR-P047-05-01 · CEN-0648. Define el valor dimensional de la voz aplicado a cuerpos arquitectónicos.\nBenito Bails · 1802\n2. Alto de una casa como piso\n«ALTO DE UNA CASA. s. m. Cada uno de los suelos que la divide en varias habitaciones ó viviendas unas encima de otras. Lo mismo que PISO.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 117 del facsímil consultado.\nMR-P047-05-02 · CEN-0648. Documenta la acepción sustantiva de nivel o planta habitable.\nDiego Antonio Rejón de Silva · 1788\n3. Alto de casa\n«ALTO DE UNA CASA. Cada uno de sus suelos ó habitaciones.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 31 del facsímil consultado.\nMR-P047-05-03 · CEN-0648. Confirma que la acepción de piso circulaba ya en el último tercio del XVIII.\nMariano Matallana · 1848\n4. Altura y piso\n«ALTO = PISO. [...] Elevacion ó altura que tiene un edificio, pared ú otro cuerpo de arquitectura.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 25 del facsímil consultado.\nMR-P047-05-04 · CEN-0648. Conserva explícitamente las dos acepciones en el vocabulario decimonónico.\nLECTURA COMPARADA\nRejón documenta el uso de alto como nivel habitable; Bails ofrece el contraste más claro al yuxtaponer ese sentido con el dimensional; Matallana mantiene ambos. La polisemia no es problemática si se atiende a la construcción sintáctica: “de alto” expresa medida vertical, mientras “alto de una casa” puede equivaler a piso.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAlto funciona como sustantivo y como expresión de medida. En la tradición consultada alto de una casa equivale a piso; no debe identificarse automáticamente con ático, planta baja o cualquier nivel específico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios lexicográficos de 1788, 1802 y 1848 muestran continuidad estable de las dos acepciones arquitectónicas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para leer mediciones, descripciones y tasaciones sin confundir una cifra “de alto” con la numeración de los pisos de una casa.\nRELACIONADO CON\nAltura; Piso; Planta; Nivel; Edificio; Columna; Pared\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/alto/",
+    "academic_pdf": "documentos/fichas/alto.pdf"
+  },
+  {
+    "num": 1456,
+    "cen": "CEN-0657",
+    "term": "Alúmina",
+    "slug": "alumina",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Sustancia mineral reconocida en la composición de arcillas, tierras y piedras calizas. En la tecnología de los morteros del siglo XIX se considera uno de los componentes que influyen en el comportamiento de las cales hidráulicas; en la cerámica aparece vinculada al silicato de alúmina hidratada que constituye la arcilla.",
+    "authors_text": "Mariano Matallana (1848); P. C. Espinosa (1859); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Mariano Matallana",
+      "P. C. Espinosa",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1848,
+      1859,
+      1887
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Alúmina mantiene forma estable, con ausencia de una variante técnica significativa en los pasajes seleccionados. Debe distinguirse de arcilla: esta última es una materia natural compleja que puede describirse por su contenido de alúmina, no un sinónimo absoluto en todos los contextos.",
+    "comparison": "Matallana formula la relación alúmina–arcilla de modo directo; Espinosa desplaza el término a la química de las calizas y al comportamiento de las cales hidráulicas; Adeline vuelve a la arcilla, ya con una formulación de silicato hidratado. El término muestra la penetración de la química de materiales en el lenguaje constructivo del XIX.",
+    "coverage": "La documentación pertinente se concentra en la segunda mitad del siglo XIX y aparece en vocabularios y manuales de materiales.",
+    "utility": "Permite interpretar descripciones históricas de arcillas y cales hidráulicas desde su composición, especialmente cuando se explican fraguado, impurezas y aptitud constructiva.",
+    "related": [
+      "Arcilla",
+      "Cal hidráulica",
+      "Sílice",
+      "Piedra caliza",
+      "Mortero",
+      "Cerámica"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ARCILLA. Alúmina que está mezclada naturalmente con otras tierras y óxidos.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 35 del facsímil consultado."
+      },
+      {
+        "text": "Las piedras calizas pueden contener sílice, alúmina, magnesia, óxido de hierro, manganeso y otras sustancias.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 25 del facsímil consultado."
+      }
+    ],
+    "search_text": "Alúmina\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nSustancia mineral reconocida en la composición de arcillas, tierras y piedras calizas. En la tecnología de los morteros del siglo XIX se considera uno de los componentes que influyen en el comportamiento de las cales hidráulicas; en la cerámica aparece vinculada al silicato de alúmina hidratada que constituye la arcilla.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Alúmina en la definición de arcilla\n«ARCILLA. Alúmina que está mezclada naturalmente con otras tierras y óxidos.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 35 del facsímil consultado.\nMR-P047-06-01 · CEN-0657. Sitúa la alúmina como componente mineral de la arcilla dentro del vocabulario de materiales.\nP. C. Espinosa · 1859\n2. Alúmina en piedras calizas\n«Las piedras calizas pueden contener sílice, alúmina, magnesia, óxido de hierro, manganeso y otras sustancias.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 25 del facsímil consultado.\nMR-P047-06-02 · CEN-0657. Integra la alúmina en el análisis compositivo de materias primas para cal.\nP. C. Espinosa · 1859\n3. Efecto de la alúmina en cales hidráulicas\n«El exceso de alúmina acelera el primer endurecimiento de las cales hidráulicas.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 30 del facsímil consultado.\nMR-P047-06-03 · CEN-0657. Aporta una consecuencia tecnológica concreta sobre el fraguado inicial.\nJ. Adeline / José Ramón Mélida · 1887\n4. Arcilla como silicato de alúmina\n«La arcilla ó tierra gredosa es un silicato de alúmina hidratada.»\n1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 38 del facsímil consultado.\nMR-P047-06-04 · CEN-0657. Conecta la voz con la explicación mineralógica de la arcilla usada en artes y construcción.\nLECTURA COMPARADA\nMatallana formula la relación alúmina–arcilla de modo directo; Espinosa desplaza el término a la química de las calizas y al comportamiento de las cales hidráulicas; Adeline vuelve a la arcilla, ya con una formulación de silicato hidratado. El término muestra la penetración de la química de materiales en el lenguaje constructivo del XIX.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAlúmina mantiene forma estable, con ausencia de una variante técnica significativa en los pasajes seleccionados. Debe distinguirse de arcilla: esta última es una materia natural compleja que puede describirse por su contenido de alúmina, no un sinónimo absoluto en todos los contextos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación pertinente se concentra en la segunda mitad del siglo XIX y aparece en vocabularios y manuales de materiales.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar descripciones históricas de arcillas y cales hidráulicas desde su composición, especialmente cuando se explican fraguado, impurezas y aptitud constructiva.\nRELACIONADO CON\nArcilla; Cal hidráulica; Sílice; Piedra caliza; Mortero; Cerámica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/alumina/",
+    "academic_pdf": "documentos/fichas/alumina.pdf"
+  },
+  {
+    "num": 1457,
+    "cen": "CEN-1485",
+    "term": "Aspecto",
+    "slug": "aspecto",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En el vocabulario arquitectónico designa la impresión visual que produce un edificio contemplado a distancia; algunos repertorios incorporan además el sentido de situación u orientación respecto de los puntos cardinales. La voz puede referirse, por tanto, a apariencia perceptiva o a exposición del edificio.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1796,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Aspecto no equivale simplemente a fachada: puede valorar la vista general del edificio y, en Matallana, indicar orientación. La acepción debe decidirse por el contexto.",
+    "comparison": "Bails usa aspecto como resultado visible de la composición y del ornato. Matallana conserva esa acepción y añade la exposición cardinal, de modo que el mismo término puede describir cómo se ve un edificio o hacia qué rumbo se presenta. En ambos sentidos interviene la relación entre objeto arquitectónico y posición del observador o del entorno.",
+    "coverage": "Los testimonios de 1796, 1802 y 1848 muestran una continuidad de la acepción visual y una ampliación explícita hacia la situación cardinal.",
+    "utility": "Ayuda a leer memorias y descripciones donde “buen aspecto” expresa efecto compositivo, mientras un aspecto respecto de los vientos remite a orientación y exposición.",
+    "related": [
+      "Vista",
+      "Fachada",
+      "Ornato",
+      "Orientación",
+      "Situación",
+      "Edificio"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ASPECTO. s. m. La vista que hace un edificio mirado desde la correspondiente distancia. Así se dice: este edificio tiene muy buen aspecto, mal aspecto.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado."
+      },
+      {
+        "text": "El Ornato consiste en dar al edificio un aspecto hermoso.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 19 del facsímil consultado."
+      }
+    ],
+    "search_text": "Aspecto\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn el vocabulario arquitectónico designa la impresión visual que produce un edificio contemplado a distancia; algunos repertorios incorporan además el sentido de situación u orientación respecto de los puntos cardinales. La voz puede referirse, por tanto, a apariencia perceptiva o a exposición del edificio.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Aspecto visual del edificio\n«ASPECTO. s. m. La vista que hace un edificio mirado desde la correspondiente distancia. Así se dice: este edificio tiene muy buen aspecto, mal aspecto.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado.\nMR-P047-07-01 · CEN-1485. Fija la acepción visual y evaluativa de la voz.\nBenito Bails · 1796\n2. Ornato y aspecto hermoso\n«El Ornato consiste en dar al edificio un aspecto hermoso.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 19 del facsímil consultado.\nMR-P047-07-02 · CEN-1485. Vincula el aspecto a la finalidad sensible del ornato.\nMariano Matallana · 1848\n3. Efecto visual y situación cardinal\n«ASPECTO. El efecto que produce un edificio cuando le vemos á cierta distancia. La particular situación de un edificio respecto á los cuatro vientos ó puntos cardinales.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 52 del facsímil consultado.\nMR-P047-07-03 · CEN-1485. Documenta juntas las dos acepciones: percepción exterior y orientación.\nLECTURA COMPARADA\nBails usa aspecto como resultado visible de la composición y del ornato. Matallana conserva esa acepción y añade la exposición cardinal, de modo que el mismo término puede describir cómo se ve un edificio o hacia qué rumbo se presenta. En ambos sentidos interviene la relación entre objeto arquitectónico y posición del observador o del entorno.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAspecto no equivale simplemente a fachada: puede valorar la vista general del edificio y, en Matallana, indicar orientación. La acepción debe decidirse por el contexto.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1796, 1802 y 1848 muestran una continuidad de la acepción visual y una ampliación explícita hacia la situación cardinal.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a leer memorias y descripciones donde “buen aspecto” expresa efecto compositivo, mientras un aspecto respecto de los vientos remite a orientación y exposición.\nRELACIONADO CON\nVista; Fachada; Ornato; Orientación; Situación; Edificio\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/aspecto/",
+    "academic_pdf": "documentos/fichas/aspecto.pdf"
+  },
+  {
+    "num": 1458,
+    "cen": "CEN-1606",
+    "term": "Avance",
+    "slug": "avance",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Documento económico y técnico previo a la ejecución de una fábrica, en el que se detallan materiales, cantidades, precios, costes de los distintos trabajos y modo de medirlos. Su función histórica excede el cálculo de gasto: sirve también como pauta de ejecución para los diferentes oficios o asentistas.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "Avance tiene aquí un sentido histórico especializado que no debe confundirse con saliente, progreso físico o desplazamiento. La documentación arquitectónica lo usa como cuenta o estimación detallada de la fábrica.",
+    "comparison": "La definición de 1802 condensa una práctica desarrollada ampliamente en el tratado de 1796. Allí el avance se elabora antes de comenzar, separa las obras por oficios, fija precios y mediciones y guía al asentista durante la ejecución. La voz corresponde a un instrumento técnico-administrativo donde diseño, coste y procedimiento de obra quedan vinculados.",
+    "coverage": "La evidencia sustantiva se concentra en Bails, que ofrece definición lexicográfica y desarrollo doctrinal del documento y de sus usos.",
+    "utility": "Es fundamental para interpretar presupuestos históricos y comprender cómo se traducía un proyecto gráfico en cantidades, precios, partidas de oficio y reglas de medición.",
+    "related": [
+      "Asentista",
+      "Presupuesto",
+      "Medición",
+      "Destajo",
+      "Materiales",
+      "Oficio",
+      "Proyecto"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "AVANCE. s. m. Cuenta de la cantidad y calidad de todos los materiales que se han de gastar en una fábrica con arreglo á sus dibuxos, con expresion del precio de cada material, del coste de cada obra [...] y del modo de medida.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado."
+      },
+      {
+        "text": "Es, pues, preciso antes de empezar la obra hacer su avance, y aprontar los materiales.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 159 del facsímil consultado."
+      }
+    ],
+    "search_text": "Avance\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDocumento económico y técnico previo a la ejecución de una fábrica, en el que se detallan materiales, cantidades, precios, costes de los distintos trabajos y modo de medirlos. Su función histórica excede el cálculo de gasto: sirve también como pauta de ejecución para los diferentes oficios o asentistas.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición del avance\n«AVANCE. s. m. Cuenta de la cantidad y calidad de todos los materiales que se han de gastar en una fábrica con arreglo á sus dibuxos, con expresion del precio de cada material, del coste de cada obra [...] y del modo de medida.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 13 del facsímil consultado.\nMR-P047-08-01 · CEN-1606. Resume el contenido económico, material y métrico del documento.\nBenito Bails · 1796\n2. Avance antes de empezar la obra\n«Es, pues, preciso antes de empezar la obra hacer su avance, y aprontar los materiales.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 159 del facsímil consultado.\nMR-P047-08-02 · CEN-1606. Sitúa el avance en la fase preparatoria de la construcción.\nBenito Bails · 1796\n3. Desglose por oficios\n«En el avance de una fábrica debe expresar con individualidad el Arquitecto las obras de los diferentes oficios.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 159 del facsímil consultado.\nMR-P047-08-03 · CEN-1606. Muestra que el avance descompone la obra según especialidades y partidas.\nBenito Bails · 1796\n4. Avance como pauta de trabajo\n«Un avance bien formado es para cada asentista ú oficio una especie de muestra de su trabajo, que le guia en todas sus maniobras.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 160 del facsímil consultado.\nMR-P047-08-04 · CEN-1606. Acredita una función ejecutiva y contractual además de presupuestaria.\nLECTURA COMPARADA\nLa definición de 1802 condensa una práctica desarrollada ampliamente en el tratado de 1796. Allí el avance se elabora antes de comenzar, separa las obras por oficios, fija precios y mediciones y guía al asentista durante la ejecución. La voz corresponde a un instrumento técnico-administrativo donde diseño, coste y procedimiento de obra quedan vinculados.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAvance tiene aquí un sentido histórico especializado que no debe confundirse con saliente, progreso físico o desplazamiento. La documentación arquitectónica lo usa como cuenta o estimación detallada de la fábrica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva se concentra en Bails, que ofrece definición lexicográfica y desarrollo doctrinal del documento y de sus usos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs fundamental para interpretar presupuestos históricos y comprender cómo se traducía un proyecto gráfico en cantidades, precios, partidas de oficio y reglas de medición.\nRELACIONADO CON\nAsentista; Presupuesto; Medición; Destajo; Materiales; Oficio; Proyecto\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/avance/",
+    "academic_pdf": "documentos/fichas/avance.pdf"
+  },
+  {
+    "num": 1459,
+    "cen": "CEN-1732",
+    "term": "Batiente",
+    "slug": "batiente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Elemento asociado al cierre de puertas, ventanas y balcones. Las fuentes distinguen el batiente del vano —piedra, sillar o parte inferior que recibe o detiene la hoja— y el batiente de carpintería —travesaño inferior de la propia hoja—. Ambas acepciones se articulan en el encuentro material entre vano y cerramiento móvil.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Batiente se aplica al vano y a la hoja. Debe distinguirse de umbral, aunque puedan coincidir materialmente, y de jamba o cabecero, que ocupan otras posiciones del cerco.",
+    "comparison": "Rejón registra el batiente como pieza del piso que detiene la hoja; Bails precisa que puede ser parte del vano y distingue de ella el travesaño inferior de la hoja; Matallana conserva ambas. La voz no designa un único objeto aislado, sino dos miembros complementarios cuya función se entiende por su contacto al cerrar.",
+    "coverage": "La documentación de 1788, 1802 y 1848 muestra estabilidad de las dos acepciones técnicas.",
+    "utility": "Permite interpretar descripciones de carpintería y cantería de vanos identificando si el batiente pertenece a la fábrica fija o a la hoja móvil.",
+    "related": [
+      "Umbral",
+      "Hoja",
+      "Puerta",
+      "Ventana",
+      "Jamba",
+      "Cerco",
+      "Carpintería"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "BATIENTE. La parte inferior del vano de una puerta, ó el sillar que allí se pone entre sus jambas. Tiene á veces un rebaxo donde encaxa el batiente de carpintería quando la puerta se cierra.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado."
+      },
+      {
+        "text": "BATIENTE. La parte ó travesaño inferior de la hoja de una puerta, balcon ó ventana, que encaxa en el batiente del vano quando se cierra.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado."
+      }
+    ],
+    "search_text": "Batiente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nElemento asociado al cierre de puertas, ventanas y balcones. Las fuentes distinguen el batiente del vano —piedra, sillar o parte inferior que recibe o detiene la hoja— y el batiente de carpintería —travesaño inferior de la propia hoja—. Ambas acepciones se articulan en el encuentro material entre vano y cerramiento móvil.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Batiente del vano\n«BATIENTE. La parte inferior del vano de una puerta, ó el sillar que allí se pone entre sus jambas. Tiene á veces un rebaxo donde encaxa el batiente de carpintería quando la puerta se cierra.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado.\nMR-P047-09-01 · CEN-1732. Distingue el batiente pétreo o del vano y su rebajo de recepción.\nBenito Bails · 1802\n2. Batiente de carpintería\n«BATIENTE. La parte ó travesaño inferior de la hoja de una puerta, balcon ó ventana, que encaxa en el batiente del vano quando se cierra.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado.\nMR-P047-09-02 · CEN-1732. Define la acepción de carpintería como miembro inferior de la hoja.\nDiego Antonio Rejón de Silva · 1788\n3. Piedra que detiene la hoja\n«BATIENTE. s. m. A. La piedra que se pone en el piso para que detenga la hoja de una puerta y pueda cerrarse.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 50 del facsímil consultado.\nMR-P047-09-03 · CEN-1732. Confirma la función de tope y cierre en el suelo del vano.\nMariano Matallana · 1848\n4. Batiente en puerta y ventana\n«BATIENTE. La parte inferior del vano de una puerta ó ventana y el travesaño inferior de la hoja que cierra.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 61 del facsímil consultado.\nMR-P047-09-04 · CEN-1732. Mantiene en el XIX la doble acepción reunida en un mismo sistema de cierre.\nLECTURA COMPARADA\nRejón registra el batiente como pieza del piso que detiene la hoja; Bails precisa que puede ser parte del vano y distingue de ella el travesaño inferior de la hoja; Matallana conserva ambas. La voz no designa un único objeto aislado, sino dos miembros complementarios cuya función se entiende por su contacto al cerrar.\nVARIANTES Y CONTROL TERMINOLÓGICO\nBatiente se aplica al vano y a la hoja. Debe distinguirse de umbral, aunque puedan coincidir materialmente, y de jamba o cabecero, que ocupan otras posiciones del cerco.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación de 1788, 1802 y 1848 muestra estabilidad de las dos acepciones técnicas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar descripciones de carpintería y cantería de vanos identificando si el batiente pertenece a la fábrica fija o a la hoja móvil.\nRELACIONADO CON\nUmbral; Hoja; Puerta; Ventana; Jamba; Cerco; Carpintería\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/batiente/",
+    "academic_pdf": "documentos/fichas/batiente.pdf"
+  },
+  {
+    "num": 1460,
+    "cen": "CEN-1733",
+    "term": "Batir",
+    "slug": "batir",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Operación técnica que varía con el material. En morteros significa revolver o mover enérgicamente la mezcla para incorporar sus componentes; aplicada a greda o arcilla implica amasarla o macearla; en la fabricación de ladrillos y baldosas puede consistir en golpear caras y cantos para perfeccionar su forma.",
+    "authors_text": "Benito Bails (1802); P. C. Espinosa (1859).",
+    "authors": [
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1802,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859."
+    ],
+    "variants": "Batir se relaciona con batido y batidera, pero no todas las ocurrencias pertenecen al mismo procedimiento. El objeto directo —mezcla, greda, ladrillo— determina la acepción técnica.",
+    "comparison": "Bails distingue el valor de batir según se trate de mezcla o greda; Espinosa mantiene el primero en la preparación de morteros y añade el batido de ladrillos y baldosas como golpeo de conformación. La voz conserva la idea de acción repetida sobre un material, pero el mecanismo concreto puede ser mezcla, maceado o golpeo.",
+    "coverage": "La documentación de 1802 y 1859 reúne definición lexicográfica y aplicaciones de obra en morteros y piezas cerámicas.",
+    "utility": "Es útil para reconstruir operaciones de preparación y acabado que una traducción moderna por “mezclar” podría simplificar en exceso.",
+    "related": [
+      "Mezcla",
+      "Mortero",
+      "Greda",
+      "Arcilla",
+      "Ladrillo",
+      "Baldosa",
+      "Batidera"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "BATIR. v. a. Revolver, quando se habla de mezcla.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado."
+      },
+      {
+        "text": "BATIR. Quando se habla de greda, es macearla mucho.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 17 del facsímil consultado."
+      }
+    ],
+    "search_text": "Batir\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nOperación técnica que varía con el material. En morteros significa revolver o mover enérgicamente la mezcla para incorporar sus componentes; aplicada a greda o arcilla implica amasarla o macearla; en la fabricación de ladrillos y baldosas puede consistir en golpear caras y cantos para perfeccionar su forma.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Batir mezcla\n«BATIR. v. a. Revolver, quando se habla de mezcla.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 16 del facsímil consultado.\nMR-P047-10-01 · CEN-1733. Fija el sentido de agitación e incorporación de los componentes del mortero.\nBenito Bails · 1802\n2. Batir greda\n«BATIR. Quando se habla de greda, es macearla mucho.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 17 del facsímil consultado.\nMR-P047-10-02 · CEN-1733. Distingue una operación específica de amasado o maceado sobre material terroso.\nP. C. Espinosa · 1859\n3. Batido del mortero\n«Es mas cómodo y mas conveniente el batir la mezcla en noques ó albercas [...] para que resulte una mezcla íntima de la cal con la arena.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 113 del facsímil consultado.\nMR-P047-10-03 · CEN-1733. Explica la finalidad material del batido: homogeneizar los constituyentes.\nP. C. Espinosa · 1859\n4. Batir ladrillos y baldosas\n«Se perfilan y baten, operacion que consiste en golpear ó batir las caras con una paleta de madera.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 214 del facsímil consultado.\nMR-P047-10-04 · CEN-1733. Documenta un segundo campo operativo, ligado al acabado geométrico de piezas cerámicas.\nLECTURA COMPARADA\nBails distingue el valor de batir según se trate de mezcla o greda; Espinosa mantiene el primero en la preparación de morteros y añade el batido de ladrillos y baldosas como golpeo de conformación. La voz conserva la idea de acción repetida sobre un material, pero el mecanismo concreto puede ser mezcla, maceado o golpeo.\nVARIANTES Y CONTROL TERMINOLÓGICO\nBatir se relaciona con batido y batidera, pero no todas las ocurrencias pertenecen al mismo procedimiento. El objeto directo —mezcla, greda, ladrillo— determina la acepción técnica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación de 1802 y 1859 reúne definición lexicográfica y aplicaciones de obra en morteros y piezas cerámicas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconstruir operaciones de preparación y acabado que una traducción moderna por “mezclar” podría simplificar en exceso.\nRELACIONADO CON\nMezcla; Mortero; Greda; Arcilla; Ladrillo; Baldosa; Batidera\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+    "url": "terminos/batir/",
+    "academic_pdf": "documentos/fichas/batir.pdf"
+  },
+  {
+    "num": 1461,
+    "cen": "CEN-1846",
+    "term": "Cabeza",
+    "slug": "cabeza",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz polisémica aplicada a extremos o secciones principales de elementos arquitectónicos. Puede nombrar el diámetro inferior de una columna y, en la locución cabeza de pared, la superficie que manifiesta el grueso del muro en una abertura, a menudo resuelta mediante encadenado de sillería.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1802,
+      1788
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788."
+    ],
+    "variants": "Cabeza requiere siempre complemento o contexto para evitar confusiones. Cabeza de pared y cabeza de viga son locuciones constructivas; el diámetro inferior de columna constituye una acepción metrológica especializada.",
+    "comparison": "Bails presenta dos acepciones técnicas muy distintas: medida de columna y testa de pared. Rejón aporta un uso constructivo más general en el extremo de las vigas representado en piedra. En todos los casos cabeza identifica una parte terminal o de referencia, pero el objeto al que se aplica modifica radicalmente su sentido.",
+    "coverage": "Los testimonios entre 1788 y 1802 bastan para mostrar la polisemia arquitectónica; repertorios del XIX conservan usos análogos.",
+    "utility": "Permite interpretar medidas de columnas y descripciones de muros o piezas salientes sin reducir la palabra a su sentido anatómico común.",
+    "related": [
+      "Columna",
+      "Diámetro",
+      "Pared",
+      "Vano",
+      "Encadenado",
+      "Viga",
+      "Testa"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "CABEZA. s. f. El diámetro inferior de la columna.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 20 del facsímil consultado."
+      },
+      {
+        "text": "CABEZA DE PARED. Lo que se ve de su grueso en una abertura, y suele ser un encadenado de sillería.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 20 del facsímil consultado."
+      }
+    ],
+    "search_text": "Cabeza\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz polisémica aplicada a extremos o secciones principales de elementos arquitectónicos. Puede nombrar el diámetro inferior de una columna y, en la locución cabeza de pared, la superficie que manifiesta el grueso del muro en una abertura, a menudo resuelta mediante encadenado de sillería.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Cabeza de la columna\n«CABEZA. s. f. El diámetro inferior de la columna.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 20 del facsímil consultado.\nMR-P047-11-01 · CEN-1846. Documenta un uso métrico del término referido a la sección inferior de la columna.\nBenito Bails · 1802\n2. Cabeza de pared\n«CABEZA DE PARED. Lo que se ve de su grueso en una abertura, y suele ser un encadenado de sillería.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 20 del facsímil consultado.\nMR-P047-11-02 · CEN-1846. Fija la acepción mural como testa visible del espesor en un vano.\nDiego Antonio Rejón de Silva · 1788\n3. Cabezas de vigas en el orden dórico\n«echaron á nivel de los triglifos canteríos salidos á fuera, que son cabezas de vigas.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 63 del facsímil consultado.\nMR-P047-11-03 · CEN-1846. Muestra el uso general de cabeza para el extremo saliente de una pieza constructiva.\nLECTURA COMPARADA\nBails presenta dos acepciones técnicas muy distintas: medida de columna y testa de pared. Rejón aporta un uso constructivo más general en el extremo de las vigas representado en piedra. En todos los casos cabeza identifica una parte terminal o de referencia, pero el objeto al que se aplica modifica radicalmente su sentido.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCabeza requiere siempre complemento o contexto para evitar confusiones. Cabeza de pared y cabeza de viga son locuciones constructivas; el diámetro inferior de columna constituye una acepción metrológica especializada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios entre 1788 y 1802 bastan para mostrar la polisemia arquitectónica; repertorios del XIX conservan usos análogos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar medidas de columnas y descripciones de muros o piezas salientes sin reducir la palabra a su sentido anatómico común.\nRELACIONADO CON\nColumna; Diámetro; Pared; Vano; Encadenado; Viga; Testa\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+    "url": "terminos/cabeza/",
+    "academic_pdf": "documentos/fichas/cabeza.pdf"
+  },
+  {
+    "num": 1462,
+    "cen": "CEN-3149",
+    "term": "Hueso",
+    "slug": "hueso",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz con varias acepciones constructivas. Como sustantivo puede equivaler a machón o encadenado; en la cal designa la porción de piedra que quedó sin calcinar; y en la locución asentar a hueso indica colocar sillares o piezas sin mezcla, o con un tendel mínimo.",
+    "authors_text": "Benito Bails (1802); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1879
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "La locución a hueso conserva valor propio y no debe confundirse con el sustantivo hueso aplicado a la cal o al encadenado. En repertorios posteriores también aparece la expresión con muy poco tendel, lo que muestra una graduación práctica de la junta seca.",
+    "comparison": "Bails reúne tres valores que pertenecen a operaciones diferentes: estructura, calcinación y asiento de sillares. Marcos y Bausa confirma el de la cal sin cocer. La unidad figurativa de “hueso” como parte dura o desnuda no autoriza a fusionar las acepciones: cada una posee un contexto técnico específico.",
+    "coverage": "La evidencia se concentra en los repertorios de los siglos XVIII–XIX y en manuales de materiales. La polisemia queda explícitamente documentada.",
+    "utility": "Es especialmente útil para evitar errores en fuentes de obra: un “hueso” puede señalar cal mal cocida, un miembro de fábrica o una técnica de asiento sin mortero.",
+    "related": [
+      "Cal",
+      "Calcinación",
+      "Machón",
+      "Encadenado",
+      "Asentar a hueso",
+      "Tendel",
+      "Sillar"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "HUESO. s. m. Lo mismo que MACHON ó ENCADENADO.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 58 del facsímil consultado."
+      },
+      {
+        "text": "HUESO. En la cal es la parte de la piedra que no está calcinada.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 58 del facsímil consultado."
+      }
+    ],
+    "search_text": "Hueso\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz con varias acepciones constructivas. Como sustantivo puede equivaler a machón o encadenado; en la cal designa la porción de piedra que quedó sin calcinar; y en la locución asentar a hueso indica colocar sillares o piezas sin mezcla, o con un tendel mínimo.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Hueso como machón o encadenado\n«HUESO. s. m. Lo mismo que MACHON ó ENCADENADO.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 58 del facsímil consultado.\nMR-P047-12-01 · CEN-3149. Registra una acepción estructural del término.\nBenito Bails · 1802\n2. Hueso en la cal\n«HUESO. En la cal es la parte de la piedra que no está calcinada.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 58 del facsímil consultado.\nMR-P047-12-02 · CEN-3149. Documenta la acepción material como defecto de cocción.\nBenito Bails · 1802\n3. Asentar a hueso\n«ASENTAR Á HUESO. Asentar los sillares sin mezcla alguna.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 58 del facsímil consultado.\nMR-P047-12-03 · CEN-3149. Fija la locución de cantería o albañilería para junta seca.\nRicardo Marcos y Bausa · 1879\n4. Huesos de caliza sin calcinar\n«huesos, es decir, partes de caliza sin calcinar.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 17 del facsímil consultado.\nMR-P047-12-04 · CEN-3149. Confirma la pervivencia de la acepción material en la enseñanza práctica del XIX.\nLECTURA COMPARADA\nBails reúne tres valores que pertenecen a operaciones diferentes: estructura, calcinación y asiento de sillares. Marcos y Bausa confirma el de la cal sin cocer. La unidad figurativa de “hueso” como parte dura o desnuda no autoriza a fusionar las acepciones: cada una posee un contexto técnico específico.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa locución a hueso conserva valor propio y no debe confundirse con el sustantivo hueso aplicado a la cal o al encadenado. En repertorios posteriores también aparece la expresión con muy poco tendel, lo que muestra una graduación práctica de la junta seca.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia se concentra en los repertorios de los siglos XVIII–XIX y en manuales de materiales. La polisemia queda explícitamente documentada.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs especialmente útil para evitar errores en fuentes de obra: un “hueso” puede señalar cal mal cocida, un miembro de fábrica o una técnica de asiento sin mortero.\nRELACIONADO CON\nCal; Calcinación; Machón; Encadenado; Asentar a hueso; Tendel; Sillar\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/hueso/",
+    "academic_pdf": "documentos/fichas/hueso.pdf"
+  },
+  {
+    "num": 1463,
+    "cen": "CEN-3353",
+    "term": "Maestra",
+    "slug": "maestra",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Elemento que sirve de guía o referencia para ejecutar superficies regulares. En enlucidos es una faja hecha a trechos que fija el plano al que se iguala el resto del revestimiento; en pavimentos y caminos puede ser una cadena o banda de piezas que contiene, divide o guía la colocación.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1788,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Maestra se relaciona con maestrear. No debe confundirse con viga maestra ni con maestro de obra: son construcciones léxicas diferentes. En cada caso la acepción depende del elemento gobernado.",
+    "comparison": "Rejón y Bails definen la maestra del revestimiento como referencia discontinua que gobierna la superficie final. Bails registra además la maestra de pavimentación. Marcos y Bausa explica la operación completa de maestrear, donde la regla corre apoyada en esas guías. La voz conserva una función de referencia material, aunque cambie el oficio concreto.",
+    "coverage": "La tradición documentada desde 1788 hasta 1879 combina definición y práctica de enlucido, además de la acepción de pavimentación.",
+    "utility": "Permite reconstruir técnicas de control de planeidad y nivelación en revestimientos y pavimentos históricos, especialmente la secuencia maestra–relleno–regla.",
+    "related": [
+      "Jaharro",
+      "Enlucido",
+      "Maestrear",
+      "Regla",
+      "Pavimento",
+      "Adoquín",
+      "Sillarejo"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "MAESTRA. s. f. La faxa de jaharro ó enlucido que se pone á trechos en una superficie para dexarla toda bien igual.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 67 del facsímil consultado."
+      },
+      {
+        "text": "MAESTRA. Cadena de adoquines ó sillarejos que suele ponerse en los caminos para contener el terreno, y en las calles para asegurar el empedrado.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 67 del facsímil consultado."
+      }
+    ],
+    "search_text": "Maestra\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nElemento que sirve de guía o referencia para ejecutar superficies regulares. En enlucidos es una faja hecha a trechos que fija el plano al que se iguala el resto del revestimiento; en pavimentos y caminos puede ser una cadena o banda de piezas que contiene, divide o guía la colocación.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Maestra de jaharro o enlucido\n«MAESTRA. s. f. La faxa de jaharro ó enlucido que se pone á trechos en una superficie para dexarla toda bien igual.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 67 del facsímil consultado.\nMR-P047-13-01 · CEN-3353. Define la guía de espesor y planeidad del revestimiento.\nBenito Bails · 1802\n2. Maestra en caminos y calles\n«MAESTRA. Cadena de adoquines ó sillarejos que suele ponerse en los caminos para contener el terreno, y en las calles para asegurar el empedrado.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 67 del facsímil consultado.\nMR-P047-13-02 · CEN-3353. Documenta el segundo campo de uso en pavimentación.\nDiego Antonio Rejón de Silva · 1788\n3. Maestras a trechos\n«La faxa de jaharro ó enlucido que se pone a trechos, para dexar el todo de una superficie con igualdad.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 148 del facsímil consultado.\nMR-P047-13-03 · CEN-3353. Confirma la función de referencia geométrica en revestimientos.\nRicardo Marcos y Bausa · 1879\n4. Maestrear un paramento\n«Formadas las maestras, se rellena por capas el espacio de muro comprendido entre cada dos [...] y se corre [...] una regla puesta de canto sobre las maestras, para alisar é igualar la tongada.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 111 del facsímil consultado.\nMR-P047-13-04 · CEN-3353. Explica operativamente cómo las maestras controlan planeidad y espesor durante el tendido.\nLECTURA COMPARADA\nRejón y Bails definen la maestra del revestimiento como referencia discontinua que gobierna la superficie final. Bails registra además la maestra de pavimentación. Marcos y Bausa explica la operación completa de maestrear, donde la regla corre apoyada en esas guías. La voz conserva una función de referencia material, aunque cambie el oficio concreto.\nVARIANTES Y CONTROL TERMINOLÓGICO\nMaestra se relaciona con maestrear. No debe confundirse con viga maestra ni con maestro de obra: son construcciones léxicas diferentes. En cada caso la acepción depende del elemento gobernado.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa tradición documentada desde 1788 hasta 1879 combina definición y práctica de enlucido, además de la acepción de pavimentación.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconstruir técnicas de control de planeidad y nivelación en revestimientos y pavimentos históricos, especialmente la secuencia maestra–relleno–regla.\nRELACIONADO CON\nJaharro; Enlucido; Maestrear; Regla; Pavimento; Adoquín; Sillarejo\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/maestra/",
+    "academic_pdf": "documentos/fichas/maestra.pdf"
+  },
+  {
+    "num": 1464,
+    "cen": "CEN-4042",
+    "term": "Rafas",
+    "slug": "rafas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Machos o franjas de fábrica introducidos entre cajones de tierra en una tapia, ejecutados con cascote y yeso y caracterizados por su perfil curvo en los lados. Funcionan como partes de refuerzo y trabazón dentro de una fábrica de tierra.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); P. C. Espinosa (1859); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "P. C. Espinosa",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1788,
+      1859,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Rafas aparece normalmente en plural. El singular rafa puede emplearse por formación regular, pero la documentación lexicográfica consultada privilegia el plural técnico.",
+    "comparison": "Los tres testimonios mantienen una definición casi idéntica durante un siglo: machos de cascote y yeso colocados entre cajones de tierra, con perfil lateral curvo. La estabilidad terminológica refleja una técnica muy específica de la tapiería, sin ampliaciones semánticas relevantes en las fuentes seleccionadas.",
+    "coverage": "La secuencia 1788–1887 muestra continuidad sin cambio material apreciable de la definición.",
+    "utility": "Es una voz diagnóstica para reconocer tapias mixtas o reforzadas, diferenciando la tierra apisonada de los machos de cascote y yeso intercalados.",
+    "related": [
+      "Tapia",
+      "Cajón",
+      "Cascote",
+      "Yeso",
+      "Machón",
+      "Tierra"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "RAFAS. s. m. p. A. Los machos que se hacen de cascote y yeso entre caxon y caxon de tierra en una tapia, cortados en forma curva por los lados.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 192 del facsímil consultado."
+      },
+      {
+        "text": "RAFAS. Machos de cascote y yeso que se ponen entre cajon y cajon de tierra en una tapia, cortados en figura curva por los lados.",
+        "author": "P. C. Espinosa",
+        "year": "1859",
+        "source": "1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 363 del facsímil consultado."
+      }
+    ],
+    "search_text": "Rafas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMachos o franjas de fábrica introducidos entre cajones de tierra en una tapia, ejecutados con cascote y yeso y caracterizados por su perfil curvo en los lados. Funcionan como partes de refuerzo y trabazón dentro de una fábrica de tierra.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Definición de rafas\n«RAFAS. s. m. p. A. Los machos que se hacen de cascote y yeso entre caxon y caxon de tierra en una tapia, cortados en forma curva por los lados.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 192 del facsímil consultado.\nMR-P047-14-01 · CEN-4042. Establece material, posición y forma de la rafa.\nP. C. Espinosa · 1859\n2. Rafas en tapia\n«RAFAS. Machos de cascote y yeso que se ponen entre cajon y cajon de tierra en una tapia, cortados en figura curva por los lados.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 363 del facsímil consultado.\nMR-P047-14-02 · CEN-4042. Confirma la persistencia decimonónica de la misma técnica.\nJ. Adeline / José Ramón Mélida · 1887\n3. Rafas como término arquitectónico\n«Rafas. [Arq.] Se da este nombre á los machos de cascote y yeso que se ponen entre cajón y cajón de tierra en una tapia.»\n1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 438 del facsímil consultado.\nMR-P047-14-03 · CEN-4042. Conserva la voz en un repertorio artístico del final del XIX.\nLECTURA COMPARADA\nLos tres testimonios mantienen una definición casi idéntica durante un siglo: machos de cascote y yeso colocados entre cajones de tierra, con perfil lateral curvo. La estabilidad terminológica refleja una técnica muy específica de la tapiería, sin ampliaciones semánticas relevantes en las fuentes seleccionadas.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRafas aparece normalmente en plural. El singular rafa puede emplearse por formación regular, pero la documentación lexicográfica consultada privilegia el plural técnico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa secuencia 1788–1887 muestra continuidad sin cambio material apreciable de la definición.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs una voz diagnóstica para reconocer tapias mixtas o reforzadas, diferenciando la tierra apisonada de los machos de cascote y yeso intercalados.\nRELACIONADO CON\nTapia; Cajón; Cascote; Yeso; Machón; Tierra\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/rafas/",
+    "academic_pdf": "documentos/fichas/rafas.pdf"
+  },
+  {
+    "num": 1465,
+    "cen": "CEN-4145",
+    "term": "Ripio",
+    "slug": "ripio",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Fragmentos menudos procedentes de materiales quebrados o desechados y, por extensión, fábrica hecha con ellos para macizar o rellenar huecos, especialmente detrás de paramentos de sillería o entre hojas de muro. La voz denomina tanto el material como su empleo constructivo.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "Ripio se relaciona con enripiar, que significa echar ripio en un hueco. Rocalle, cascote y yesón pueden constituir ripio en determinados contextos, pero no son equivalentes absolutos.",
+    "comparison": "Bails separa claramente el material —fragmentos— de la fábrica ejecutada con ellos. Rejón y Matallana muestran la segunda acepción en obra, donde el ripio, normalmente unido con cal, maciza el espacio interior. El término pasa del residuo útil de labra o demolición a una técnica concreta de relleno.",
+    "coverage": "La evidencia de 1788–1848 integra definición material, verbo operativo y uso en muros.",
+    "utility": "Permite identificar rellenos de fábricas históricas y comprender cómo fragmentos menores se incorporaban a muros de sillería o mampostería.",
+    "related": [
+      "Enripiar",
+      "Cascote",
+      "Rocalla",
+      "Yesón",
+      "Sillería",
+      "Relleno",
+      "Muro"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "RIPIO. s. m. Los fragmentos que quedan de los materiales desechados ó quebrados. Los yesones, las rocallas, &c. son ripio.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 95 del facsímil consultado."
+      },
+      {
+        "text": "RIPIO. La fábrica con que se rellena el hueco que queda detrás del paramento de un muro de sillería.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 95 del facsímil consultado."
+      }
+    ],
+    "search_text": "Ripio\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFragmentos menudos procedentes de materiales quebrados o desechados y, por extensión, fábrica hecha con ellos para macizar o rellenar huecos, especialmente detrás de paramentos de sillería o entre hojas de muro. La voz denomina tanto el material como su empleo constructivo.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Ripio como fragmento\n«RIPIO. s. m. Los fragmentos que quedan de los materiales desechados ó quebrados. Los yesones, las rocallas, &c. son ripio.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 95 del facsímil consultado.\nMR-P047-15-01 · CEN-4145. Define la materia prima fragmentaria.\nBenito Bails · 1802\n2. Ripio como fábrica de relleno\n«RIPIO. La fábrica con que se rellena el hueco que queda detrás del paramento de un muro de sillería.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 95 del facsímil consultado.\nMR-P047-15-02 · CEN-4145. Documenta la acepción de obra de macizado.\nDiego Antonio Rejón de Silva · 1788\n3. Macizar con ripio y cal\n«Lo restante de en medio macizarás de ripio y cal.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 147 del facsímil consultado.\nMR-P047-15-03 · CEN-4145. Muestra la puesta en obra del ripio en el interior del muro.\nMariano Matallana · 1848\n4. Relleno entre caras del muro\n«llenando de ripio el hueco que queda entre ambas.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 121 del facsímil consultado.\nMR-P047-15-04 · CEN-4145. Confirma el uso del material como relleno entre paramentos.\nLECTURA COMPARADA\nBails separa claramente el material —fragmentos— de la fábrica ejecutada con ellos. Rejón y Matallana muestran la segunda acepción en obra, donde el ripio, normalmente unido con cal, maciza el espacio interior. El término pasa del residuo útil de labra o demolición a una técnica concreta de relleno.\nVARIANTES Y CONTROL TERMINOLÓGICO\nRipio se relaciona con enripiar, que significa echar ripio en un hueco. Rocalle, cascote y yesón pueden constituir ripio en determinados contextos, pero no son equivalentes absolutos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia de 1788–1848 integra definición material, verbo operativo y uso en muros.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar rellenos de fábricas históricas y comprender cómo fragmentos menores se incorporaban a muros de sillería o mampostería.\nRELACIONADO CON\nEnripiar; Cascote; Rocalla; Yesón; Sillería; Relleno; Muro\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/ripio/",
+    "academic_pdf": "documentos/fichas/ripio.pdf"
+  },
+  {
+    "num": 1466,
+    "cen": "CEN-4429",
+    "term": "Tendel",
+    "slug": "tendel",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En albañilería designa la capa horizontal de mortero colocada sobre una hilada para recibir la siguiente; también puede nombrar la cuerda que se tensa entre extremos de la fábrica para mantener nivel y alineación. Las dos acepciones pertenecen a la ejecución de hiladas, una como junta material y otra como guía geométrica.",
+    "authors_text": "Benito Bails (1802); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1879
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "La forma tendel es estable; el plural tendeles se aplica a las juntas sucesivas. En la locución asentar a hueso puede aparecer tendel mínimo o ausente.",
+    "comparison": "Bails registra dos sentidos vinculados a una misma operación: la capa de mortero que separa hiladas y la cuerda que gobierna su regularidad. Marcos y Bausa desarrolla el primero mediante una advertencia sobre espesor y asiento. La distinción entre tendel-junta y tendel-cuerda debe mantenerse para interpretar documentos de obra.",
+    "coverage": "La documentación lexicográfica y manual de 1802–1879 aporta definición y control práctico de la ejecución.",
+    "utility": "Es central para leer fábricas de ladrillo: permite reconocer tanto la junta horizontal de mortero como la guía de cordel usada para subir paredes iguales.",
+    "related": [
+      "Hilada",
+      "Ladrillo",
+      "Mortero",
+      "Junta",
+      "Cuerda",
+      "Asentar a hueso",
+      "Nivel"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "TENDEL. s. m. La capa de cal que se echa sobre cada hilada de ladrillo para sentar la siguiente.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 105 del facsímil consultado."
+      },
+      {
+        "text": "TENDEL. La cuerda que los Albañiles tiran y fixan de una esquina á otra, para que suban iguales las paredes.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 105 del facsímil consultado."
+      }
+    ],
+    "search_text": "Tendel\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn albañilería designa la capa horizontal de mortero colocada sobre una hilada para recibir la siguiente; también puede nombrar la cuerda que se tensa entre extremos de la fábrica para mantener nivel y alineación. Las dos acepciones pertenecen a la ejecución de hiladas, una como junta material y otra como guía geométrica.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Tendel como capa de mortero\n«TENDEL. s. m. La capa de cal que se echa sobre cada hilada de ladrillo para sentar la siguiente.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 105 del facsímil consultado.\nMR-P047-16-01 · CEN-4429. Define la junta horizontal material entre hiladas.\nBenito Bails · 1802\n2. Tendel como cuerda\n«TENDEL. La cuerda que los Albañiles tiran y fixan de una esquina á otra, para que suban iguales las paredes.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 105 del facsímil consultado.\nMR-P047-16-02 · CEN-4429. Documenta la herramienta-guía de alineación y nivelación.\nRicardo Marcos y Bausa · 1879\n3. Espesor del tendel\n«El grueso del tendel no debe ser excesivo, porque [...] la obra baja mucho, es decir, hace mucho asiento.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 72 del facsímil consultado.\nMR-P047-16-03 · CEN-4429. Añade un criterio práctico sobre el espesor de la junta y sus efectos en el asiento.\nLECTURA COMPARADA\nBails registra dos sentidos vinculados a una misma operación: la capa de mortero que separa hiladas y la cuerda que gobierna su regularidad. Marcos y Bausa desarrolla el primero mediante una advertencia sobre espesor y asiento. La distinción entre tendel-junta y tendel-cuerda debe mantenerse para interpretar documentos de obra.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa forma tendel es estable; el plural tendeles se aplica a las juntas sucesivas. En la locución asentar a hueso puede aparecer tendel mínimo o ausente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación lexicográfica y manual de 1802–1879 aporta definición y control práctico de la ejecución.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs central para leer fábricas de ladrillo: permite reconocer tanto la junta horizontal de mortero como la guía de cordel usada para subir paredes iguales.\nRELACIONADO CON\nHilada; Ladrillo; Mortero; Junta; Cuerda; Asentar a hueso; Nivel\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/tendel/",
+    "academic_pdf": "documentos/fichas/tendel.pdf"
+  },
+  {
+    "num": 1467,
+    "cen": "CEN-4499",
+    "term": "Tornapunta",
+    "slug": "tornapunta",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Madero oblicuo empleado para sostener, arriostrar o descargar otros elementos de una estructura. Aparece en entramados de pared, cimbras y armaduras de cubierta, donde enlaza piezas horizontales y verticales y contribuye a impedir deformaciones o movimientos.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1788,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Tornapunta y aspa pueden aproximarse en algunos entramados, aunque aspa suele implicar cruce o disposición específica. No debe confundirse con puntal vertical.",
+    "comparison": "Rejón identifica la tornapunta como parte del entramado vertical; Marcos y Bausa la sitúa en cimbras y armaduras, donde su posición oblicua arriostra maderos verticales, tirantes y pares. La voz mantiene la función resistente, pero cambia el sistema estructural concreto en que trabaja.",
+    "coverage": "Los testimonios de 1788 y 1879 documentan la continuidad del término en entramados, cimbras y cubiertas.",
+    "utility": "Permite reconocer la lógica de arriostramiento de estructuras históricas de madera y diferenciar apoyos oblicuos de pies derechos, tirantes y péndolas.",
+    "related": [
+      "Puntal",
+      "Aspa",
+      "Tirante",
+      "Pie derecho",
+      "Cimbra",
+      "Armadura",
+      "Péndola"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "El entramado [...] se compone de soleras, pies derechos, tornapuntas ó aspas, puentes y carreras.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 107 del facsímil consultado."
+      },
+      {
+        "text": "se colocan [...] sobre soleras que apoyan en maderos verticales, contrarestados entre sí, ó bien con tornapuntas que partan desde el medio de la longitud de los tirantes á los extremos inferiores de los maderos verticales.",
+        "author": "Ricardo Marcos y Bausa",
+        "year": "1879",
+        "source": "1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 58 del facsímil consultado."
+      }
+    ],
+    "search_text": "Tornapunta\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMadero oblicuo empleado para sostener, arriostrar o descargar otros elementos de una estructura. Aparece en entramados de pared, cimbras y armaduras de cubierta, donde enlaza piezas horizontales y verticales y contribuye a impedir deformaciones o movimientos.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Tornapuntas en entramados\n«El entramado [...] se compone de soleras, pies derechos, tornapuntas ó aspas, puentes y carreras.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 107 del facsímil consultado.\nMR-P047-17-01 · CEN-4499. Sitúa la tornapunta como miembro constitutivo del entramado de madera.\nRicardo Marcos y Bausa · 1879\n2. Tornapuntas en cimbras\n«se colocan [...] sobre soleras que apoyan en maderos verticales, contrarestados entre sí, ó bien con tornapuntas que partan desde el medio de la longitud de los tirantes á los extremos inferiores de los maderos verticales.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 58 del facsímil consultado.\nMR-P047-17-02 · CEN-4499. Explica la geometría resistente de la tornapunta en una cimbra.\nRicardo Marcos y Bausa · 1879\n3. Tornapuntas en armaduras\n«ademas otros intermedios, ó sean péndolas, y áun tambien con tornapuntas, segun los casos.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 94 del facsímil consultado.\nMR-P047-17-03 · CEN-4499. Muestra su uso en armaduras junto a pendolones y péndolas.\nLECTURA COMPARADA\nRejón identifica la tornapunta como parte del entramado vertical; Marcos y Bausa la sitúa en cimbras y armaduras, donde su posición oblicua arriostra maderos verticales, tirantes y pares. La voz mantiene la función resistente, pero cambia el sistema estructural concreto en que trabaja.\nVARIANTES Y CONTROL TERMINOLÓGICO\nTornapunta y aspa pueden aproximarse en algunos entramados, aunque aspa suele implicar cruce o disposición específica. No debe confundirse con puntal vertical.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1788 y 1879 documentan la continuidad del término en entramados, cimbras y cubiertas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer la lógica de arriostramiento de estructuras históricas de madera y diferenciar apoyos oblicuos de pies derechos, tirantes y péndolas.\nRELACIONADO CON\nPuntal; Aspa; Tirante; Pie derecho; Cimbra; Armadura; Péndola\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/tornapunta/",
+    "academic_pdf": "documentos/fichas/tornapunta.pdf"
+  },
+  {
+    "num": 1468,
+    "cen": "CEN-4578",
+    "term": "Vacío",
+    "slug": "vacio",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Espacio carente de materia dentro o entre elementos constructivos. La documentación lo aplica a huecos que pueden cegarse, a los espacios entre la flechadura de una bóveda y la pared donde ésta estriba, y a cavidades interiores de piezas aligeradas. Su significado depende de la geometría de la fábrica y de la función del hueco.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Eduardo Mariátegui (1876); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Eduardo Mariátegui",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1788,
+      1876,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Vacío alterna singular y plural. No debe confundirse automáticamente con vano: un vano suele ser una abertura funcional en un cerramiento, mientras un vacío puede ser interior, residual o intencionalmente aligerante.",
+    "comparison": "Rejón presenta el vacío como espacio que puede cerrarse o rellenarse; Mariátegui conserva un uso histórico ligado a los huecos residuales de las bóvedas; Marcos y Bausa lo incorpora a la tecnología de piezas huecas. La voz no designa una pieza determinada, sino una condición espacial que adquiere función según el sistema constructivo.",
+    "coverage": "La documentación del XVIII–XIX abarca operaciones de cegado, geometría de bóvedas y materiales aligerados.",
+    "utility": "Es útil para distinguir huecos funcionales, cavidades internas y espacios residuales, especialmente en descripciones de bóvedas, muros y piezas huecas.",
+    "related": [
+      "Vano",
+      "Hueco",
+      "Cegar",
+      "Bóveda",
+      "Fábrica",
+      "Ladrillo hueco",
+      "Macizado"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "CEGAR. v. a. A. Rellenar un espacio vacío.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 71 del facsímil consultado."
+      },
+      {
+        "text": "los vacios que quedan entre las flechaduras de las bouedas, y la pared en que restriuan.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "1876 E. Mariategui. Glosario de Arquitectura(9), 1876, p. 88 del facsímil consultado."
+      }
+    ],
+    "search_text": "Vacío\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspacio carente de materia dentro o entre elementos constructivos. La documentación lo aplica a huecos que pueden cegarse, a los espacios entre la flechadura de una bóveda y la pared donde ésta estriba, y a cavidades interiores de piezas aligeradas. Su significado depende de la geometría de la fábrica y de la función del hueco.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Cegar un vacío\n«CEGAR. v. a. A. Rellenar un espacio vacío.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 71 del facsímil consultado.\nMR-P047-18-01 · CEN-4578. Acredita el uso constructivo de vacío como espacio susceptible de macizado.\nEduardo Mariátegui · 1876\n2. Vacíos entre bóveda y pared\n«los vacios que quedan entre las flechaduras de las bouedas, y la pared en que restriuan.»\n1876 E. Mariategui. Glosario de Arquitectura(9), 1876, p. 88 del facsímil consultado.\nMR-P047-18-02 · CEN-4578. Documenta un vacío geométrico específico generado por el encuentro entre bóveda y muro.\nRicardo Marcos y Bausa · 1879\n3. Vacíos en ladrillos huecos\n«con espacios vacíos dentro de su masa, que dan mucha ligereza á las obras.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 27 del facsímil consultado.\nMR-P047-18-03 · CEN-4578. Muestra el vacío como recurso de aligeramiento interno en piezas cerámicas.\nLECTURA COMPARADA\nRejón presenta el vacío como espacio que puede cerrarse o rellenarse; Mariátegui conserva un uso histórico ligado a los huecos residuales de las bóvedas; Marcos y Bausa lo incorpora a la tecnología de piezas huecas. La voz no designa una pieza determinada, sino una condición espacial que adquiere función según el sistema constructivo.\nVARIANTES Y CONTROL TERMINOLÓGICO\nVacío alterna singular y plural. No debe confundirse automáticamente con vano: un vano suele ser una abertura funcional en un cerramiento, mientras un vacío puede ser interior, residual o intencionalmente aligerante.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación del XVIII–XIX abarca operaciones de cegado, geometría de bóvedas y materiales aligerados.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para distinguir huecos funcionales, cavidades internas y espacios residuales, especialmente en descripciones de bóvedas, muros y piezas huecas.\nRELACIONADO CON\nVano; Hueco; Cegar; Bóveda; Fábrica; Ladrillo hueco; Macizado\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/vacio/",
+    "academic_pdf": "documentos/fichas/vacio.pdf"
+  },
+  {
+    "num": 1469,
+    "cen": "CEN-0451",
+    "term": "Aldabía",
+    "slug": "aldabia",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Madero horizontal, semejante a una viga de aire, que sirve para formar tabiques colgados o entramados que no descargan directamente sobre el suelo. Las aldabías superior e inferior reciben los pies derechos del tabique y transmiten su carga hacia apoyos laterales.",
+    "authors_text": "Mariano Matallana (1848); Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Mariano Matallana",
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1848,
+      1802,
+      1788,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Las grafías aldabía y aldavía están documentalmente relacionadas; Matallana remite expresamente ALDAVIA = ALDABÍA. Se conserva Aldabía como lema de la ficha y se registra Aldavía como variante histórica.",
+    "comparison": "Matallana aporta la grafía Aldabía; Bails y Rejón emplean Aldavía y describen la pieza como madero horizontal suspendido entre apoyos, especialmente en tabiques colgados. Marcos y Bausa conserva la forma aldavia en práctica de entramados. La variación gráfica no modifica la función estructural.",
+    "coverage": "La documentación se extiende de 1788 a 1879 y combina definición, disposición del entramado y uso de obra.",
+    "utility": "Permite interpretar tabiques colgados y entramados que salvan un espacio sin apoyo continuo inferior, diferenciando la aldabía de la solera apoyada sobre fábrica.",
+    "related": [
+      "Tabique colgado",
+      "Viga de aire",
+      "Entramado",
+      "Pie derecho",
+      "Solera",
+      "Madero"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ALDABÍA. Madero serradizo ó especie de viga de aire para hacer los tabiques sencillos ó colgados.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 22 del facsímil consultado."
+      },
+      {
+        "text": "ALDAVÍA. s. f. Especie de viga de ayre que sirve para hacer los tabiques colgados. Para este fin hay una aldavía arriba y otra abaxo.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 6 del facsímil consultado."
+      }
+    ],
+    "search_text": "Aldabía\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMadero horizontal, semejante a una viga de aire, que sirve para formar tabiques colgados o entramados que no descargan directamente sobre el suelo. Las aldabías superior e inferior reciben los pies derechos del tabique y transmiten su carga hacia apoyos laterales.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Definición de aldabía\n«ALDABÍA. Madero serradizo ó especie de viga de aire para hacer los tabiques sencillos ó colgados.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 22 del facsímil consultado.\nMR-P047-19-01 · CEN-0451. Acredita literalmente la forma Aldabía y su función constructiva.\nBenito Bails · 1802\n2. Aldavía en tabique colgado\n«ALDAVÍA. s. f. Especie de viga de ayre que sirve para hacer los tabiques colgados. Para este fin hay una aldavía arriba y otra abaxo.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 6 del facsímil consultado.\nMR-P047-19-02 · CEN-0451. Documenta la variante aldavía y la disposición doble superior/inferior.\nDiego Antonio Rejón de Silva · 1788\n3. Madero sostenido en dos puntos\n«ALDAVIA. s. f. A. Todo madero horizontal apoyado en solo dos puntos ó sostenientes, quedando lo demás al ayre.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 28 del facsímil consultado.\nMR-P047-19-03 · CEN-0451. Explica el principio resistente que justifica su denominación como viga de aire.\nRicardo Marcos y Bausa · 1879\n4. Aldavías en entramado sencillo\n«serrando préviamente las aldavias, si el muro es de entramado sencillo.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 105 del facsímil consultado.\nMR-P047-19-04 · CEN-0451. Confirma el uso de la pieza dentro de la ejecución de huecos y tabiques de madera.\nLECTURA COMPARADA\nMatallana aporta la grafía Aldabía; Bails y Rejón emplean Aldavía y describen la pieza como madero horizontal suspendido entre apoyos, especialmente en tabiques colgados. Marcos y Bausa conserva la forma aldavia en práctica de entramados. La variación gráfica no modifica la función estructural.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLas grafías aldabía y aldavía están documentalmente relacionadas; Matallana remite expresamente ALDAVIA = ALDABÍA. Se conserva Aldabía como lema de la ficha y se registra Aldavía como variante histórica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación se extiende de 1788 a 1879 y combina definición, disposición del entramado y uso de obra.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar tabiques colgados y entramados que salvan un espacio sin apoyo continuo inferior, diferenciando la aldabía de la solera apoyada sobre fábrica.\nRELACIONADO CON\nTabique colgado; Viga de aire; Entramado; Pie derecho; Solera; Madero\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/aldabia/",
+    "academic_pdf": "documentos/fichas/aldabia.pdf"
+  },
+  {
+    "num": 1470,
+    "cen": "CEN-0555",
+    "term": "Almádana",
+    "slug": "almadana",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Herramienta pesada de percusión, semejante a un gran mazo o martillo de hierro montado en un mango de madera. Se emplea para romper, desportillar o trabajar piedra y otras fábricas resistentes.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Ricardo Marcos y Bausa (1879); J. Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Ricardo Marcos y Bausá",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1802,
+      1788,
+      1879,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "Almádana y almádena son variantes históricas documentadas. La ficha no las separa como herramientas distintas cuando el contexto describe el mismo mazo de hierro para piedra.",
+    "comparison": "Rejón enlaza explícitamente almádena y almadana y define su uso para romper piedra; Bails conserva la forma almadana; Marcos y Bausa añade una punta o pico; Adeline mantiene el mismo campo operativo. Las diferencias describen variantes de forma de una herramienta de percusión pesada.",
+    "coverage": "La evidencia abarca 1788–1887 y aparece en diccionarios y manuales de albañilería.",
+    "utility": "Es útil para identificar herramientas de demolición y labra pesada en descripciones de obra y distinguirlas de martillos menores, piquetas o azuelas.",
+    "related": [
+      "Almádena",
+      "Mazo",
+      "Martillo",
+      "Piedra",
+      "Piqueta",
+      "Herramienta"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ALMADANA. s. f. Instrumento á manera de mazo, cuya cabeza es de hierro, y está enastada en un mango de madera.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 116 del facsímil consultado."
+      },
+      {
+        "text": "ALMADENA. s. f. A. Instrumento á manera de mazo de hierro, para romper y desportillar las piedras. Dícese tambien almadana.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 29 del facsímil consultado."
+      }
+    ],
+    "search_text": "Almádana\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nHerramienta pesada de percusión, semejante a un gran mazo o martillo de hierro montado en un mango de madera. Se emplea para romper, desportillar o trabajar piedra y otras fábricas resistentes.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición de almádana\n«ALMADANA. s. f. Instrumento á manera de mazo, cuya cabeza es de hierro, y está enastada en un mango de madera.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 116 del facsímil consultado.\nMR-P047-20-01 · CEN-0555. Fija forma material y disposición básica de la herramienta.\nDiego Antonio Rejón de Silva · 1788\n2. Almádena o almádana\n«ALMADENA. s. f. A. Instrumento á manera de mazo de hierro, para romper y desportillar las piedras. Dícese tambien almadana.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 29 del facsímil consultado.\nMR-P047-20-02 · CEN-0555. Vincula las dos variantes y explicita la función sobre piedra.\nRicardo Marcos y Bausa · 1879\n3. Martillo de hierro con mango\n«almádena, que viene á ser un grueso martillo de hierro, provisto de una punta ó pico y de un mango de madera para manejarlo.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 91 del facsímil consultado.\nMR-P047-20-03 · CEN-0555. Aporta una descripción práctica más detallada de su configuración.\nJ. Adeline / José Ramón Mélida · 1887\n4. Almádena en trabajos de piedra\n«Almádena. Especie de mazo de hierro empleado para romper piedra.»\n1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 22 del facsímil consultado.\nMR-P047-20-04 · CEN-0555. Confirma la continuidad de la herramienta en el vocabulario de las artes.\nLECTURA COMPARADA\nRejón enlaza explícitamente almádena y almadana y define su uso para romper piedra; Bails conserva la forma almadana; Marcos y Bausa añade una punta o pico; Adeline mantiene el mismo campo operativo. Las diferencias describen variantes de forma de una herramienta de percusión pesada.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAlmádana y almádena son variantes históricas documentadas. La ficha no las separa como herramientas distintas cuando el contexto describe el mismo mazo de hierro para piedra.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia abarca 1788–1887 y aparece en diccionarios y manuales de albañilería.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para identificar herramientas de demolición y labra pesada en descripciones de obra y distinguirlas de martillos menores, piquetas o azuelas.\nRELACIONADO CON\nAlmádena; Mazo; Martillo; Piedra; Piqueta; Herramienta\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/almadana/",
+    "academic_pdf": "documentos/fichas/almadana.pdf"
+  },
+  {
+    "num": 1471,
+    "cen": "CEN-0832",
+    "term": "Antigüedades",
+    "slug": "antiguedades",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conjunto de monumentos, ruinas y objetos heredados de épocas anteriores que sirven como testimonios materiales del pasado. En la cultura arquitectónica la voz comprende especialmente restos edificados susceptibles de estudio, comparación y valoración como fuentes para el conocimiento de la arquitectura antigua.",
+    "authors_text": "Mariano Matallana (1848); J. Adeline / José Ramón Mélida (1887); Benito Bails (1796); Diego de Villanueva (1766).",
+    "authors": [
+      "Mariano Matallana",
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Benito Bails",
+      "Diego de Villanueva"
+    ],
+    "years": [
+      1848,
+      1887,
+      1796,
+      1766
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Villanueva, Diego de. Colección de diferentes papeles críticos sobre todas las partes de la Arquitectura. Madrid, 1766."
+    ],
+    "variants": "Antigüedad puede aparecer en singular para un monumento concreto y antigüedades como conjunto. Adeline distingue “el antiguo”, reservado en su explicación a obras grecorromanas, de un uso más amplio de antigüedades.",
+    "comparison": "Matallana y Adeline definen antigüedades como restos materiales del pasado; Bails y Villanueva muestran cómo esos restos funcionan en la disciplina arquitectónica: se comparan y se invocan como testimonios para discutir proporciones, formas y precedentes. La voz pasa así de designar objetos antiguos a nombrar una fuente empírica del saber arquitectónico.",
+    "coverage": "La documentación entre 1766 y 1887 reúne definición, valoración crítica y uso de monumentos antiguos como evidencia disciplinar.",
+    "utility": "Permite comprender la relación histórica entre tratado y observación de monumentos: las antigüedades no son sólo objetos de colección, sino referencias para reconstruir reglas y juzgar tradiciones arquitectónicas.",
+    "related": [
+      "Monumento",
+      "Ruina",
+      "Antiguo",
+      "Arqueología",
+      "Proporción",
+      "Restauración",
+      "Historia"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ANTIGÜEDADES. Se llaman así los monumentos ó ruinas que han quedado de los antiguos como los druidicos, romanos, árabes etc.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 30 del facsímil consultado."
+      },
+      {
+        "text": "Antigüedades. Se califican con este nombre las ruinas de edificios, monumentos, armas, muebles, joyas, etc., y todos los vestigios tangibles de los tiempos pasados.",
+        "author": "J. Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 31 del facsímil consultado."
+      }
+    ],
+    "search_text": "Antigüedades\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConjunto de monumentos, ruinas y objetos heredados de épocas anteriores que sirven como testimonios materiales del pasado. En la cultura arquitectónica la voz comprende especialmente restos edificados susceptibles de estudio, comparación y valoración como fuentes para el conocimiento de la arquitectura antigua.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Monumentos y ruinas antiguas\n«ANTIGÜEDADES. Se llaman así los monumentos ó ruinas que han quedado de los antiguos como los druidicos, romanos, árabes etc.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 30 del facsímil consultado.\nMR-P047-21-01 · CEN-0832. Define la voz por la supervivencia material de monumentos y ruinas.\nJ. Adeline / José Ramón Mélida · 1887\n2. Vestigios tangibles del pasado\n«Antigüedades. Se califican con este nombre las ruinas de edificios, monumentos, armas, muebles, joyas, etc., y todos los vestigios tangibles de los tiempos pasados.»\n1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 31 del facsímil consultado.\nMR-P047-21-02 · CEN-0832. Amplía el término desde la arquitectura al conjunto de restos materiales.\nBenito Bails · 1796\n3. Antigüedad como autoridad comparativa\n«si cotejamos unos con otros los monumentos mas hermosos de la antigüedad, hallarémos que [...]»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 750 del facsímil consultado.\nMR-P047-21-03 · CEN-0832. Muestra el uso de los monumentos antiguos como conjunto comparativo para juzgar proporciones y reglas.\nDiego de Villanueva · 1766\n4. Antigüedad como testimonio arquitectónico\n«este precioso monumento, testimonio mayor que toda su razon.»\n1766 D. de Villanueva. Papeles Criticos Sobre Arquitectura(9), 1766, p. 74 del facsímil consultado.\nMR-P047-21-04 · CEN-0832. Expresa el valor probatorio concedido al resto material frente al razonamiento puramente libresco.\nLECTURA COMPARADA\nMatallana y Adeline definen antigüedades como restos materiales del pasado; Bails y Villanueva muestran cómo esos restos funcionan en la disciplina arquitectónica: se comparan y se invocan como testimonios para discutir proporciones, formas y precedentes. La voz pasa así de designar objetos antiguos a nombrar una fuente empírica del saber arquitectónico.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAntigüedad puede aparecer en singular para un monumento concreto y antigüedades como conjunto. Adeline distingue “el antiguo”, reservado en su explicación a obras grecorromanas, de un uso más amplio de antigüedades.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación entre 1766 y 1887 reúne definición, valoración crítica y uso de monumentos antiguos como evidencia disciplinar.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite comprender la relación histórica entre tratado y observación de monumentos: las antigüedades no son sólo objetos de colección, sino referencias para reconstruir reglas y juzgar tradiciones arquitectónicas.\nRELACIONADO CON\nMonumento; Ruina; Antiguo; Arqueología; Proporción; Restauración; Historia\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Villanueva, Diego de. Colección de diferentes papeles críticos sobre todas las partes de la Arquitectura. Madrid, 1766.",
+    "url": "terminos/antiguedades/",
+    "academic_pdf": "documentos/fichas/antiguedades.pdf"
+  },
+  {
+    "num": 1472,
+    "cen": "CEN-2186",
+    "term": "Cobija",
+    "slug": "cobija",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Teja curva colocada con la convexidad hacia arriba —o la cara hueca hacia abajo— para cubrir las juntas entre las tejas inferiores que forman canales. Es el componente de cubrición de un tejado de teja curva, complementario de la canal.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Cobija no equivale a cualquier teja curva: designa la que cubre, frente a la canal que recibe el agua. La orientación de la concavidad distingue ambas posiciones.",
+    "comparison": "Rejón y Bails coinciden en la posición convexa de la cobija y en su oposición a la canal; Matallana mantiene la misma relación; Marcos y Bausa la inserta en la secuencia de solapes de la cubierta. El término es funcionalmente inseparable de la pareja canal–cobija.",
+    "coverage": "La voz aparece de 1788 a 1879 con definición estable y confirmación práctica en manual de albañilería.",
+    "utility": "Es útil para describir cubiertas históricas de teja curva y reconocer la función distinta de las piezas aun cuando tengan igual forma física.",
+    "related": [
+      "Teja",
+      "Canal",
+      "Cubierta",
+      "Tejado",
+      "Solape",
+      "Vertiente"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "COBIJA. s. f. La teja lomada que se pone con la cara hueca ácia abaxo, y abraza dos de igual forma, puestas con la cara hueca ácia arriba, que se llaman Canales.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 28 del facsímil consultado."
+      },
+      {
+        "text": "COBIJA. s. f. A. La teja puesta por la parte convexa haciendo lomo.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 77 del facsímil consultado."
+      }
+    ],
+    "search_text": "Cobija\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nTeja curva colocada con la convexidad hacia arriba —o la cara hueca hacia abajo— para cubrir las juntas entre las tejas inferiores que forman canales. Es el componente de cubrición de un tejado de teja curva, complementario de la canal.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición de cobija\n«COBIJA. s. f. La teja lomada que se pone con la cara hueca ácia abaxo, y abraza dos de igual forma, puestas con la cara hueca ácia arriba, que se llaman Canales.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 28 del facsímil consultado.\nMR-P047-22-01 · CEN-2186. Define la posición y relación de la cobija con las tejas canales.\nDiego Antonio Rejón de Silva · 1788\n2. Teja convexa\n«COBIJA. s. f. A. La teja puesta por la parte convexa haciendo lomo.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 77 del facsímil consultado.\nMR-P047-22-02 · CEN-2186. Resume la geometría visible de la pieza en el tejado.\nMariano Matallana · 1848\n3. Cobija sobre canales\n«COBIJA. La teja que se pone con su parte convexa hacia arriba, cubriendo las juntas de las canales.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 89 del facsímil consultado.\nMR-P047-22-03 · CEN-2186. Mantiene la relación funcional entre cobija y canal en el siglo XIX.\nRicardo Marcos y Bausa · 1879\n4. Colocación solapada de tejas\n«las tejas cobijas cubren las juntas de las canales y se solapan en el sentido de la pendiente.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 37 del facsímil consultado.\nMR-P047-22-04 · CEN-2186. Aporta el modo de colocación dentro de la ejecución completa de la cubierta.\nLECTURA COMPARADA\nRejón y Bails coinciden en la posición convexa de la cobija y en su oposición a la canal; Matallana mantiene la misma relación; Marcos y Bausa la inserta en la secuencia de solapes de la cubierta. El término es funcionalmente inseparable de la pareja canal–cobija.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCobija no equivale a cualquier teja curva: designa la que cubre, frente a la canal que recibe el agua. La orientación de la concavidad distingue ambas posiciones.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz aparece de 1788 a 1879 con definición estable y confirmación práctica en manual de albañilería.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para describir cubiertas históricas de teja curva y reconocer la función distinta de las piezas aun cuando tengan igual forma física.\nRELACIONADO CON\nTeja; Canal; Cubierta; Tejado; Solape; Vertiente\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/cobija/",
+    "academic_pdf": "documentos/fichas/cobija.pdf"
+  },
+  {
+    "num": 1473,
+    "cen": "CEN-2197",
+    "term": "Cogote",
+    "slug": "cogote",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Porción de un madero que se deja sobresalir de un muro, tabique o cerco de puerta o ventana. Ese exceso de longitud permite recibir, entregar o asegurar la pieza en la fábrica y resolver uniones con otros elementos.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1802,
+      1788,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879."
+    ],
+    "variants": "Cogote aparece con frecuencia en plural cogotes. No debe confundirse con cabeza de madero: el cogote enfatiza la porción saliente o dejada para entrega.",
+    "comparison": "Bails y Rejón definen el cogote por su salida respecto del plano del muro o cerco. Marcos y Bausa explica la utilidad de esa prolongación en un cabecero: se recibe dentro de la fábrica. La voz describe, por tanto, una reserva de longitud destinada a la unión, no un elemento independiente.",
+    "coverage": "La evidencia de 1788–1879 combina definición y uso de obra en cercos y marcos.",
+    "utility": "Permite leer detalles de carpintería histórica donde piezas aparentemente excedentes son intencionales porque deben empotrarse o enlazarse con la fábrica.",
+    "related": [
+      "Cabecero",
+      "Cerco",
+      "Madero",
+      "Entrega",
+      "Puerta",
+      "Ventana",
+      "Entramado"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Cantería"
+    ],
+    "quotes": [
+      {
+        "text": "COGOTES. s. m. pl. Pedazos de madera que salen fuera de un muro, ó de los cercos de una puerta ó ventana.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 28 del facsímil consultado."
+      },
+      {
+        "text": "El pedazo de madero que sale á fuera en una pared ó tabique, ó en los cercos de una puerta ó ventana.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 78 del facsímil consultado."
+      }
+    ],
+    "search_text": "Cogote\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPorción de un madero que se deja sobresalir de un muro, tabique o cerco de puerta o ventana. Ese exceso de longitud permite recibir, entregar o asegurar la pieza en la fábrica y resolver uniones con otros elementos.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición de cogotes\n«COGOTES. s. m. pl. Pedazos de madera que salen fuera de un muro, ó de los cercos de una puerta ó ventana.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 28 del facsímil consultado.\nMR-P047-23-01 · CEN-2197. Fija la condición material de extremo saliente.\nDiego Antonio Rejón de Silva · 1788\n2. Cogote en muro o cerco\n«El pedazo de madero que sale á fuera en una pared ó tabique, ó en los cercos de una puerta ó ventana.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 78 del facsímil consultado.\nMR-P047-23-02 · CEN-2197. Confirma la acepción en fábrica y carpintería.\nRicardo Marcos y Bausa · 1879\n3. Cogotes del cabecero\n«los cogotes del cabecero se reciben en la fábrica.»\n1879 Ricardo Marcos y Bausa. Manual del Albañil(9), 1879, p. 106 del facsímil consultado.\nMR-P047-23-03 · CEN-2197. Muestra la función de la parte saliente como entrega del marco en el muro.\nLECTURA COMPARADA\nBails y Rejón definen el cogote por su salida respecto del plano del muro o cerco. Marcos y Bausa explica la utilidad de esa prolongación en un cabecero: se recibe dentro de la fábrica. La voz describe, por tanto, una reserva de longitud destinada a la unión, no un elemento independiente.\nVARIANTES Y CONTROL TERMINOLÓGICO\nCogote aparece con frecuencia en plural cogotes. No debe confundirse con cabeza de madero: el cogote enfatiza la porción saliente o dejada para entrega.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia de 1788–1879 combina definición y uso de obra en cercos y marcos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite leer detalles de carpintería histórica donde piezas aparentemente excedentes son intencionales porque deben empotrarse o enlazarse con la fábrica.\nRELACIONADO CON\nCabecero; Cerco; Madero; Entrega; Puerta; Ventana; Entramado\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Marcos y Bausa, Ricardo. Manual del albañil. Madrid: Dirección y Administración de la Biblioteca Enciclopédica Popular Ilustrada, 1879.",
+    "url": "terminos/cogote/",
+    "academic_pdf": "documentos/fichas/cogote.pdf"
+  },
+  {
+    "num": 1474,
+    "cen": "CEN-3104",
+    "term": "Hendedura",
+    "slug": "hendedura",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Abertura o quiebra que se produce en materiales o elementos constructivos. Puede aparecer en plomo, revestimientos, paredes o fábricas como manifestación de movimiento, mala disposición o diferencias de resistencia; los repertorios la relacionan con quebraja y grieta.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796); P. C. Espinosa (1859).",
+    "authors": [
+      "Benito Bails",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1802,
+      1796,
+      1859
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859."
+    ],
+    "variants": "Hendedura y hendidura alternan en la documentación; quebraja, rendija y grieta son voces próximas, pero pueden diferir en magnitud y contexto. La ficha conserva Hendedura como lema catalogado.",
+    "comparison": "Bails coloca hendedura en una red léxica con quebraja y grieta, y en el tratado explica una causa constructiva: la desigual resistencia de las piedras. Espinosa amplía la serie terminológica del XIX. La voz designa un síntoma material visible cuyo diagnóstico requiere atender a soporte, dirección y causa.",
+    "coverage": "La evidencia abarca 1796–1859 y reúne definición, sinonimia técnica y explicación causal en muros.",
+    "utility": "Es útil para estudiar patología histórica de fábricas y comprender vocabularios de daño antes de la terminología contemporánea de fisuras y grietas.",
+    "related": [
+      "Grieta",
+      "Quebraja",
+      "Rendija",
+      "Desplomo",
+      "Pared",
+      "Revoco",
+      "Enlucido"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "HENDEDURA. s. f. Lo mismo que QUEBRAJA.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 57 del facsímil consultado."
+      },
+      {
+        "text": "GRIETA. s. f. Hendedura ó abertura que se hace en el plomo, los enlucidos, revocos, paredes, &c.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 55 del facsímil consultado."
+      }
+    ],
+    "search_text": "Hendedura\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAbertura o quiebra que se produce en materiales o elementos constructivos. Puede aparecer en plomo, revestimientos, paredes o fábricas como manifestación de movimiento, mala disposición o diferencias de resistencia; los repertorios la relacionan con quebraja y grieta.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Hendedura y quebraja\n«HENDEDURA. s. f. Lo mismo que QUEBRAJA.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 57 del facsímil consultado.\nMR-P047-24-01 · CEN-3104. Establece una equivalencia lexicográfica dentro del vocabulario de patología de materiales.\nBenito Bails · 1802\n2. Grieta como hendedura\n«GRIETA. s. f. Hendedura ó abertura que se hace en el plomo, los enlucidos, revocos, paredes, &c.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 55 del facsímil consultado.\nMR-P047-24-02 · CEN-3104. Especifica soportes y fábricas en que se manifiesta la hendedura.\nBenito Bails · 1796\n3. Prevención de hendeduras\n«siendo todas de igual resistencia, el peso que han de sustentar no ocasionará hendeduras, desplomos, ni otros vicios.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 232 del facsímil consultado.\nMR-P047-24-03 · CEN-3104. Relaciona la aparición de hendeduras con desigualdad resistente en una pared.\nP. C. Espinosa · 1859\n4. Hendiduras en fábricas\n«hendiduras, quebrajas, rendijas ó grietas.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 360 del facsímil consultado.\nMR-P047-24-04 · CEN-3104. Muestra la convivencia terminológica de varias voces para discontinuidades de fábrica.\nLECTURA COMPARADA\nBails coloca hendedura en una red léxica con quebraja y grieta, y en el tratado explica una causa constructiva: la desigual resistencia de las piedras. Espinosa amplía la serie terminológica del XIX. La voz designa un síntoma material visible cuyo diagnóstico requiere atender a soporte, dirección y causa.\nVARIANTES Y CONTROL TERMINOLÓGICO\nHendedura y hendidura alternan en la documentación; quebraja, rendija y grieta son voces próximas, pero pueden diferir en magnitud y contexto. La ficha conserva Hendedura como lema catalogado.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia abarca 1796–1859 y reúne definición, sinonimia técnica y explicación causal en muros.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para estudiar patología histórica de fábricas y comprender vocabularios de daño antes de la terminología contemporánea de fisuras y grietas.\nRELACIONADO CON\nGrieta; Quebraja; Rendija; Desplomo; Pared; Revoco; Enlucido\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+    "url": "terminos/hendedura/",
+    "academic_pdf": "documentos/fichas/hendedura.pdf"
+  },
+  {
+    "num": 1475,
+    "cen": "CEN-3810",
+    "term": "Picadura",
+    "slug": "picadura",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pequeña mella o incisión ejecutada deliberadamente con azuela sobre un muro o madero para proporcionar agarre a un revestimiento de yeso u otro tendido. La voz designa tanto la huella material como la preparación de la superficie.",
+    "authors_text": "Benito Bails (1802); Mariano Matallana (1848); P. C. Espinosa (1859).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1802,
+      1848,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+      "Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859."
+    ],
+    "variants": "La documentación usa frecuentemente el plural picaduras, por tratarse de una serie de muescas repetidas. Picar es el verbo correspondiente en los repertorios.",
+    "comparison": "Bails define picadura como mella deliberada y ya establece su función de adherencia. Matallana y Espinosa mantienen el mismo uso en el XIX, con aplicación directa al tendido de yeso. La continuidad muestra una técnica superficial sencilla pero fundamental para el anclaje mecánico del revestimiento.",
+    "coverage": "Los testimonios de 1802–1859 son coherentes y específicos de preparación de superficies para revestimiento.",
+    "utility": "Permite reconocer huellas intencionales de obra y distinguirlas de pérdidas, desconchados o daños accidentales en paramentos antiguos.",
+    "related": [
+      "Picar",
+      "Azuela",
+      "Yeso",
+      "Revestimiento",
+      "Enlucido",
+      "Agarres",
+      "Paramento"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "PICADURAS. s. f. pl. Una especie de mellas que se hacen con azuela en un muro [...] ó en un madero que se quiere revestir de yeso, para que éste agarre.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 82 del facsímil consultado."
+      },
+      {
+        "text": "se hacen picaduras para blanquear ó tender yeso.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 212 del facsímil consultado."
+      }
+    ],
+    "search_text": "Picadura\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPequeña mella o incisión ejecutada deliberadamente con azuela sobre un muro o madero para proporcionar agarre a un revestimiento de yeso u otro tendido. La voz designa tanto la huella material como la preparación de la superficie.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición de picaduras\n«PICADURAS. s. f. pl. Una especie de mellas que se hacen con azuela en un muro [...] ó en un madero que se quiere revestir de yeso, para que éste agarre.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 82 del facsímil consultado.\nMR-P047-25-01 · CEN-3810. Define herramienta, soporte y finalidad de la operación.\nMariano Matallana · 1848\n2. Picaduras para tender yeso\n«se hacen picaduras para blanquear ó tender yeso.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 212 del facsímil consultado.\nMR-P047-25-02 · CEN-3810. Confirma la preparación de paramentos antes del revestimiento.\nP. C. Espinosa · 1859\n3. Picaduras con azuela\n«Para que agarre el yeso, se tamizan y se hacen picaduras con la azuela.»\n1859 P. C. Espinosa. Construcciones de Albañileria(9), 1859, p. 328 del facsímil consultado.\nMR-P047-25-03 · CEN-3810. Integra la operación en una secuencia constructiva de preparación para el yeso.\nLECTURA COMPARADA\nBails define picadura como mella deliberada y ya establece su función de adherencia. Matallana y Espinosa mantienen el mismo uso en el XIX, con aplicación directa al tendido de yeso. La continuidad muestra una técnica superficial sencilla pero fundamental para el anclaje mecánico del revestimiento.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa documentación usa frecuentemente el plural picaduras, por tratarse de una serie de muescas repetidas. Picar es el verbo correspondiente en los repertorios.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLos testimonios de 1802–1859 son coherentes y específicos de preparación de superficies para revestimiento.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer huellas intencionales de obra y distinguirlas de pérdidas, desconchados o daños accidentales en paramentos antiguos.\nRELACIONADO CON\nPicar; Azuela; Yeso; Revestimiento; Enlucido; Agarres; Paramento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.\n• Espinosa, P. C. Manual de construcciones de albañilería. Madrid: Imprenta a cargo de Severiano Baz, 1859.",
+    "url": "terminos/picadura/",
+    "academic_pdf": "documentos/fichas/picadura.pdf"
+  },
+  {
+    "num": 1476,
+    "cen": "CEN-0477",
+    "term": "Alfajía",
+    "slug": "alfajia",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pieza de madera de escuadría relativamente pequeña empleada en carpintería y construcción. Los repertorios del siglo XVIII registran variantes alfargía, alfagía y alfangia con dimensiones concretas; en el XIX aparece literalmente alfajía como pieza de madera. La documentación conserva además un homónimo histórico de raíz árabe con sentido de patio o atrio, que debe mantenerse separado.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); J. Adeline / José Ramón Mélida (1887); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1788,
+      1887,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.",
+      "Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.",
+      "Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876."
+    ],
+    "variants": "Para la pieza de madera se documentan alfargía, alfagía, alfangia y alfajía. La forma Alfajía queda sustentada por Adeline; el uso espacial de Mariátegui es homónimo y no variante semántica de la pieza carpintera.",
+    "comparison": "Bails y Rejón describen una pieza de madera de escuadría normalizada bajo las formas alfargía, alfagía o alfangia; Adeline acredita la grafía alfajía para una pieza de madera. Mariátegui, en cambio, usa ALFAJIA para un patio o espacio cercado de tradición árabe. La coexistencia de ambos sentidos exige separación semántica estricta.",
+    "coverage": "La documentación de 1788–1887 reúne medidas de madera, normalización lexicográfica y una acepción homónima claramente diferenciada.",
+    "utility": "Es útil para interpretar tablas de madera y vocabularios de carpintería sin confundir la pieza escuadrada con el homónimo de patio o atrio.",
+    "related": [
+      "Madero",
+      "Alfargía",
+      "Alfagía",
+      "Alfangia",
+      "Cuarto",
+      "Vigueta",
+      "Patio"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "ALFARGÍA ó ALFAGÍA. s. f. Madero de cinco dedos de canto, y siete de tabla. Su largo es de nueve ó doce pies.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 116 del facsímil consultado."
+      },
+      {
+        "text": "ALFARGIA ó ALFANGIA. s. f. A. Madero de cinco dedos de canto, y siete de tabla. Su largo es 9 ó 12 pies.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diego Antonio Rejón de Silva · 1788(9), 1788, p. 29 del facsímil consultado."
+      }
+    ],
+    "search_text": "Alfajía\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPieza de madera de escuadría relativamente pequeña empleada en carpintería y construcción. Los repertorios del siglo XVIII registran variantes alfargía, alfagía y alfangia con dimensiones concretas; en el XIX aparece literalmente alfajía como pieza de madera. La documentación conserva además un homónimo histórico de raíz árabe con sentido de patio o atrio, que debe mantenerse separado.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Alfargía o alfagía como madero\n«ALFARGÍA ó ALFAGÍA. s. f. Madero de cinco dedos de canto, y siete de tabla. Su largo es de nueve ó doce pies.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 116 del facsímil consultado.\nMR-P047-26-01 · CEN-0477. Define la pieza por su escuadría y longitud.\nDiego Antonio Rejón de Silva · 1788\n2. Alfargía en las ordenanzas\n«ALFARGIA ó ALFANGIA. s. f. A. Madero de cinco dedos de canto, y siete de tabla. Su largo es 9 ó 12 pies.»\nDiego Antonio Rejón de Silva · 1788(9), 1788, p. 29 del facsímil consultado.\nMR-P047-26-02 · CEN-0477. Confirma la variante gráfica y la normalización dimensional de la madera.\nJ. Adeline / José Ramón Mélida · 1887\n3. Alfajía como pieza de madera\n«Alfajía. [Arq.] Pieza de madera.»\n1887 J. Adeline. Vocabulario de Términos de Arte(9), 1887, p. 20 del facsímil consultado.\nMR-P047-26-03 · CEN-0477. Acredita literalmente la grafía Alfajía en repertorio arquitectónico.\nEduardo Mariátegui · 1876\n4. Homónimo: alfajía como patio\n«ALFAJIA. Patio, atrio ó sitio cercado. Los árabes llaman así al descubierto que está delante de la casa y en su entrada.»\n1876 E. Mariategui. Glosario de Arquitectura(9), 1876, p. 11 del facsímil consultado.\nMR-P047-26-04 · CEN-0477. Documenta un homónimo de sentido espacial que no debe fusionarse con la pieza de madera.\nLECTURA COMPARADA\nBails y Rejón describen una pieza de madera de escuadría normalizada bajo las formas alfargía, alfagía o alfangia; Adeline acredita la grafía alfajía para una pieza de madera. Mariátegui, en cambio, usa ALFAJIA para un patio o espacio cercado de tradición árabe. La coexistencia de ambos sentidos exige separación semántica estricta.\nVARIANTES Y CONTROL TERMINOLÓGICO\nPara la pieza de madera se documentan alfargía, alfagía, alfangia y alfajía. La forma Alfajía queda sustentada por Adeline; el uso espacial de Mariátegui es homónimo y no variante semántica de la pieza carpintera.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación de 1788–1887 reúne medidas de madera, normalización lexicográfica y una acepción homónima claramente diferenciada.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para interpretar tablas de madera y vocabularios de carpintería sin confundir la pieza escuadrada con el homónimo de patio o atrio.\nRELACIONADO CON\nMadero; Alfargía; Alfagía; Alfangia; Cuarto; Vigueta; Patio\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Rejón de Silva, Diego Antonio. Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia: Antonio Espinosa, 1788.\n• Adeline, J. Vocabulario de términos de arte. Trad., ampliado y anotado por José Ramón Mélida. Madrid: La Ilustración Española y Americana, 1887.\n• Mariátegui, Eduardo. Glosario de algunos antiguos vocablos de arquitectura y de sus artes auxiliares. Madrid: Imprenta del Memorial de Ingenieros, 1876.",
+    "url": "terminos/alfajia/",
+    "academic_pdf": "documentos/fichas/alfajia.pdf"
+  },
+  {
+    "num": 1477,
+    "cen": "CEN-0450",
+    "term": "Aldaba",
+    "slug": "aldaba",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pieza de cierre aplicada a una hoja o tapa móvil. En el testimonio arquitectónico localizado se emplea para asegurar la tapa de hierro de la boca de un horno, montada con goznes en un bastidor.",
+    "authors_text": "Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1796
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "Aldaba es la forma documentada. No se equipara aquí automáticamente con aldabilla o aldabón, voces que los repertorios distinguen por función o forma.",
+    "comparison": "El testimonio conservado no ofrece una definición abstracta, sino un uso técnico inequívoco: la aldaba cierra una tapa metálica articulada por goznes en la boca de un horno. Su alcance en esta ficha se mantiene dentro de esa función documentada y no se amplía a tipologías de herraje no descritas por el pasaje.",
+    "coverage": "La evidencia sustantiva para este sentido entre las fuentes históricas se concentra en Bails, 1796, en el contexto de hornos. La escasez documental aconseja una definición ceñida al uso comprobado.",
+    "utility": "Permite identificar un herraje de cierre en equipamiento de obra, especialmente tapas u hojas metálicas articuladas, sin confundirlo con llamadores de puerta.",
+    "related": [
+      "Herraje",
+      "Gozne",
+      "Bastidor",
+      "Hoja",
+      "Tapa",
+      "Horno",
+      "Aldabilla"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "su hoja ó tapa que es de hierro caldeado, á manera de quadrilongo, debe plantarse con goznes en un bastidor, y cerrarse con aldaba.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 312 del facsímil consultado."
+      }
+    ],
+    "search_text": "Aldaba\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPieza de cierre aplicada a una hoja o tapa móvil. En el testimonio arquitectónico localizado se emplea para asegurar la tapa de hierro de la boca de un horno, montada con goznes en un bastidor.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1796\n1. Aldaba en la tapa de un horno\n«su hoja ó tapa que es de hierro caldeado, á manera de quadrilongo, debe plantarse con goznes en un bastidor, y cerrarse con aldaba.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 312 del facsímil consultado.\nMR-P047-27-01 · CEN-0450. Acredita la voz en un dispositivo constructivo y fija su función como pieza de cierre.\nLECTURA COMPARADA\nEl testimonio conservado no ofrece una definición abstracta, sino un uso técnico inequívoco: la aldaba cierra una tapa metálica articulada por goznes en la boca de un horno. Su alcance en esta ficha se mantiene dentro de esa función documentada y no se amplía a tipologías de herraje no descritas por el pasaje.\nVARIANTES Y CONTROL TERMINOLÓGICO\nAldaba es la forma documentada. No se equipara aquí automáticamente con aldabilla o aldabón, voces que los repertorios distinguen por función o forma.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia sustantiva para este sentido entre las fuentes históricas se concentra en Bails, 1796, en el contexto de hornos. La escasez documental aconseja una definición ceñida al uso comprobado.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar un herraje de cierre en equipamiento de obra, especialmente tapas u hojas metálicas articuladas, sin confundirlo con llamadores de puerta.\nRELACIONADO CON\nHerraje; Gozne; Bastidor; Hoja; Tapa; Horno; Aldabilla\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/aldaba/",
+    "academic_pdf": "documentos/fichas/aldaba.pdf"
+  },
+  {
+    "num": 1478,
+    "cen": "CEN-0584",
+    "term": "Almendra",
+    "slug": "almendra",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Ornamento aplicado a molduras convexas, llamado así por imitar la figura del fruto del almendro. Puede presentarse en series, con variantes huecas o floroneadas y con separaciones ornamentadas entre una pieza y otra.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1796,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848."
+    ],
+    "variants": "La documentación privilegia el plural almendras, aunque el singular almendra sirve para cada motivo individual. Bails distingue formas huecas y floroneadas.",
+    "comparison": "Bails combina definición lexicográfica y explicación de composición: las almendras imitan el fruto, se aplican a cuarto boceles convexos y pueden separarse mediante entrecalles ornamentadas. Matallana conserva la acepción. El término designa una unidad ornamental seriada y no la moldura que la recibe.",
+    "coverage": "La evidencia de 1796–1848 documenta forma, soporte, variantes y disposición seriada del ornamento.",
+    "utility": "Es útil para describir perfiles ornamentados y reconocer motivos seriados que pueden confundirse genéricamente con ovas u otros adornos vegetales.",
+    "related": [
+      "Cuarto bocel",
+      "Moldura",
+      "Óvalo",
+      "Ova",
+      "Entrecalles",
+      "Florón",
+      "Ornamento"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "ALMENDRAS. s. f. pl. Adornos de algunas molduras redondas, llamados así por la semejanza que tienen con el fruto del almendro. Hay almendras huecas y almendras floroneadas.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 6 del facsímil consultado."
+      },
+      {
+        "text": "son adornos llamados almendras porque imitan la figura de esta fruta, y se usan en los quarto boceles convexos.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "1796 Benito Bails. Arquitectura Civil(9), 1796, p. 712 del facsímil consultado."
+      }
+    ],
+    "search_text": "Almendra\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nOrnamento aplicado a molduras convexas, llamado así por imitar la figura del fruto del almendro. Puede presentarse en series, con variantes huecas o floroneadas y con separaciones ornamentadas entre una pieza y otra.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición de almendras\n«ALMENDRAS. s. f. pl. Adornos de algunas molduras redondas, llamados así por la semejanza que tienen con el fruto del almendro. Hay almendras huecas y almendras floroneadas.»\n1802 Benito Bails. Diccionario de Arquitectura Civil(9), 1802, p. 6 del facsímil consultado.\nMR-P047-28-01 · CEN-0584. Define la forma, la posición ornamental y dos variantes.\nBenito Bails · 1796\n2. Almendras en cuarto bocel\n«son adornos llamados almendras porque imitan la figura de esta fruta, y se usan en los quarto boceles convexos.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 712 del facsímil consultado.\nMR-P047-28-02 · CEN-0584. Precisa la moldura sobre la que se aplica el ornamento.\nBenito Bails · 1796\n3. Separación entre almendras\n«A estas almendras á veces las separan entrecalles adornados de flores, ramilletes de laurel, semillas, &c.»\n1796 Benito Bails. Arquitectura Civil(9), 1796, p. 713 del facsímil consultado.\nMR-P047-28-03 · CEN-0584. Describe la composición seriada y sus elementos intermedios.\nMariano Matallana · 1848\n4. Almendras como adorno de moldura\n«ALMENDRAS. Adornos de algunas molduras redondas y que imitan al fruto del almendro.»\n1848 Mariano Matallana. Vocabulario de Arquitectura Civil(9), 1848, p. 24 del facsímil consultado.\nMR-P047-28-04 · CEN-0584. Confirma la acepción ornamental en el vocabulario decimonónico.\nLECTURA COMPARADA\nBails combina definición lexicográfica y explicación de composición: las almendras imitan el fruto, se aplican a cuarto boceles convexos y pueden separarse mediante entrecalles ornamentadas. Matallana conserva la acepción. El término designa una unidad ornamental seriada y no la moldura que la recibe.\nVARIANTES Y CONTROL TERMINOLÓGICO\nLa documentación privilegia el plural almendras, aunque el singular almendra sirve para cada motivo individual. Bails distingue formas huecas y floroneadas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia de 1796–1848 documenta forma, soporte, variantes y disposición seriada del ornamento.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para describir perfiles ornamentados y reconocer motivos seriados que pueden confundirse genéricamente con ovas u otros adornos vegetales.\nRELACIONADO CON\nCuarto bocel; Moldura; Óvalo; Ova; Entrecalles; Florón; Ornamento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Bails, Benito. Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Bails, Benito. Elementos de matemática. Tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Matallana, Mariano. Vocabulario de arquitectura civil. Madrid: Imprenta a cargo de Don Francisco Rodríguez, 1848.",
+    "url": "terminos/almendra/",
+    "academic_pdf": "documentos/fichas/almendra.pdf"
+  },
+  {
+    "num": 1479,
+    "cen": "CEN-4718",
+    "term": "Cathetas",
+    "slug": "cathetas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Nombre clásico aplicado por Urrea a líneas perpendiculares y, en otra acepción, a líneas cualesquiera dentro de la declaración terminológica de Vitruvio.",
+    "authors_text": "Miguel de Urrea (1582).",
+    "authors": [
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "Formas documentadas: Cathetas; líneas perpendiculares. La forma plural es la registrada por la fuente.",
+    "comparison": "Urrea ofrece una equivalencia castellana directa entre Cathetas y líneas perpendiculares, seguida de una acepción más amplia que exige atención al contexto.",
+    "coverage": "La documentación conservada reúne 1 testimonios de 1 fuentes entre 1582 y 1582, seleccionados por su aporte definitorio, técnico o histórico a la voz.",
+    "utility": "Ayuda a interpretar trazados y glosas geométricas de la tradición vitruviana en castellano.",
+    "related": [
+      "Línea perpendicular",
+      "cateto",
+      "geometría",
+      "plomada"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "Cathetas. Lineas perpendiculares. Cathetas. Otras lineas qualesquiera.",
+        "author": "Miguel de Urrea",
+        "year": "1582",
+        "source": "M. Vitruvio. Architectura, declaración de los nombres obscuros, p. 288 del facsímil."
+      }
+    ],
+    "search_text": "Cathetas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nNombre clásico aplicado por Urrea a líneas perpendiculares y, en otra acepción, a líneas cualesquiera dentro de la declaración terminológica de Vitruvio.\nCOMPARADOR TEXTUAL COMPLETO\nMiguel de Urrea · 1582\n1. Cathetas como líneas perpendiculares\n«Cathetas. Lineas perpendiculares. Cathetas. Otras lineas qualesquiera.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 288 del facsímil.\nMR-P047-29-01 · La primera glosa acredita la equivalencia geométrica; la segunda advierte una extensión contextual.\nNÚCLEO CANÓNICO\nLÍNEAS PERPENDICULARES EN NOMENCLATURA VITRUVIANA\nLECTURA COMPARADA\nUrrea ofrece una equivalencia castellana directa entre Cathetas y líneas perpendiculares, seguida de una acepción más amplia que exige atención al contexto.\nVARIANTES Y CONTROL TERMINOLÓGICO\nFormas documentadas: Cathetas; líneas perpendiculares. La forma plural es la registrada por la fuente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación conservada reúne 1 testimonios de 1 fuentes entre 1582 y 1582, seleccionados por su aporte definitorio, técnico o histórico a la voz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar trazados y glosas geométricas de la tradición vitruviana en castellano.\nRELACIONADO CON\nLínea perpendicular; cateto; geometría; plomada.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/cathetas/",
+    "academic_pdf": "documentos/fichas/cathetas.pdf"
+  },
+  {
+    "num": 1480,
+    "cen": "CEN-4724",
+    "term": "Chrysocolla",
+    "slug": "chrysocolla",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz histórica con dos glosas en Urrea: engrudo de oro y hierba empleada para producir púrpura. Las acepciones pertenecen a operaciones materiales distintas.",
+    "authors_text": "Miguel de Urrea (1582).",
+    "authors": [
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1582
+    ],
+    "centuries": [
+      "XVI"
+    ],
+    "works": [
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "Grafías documentadas: Crisocola y Chrysocola; forma catalogada: Chrysocolla.",
+    "comparison": "Urrea registra Crisocola y Chrysocola como formas próximas, pero les asigna explicaciones diferentes; la ficha conserva esa distinción.",
+    "coverage": "La documentación conservada reúne 1 testimonios de 1 fuentes entre 1582 y 1582, seleccionados por su aporte definitorio, técnico o histórico a la voz.",
+    "utility": "Permite discriminar usos de la voz en dorado y preparación de color sin reducirlos a una sola sustancia.",
+    "related": [
+      "Oro",
+      "engrudo",
+      "púrpura",
+      "pigmento",
+      "dorado"
+    ],
+    "themes": [
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Crisocola. Engrudo de oro. Chrysocola. Yerua de que se haze purpura.",
+        "author": "Miguel de Urrea",
+        "year": "1582",
+        "source": "M. Vitruvio. Architectura, declaración de los nombres obscuros, p. 289 del facsímil."
+      }
+    ],
+    "search_text": "Chrysocolla\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz histórica con dos glosas en Urrea: engrudo de oro y hierba empleada para producir púrpura. Las acepciones pertenecen a operaciones materiales distintas.\nCOMPARADOR TEXTUAL COMPLETO\nMiguel de Urrea · 1582\n1. Dos glosas de Chrysocolla\n«Crisocola. Engrudo de oro. Chrysocola. Yerua de que se haze purpura.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 289 del facsímil.\nMR-P047-30-01 · Urrea acredita la familia gráfica y conserva dos explicaciones materiales distintas.\nNÚCLEO CANÓNICO\nENGRUDO DE ORO Y MATERIA COLORANTE\nLECTURA COMPARADA\nUrrea registra Crisocola y Chrysocola como formas próximas, pero les asigna explicaciones diferentes; la ficha conserva esa distinción.\nVARIANTES Y CONTROL TERMINOLÓGICO\nGrafías documentadas: Crisocola y Chrysocola; forma catalogada: Chrysocolla.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación conservada reúne 1 testimonios de 1 fuentes entre 1582 y 1582, seleccionados por su aporte definitorio, técnico o histórico a la voz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite discriminar usos de la voz en dorado y preparación de color sin reducirlos a una sola sustancia.\nRELACIONADO CON\nOro; engrudo; púrpura; pigmento; dorado.\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/chrysocolla/",
+    "academic_pdf": "documentos/fichas/chrysocolla.pdf"
   }
 ]
