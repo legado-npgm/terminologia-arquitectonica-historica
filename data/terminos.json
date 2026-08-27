@@ -87059,5 +87059,1826 @@
     "search_text": "Estuco\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMortero fino y material de revestimiento o modelado destinado a acabado, imitación de piedras y mármoles y decoración arquitectónica. Bails lo compone de cal, yeso, arena y mármol molido; Matallana admite cal con polvo de mármol y otros agregados; Espinosa sistematiza su uso en fachadas, interiores, columnas, pilastras y esculturas y describe aplicación por capas y pulimento.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Composición del estuco\n«ESTUCO. s. m. Mezcla de cal, yeso, arena, y mármol molido, que sirve para los mismos usos que la Escayola.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 129.\nMR-P038-30-01 · CEN-2896. Definición lexicográfica.\nMariano Matallana · 1848\n2. Mortero fino para enlucidos\n«ESTUCO.=Mortero hecho de cal con polvo y arena muy fina, y algunas veces arcilla, que se emplea para los enlucidos…»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 133.\nMR-P038-30-02 · CEN-2896. Amplía composición y destino.\nPedro Celestino Espinosa · 1859\n3. Imitación y revestimiento\n«Los estucos sirven para imitar los mármoles ó piedras en la decoracion de las fachadas ó interiores de edificios, revestimientos de columnas y pilastras, esculturas, etc.»\nManual de construcciones de albañilería. Madrid: Severiano Baz, 1859. PDF p. 270.\nMR-P038-30-03 · CEN-2896. Tratamiento tecnológico del siglo XIX.\nPedro Celestino Espinosa · 1859\n4. Aplicación por capas\n«Generalmente se aplican los estucos en tres capas… la tercera es el verdadero estuco esterior.»\nManual de construcciones de albañilería. Madrid: Severiano Baz, 1859. PDF p. 270.\nMR-P038-30-04 · CEN-2896. Aporta secuencia ejecutiva y acabado.\nLECTURA COMPARADA\nLa comparación de los testimonios integrados distingue aportes concretos para «Estuco»: Benito Bails · 1802 documenta composición del estuco; Mariano Matallana · 1848 documenta mortero fino para enlucidos; Pedro Celestino Espinosa · 1859 documenta imitación y revestimiento; Pedro Celestino Espinosa · 1859 documenta aplicación por capas. Leídos conjuntamente, delimitan el uso histórico de la voz sin convertir en equivalentes automáticos los términos relacionados.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• estuco\n• estucado\n• estuque\n• estuqueria\n• estuquista\n• Se conservan las grafías históricas dentro de cada cita; la entrada mantiene la forma del Catálogo Maestro cuando está literalmente acreditada.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se limita a testimonios definitorios, técnicos o históricos que aportan contenido sustantivo a la voz.\nLa documentación integrada se limita a testimonios definitorios, técnicos o históricos que aportan contenido sustantivo a la voz.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nLa ficha permite identificar «Estuco» mediante evidencias concretas relativas a composición del estuco; mortero fino para enlucidos; imitación y revestimiento; aplicación por capas. Es útil para interpretar tratados, diccionarios y memorias históricas sin proyectar sobre la voz funciones o equivalencias posteriores no demostradas.\nRELACIONADO CON\nEnlucido · Escayola · Mortero · Mármol · Revestimiento · Pulimento\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.\n• Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
     "url": "terminos/estuco/",
     "academic_pdf": "documentos/fichas/estuco.pdf"
+  },
+  {
+    "num": 1214,
+    "cen": "CEN-4060",
+    "term": "Rebanco",
+    "slug": "rebanco",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Zócalo o moldura levantada sobre la cornisa, especialmente en el arranque de una bóveda, para separar visualmente su curvatura del coronamiento inferior y permitir que se perciba completa la vuelta. En la tradición lexicográfica del siglo XVIII y comienzos del XIX se declara equivalencia usual con sotabanco.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Jules Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1802,
+      1788,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "• Forma documentada: rebanco. Rejón de Silva y Bails establecen de manera explícita la equivalencia con sotabanco; la función en el arranque de bóveda lo distingue de banco, de un zócalo genérico y de un simple recrecido.",
+    "comparison": "Rejón de Silva (1788) y Bails (1802) coinciden en definir el rebanco como zócalo situado sobre la cornisa para que el arranque de la bóveda no oculte su vuelta, y ambos señalan sotabanco como denominación usual. Adeline/Mélida (1887) mantiene casi un siglo después la misma posición y finalidad visual, lo que muestra una continuidad terminológica excepcionalmente estable.",
+    "coverage": "La voz está documentada en tres repertorios de 1788, 1802 y 1887. Los dos primeros fijan además la equivalencia con sotabanco; el vocabulario de 1887 conserva la definición funcional sin introducir una acepción distinta.",
+    "utility": "Permite identificar en descripciones de bóvedas una pieza precisa del coronamiento: no cualquier zócalo, sino el que media entre cornisa y arranque para hacer legible la curvatura de la bóveda. También ayuda a interpretar sotabanco cuando funciona como su equivalente histórico.",
+    "related": [
+      "Sotabanco",
+      "Zócalo",
+      "Cornisa",
+      "Bóveda",
+      "Arranque",
+      "Moldura"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "REBANCO. s. m. Zócalo ó moldura que se fabrica sobre la cornisa, para que, arrancando la bóveda desde él, se vea bien toda su vuelta. Llámase regularmente Sotabanco.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 91."
+      },
+      {
+        "text": "REBANCO. s. m. A. El Zócalo que se pone sobre la cornisa de un Templo, para que arrancando la bóveda desde él, se vea bien toda su vuelta. Se llama comúnmente sotabanco.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 193."
+      }
+    ],
+    "search_text": "Rebanco\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nZócalo o moldura levantada sobre la cornisa, especialmente en el arranque de una bóveda, para separar visualmente su curvatura del coronamiento inferior y permitir que se perciba completa la vuelta. En la tradición lexicográfica del siglo XVIII y comienzos del XIX se declara equivalencia usual con sotabanco.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Zócalo sobre la cornisa para mostrar la vuelta de la bóveda\n«REBANCO. s. m. Zócalo ó moldura que se fabrica sobre la cornisa, para que, arrancando la bóveda desde él, se vea bien toda su vuelta. Llámase regularmente Sotabanco.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 91.\nMR-P039-01-01 · CEN-4060. Define la posición sobre la cornisa, la función visual respecto de la bóveda y la equivalencia con sotabanco.\nDiego Antonio Rejón de Silva · 1788\n2. Rebanco del templo y denominación común\n«REBANCO. s. m. A. El Zócalo que se pone sobre la cornisa de un Templo, para que arrancando la bóveda desde él, se vea bien toda su vuelta. Se llama comúnmente sotabanco.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 193.\nMR-P039-01-02 · CEN-4060. Confirma el mismo núcleo en repertorio académico anterior a Bails.\nJules Adeline / José Ramón Mélida · 1887\n3. Continuidad decimonónica de la definición\n«Rebanco.- [Arq.]- Recibe este nombre el zócalo ó moldura que se alza sobre una cornisa, y cuyo objeto es que se vea bien […] la vuelta de la bóveda.»\nVocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 442.\nMR-P039-01-03 · CEN-4060. Muestra continuidad terminológica y funcional en vocabulario artístico del siglo XIX.\nLECTURA COMPARADA\nRejón de Silva (1788) y Bails (1802) coinciden en definir el rebanco como zócalo situado sobre la cornisa para que el arranque de la bóveda no oculte su vuelta, y ambos señalan sotabanco como denominación usual. Adeline/Mélida (1887) mantiene casi un siglo después la misma posición y finalidad visual, lo que muestra una continuidad terminológica excepcionalmente estable.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: rebanco. Rejón de Silva y Bails establecen de manera explícita la equivalencia con sotabanco; la función en el arranque de bóveda lo distingue de banco, de un zócalo genérico y de un simple recrecido.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa voz está documentada en tres repertorios de 1788, 1802 y 1887. Los dos primeros fijan además la equivalencia con sotabanco; el vocabulario de 1887 conserva la definición funcional sin introducir una acepción distinta.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar en descripciones de bóvedas una pieza precisa del coronamiento: no cualquier zócalo, sino el que media entre cornisa y arranque para hacer legible la curvatura de la bóveda. También ayuda a interpretar sotabanco cuando funciona como su equivalente histórico.\nRELACIONADO CON\nSotabanco; Zócalo; Cornisa; Bóveda; Arranque; Moldura\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/rebanco/",
+    "academic_pdf": "documentos/fichas/rebanco.pdf"
+  },
+  {
+    "num": 1215,
+    "cen": "CEN-4298",
+    "term": "Sotabanco",
+    "slug": "sotabanco",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Denominación equivalente a rebanco para el zócalo o moldura dispuesta sobre la cornisa y bajo el arranque de una bóveda. La documentación muestra que sotabanco puede aparecer como nombre común del mismo elemento, por lo que la distinción entre ambas voces es principalmente lexical y de preferencia de uso.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Forma documentada: sotabanco. Bails y Rejón de Silva la presentan como denominación de rebanco; Matallana la vincula además con media nina. Estas equivalencias no eliminan su autonomía léxica histórica.",
+    "comparison": "En Rejón de Silva (1788) y Bails (1802), sotabanco aparece subordinado a la entrada rebanco: es el nombre común o regular del zócalo colocado sobre la cornisa para dejar visible la vuelta de la bóveda. Matallana (1848) amplía la red sinonímica al remitir media nina a sotabanco, señal de que la voz seguía operando como término de equivalencia dentro del vocabulario constructivo.",
+    "coverage": "Tres fuentes entre 1788 y 1848 aportan evidencia. Dos definen sotabanco por equivalencia con rebanco y una tercera lo recibe como término de remisión desde media nina; la documentación se concentra, por tanto, en relaciones lexicográficas explícitas.",
+    "utility": "Es útil para resolver equivalencias en inventarios, tratados y diccionarios donde rebanco, sotabanco o media nina pueden nombrar el mismo ámbito del arranque de bóveda. Evita interpretar sotabanco únicamente desde el sentido moderno de ático o cuerpo superior.",
+    "related": [
+      "Rebanco",
+      "Zócalo",
+      "Cornisa",
+      "Bóveda",
+      "Arranque",
+      "Media nina"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "REBANCO. s. m. Zócalo ó moldura que se fabrica sobre la cornisa, para que, arrancando la bóveda desde él, se vea bien toda su vuelta. Llámase regularmente Sotabanco.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 91."
+      },
+      {
+        "text": "…para que arrancando la bóveda desde él, se vea bien toda su vuelta. Se llama comúnmente sotabanco.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 193."
+      }
+    ],
+    "search_text": "Sotabanco\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDenominación equivalente a rebanco para el zócalo o moldura dispuesta sobre la cornisa y bajo el arranque de una bóveda. La documentación muestra que sotabanco puede aparecer como nombre común del mismo elemento, por lo que la distinción entre ambas voces es principalmente lexical y de preferencia de uso.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Sotabanco como denominación regular de rebanco\n«REBANCO. s. m. Zócalo ó moldura que se fabrica sobre la cornisa, para que, arrancando la bóveda desde él, se vea bien toda su vuelta. Llámase regularmente Sotabanco.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 91.\nMR-P039-02-01 · CEN-4298. La fuente establece equivalencia terminológica explícita.\nDiego Antonio Rejón de Silva · 1788\n2. Nombre común del zócalo del arranque\n«…para que arrancando la bóveda desde él, se vea bien toda su vuelta. Se llama comúnmente sotabanco.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 193.\nMR-P039-02-02 · CEN-4298. Acredita el uso de sotabanco como nombre corriente del rebanco.\nMariano Matallana · 1848\n3. Equivalencia lexicográfica complementaria\n«MEDIA NINA.=SOTABANCO.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 182.\nMR-P039-02-03 · CEN-4298. Registra una relación sinonímica adicional dentro del vocabulario constructivo decimonónico.\nLECTURA COMPARADA\nEn Rejón de Silva (1788) y Bails (1802), sotabanco aparece subordinado a la entrada rebanco: es el nombre común o regular del zócalo colocado sobre la cornisa para dejar visible la vuelta de la bóveda. Matallana (1848) amplía la red sinonímica al remitir media nina a sotabanco, señal de que la voz seguía operando como término de equivalencia dentro del vocabulario constructivo.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: sotabanco. Bails y Rejón de Silva la presentan como denominación de rebanco; Matallana la vincula además con media nina. Estas equivalencias no eliminan su autonomía léxica histórica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes entre 1788 y 1848 aportan evidencia. Dos definen sotabanco por equivalencia con rebanco y una tercera lo recibe como término de remisión desde media nina; la documentación se concentra, por tanto, en relaciones lexicográficas explícitas.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para resolver equivalencias en inventarios, tratados y diccionarios donde rebanco, sotabanco o media nina pueden nombrar el mismo ámbito del arranque de bóveda. Evita interpretar sotabanco únicamente desde el sentido moderno de ático o cuerpo superior.\nRELACIONADO CON\nRebanco; Zócalo; Cornisa; Bóveda; Arranque; Media nina\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/sotabanco/",
+    "academic_pdf": "documentos/fichas/sotabanco.pdf"
+  },
+  {
+    "num": 1216,
+    "cen": "CEN-4601",
+    "term": "Vertiente",
+    "slug": "vertiente",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Inclinación o plano inclinado por el que descienden las aguas en una cubierta; por extensión, cada uno de los faldones que componen un tejado o armadura. La voz puede designar tanto la condición geométrica de pendiente como el paño concreto que la materializa.",
+    "authors_text": "Diego Antonio Rejón de Silva (1788); Benito Bails (1802); Ricardo Marcos y Bausa (1879).",
+    "authors": [
+      "Diego Antonio Rejón de Silva",
+      "Benito Bails",
+      "Ricardo Marcos y Bausá"
+    ],
+    "years": [
+      1788,
+      1802,
+      1879
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Manual del albañil. 3.ª ed. Madrid, 1879."
+    ],
+    "variants": "• Relaciones documentadas: agua, tendido y faldón. Vertiente puede nombrar la inclinación o el plano de cubierta; por ello no equivale en todos los contextos a pendiente.",
+    "comparison": "Rejón de Silva (1788) relaciona vertiente con el «agua» de un tejado; Bails (1802) precisa el término como inclinación de los pares de una armadura; Marcos y Bausa (1879) lo aplica al plano inclinado efectivo de la cubierta y lo aproxima a tendido o faldón. La secuencia distingue con claridad la pendiente geométrica de la superficie material que la realiza.",
+    "coverage": "La documentación se reparte entre 1788, 1802 y 1879, con una definición lexicográfica, una formulación estructural y un uso práctico de cubierta. Las tres fuentes convergen en el descenso de aguas, pero no reducen vertiente a una sola categoría geométrica.",
+    "utility": "Ayuda a interpretar planos y descripciones de cubiertas cuando vertiente puede significar tanto la inclinación de los pares como el faldón resultante. La distinción es especialmente útil para no confundir agua, pendiente, tendido y faldón en documentación histórica.",
+    "related": [
+      "Agua de tejado",
+      "Faldón",
+      "Tendido",
+      "Armadura",
+      "Cubierta",
+      "Pendiente",
+      "Par"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "AGUA. s. f. A. Llámase así el vertiente de un texado.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 26."
+      },
+      {
+        "text": "VERTIENTE. s. m. La inclinacion de los pares de una armadura.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 111."
+      }
+    ],
+    "search_text": "Vertiente\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInclinación o plano inclinado por el que descienden las aguas en una cubierta; por extensión, cada uno de los faldones que componen un tejado o armadura. La voz puede designar tanto la condición geométrica de pendiente como el paño concreto que la materializa.\nCOMPARADOR TEXTUAL COMPLETO\nDiego Antonio Rejón de Silva · 1788\n1. Vertiente como agua de tejado\n«AGUA. s. f. A. Llámase así el vertiente de un texado.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 26.\nMR-P039-03-01 · CEN-4601. El repertorio equipara agua y vertiente en la lectura de cubiertas.\nBenito Bails · 1802\n2. Definición geométrica en armaduras\n«VERTIENTE. s. m. La inclinacion de los pares de una armadura.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 111.\nMR-P039-03-02 · CEN-4601. Aísla el sentido técnico como inclinación de la estructura de cubierta.\nRicardo Marcos y Bausa · 1879\n3. Vertientes como planos inclinados de cubierta\n«…la cubierta en este caso tiene dos vertientes ó planos inclinados opuestos que se contrarestan. Estas vertientes reciben el nombre de tendidos ó faldones…»\nManual del albañil. 3.ª ed. Madrid, 1879. PDF p. 98.\nMR-P039-03-03 · CEN-4601. Distingue el plano inclinado y sus equivalentes funcionales en carpintería de cubierta.\nLECTURA COMPARADA\nRejón de Silva (1788) relaciona vertiente con el «agua» de un tejado; Bails (1802) precisa el término como inclinación de los pares de una armadura; Marcos y Bausa (1879) lo aplica al plano inclinado efectivo de la cubierta y lo aproxima a tendido o faldón. La secuencia distingue con claridad la pendiente geométrica de la superficie material que la realiza.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Relaciones documentadas: agua, tendido y faldón. Vertiente puede nombrar la inclinación o el plano de cubierta; por ello no equivale en todos los contextos a pendiente.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación se reparte entre 1788, 1802 y 1879, con una definición lexicográfica, una formulación estructural y un uso práctico de cubierta. Las tres fuentes convergen en el descenso de aguas, pero no reducen vertiente a una sola categoría geométrica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar planos y descripciones de cubiertas cuando vertiente puede significar tanto la inclinación de los pares como el faldón resultante. La distinción es especialmente útil para no confundir agua, pendiente, tendido y faldón en documentación histórica.\nRELACIONADO CON\nAgua de tejado; Faldón; Tendido; Armadura; Cubierta; Pendiente; Par\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Manual del albañil. 3.ª ed. Madrid, 1879.",
+    "url": "terminos/vertiente/",
+    "academic_pdf": "documentos/fichas/vertiente.pdf"
+  },
+  {
+    "num": 1217,
+    "cen": "CEN-0855",
+    "term": "Aparador",
+    "slug": "aparador",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Mueble destinado a disponer vajilla y objetos del servicio de mesa; en la distribución arquitectónica doméstica también da nombre a la pieza de apoyo inmediata al comedor donde ese servicio se prepara o dispone. La documentación conserva así una polisemia entre objeto de mobiliario y recinto funcional.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796); Jules Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Benito Bails",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1802,
+      1796,
+      1887
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "• Polisemia histórica: aparador como mueble de servicio y «pieza de aparador» como espacio auxiliar inmediato al comedor. Las dos acepciones deben mantenerse separadas por su escala y función.",
+    "comparison": "Bails (1796) usa «pieza de aparador» para un espacio auxiliar del comedor, mientras que su diccionario de 1802 define aparador como mesa grande destinada al servicio y exhibición de los objetos de mesa. Adeline/Mélida (1887) consolida la acepción mobiliaria como mueble para vajilla, argentería y cristal. La evidencia revela una polisemia entre recinto de servicio y mueble especializado, con mayor persistencia lexicográfica de este último.",
+    "coverage": "Tres testimonios de 1796, 1802 y 1887 documentan dos acepciones. La espacial aparece en el tratado de distribución doméstica de Bails; la mobiliaria se registra en dos repertorios separados por casi un siglo.",
+    "utility": "Permite distinguir, en plantas, inventarios y descripciones domésticas, cuándo aparador designa un mueble y cuándo una pieza funcional asociada al comedor. Esa diferencia modifica la lectura del programa interior y de las prácticas de servicio de mesa.",
+    "related": [
+      "Comedor",
+      "Vestíbulo",
+      "Antecámara",
+      "Repostería",
+      "Mueble",
+      "Vajilla"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "APARADOR. s. m. Mesa grande con gradas ó sin ellas, que se pone en un vestíbulo, antesala ó comedor, donde se colocan las cosas necesarias para el servicio de la mesa…",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 7."
+      },
+      {
+        "text": "Quando el edificio no sufriere antecámara antes del comedor, podrá suplirla el vestíbulo, el qual tambien servirá de pieza de aparador.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 90."
+      }
+    ],
+    "search_text": "Aparador\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMueble destinado a disponer vajilla y objetos del servicio de mesa; en la distribución arquitectónica doméstica también da nombre a la pieza de apoyo inmediata al comedor donde ese servicio se prepara o dispone. La documentación conserva así una polisemia entre objeto de mobiliario y recinto funcional.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Aparador como mesa de servicio y ostentación\n«APARADOR. s. m. Mesa grande con gradas ó sin ellas, que se pone en un vestíbulo, antesala ó comedor, donde se colocan las cosas necesarias para el servicio de la mesa…»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 7.\nMR-P039-04-01 · CEN-0855. La entrada documenta la forma del mueble, sus ubicaciones posibles y su uso en el servicio de mesa.\nBenito Bails · 1796\n2. Pieza de aparador vinculada al comedor\n«Quando el edificio no sufriere antecámara antes del comedor, podrá suplirla el vestíbulo, el qual tambien servirá de pieza de aparador.»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 90.\nMR-P039-04-02 · CEN-0855. Acredita la acepción espacial en el programa doméstico.\nJules Adeline / José Ramón Mélida · 1887\n3. Aparador como mueble con anaquelería\n«Aparador.-(Buffet.)-[Arte dec.]- Mueble en el cual se depositan las vajillas, la argentería y el cristal de mesa.»\nVocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 31.\nMR-P039-04-03 · CEN-0855. Confirma en el siglo XIX la acepción de mobiliario y su función de depósito/exhibición.\nLECTURA COMPARADA\nBails (1796) usa «pieza de aparador» para un espacio auxiliar del comedor, mientras que su diccionario de 1802 define aparador como mesa grande destinada al servicio y exhibición de los objetos de mesa. Adeline/Mélida (1887) consolida la acepción mobiliaria como mueble para vajilla, argentería y cristal. La evidencia revela una polisemia entre recinto de servicio y mueble especializado, con mayor persistencia lexicográfica de este último.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Polisemia histórica: aparador como mueble de servicio y «pieza de aparador» como espacio auxiliar inmediato al comedor. Las dos acepciones deben mantenerse separadas por su escala y función.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres testimonios de 1796, 1802 y 1887 documentan dos acepciones. La espacial aparece en el tratado de distribución doméstica de Bails; la mobiliaria se registra en dos repertorios separados por casi un siglo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite distinguir, en plantas, inventarios y descripciones domésticas, cuándo aparador designa un mueble y cuándo una pieza funcional asociada al comedor. Esa diferencia modifica la lectura del programa interior y de las prácticas de servicio de mesa.\nRELACIONADO CON\nComedor; Vestíbulo; Antecámara; Repostería; Mueble; Vajilla\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/aparador/",
+    "academic_pdf": "documentos/fichas/aparador.pdf"
+  },
+  {
+    "num": 1218,
+    "cen": "CEN-1742",
+    "term": "Bibliotecas",
+    "slug": "bibliotecas",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Espacios destinados a guardar, ordenar, consultar y preservar libros. La tradición vitruviana prescribe orientación oriental por la luz matutina y por razones de conservación; en el siglo XIX se las concibe además como edificios o salas susceptibles de un carácter arquitectónico grave, majestuoso y ricamente decorado.",
+    "authors_text": "Marco Vitruvio / Claude Perrault / Joseph Castañeda (1761); Marco Vitruvio Polión / Joseph Ortiz y Sanz (1787); Mariano Matallana (1848).",
+    "authors": [
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda",
+      "Joseph Francisco Ortiz y Sanz",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1761,
+      1787,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.",
+      "Los diez libros de Arquitectura de M. Vitruvio Polión. Madrid: Imprenta Real, 1787.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Número documentado: biblioteca / bibliotecas. La voz puede designar una pieza doméstica o un ámbito de mayor entidad; la orientación oriental pertenece a la prescripción histórica de las fuentes, no a una regla universal.",
+    "comparison": "Las versiones vitruvianas de 1761 y 1787 coinciden en orientar las bibliotecas al oriente: la luz matutina favorece su uso y la exposición evita condiciones que dañan los libros. Matallana (1848) desplaza el énfasis hacia el carácter arquitectónico, que juzga grave y majestuoso pero compatible con riqueza ornamental. La voz pasa así de una prescripción ambiental y de conservación a una consideración explícita de decoro y representación.",
+    "coverage": "Tres fuentes entre 1761 y 1848 sostienen la ficha. Dos traducciones de la tradición vitruviana concentran la evidencia sobre orientación y conservación; Matallana añade el criterio decimonónico de carácter y magnificencia arquitectónica.",
+    "utility": "Sirve para interpretar la biblioteca histórica como espacio condicionado por luz, orientación y conservación de libros, y no sólo como local de almacenamiento. También aporta criterios para estudiar su creciente dimensión representativa en la arquitectura del siglo XIX.",
+    "related": [
+      "Librería",
+      "Gabinete",
+      "Estantería",
+      "Colegio",
+      "Academia",
+      "Orientación",
+      "Luz"
+    ],
+    "themes": [
+      "Teoría y composición"
+    ],
+    "quotes": [
+      {
+        "text": "Las Bibliotecas deben estar al Levante, porque su uso pide la luz de la mañana: además que los Libros […] no se maltratan tanto como en las Bibliotecas que miran ácia el Mediodia y Poniente…",
+        "author": "Marco Vitruvio / Claude Perrault / Joseph Castañeda",
+        "year": "1761",
+        "source": "Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761. PDF p. 71."
+      },
+      {
+        "text": "Los dormitorios y las bibliotecas deben mirar al oriente; pues su uso requiere luz matutinal: tambien porque en estas bibliotecas no se pudren los libros…",
+        "author": "Marco Vitruvio Polión / Joseph Ortiz y Sanz",
+        "year": "1787",
+        "source": "Los diez libros de Arquitectura de M. Vitruvio Polión. Madrid: Imprenta Real, 1787. PDF p. 166."
+      }
+    ],
+    "search_text": "Bibliotecas\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEspacios destinados a guardar, ordenar, consultar y preservar libros. La tradición vitruviana prescribe orientación oriental por la luz matutina y por razones de conservación; en el siglo XIX se las concibe además como edificios o salas susceptibles de un carácter arquitectónico grave, majestuoso y ricamente decorado.\nCOMPARADOR TEXTUAL COMPLETO\nMarco Vitruvio / Claude Perrault / Joseph Castañeda · 1761\n1. Orientación oriental y conservación de los libros\n«Las Bibliotecas deben estar al Levante, porque su uso pide la luz de la mañana: además que los Libros […] no se maltratan tanto como en las Bibliotecas que miran ácia el Mediodia y Poniente…»\nCompendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761. PDF p. 71.\nMR-P039-05-01 · CEN-1742. Vincula orientación, uso y conservación material de los libros.\nMarco Vitruvio Polión / Joseph Ortiz y Sanz · 1787\n2. Luz matutinal y protección frente a humedad y polilla\n«Los dormitorios y las bibliotecas deben mirar al oriente; pues su uso requiere luz matutinal: tambien porque en estas bibliotecas no se pudren los libros…»\nLos diez libros de Arquitectura de M. Vitruvio Polión. Madrid: Imprenta Real, 1787. PDF p. 166.\nMR-P039-05-02 · CEN-1742. Reformula la regla vitruviana con causa higrotérmica explícita.\nMariano Matallana · 1848\n3. Carácter y decoro arquitectónico de la biblioteca\n«Si bien una biblioteca exige una arquitectura de un estilo grave y magestuoso, no por esto hemos de decir que no es susceptible de toda la riqueza y magnificencia del arte…»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 63.\nMR-P039-05-03 · CEN-1742. Añade la dimensión tipológica, representativa y decorativa del siglo XIX.\nLECTURA COMPARADA\nLas versiones vitruvianas de 1761 y 1787 coinciden en orientar las bibliotecas al oriente: la luz matutina favorece su uso y la exposición evita condiciones que dañan los libros. Matallana (1848) desplaza el énfasis hacia el carácter arquitectónico, que juzga grave y majestuoso pero compatible con riqueza ornamental. La voz pasa así de una prescripción ambiental y de conservación a una consideración explícita de decoro y representación.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Número documentado: biblioteca / bibliotecas. La voz puede designar una pieza doméstica o un ámbito de mayor entidad; la orientación oriental pertenece a la prescripción histórica de las fuentes, no a una regla universal.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes entre 1761 y 1848 sostienen la ficha. Dos traducciones de la tradición vitruviana concentran la evidencia sobre orientación y conservación; Matallana añade el criterio decimonónico de carácter y magnificencia arquitectónica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nSirve para interpretar la biblioteca histórica como espacio condicionado por luz, orientación y conservación de libros, y no sólo como local de almacenamiento. También aporta criterios para estudiar su creciente dimensión representativa en la arquitectura del siglo XIX.\nRELACIONADO CON\nLibrería; Gabinete; Estantería; Colegio; Academia; Orientación; Luz\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.\n• Los diez libros de Arquitectura de M. Vitruvio Polión. Madrid: Imprenta Real, 1787.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/bibliotecas/",
+    "academic_pdf": "documentos/fichas/bibliotecas.pdf"
+  },
+  {
+    "num": 1219,
+    "cen": "CEN-4228",
+    "term": "Sepulcros",
+    "slug": "sepulcros",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Obras, receptáculos o lugares de enterramiento destinados a contener o conmemorar restos humanos. La documentación relaciona la voz con monumentos funerarios, panteones, sarcófagos y tumbas; su escala oscila entre el nicho o caja sepulcral y grandes construcciones conmemorativas.",
+    "authors_text": "León Battista Alberti / Francisco Lozano (1582); Mariano Matallana (1848).",
+    "authors": [
+      "León Battista Alberti",
+      "Francisco Lozano",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1582,
+      1848
+    ],
+    "centuries": [
+      "XVI",
+      "XIX"
+    ],
+    "works": [
+      "Los diez libros de Architectura. Madrid, 1582.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Número: sepulcro / sepulcros. Tumba, sarcófago, panteón, enterramiento y mausoleo pertenecen al mismo campo funerario, pero varían en forma, escala y alcance conmemorativo y no son sinónimos absolutos.",
+    "comparison": "Alberti/Lozano (1582) trata los sepulcros como un género amplio susceptible de emplazamiento, ornamento y gran gasto. Matallana (1848) ordena ese campo mediante dos entradas: panteón como recinto para varios sepulcros y tumba como término que puede abarcar sepulcro, nicho, bóveda o panteón. La documentación muestra una familia funeraria jerarquizada por escala, forma de depósito y función conmemorativa.",
+    "coverage": "La evidencia integrada procede de dos obras muy distantes cronológicamente: Alberti/Lozano en 1582 y Matallana en 1848. El primer testimonio es doctrinal y tipológico; los dos de Matallana precisan relaciones lexicográficas dentro del vocabulario funerario.",
+    "utility": "Permite discriminar en fuentes funerarias entre sepulcro como término general y formas específicas como tumba, panteón o nicho. Esa distinción es útil para estudiar tanto la materialidad del enterramiento como su escala monumental y conmemorativa.",
+    "related": [
+      "Sepulcro",
+      "Tumba",
+      "Sarcófago",
+      "Panteón",
+      "Mausoleo",
+      "Enterramiento",
+      "Monumento funerario"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "Sepulcros de increíble gasto… Sepulcros de los Antonios… Sepulcros quanto los adornauan… Sepulcros en los caminos…",
+        "author": "León Battista Alberti / Francisco Lozano",
+        "year": "1582",
+        "source": "Los diez libros de Architectura. Madrid, 1582. PDF p. 382."
+      },
+      {
+        "text": "Iglesia, capilla ó local que se destina y acomoda para contener varios sepulcros de hombres célebres, príncipes ó individuos de una familia.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 204."
+      }
+    ],
+    "search_text": "Sepulcros\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nObras, receptáculos o lugares de enterramiento destinados a contener o conmemorar restos humanos. La documentación relaciona la voz con monumentos funerarios, panteones, sarcófagos y tumbas; su escala oscila entre el nicho o caja sepulcral y grandes construcciones conmemorativas.\nCOMPARADOR TEXTUAL COMPLETO\nLeón Battista Alberti / Francisco Lozano · 1582\n1. Sepulcros como género arquitectónico y funerario\n«Sepulcros de increíble gasto… Sepulcros de los Antonios… Sepulcros quanto los adornauan… Sepulcros en los caminos…»\nLos diez libros de Architectura. Madrid, 1582. PDF p. 382.\nMR-P039-06-01 · CEN-4228. El índice de Alberti muestra la extensión temática del sepulcro: gasto, ornato, emplazamiento y memoria.\nMariano Matallana · 1848\n2. Panteón como recinto de varios sepulcros\n«Iglesia, capilla ó local que se destina y acomoda para contener varios sepulcros de hombres célebres, príncipes ó individuos de una familia.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 204.\nMR-P039-06-02 · CEN-4228. Sitúa los sepulcros dentro de una tipología funeraria colectiva.\nMariano Matallana · 1848\n3. Tumba como conjunto de equivalentes funerarios\n«TUMBA. Sepulcro, nicho, bóveda, panteón, sitio en que se deposita un cadáver.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 259.\nMR-P039-06-03 · CEN-4228. Expone la red semántica funeraria decimonónica y los límites entre voces próximas.\nLECTURA COMPARADA\nAlberti/Lozano (1582) trata los sepulcros como un género amplio susceptible de emplazamiento, ornamento y gran gasto. Matallana (1848) ordena ese campo mediante dos entradas: panteón como recinto para varios sepulcros y tumba como término que puede abarcar sepulcro, nicho, bóveda o panteón. La documentación muestra una familia funeraria jerarquizada por escala, forma de depósito y función conmemorativa.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Número: sepulcro / sepulcros. Tumba, sarcófago, panteón, enterramiento y mausoleo pertenecen al mismo campo funerario, pero varían en forma, escala y alcance conmemorativo y no son sinónimos absolutos.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada procede de dos obras muy distantes cronológicamente: Alberti/Lozano en 1582 y Matallana en 1848. El primer testimonio es doctrinal y tipológico; los dos de Matallana precisan relaciones lexicográficas dentro del vocabulario funerario.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite discriminar en fuentes funerarias entre sepulcro como término general y formas específicas como tumba, panteón o nicho. Esa distinción es útil para estudiar tanto la materialidad del enterramiento como su escala monumental y conmemorativa.\nRELACIONADO CON\nSepulcro; Tumba; Sarcófago; Panteón; Mausoleo; Enterramiento; Monumento funerario\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Los diez libros de Architectura. Madrid, 1582.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/sepulcros/",
+    "academic_pdf": "documentos/fichas/sepulcros.pdf"
+  },
+  {
+    "num": 1220,
+    "cen": "CEN-1698",
+    "term": "Barda",
+    "slug": "barda",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cubierta protectora colocada sobre cercas o paredes, tradicionalmente hecha con sarmientos, paja, espinos u otros materiales y asegurada con tierra o piedras; también aparece equiparada con albardilla. Su función principal es proteger la coronación de los muros de la lluvia y del deterioro.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1788,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876."
+    ],
+    "variants": "• Relaciones históricas: barda, bardaguera y albardilla. La equivalencia depende del contexto material: la barda descrita por Bails es una cubierta vegetal asegurada sobre la coronación del muro.",
+    "comparison": "Rejón de Silva (1788) equipara barda con albardilla, pero Bails (1802) aporta una definición material más específica: cubierta de sarmientos, paja o espinos asegurada sobre cercas y paredes para conservarlas. Mariátegui (1876) recupera bardaguera y la remite a barda, también como albardilla vegetal. La comparación muestra que la equivalencia con albardilla convive con una especialización por material y función protectora.",
+    "coverage": "Tres repertorios de 1788, 1802 y 1876 documentan la voz y sus relaciones. Bails ofrece la descripción constructiva más completa; Rejón y Mariátegui sitúan barda dentro de una red histórica con albardilla y bardaguera.",
+    "utility": "Ayuda a reconocer coronaciones ligeras y vegetales sobre tapias o cercas que podrían confundirse con albardillas pétreas o de fábrica. Es relevante para interpretar soluciones de protección de muros de tierra y técnicas vernáculas de remate.",
+    "related": [
+      "Albardilla",
+      "Bardaguera",
+      "Cerca",
+      "Tapia",
+      "Coronación",
+      "Cubierta",
+      "Muro"
+    ],
+    "themes": [
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "BARDA. s. f. Cubierta de sarmientas, paja, espinos, &c. que se pone asegurada con tierra ó piedras sobre las cercas de tapia de tierra, y sobre las paredes de fabrica… para su conservacion.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 15."
+      },
+      {
+        "text": "BARDA, s. f. A. Lo mismo que Albardilla.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 49."
+      }
+    ],
+    "search_text": "Barda\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCubierta protectora colocada sobre cercas o paredes, tradicionalmente hecha con sarmientos, paja, espinos u otros materiales y asegurada con tierra o piedras; también aparece equiparada con albardilla. Su función principal es proteger la coronación de los muros de la lluvia y del deterioro.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Cubierta provisional o protectora de cercas y paredes\n«BARDA. s. f. Cubierta de sarmientas, paja, espinos, &c. que se pone asegurada con tierra ó piedras sobre las cercas de tapia de tierra, y sobre las paredes de fabrica… para su conservacion.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 15.\nMR-P039-07-01 · CEN-1698. Define material, colocación y finalidad protectora.\nDiego Antonio Rejón de Silva · 1788\n2. Equivalencia con albardilla\n«BARDA, s. f. A. Lo mismo que Albardilla.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 49.\nMR-P039-07-02 · CEN-1698. Registra una equivalencia funcional en el vocabulario académico del XVIII.\nEduardo Mariátegui · 1876\n3. Testimonio histórico de barda sobre pared\n«BARDAGUERA. Albardilla de ramas, hierbas ó broza […] = BARDA.»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 29.\nMR-P039-07-03 · CEN-1698. Conserva la tradición constructiva de cubiertas vegetales sobre coronaciones murarias.\nLECTURA COMPARADA\nRejón de Silva (1788) equipara barda con albardilla, pero Bails (1802) aporta una definición material más específica: cubierta de sarmientos, paja o espinos asegurada sobre cercas y paredes para conservarlas. Mariátegui (1876) recupera bardaguera y la remite a barda, también como albardilla vegetal. La comparación muestra que la equivalencia con albardilla convive con una especialización por material y función protectora.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Relaciones históricas: barda, bardaguera y albardilla. La equivalencia depende del contexto material: la barda descrita por Bails es una cubierta vegetal asegurada sobre la coronación del muro.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres repertorios de 1788, 1802 y 1876 documentan la voz y sus relaciones. Bails ofrece la descripción constructiva más completa; Rejón y Mariátegui sitúan barda dentro de una red histórica con albardilla y bardaguera.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a reconocer coronaciones ligeras y vegetales sobre tapias o cercas que podrían confundirse con albardillas pétreas o de fábrica. Es relevante para interpretar soluciones de protección de muros de tierra y técnicas vernáculas de remate.\nRELACIONADO CON\nAlbardilla; Bardaguera; Cerca; Tapia; Coronación; Cubierta; Muro\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+    "url": "terminos/barda/",
+    "academic_pdf": "documentos/fichas/barda.pdf"
+  },
+  {
+    "num": 1221,
+    "cen": "CEN-2015",
+    "term": "Casa",
+    "slug": "casa",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Edificio o conjunto de piezas destinado principalmente a habitación. La tradición histórica amplía el término mediante numerosas subtipologías -casa medianera, de placer, de campo, principal, privada- y vincula su calidad a distribución, comodidad, servicio, orientación y jerarquía de piezas.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Marco Vitruvio / Claude Perrault / Joseph Castañeda (1761); Benito Bails (1796).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda"
+    ],
+    "years": [
+      1802,
+      1788,
+      1761,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Número: casa / casas. La voz admite compuestos tipológicos como casa de campo o casa de placer; cuando la fuente especifica función, localización o rango, esas denominaciones deben conservarse diferenciadas de la casa genérica.",
+    "comparison": "Rejón de Silva (1788) y Bails (1802) definen casa desde la habitación, mientras la tradición vitruviana de 1761 descompone la casa particular en patios, vestíbulos, salones, comedores, alcobas, gabinetes y bibliotecas. Bails (1796) introduce además diferencias de escala y jerarquía según la condición del dueño. La voz articula así edificio habitacional, organización de piezas y rango social de la distribución.",
+    "coverage": "Cuatro testimonios de 1761, 1788, 1796 y 1802 aportan una cobertura concentrada en el siglo XVIII y comienzos del XIX. Dos fuentes definen la voz, una desarrolla su programa espacial y otra relaciona la dimensión de los apartamientos con la jerarquía doméstica.",
+    "utility": "Ofrece una base para leer la casa histórica como sistema de piezas y jerarquías, no como simple sinónimo de vivienda contemporánea. Facilita distinguir la definición general de casa de sus compuestos tipológicos y de las reglas de distribución doméstica.",
+    "related": [
+      "Habitación",
+      "Apartamiento",
+      "Palacio",
+      "Granja",
+      "Casa de campo",
+      "Casa de placer",
+      "Distribución",
+      "Pieza"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "CASA. s. f. Edificio con diferentes piezas que sirve de habitacion.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 24."
+      },
+      {
+        "text": "CASA. s. f. A. Edificio para la habitación de las personas particulares.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 69."
+      }
+    ],
+    "search_text": "Casa\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEdificio o conjunto de piezas destinado principalmente a habitación. La tradición histórica amplía el término mediante numerosas subtipologías -casa medianera, de placer, de campo, principal, privada- y vincula su calidad a distribución, comodidad, servicio, orientación y jerarquía de piezas.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición general de casa\n«CASA. s. f. Edificio con diferentes piezas que sirve de habitacion.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 24.\nMR-P039-08-01 · CEN-2015. Condensa el núcleo residencial y la composición por piezas.\nDiego Antonio Rejón de Silva · 1788\n2. Casa como habitación de particulares\n«CASA. s. f. A. Edificio para la habitación de las personas particulares.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 69.\nMR-P039-08-02 · CEN-2015. Aporta una formulación profesional del siglo XVIII centrada en el uso doméstico.\nMarco Vitruvio / Claude Perrault / Joseph Castañeda · 1761\n3. Partes de la casa particular\n«…las Casas particulares […] describiendo las partes que las componian, como son Patios, Vestibulos, Salones, Piezas de comer, Alcobas, Gavinetes y Bibliotecas.»\nCompendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761. PDF p. 26.\nMR-P039-08-03 · CEN-2015. Documenta la casa como sistema distributivo de espacios especializados.\nBenito Bails · 1796\n4. Jerarquía y organización de los apartamientos\n«Los apartamientos pequeños son á propósito para los hombres de medianas conveniencias; pero en las casas de los Señores, desdicen de la grandeza del dueño…»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 57.\nMR-P039-08-04 · CEN-2015. Muestra la dimensión social y jerárquica de la distribución doméstica.\nLECTURA COMPARADA\nRejón de Silva (1788) y Bails (1802) definen casa desde la habitación, mientras la tradición vitruviana de 1761 descompone la casa particular en patios, vestíbulos, salones, comedores, alcobas, gabinetes y bibliotecas. Bails (1796) introduce además diferencias de escala y jerarquía según la condición del dueño. La voz articula así edificio habitacional, organización de piezas y rango social de la distribución.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Número: casa / casas. La voz admite compuestos tipológicos como casa de campo o casa de placer; cuando la fuente especifica función, localización o rango, esas denominaciones deben conservarse diferenciadas de la casa genérica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nCuatro testimonios de 1761, 1788, 1796 y 1802 aportan una cobertura concentrada en el siglo XVIII y comienzos del XIX. Dos fuentes definen la voz, una desarrolla su programa espacial y otra relaciona la dimensión de los apartamientos con la jerarquía doméstica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nOfrece una base para leer la casa histórica como sistema de piezas y jerarquías, no como simple sinónimo de vivienda contemporánea. Facilita distinguir la definición general de casa de sus compuestos tipológicos y de las reglas de distribución doméstica.\nRELACIONADO CON\nHabitación; Apartamiento; Palacio; Granja; Casa de campo; Casa de placer; Distribución; Pieza\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/casa/",
+    "academic_pdf": "documentos/fichas/casa.pdf"
+  },
+  {
+    "num": 1222,
+    "cen": "CEN-2831",
+    "term": "Esquadra",
+    "slug": "esquadra",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Instrumento formado por dos reglas o piernas inmóviles que se encuentran en ángulo recto, empleado para trazar, comprobar y trasladar perpendicularidades. En obra y cantería «a esquadra» expresa también la relación geométrica de dos caras, maderos o paramentos a noventa grados.",
+    "authors_text": "Benito Bails (1802); Simonin / Fausto Martínez de la Torre / Josef Asensio (1795); Antonio Pló y Camín (1767).",
+    "authors": [
+      "Benito Bails",
+      "Simonin",
+      "Fausto Martínez de la Torre",
+      "Josef Asensio",
+      "Antonio Plo y Camín"
+    ],
+    "years": [
+      1802,
+      1795,
+      1767
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Tratado elemental de los cortes de cantería, o Arte de la Montea. Madrid: Viuda de Josef García, 1795.",
+      "El arquitecto práctico, civil, militar y agrimensor. Madrid: Pantaleón Aznar, 1767."
+    ],
+    "variants": "• Grafía histórica documentada: esquadra; forma moderna: escuadra. La locución «a esquadra» expresa una disposición en ángulo recto y deriva de la función del instrumento.",
+    "comparison": "Pló y Camín (1767) documenta la esquadra en uso efectivo para obtener una perpendicular. Simonin (1795) y Bails (1802) convierten esa práctica en definición de instrumento: dos reglas reunidas en ángulo recto, destinadas a verificar o trazar esa relación. El uso operativo precede a las formulaciones lexicográficas y confirma que el valor técnico se funda en la construcción del ángulo recto.",
+    "coverage": "Tres fuentes entre 1767 y 1802 aportan evidencia: un tratado práctico de arquitectura y agrimensura, un manual de montea y un diccionario de arquitectura. La convergencia entre uso y definición fija con claridad la función geométrica del instrumento.",
+    "utility": "Permite interpretar instrucciones de trazado y comprobación donde «con la esquadra» o «a esquadra» expresa perpendicularidad material. Resulta clave para diferenciar el instrumento de otras reglas y cartabones y para leer operaciones de cantería y medición.",
+    "related": [
+      "Escuadra",
+      "Ángulo recto",
+      "Perpendicular",
+      "Cartabón",
+      "Regla",
+      "Cantería",
+      "Agrimensura"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "ESQUADRA. s. f. Instrumento de hierro, madera, &c. compuesto de dos reglas inmobles, llamadas piernas de la esquadra, cada una perpendicular al extremo de la otra, de modo que forman un ángulo recto…",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 46."
+      },
+      {
+        "text": "ESQUADRA s. f. Instrumento de hierro ó madera compuesto de dos reglas que se juntan en ángulo recto, el qual sirve para verificar los ángulos de esta especie.",
+        "author": "Simonin / Fausto Martínez de la Torre / Josef Asensio",
+        "year": "1795",
+        "source": "Tratado elemental de los cortes de cantería, o Arte de la Montea. Madrid: Viuda de Josef García, 1795. PDF p. 15."
+      }
+    ],
+    "search_text": "Esquadra\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInstrumento formado por dos reglas o piernas inmóviles que se encuentran en ángulo recto, empleado para trazar, comprobar y trasladar perpendicularidades. En obra y cantería «a esquadra» expresa también la relación geométrica de dos caras, maderos o paramentos a noventa grados.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición del instrumento\n«ESQUADRA. s. f. Instrumento de hierro, madera, &c. compuesto de dos reglas inmobles, llamadas piernas de la esquadra, cada una perpendicular al extremo de la otra, de modo que forman un ángulo recto…»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 46.\nMR-P039-09-01 · CEN-2831. Fija la constitución del instrumento mediante dos reglas y su relación esencial de ángulo recto.\nSimonin / Fausto Martínez de la Torre / Josef Asensio · 1795\n2. Esquadra para verificar ángulos rectos\n«ESQUADRA s. f. Instrumento de hierro ó madera compuesto de dos reglas que se juntan en ángulo recto, el qual sirve para verificar los ángulos de esta especie.»\nTratado elemental de los cortes de cantería, o Arte de la Montea. Madrid: Viuda de Josef García, 1795. PDF p. 15.\nMR-P039-09-02 · CEN-2831. Confirma el uso metrológico en cantería y montea.\nAntonio Pló y Camín · 1767\n3. Uso instrumental en medición\n«Haviendo hallado con la esquadra el punto F, sobre el que debe cortar la perpendicular…»\nEl arquitecto práctico, civil, militar y agrimensor. Madrid: Pantaleón Aznar, 1767. PDF p. 74.\nMR-P039-09-03 · CEN-2831. Muestra la aplicación práctica de la esquadra en operaciones geométricas de campo.\nLECTURA COMPARADA\nPló y Camín (1767) documenta la esquadra en uso efectivo para obtener una perpendicular. Simonin (1795) y Bails (1802) convierten esa práctica en definición de instrumento: dos reglas reunidas en ángulo recto, destinadas a verificar o trazar esa relación. El uso operativo precede a las formulaciones lexicográficas y confirma que el valor técnico se funda en la construcción del ángulo recto.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Grafía histórica documentada: esquadra; forma moderna: escuadra. La locución «a esquadra» expresa una disposición en ángulo recto y deriva de la función del instrumento.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes entre 1767 y 1802 aportan evidencia: un tratado práctico de arquitectura y agrimensura, un manual de montea y un diccionario de arquitectura. La convergencia entre uso y definición fija con claridad la función geométrica del instrumento.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar instrucciones de trazado y comprobación donde «con la esquadra» o «a esquadra» expresa perpendicularidad material. Resulta clave para diferenciar el instrumento de otras reglas y cartabones y para leer operaciones de cantería y medición.\nRELACIONADO CON\nEscuadra; Ángulo recto; Perpendicular; Cartabón; Regla; Cantería; Agrimensura\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Tratado elemental de los cortes de cantería, o Arte de la Montea. Madrid: Viuda de Josef García, 1795.\n• El arquitecto práctico, civil, militar y agrimensor. Madrid: Pantaleón Aznar, 1767.",
+    "url": "terminos/esquadra/",
+    "academic_pdf": "documentos/fichas/esquadra.pdf"
+  },
+  {
+    "num": 1223,
+    "cen": "CEN-3056",
+    "term": "Granja",
+    "slug": "granja",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Casa de campo vinculada a explotación agraria y ganadera, normalmente cercada y dotada de espacios para gente de labor, ganado y producción; puede aparecer también aproximada a casa de recreación o de placer, aunque el componente productivo es distintivo.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1788,
+      1848
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Relación histórica con casa de campo y casa de placer. La equivalencia no es total: en Bails, granja conserva un componente explícito de labor, ganado y recinto rural cercado.",
+    "comparison": "Rejón de Silva (1788) aproxima granja a casa de placer o casa de campo. Bails (1802), sin negar esa relación, introduce el rasgo productivo: recinto cercado donde se recoge la gente de labor y el ganado. Matallana (1848) vuelve a incluir la granja entre las casas de campo con jardines y elementos de recreo. La voz oscila entre explotación rural y residencia campestre, y el componente de labor evita reducirla a quinta de recreación.",
+    "coverage": "Tres repertorios de 1788, 1802 y 1848 documentan la voz. La definición de Bails es la única que explicita simultáneamente cercado, trabajadores y ganado; Rejón y Matallana enfatizan su pertenencia al conjunto de casas de campo y recreo.",
+    "utility": "Ayuda a interpretar fincas rurales donde la residencia, el trabajo agrícola y el alojamiento de ganado forman una unidad. Permite distinguir una granja histórica de una simple casa de placer cuando la documentación señala funciones productivas.",
+    "related": [
+      "Casa de campo",
+      "Quinta",
+      "Casa de placer",
+      "Huerta",
+      "Establo",
+      "Ganado",
+      "Finca"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "GRANJA. s. f. Casa de campo cercada de paredes á modo de huerta, donde se recoge la gente de labor y el ganado: llámase tambien Casa de recreacion ó de placer.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 54."
+      },
+      {
+        "text": "GRANJA. s. f. A. Lo mismo que Casa de placer, ó Casa de campo.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 131."
+      }
+    ],
+    "search_text": "Granja\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCasa de campo vinculada a explotación agraria y ganadera, normalmente cercada y dotada de espacios para gente de labor, ganado y producción; puede aparecer también aproximada a casa de recreación o de placer, aunque el componente productivo es distintivo.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Casa de campo para labor y ganado\n«GRANJA. s. f. Casa de campo cercada de paredes á modo de huerta, donde se recoge la gente de labor y el ganado: llámase tambien Casa de recreacion ó de placer.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 54.\nMR-P039-10-01 · CEN-3056. Define el núcleo rural-productivo y registra una extensión recreativa.\nDiego Antonio Rejón de Silva · 1788\n2. Equivalencia con casa de placer o de campo\n«GRANJA. s. f. A. Lo mismo que Casa de placer, ó Casa de campo.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 131.\nMR-P039-10-02 · CEN-3056. Muestra la aproximación tipológica en repertorio de las Nobles Artes.\nMariano Matallana · 1848\n3. Granja dentro de la categoría casa de campo\n«Casa de campo.=Quinta, granja, edificio construido fuera de la poblacion con jardines, fuentes y otros adornos, propios de una posesion de recreo.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 81.\nMR-P039-10-03 · CEN-3056. Añade la dimensión suburbana y recreativa del siglo XIX.\nLECTURA COMPARADA\nRejón de Silva (1788) aproxima granja a casa de placer o casa de campo. Bails (1802), sin negar esa relación, introduce el rasgo productivo: recinto cercado donde se recoge la gente de labor y el ganado. Matallana (1848) vuelve a incluir la granja entre las casas de campo con jardines y elementos de recreo. La voz oscila entre explotación rural y residencia campestre, y el componente de labor evita reducirla a quinta de recreación.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Relación histórica con casa de campo y casa de placer. La equivalencia no es total: en Bails, granja conserva un componente explícito de labor, ganado y recinto rural cercado.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres repertorios de 1788, 1802 y 1848 documentan la voz. La definición de Bails es la única que explicita simultáneamente cercado, trabajadores y ganado; Rejón y Matallana enfatizan su pertenencia al conjunto de casas de campo y recreo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar fincas rurales donde la residencia, el trabajo agrícola y el alojamiento de ganado forman una unidad. Permite distinguir una granja histórica de una simple casa de placer cuando la documentación señala funciones productivas.\nRELACIONADO CON\nCasa de campo; Quinta; Casa de placer; Huerta; Establo; Ganado; Finca\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/granja/",
+    "academic_pdf": "documentos/fichas/granja.pdf"
+  },
+  {
+    "num": 1224,
+    "cen": "CEN-3395",
+    "term": "Marco",
+    "slug": "marco",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Voz polisémica. En construcción designa una medida reglada o dimensión normalizada para maderos, tablas y otras piezas; también nombra la moldura que rodea los cuatro lados de un vano. El contexto decide si se trata de patrón dimensional o encuadramiento arquitectónico.",
+    "authors_text": "Benito Bails (1802); Jules Adeline / José Ramón Mélida (1887).",
+    "authors": [
+      "Benito Bails",
+      "J. Adeline",
+      "José Ramón Mélida"
+    ],
+    "years": [
+      1802,
+      1887
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887."
+    ],
+    "variants": "• Polisemia histórica: marco como medida reglada y marco como moldura o encuadramiento. Cerco, bastidor y jamba pueden ser términos próximos, pero su equivalencia depende del objeto y de la función descrita.",
+    "comparison": "Bails (1802) registra dos acepciones arquitectónicas claramente separadas: marco como medida reglada para maderos y tablas, y marco como moldura que rodea los cuatro lados de un vano. Adeline/Mélida (1887) mantiene el valor de encuadramiento en marcos de madera para dibujos. La misma forma léxica reúne, por tanto, un patrón dimensional normativo y un elemento físico de borde o soporte.",
+    "coverage": "La documentación integra dos entradas distintas del diccionario de Bails de 1802 y un testimonio de 1887. La polisemia está concentrada en dos fuentes, pero las acepciones aparecen formuladas de manera independiente y no deben fusionarse.",
+    "utility": "Es indispensable para decidir si una mención histórica a marco se refiere a dimensiones regladas de la madera o al encuadramiento de un vano u objeto. Esa distinción afecta tanto la interpretación métrica de materiales como la lectura de carpinterías y molduras.",
+    "related": [
+      "Vano",
+      "Moldura",
+      "Cerco",
+      "Bastidor",
+      "Medida",
+      "Madero",
+      "Tabla",
+      "Norma"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "MARCO. s. m. Medida señalada para los maderos, las tablas, &c. De un madero que no tiene las medidas señaladas por la ley, se dice que no llega al marco.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 67."
+      },
+      {
+        "text": "MARCO. Moldura que coge los quatro lados de un vano.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 68."
+      }
+    ],
+    "search_text": "Marco\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nVoz polisémica. En construcción designa una medida reglada o dimensión normalizada para maderos, tablas y otras piezas; también nombra la moldura que rodea los cuatro lados de un vano. El contexto decide si se trata de patrón dimensional o encuadramiento arquitectónico.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Marco como medida reglada\n«MARCO. s. m. Medida señalada para los maderos, las tablas, &c. De un madero que no tiene las medidas señaladas por la ley, se dice que no llega al marco.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 67.\nMR-P039-11-01 · CEN-3395. Acredita el sentido metrológico y normativo de la voz.\nBenito Bails · 1802\n2. Marco como moldura de vano\n«MARCO. Moldura que coge los quatro lados de un vano.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 68.\nMR-P039-11-02 · CEN-3395. Registra una segunda acepción autónoma, estrictamente arquitectónica.\nJules Adeline / José Ramón Mélida · 1887\n3. Marco como encuadramiento\n«Marcos de madera […] sobre los cuales se sujetan ó pegan los dibujos.»\nVocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 69.\nMR-P039-11-03 · CEN-3395. Conserva el valor de encuadramiento en el vocabulario de arte, útil para distinguirlo del marco normativo de materiales.\nLECTURA COMPARADA\nBails (1802) registra dos acepciones arquitectónicas claramente separadas: marco como medida reglada para maderos y tablas, y marco como moldura que rodea los cuatro lados de un vano. Adeline/Mélida (1887) mantiene el valor de encuadramiento en marcos de madera para dibujos. La misma forma léxica reúne, por tanto, un patrón dimensional normativo y un elemento físico de borde o soporte.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Polisemia histórica: marco como medida reglada y marco como moldura o encuadramiento. Cerco, bastidor y jamba pueden ser términos próximos, pero su equivalencia depende del objeto y de la función descrita.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integra dos entradas distintas del diccionario de Bails de 1802 y un testimonio de 1887. La polisemia está concentrada en dos fuentes, pero las acepciones aparecen formuladas de manera independiente y no deben fusionarse.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs indispensable para decidir si una mención histórica a marco se refiere a dimensiones regladas de la madera o al encuadramiento de un vano u objeto. Esa distinción afecta tanto la interpretación métrica de materiales como la lectura de carpinterías y molduras.\nRELACIONADO CON\nVano; Moldura; Cerco; Bastidor; Medida; Madero; Tabla; Norma\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.",
+    "url": "terminos/marco/",
+    "academic_pdf": "documentos/fichas/marco.pdf"
+  },
+  {
+    "num": 1225,
+    "cen": "CEN-3798",
+    "term": "Perpendículo",
+    "slug": "perpendiculo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Instrumento o línea de plomada empleada para determinar verticalidad y perpendicularidad respecto del horizonte. En la tradición lexicográfica puede funcionar como equivalente de plomada, y en textos técnicos designa la línea producida por el hilo y peso.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1802,
+      1788
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788."
+    ],
+    "variants": "• Forma documentada: perpendículo. Equivalente histórico frecuente: plomada. La voz puede referirse al objeto o a la línea producida por el plomo, mientras perpendicular expresa la relación geométrica.",
+    "comparison": "Bails (1802) identifica perpendículo con plomada y, en la entrada de esta última, lo incorpora a la acción de «echar el plomo». Rejón de Silva (1788) añade que el perpendículo produce una línea perpendicular. Los testimonios enlazan así el objeto suspendido, la operación de aplomar y la línea vertical resultante.",
+    "coverage": "Dos repertorios, de 1788 y 1802, aportan tres testimonios complementarios. La evidencia se concentra en definiciones lexicográficas que relacionan perpendículo, plomada, plomo y perpendicularidad sin introducir otra acepción técnica.",
+    "utility": "Permite interpretar instrucciones de obra donde perpendículo puede nombrar el instrumento de plomada o la referencia vertical producida por él. Evita confundir el sustantivo técnico con el adjetivo geométrico perpendicular.",
+    "related": [
+      "Plomada",
+      "Plomo",
+      "Perpendicular",
+      "Vertical",
+      "Nivel",
+      "Aplomar"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "PERPENDÍCULO. s. m. Lo mismo que PLOMADA.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 131."
+      },
+      {
+        "text": "PLOMADA. La accion de echar el plomo ó perpendículo.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 86."
+      }
+    ],
+    "search_text": "Perpendículo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nInstrumento o línea de plomada empleada para determinar verticalidad y perpendicularidad respecto del horizonte. En la tradición lexicográfica puede funcionar como equivalente de plomada, y en textos técnicos designa la línea producida por el hilo y peso.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Equivalencia con plomada\n«PERPENDÍCULO. s. m. Lo mismo que PLOMADA.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 131.\nMR-P039-12-01 · CEN-3798. Entrada del suplemento: fija la equivalencia terminológica.\nBenito Bails · 1802\n2. Perpendículo en la acción de aplomar\n«PLOMADA. La accion de echar el plomo ó perpendículo.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 86.\nMR-P039-12-02 · CEN-3798. Aclara el uso de la voz dentro de la operación de comprobar verticalidad.\nDiego Antonio Rejón de Silva · 1788\n3. Perpendículo como línea de plomada\n«PLOMADA […] La acción de echar el plomo ó perpendículo; ó la línea perpendicular que forma éste.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 184.\nMR-P039-12-03 · CEN-3798. Refuerza el vínculo entre instrumento, operación y línea geométrica.\nLECTURA COMPARADA\nBails (1802) identifica perpendículo con plomada y, en la entrada de esta última, lo incorpora a la acción de «echar el plomo». Rejón de Silva (1788) añade que el perpendículo produce una línea perpendicular. Los testimonios enlazan así el objeto suspendido, la operación de aplomar y la línea vertical resultante.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: perpendículo. Equivalente histórico frecuente: plomada. La voz puede referirse al objeto o a la línea producida por el plomo, mientras perpendicular expresa la relación geométrica.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos repertorios, de 1788 y 1802, aportan tres testimonios complementarios. La evidencia se concentra en definiciones lexicográficas que relacionan perpendículo, plomada, plomo y perpendicularidad sin introducir otra acepción técnica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar instrucciones de obra donde perpendículo puede nombrar el instrumento de plomada o la referencia vertical producida por él. Evita confundir el sustantivo técnico con el adjetivo geométrico perpendicular.\nRELACIONADO CON\nPlomada; Plomo; Perpendicular; Vertical; Nivel; Aplomar\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+    "url": "terminos/perpendiculo/",
+    "academic_pdf": "documentos/fichas/perpendiculo.pdf"
+  },
+  {
+    "num": 1226,
+    "cen": "CEN-3801",
+    "term": "Pértica",
+    "slug": "pertica",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Medida convencional utilizada en fábrica o agrimensura. Bails distingue una pértica arbitraria para modular partes de una fábrica y otra medida de tierra de dos pasos o diez pies geométricos; vocabularios posteriores conservan ambas tradiciones metrológicas.",
+    "authors_text": "Benito Bails (1802); Mariano Matallana (1848); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1848,
+      1876
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+      "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876."
+    ],
+    "variants": "• Polisemia metrológica: pértica como medida convencional de fábrica y como medida de tierra. Mariátegui documenta la variante pértiga para la acepción agraria.",
+    "comparison": "Bails (1802) conserva dos sistemas bajo la misma voz: una pértica convencional y arbitraria para dimensionar partes de una fábrica, y una medida de tierra fija de dos pasos o diez pies geométricos. Matallana (1848) mantiene la acepción arquitectónica; Mariátegui (1876), bajo la forma pértiga, remite a la medida agraria. La polisemia no es accidental: separa modulación de obra y mensura territorial.",
+    "coverage": "Cuatro testimonios procedentes de tres repertorios entre 1802 y 1876 documentan las dos acepciones metrológicas. La medida de fábrica se conserva en Bails y Matallana; la agraria pasa de Bails a Mariátegui con variante gráfica.",
+    "utility": "Permite evitar conversiones métricas erróneas: una pértica puede ser módulo convencional de fábrica sin dimensión fija, o medida de tierra de diez pies geométricos. La identificación del contexto arquitectónico o agrimensor es imprescindible para interpretar cantidades históricas.",
+    "related": [
+      "Medida",
+      "Pértiga",
+      "Pie",
+      "Paso",
+      "Agrimensura",
+      "Proporción",
+      "Fábrica"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "PÉRTICA. s. f. Medida convencional para las partes de una fábrica: su dimension es arbitraria.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 81."
+      },
+      {
+        "text": "PÉRTICA. Medida de tierra que consta de dos pasos ó diez pies geométricos.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 81."
+      }
+    ],
+    "search_text": "Pértica\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nMedida convencional utilizada en fábrica o agrimensura. Bails distingue una pértica arbitraria para modular partes de una fábrica y otra medida de tierra de dos pasos o diez pies geométricos; vocabularios posteriores conservan ambas tradiciones metrológicas.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Pértica convencional de fábrica\n«PÉRTICA. s. f. Medida convencional para las partes de una fábrica: su dimension es arbitraria.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 81.\nMR-P039-13-01 · CEN-3801. Documenta el uso arquitectónico como módulo o medida adoptada.\nBenito Bails · 1802\n2. Pértica como medida de tierra\n«PÉRTICA. Medida de tierra que consta de dos pasos ó diez pies geométricos.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 81.\nMR-P039-13-02 · CEN-3801. Distingue la acepción agrimensoria de la medida de fábrica.\nMariano Matallana · 1848\n3. Continuidad de la medida arquitectónica\n«PÉRTICA.=Medida convencional para las partes de una fábrica y de dimension arbitraria.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 211.\nMR-P039-13-03 · CEN-3801. Confirma la continuidad decimonónica del sentido arquitectónico.\nEduardo Mariátegui · 1876\n4. Pértica/Pértiga como medida agraria\n«PÉRTIGA.=PÉRTICA, medida de tierra que consta de dos pasos ó diez piés geométricos.»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 95.\nMR-P039-13-04 · CEN-3801. Registra variante y equivalencia en glosario histórico.\nLECTURA COMPARADA\nBails (1802) conserva dos sistemas bajo la misma voz: una pértica convencional y arbitraria para dimensionar partes de una fábrica, y una medida de tierra fija de dos pasos o diez pies geométricos. Matallana (1848) mantiene la acepción arquitectónica; Mariátegui (1876), bajo la forma pértiga, remite a la medida agraria. La polisemia no es accidental: separa modulación de obra y mensura territorial.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Polisemia metrológica: pértica como medida convencional de fábrica y como medida de tierra. Mariátegui documenta la variante pértiga para la acepción agraria.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nCuatro testimonios procedentes de tres repertorios entre 1802 y 1876 documentan las dos acepciones metrológicas. La medida de fábrica se conserva en Bails y Matallana; la agraria pasa de Bails a Mariátegui con variante gráfica.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite evitar conversiones métricas erróneas: una pértica puede ser módulo convencional de fábrica sin dimensión fija, o medida de tierra de diez pies geométricos. La identificación del contexto arquitectónico o agrimensor es imprescindible para interpretar cantidades históricas.\nRELACIONADO CON\nMedida; Pértiga; Pie; Paso; Agrimensura; Proporción; Fábrica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.\n• Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+    "url": "terminos/pertica/",
+    "academic_pdf": "documentos/fichas/pertica.pdf"
+  },
+  {
+    "num": 1227,
+    "cen": "CEN-3814",
+    "term": "Picnostilos",
+    "slug": "picnostilos",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Intercolumnio o disposición picnóstila de columnas muy próximas: la distancia libre entre columnas es de un diámetro y medio, equivalente a tres módulos en el sistema adoptado por Bails y Rejón. La tradición vitruviana conserva variantes gráficas del término.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Marco Vitruvio / Claude Perrault / Joseph Castañeda (1761); Miguel de Urrea (1582).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Marco Vitruvio Polión",
+      "Claude Perrault",
+      "Joseph Castañeda",
+      "Miguel de Urrea"
+    ],
+    "years": [
+      1802,
+      1788,
+      1761,
+      1582
+    ],
+    "centuries": [
+      "XVI",
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.",
+      "Miguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián."
+    ],
+    "variants": "• Variantes históricas: picnostilos, picnóstilo y pycnostilo. La voz pertenece a la clasificación de intercolumnios y se define por una separación de tres módulos o un diámetro y medio.",
+    "comparison": "La tradición vitruviana de 1761 conserva la forma «Pycnostilo». Rejón de Silva (1788) y Bails (1802) fijan después la definición cuantitativa del intercolumnio picnóstilo: tres módulos o un diámetro y medio de claro. Entre los tres testimonios cambia la grafía, pero se mantiene la pertenencia al sistema clásico de espaciamiento de columnas. Urrea (1582) añade un testimonio temprano que urrea define el género por la densidad del intercolumnio.",
+    "coverage": "Tres fuentes de 1761, 1788 y 1802 documentan la voz. La traducción vitruviana acredita la variante gráfica temprana; los dos diccionarios posteriores coinciden en la misma relación modular. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.",
+    "utility": "Permite identificar con precisión un intercolumnio muy cerrado dentro de las clasificaciones vitruvianas y verificarlo mediante su proporción de un diámetro y medio. Es útil para leer tratados de órdenes sin confundir el término con un tipo de columna.",
+    "related": [
+      "Intercolumnio",
+      "Columna",
+      "Módulo",
+      "Diámetro",
+      "Sistilo",
+      "Eustilo",
+      "Orden"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "PICNOSTILOS. adj. El intercolumnio, cuyo claro ó distancia de columna á columna tiene tres módulos, ó diámetro y medio.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 82."
+      },
+      {
+        "text": "PICNOSTILOS. A. adj. El intercolúmnio, cuyo claro ó distancia de columna á columna tiene tres módulos ó diámetro y medio.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 176."
+      }
+    ],
+    "search_text": "Picnostilos\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nIntercolumnio o disposición picnóstila de columnas muy próximas: la distancia libre entre columnas es de un diámetro y medio, equivalente a tres módulos en el sistema adoptado por Bails y Rejón. La tradición vitruviana conserva variantes gráficas del término.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición modular del intercolumnio\n«PICNOSTILOS. adj. El intercolumnio, cuyo claro ó distancia de columna á columna tiene tres módulos, ó diámetro y medio.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 82.\nMR-P039-14-01 · CEN-3814. Fija la proporción y el objeto arquitectónico al que se aplica.\nDiego Antonio Rejón de Silva · 1788\n2. Intercolumnio de diámetro y medio\n«PICNOSTILOS. A. adj. El intercolúmnio, cuyo claro ó distancia de columna á columna tiene tres módulos ó diámetro y medio.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 176.\nMR-P039-14-02 · CEN-3814. Confirma la definición académica de finales del XVIII.\nMarco Vitruvio / Claude Perrault / Joseph Castañeda · 1761\n3. Variante Pycnostilo en la tradición vitruviana\n«Pycnostilo»\nCompendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761. PDF p. 83.\nMR-P039-14-03 · CEN-3814. El ejemplar de 1761 conserva una variante gráfica del nombre del sistema de intercolumnios.\nMiguel de Urrea · 1582\n4. Definición de pycnostilos\n«pycnostilos. El primero de los cinco generos de templos, quando estan las columnas continuadas y espessas.»\nM. Vitruvio. Architectura, declaración de los nombres obscuros, p. 293 del facsímil.\nMR-P039-14-04 · Urrea define el género por la densidad del intercolumnio.\nLECTURA COMPARADA\nLa tradición vitruviana de 1761 conserva la forma «Pycnostilo». Rejón de Silva (1788) y Bails (1802) fijan después la definición cuantitativa del intercolumnio picnóstilo: tres módulos o un diámetro y medio de claro. Entre los tres testimonios cambia la grafía, pero se mantiene la pertenencia al sistema clásico de espaciamiento de columnas. Urrea (1582) añade un testimonio temprano que urrea define el género por la densidad del intercolumnio.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Variantes históricas: picnostilos, picnóstilo y pycnostilo. La voz pertenece a la clasificación de intercolumnios y se define por una separación de tres módulos o un diámetro y medio.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes de 1761, 1788 y 1802 documentan la voz. La traducción vitruviana acredita la variante gráfica temprana; los dos diccionarios posteriores coinciden en la misma relación modular. La incorporación del testimonio de 1582 amplía la secuencia histórica y permite contrastar la traducción vitruviana temprana con las fuentes posteriores.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar con precisión un intercolumnio muy cerrado dentro de las clasificaciones vitruvianas y verificarlo mediante su proporción de un diámetro y medio. Es útil para leer tratados de órdenes sin confundir el término con un tipo de columna.\nRELACIONADO CON\nIntercolumnio; Columna; Módulo; Diámetro; Sistilo; Eustilo; Orden\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Compendio de los diez libros de Arquitectura de Vitruvio. Madrid: Gabriel Ramírez, 1761.\nMiguel de Urrea. 1582. M. Vitruvio. Architectura. Alcalá de Henares: Juan Gracián.",
+    "url": "terminos/picnostilos/",
+    "academic_pdf": "documentos/fichas/picnostilos.pdf"
+  },
+  {
+    "num": 1228,
+    "cen": "CEN-4153",
+    "term": "Rodapie",
+    "slug": "rodapie",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Franja, zócalo o resalto dispuesto en la parte inferior de una construcción. En unos textos es una faja arquitectónica ligada visualmente al basamento o cimiento; en otros, un ensanche o zarpa de cimentación; Rejón registra además el rodapié interior de yeso o pintado. La voz, por tanto, presenta una polisemia material y posicional.",
+    "authors_text": "Christian Rieger / Miguel Benavente (1763); Benito Bails (1796); Diego Antonio Rejón de Silva (1788).",
+    "authors": [
+      "Christian Rieger",
+      "Miguel Benavente",
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1763,
+      1796,
+      1788
+    ],
+    "centuries": [
+      "XVIII"
+    ],
+    "works": [
+      "Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788."
+    ],
+    "variants": "• Grafías: rodapie / rodapié. Acepciones documentadas: faja o zócalo inferior, resalto de cimiento y faja interior de yeso o pintura; no todas son intercambiables con zócalo.",
+    "comparison": "Rieger/Benavente (1763) sitúa el rodapié en la basa inferior unida a los cimientos; Bails (1796) lo entiende como resalto de cimentación producido por el mayor espesor de los fundamentos. Rejón de Silva (1788) registra, en cambio, la equivalencia con zócalo y el uso doméstico de una faja de yeso negro o pintada sobre el piso. La voz reúne un sentido estructural de basamento y otro de protección o acabado interior.",
+    "coverage": "Tres testimonios del siglo XVIII, fechados en 1763, 1788 y 1796, documentan acepciones distintas pero relacionadas por su posición inferior. La evidencia incluye tratado doctrinal, diccionario y texto de construcción.",
+    "utility": "Ayuda a distinguir en documentos de obra si rodapié designa una zarpa o resalto de cimentación, una basa inferior o una faja interior de acabado. La precisión evita trasladar automáticamente al pasado la acepción contemporánea de pieza de protección interior.",
+    "related": [
+      "Zócalo",
+      "Zarpa",
+      "Cimiento",
+      "Basa",
+      "Faja",
+      "Pared",
+      "Piso"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "…las partes mas sólidas de la Casa, como son los Angulos, la Basa inferior, ó Rodapie, que es el que está unido á los Cimientos, se distingue del resto del Edificio con una faxa grande…",
+        "author": "Christian Rieger / Miguel Benavente",
+        "year": "1763",
+        "source": "Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763. PDF p. 90."
+      },
+      {
+        "text": "…las paredes de los fundamentos han de ser mas gruesas que las del piso del suelo, para que tengan el correspondiente rodapie…",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 209."
+      }
+    ],
+    "search_text": "Rodapie\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nFranja, zócalo o resalto dispuesto en la parte inferior de una construcción. En unos textos es una faja arquitectónica ligada visualmente al basamento o cimiento; en otros, un ensanche o zarpa de cimentación; Rejón registra además el rodapié interior de yeso o pintado. La voz, por tanto, presenta una polisemia material y posicional.\nCOMPARADOR TEXTUAL COMPLETO\nChristian Rieger / Miguel Benavente · 1763\n1. Faja inferior unida a los cimientos\n«…las partes mas sólidas de la Casa, como son los Angulos, la Basa inferior, ó Rodapie, que es el que está unido á los Cimientos, se distingue del resto del Edificio con una faxa grande…»\nElementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763. PDF p. 90.\nMR-P039-15-01 · CEN-4153. Define el rodapié como tratamiento inferior expresivo de solidez.\nBenito Bails · 1796\n2. Rodapié como resalto de cimentación\n«…las paredes de los fundamentos han de ser mas gruesas que las del piso del suelo, para que tengan el correspondiente rodapie…»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 209.\nMR-P039-15-02 · CEN-4153. Acredita el sentido constructivo de ensanche o zarpa inferior.\nDiego Antonio Rejón de Silva · 1788\n3. Rodapié como zócalo y faja interior\n«RODAPIÉ. s. m. A. Lo mismo que Zócalo. Comúnmente se entiende por rodapié la faxa de yeso negro, ó pintada que tienen las paredes interiores de una casa sobre el piso.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 199.\nMR-P039-15-03 · CEN-4153. Separa la acepción ornamental/interior de la función estructural de cimentación.\nLECTURA COMPARADA\nRieger/Benavente (1763) sitúa el rodapié en la basa inferior unida a los cimientos; Bails (1796) lo entiende como resalto de cimentación producido por el mayor espesor de los fundamentos. Rejón de Silva (1788) registra, en cambio, la equivalencia con zócalo y el uso doméstico de una faja de yeso negro o pintada sobre el piso. La voz reúne un sentido estructural de basamento y otro de protección o acabado interior.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Grafías: rodapie / rodapié. Acepciones documentadas: faja o zócalo inferior, resalto de cimiento y faja interior de yeso o pintura; no todas son intercambiables con zócalo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres testimonios del siglo XVIII, fechados en 1763, 1788 y 1796, documentan acepciones distintas pero relacionadas por su posición inferior. La evidencia incluye tratado doctrinal, diccionario y texto de construcción.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a distinguir en documentos de obra si rodapié designa una zarpa o resalto de cimentación, una basa inferior o una faja interior de acabado. La precisión evita trasladar automáticamente al pasado la acepción contemporánea de pieza de protección interior.\nRELACIONADO CON\nZócalo; Zarpa; Cimiento; Basa; Faja; Pared; Piso\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+    "url": "terminos/rodapie/",
+    "academic_pdf": "documentos/fichas/rodapie.pdf"
+  },
+  {
+    "num": 1229,
+    "cen": "CEN-4604",
+    "term": "Vestir",
+    "slug": "vestir",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En construcción significa cubrir o guarnecer una fábrica con yeso, cal u otro revestimiento; también aparece como acción de arrimar una pared de fábrica a un terreno o superficie para reforzarla. El verbo conserva así dos acepciones técnicas diferentes: revestir y fortificar mediante fábrica adosada.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Manuel Fornés y Gurrea (1857).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Manuel Fornés y Gurrea"
+    ],
+    "years": [
+      1802,
+      1788,
+      1857
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Observaciones sobre la práctica del arte de edificar. 2.ª ed. Valencia, 1857."
+    ],
+    "variants": "• Polisemia técnica: vestir como revestir o guarnecer; vestir de fábrica como arrimar una fábrica de refuerzo. Las dos operaciones comparten idea de recubrimiento, pero difieren en espesor, material y función.",
+    "comparison": "Rejón de Silva (1788) usa vestir para arrimar una pared de fábrica a una superficie de terreno con finalidad de firmeza o fortificación. Bails (1802) lo define como cubrir la fábrica con yeso o cal, y Fornés (1857) emplea revestir en el contexto del estuco. La voz se bifurca entre una acción de refuerzo mediante fábrica adosada y otra de revestimiento superficial.",
+    "coverage": "Tres fuentes entre 1788 y 1857 aportan evidencia. Los dos diccionarios de fines del XVIII y comienzos del XIX fijan acepciones diferentes; Fornés confirma la continuidad del campo semántico del revestimiento en la práctica del siglo XIX.",
+    "utility": "Permite interpretar correctamente órdenes de «vestir» una fábrica: según el contexto, puede implicar guarnecerla con yeso o cal, o añadir una pared de fábrica para reforzar un terreno o paramento. La diferencia supone operaciones y cantidades de obra completamente distintas.",
+    "related": [
+      "Revestir",
+      "Guarnecer",
+      "Enlucir",
+      "Estucar",
+      "Fábrica",
+      "Terraplén",
+      "Muro"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "VESTIR. Guarnecer, ó cubrir enteramente la fabrica de yeso, ó cal.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 111."
+      },
+      {
+        "text": "VESTIR, v. a. A. Arrimar á una superficie de terreno una pared de fábrica para su mayor firmeza, ó fortificarla por algún lado.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 227."
+      }
+    ],
+    "search_text": "Vestir\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn construcción significa cubrir o guarnecer una fábrica con yeso, cal u otro revestimiento; también aparece como acción de arrimar una pared de fábrica a un terreno o superficie para reforzarla. El verbo conserva así dos acepciones técnicas diferentes: revestir y fortificar mediante fábrica adosada.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Guarnecer o cubrir la fábrica\n«VESTIR. Guarnecer, ó cubrir enteramente la fabrica de yeso, ó cal.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 111.\nMR-P039-16-01 · CEN-4604. Define la acepción de revestimiento superficial.\nDiego Antonio Rejón de Silva · 1788\n2. Vestir de fábrica para fortificar\n«VESTIR, v. a. A. Arrimar á una superficie de terreno una pared de fábrica para su mayor firmeza, ó fortificarla por algún lado.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 227.\nMR-P039-16-02 · CEN-4604. Documenta la segunda acepción: adicionar fábrica de sostenimiento.\nManuel Fornés y Gurrea · 1857\n3. Revestimiento en la práctica del estuco\n«…las partes que se hayan de estucar ó revestir…»\nObservaciones sobre la práctica del arte de edificar. 2.ª ed. Valencia, 1857. PDF p. 31.\nMR-P039-16-03 · CEN-4604. Muestra el campo operativo de la acepción superficial en práctica constructiva decimonónica.\nLECTURA COMPARADA\nRejón de Silva (1788) usa vestir para arrimar una pared de fábrica a una superficie de terreno con finalidad de firmeza o fortificación. Bails (1802) lo define como cubrir la fábrica con yeso o cal, y Fornés (1857) emplea revestir en el contexto del estuco. La voz se bifurca entre una acción de refuerzo mediante fábrica adosada y otra de revestimiento superficial.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Polisemia técnica: vestir como revestir o guarnecer; vestir de fábrica como arrimar una fábrica de refuerzo. Las dos operaciones comparten idea de recubrimiento, pero difieren en espesor, material y función.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes entre 1788 y 1857 aportan evidencia. Los dos diccionarios de fines del XVIII y comienzos del XIX fijan acepciones diferentes; Fornés confirma la continuidad del campo semántico del revestimiento en la práctica del siglo XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite interpretar correctamente órdenes de «vestir» una fábrica: según el contexto, puede implicar guarnecerla con yeso o cal, o añadir una pared de fábrica para reforzar un terreno o paramento. La diferencia supone operaciones y cantidades de obra completamente distintas.\nRELACIONADO CON\nRevestir; Guarnecer; Enlucir; Estucar; Fábrica; Terraplén; Muro\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Observaciones sobre la práctica del arte de edificar. 2.ª ed. Valencia, 1857.",
+    "url": "terminos/vestir/",
+    "academic_pdf": "documentos/fichas/vestir.pdf"
+  },
+  {
+    "num": 1230,
+    "cen": "CEN-4984",
+    "term": "Can",
+    "slug": "can",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Pieza saliente de madera o piedra que trabaja como apoyo, zapata o ménsula bajo aleros, cornisas, tirantes u otros elementos. Los repertorios conservan con frecuencia el plural canes y lo relacionan con anales o modillones según tradición y contexto.",
+    "authors_text": "Eduardo Mariátegui (1876); Diego Antonio Rejón de Silva (1788).",
+    "authors": [
+      "Eduardo Mariátegui",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1876,
+      1788
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788."
+    ],
+    "variants": "• Número: can / canes. Equivalencias históricas contextuales: anal, zapata y ménsula. La identificación con canecillo requiere comprobar escala, material y sistema de apoyo.",
+    "comparison": "Rejón de Silva (1788) documenta canes como piezas voladas sobre el arquitrabe. Mariátegui (1876) amplía la identificación al equiparar anal con zapata, can o ménsula de madera y conserva un uso de canes bajo los quadrales de una armadura. Los testimonios sitúan la voz en sistemas de apoyo saliente y muestran variación según material, posición y tradición constructiva.",
+    "coverage": "Tres testimonios de dos fuentes, fechadas en 1788 y 1876, integran la evidencia. Rejón aporta el contexto clásico del arquitrabe; Mariátegui reúne equivalencias de carpintería y un ejemplo ligado a armaduras.",
+    "utility": "Es útil para reconocer apoyos salientes históricos que pueden aparecer como can, anal, zapata o ménsula. La comparación permite evitar una equivalencia mecánica con canecillo y atender a la escala, el material y el elemento sustentado.",
+    "related": [
+      "Canes",
+      "Canecillo",
+      "Anal",
+      "Zapata",
+      "Ménsula",
+      "Modillón",
+      "Alero",
+      "Arquitrabe"
+    ],
+    "themes": [
+      "Órdenes y elementos",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ANAL. Zapata, can ó ménsula de madera.",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 18."
+      },
+      {
+        "text": "Y que los canes o anales que han de yr debaxo de los quadrales de esta dicha armadura, sean cortados en viaje…",
+        "author": "Eduardo Mariátegui",
+        "year": "1876",
+        "source": "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 18."
+      }
+    ],
+    "search_text": "Can\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nPieza saliente de madera o piedra que trabaja como apoyo, zapata o ménsula bajo aleros, cornisas, tirantes u otros elementos. Los repertorios conservan con frecuencia el plural canes y lo relacionan con anales o modillones según tradición y contexto.\nCOMPARADOR TEXTUAL COMPLETO\nEduardo Mariátegui · 1876\n1. Can como zapata o ménsula\n«ANAL. Zapata, can ó ménsula de madera.»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 18.\nMR-P039-17-01 · CEN-4984. Ofrece equivalencia funcional explícita y preserva la voz singular.\nEduardo Mariátegui · 1876\n2. Canes bajo los quadrales de una armadura\n«Y que los canes o anales que han de yr debaxo de los quadrales de esta dicha armadura, sean cortados en viaje…»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 18.\nMR-P039-17-02 · CEN-4984. Cita histórica que muestra colocación y función en carpintería.\nDiego Antonio Rejón de Silva · 1788\n3. Canes como piezas voladas sobre arquitrabe\n«CANES, s. m. pl. A. […] Los canes que vuelan encima del Arquitrabe…»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 62.\nMR-P039-17-03 · CEN-4984. Acredita plural técnico y relación con elementos salientes de coronamiento.\nLECTURA COMPARADA\nRejón de Silva (1788) documenta canes como piezas voladas sobre el arquitrabe. Mariátegui (1876) amplía la identificación al equiparar anal con zapata, can o ménsula de madera y conserva un uso de canes bajo los quadrales de una armadura. Los testimonios sitúan la voz en sistemas de apoyo saliente y muestran variación según material, posición y tradición constructiva.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Número: can / canes. Equivalencias históricas contextuales: anal, zapata y ménsula. La identificación con canecillo requiere comprobar escala, material y sistema de apoyo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres testimonios de dos fuentes, fechadas en 1788 y 1876, integran la evidencia. Rejón aporta el contexto clásico del arquitrabe; Mariátegui reúne equivalencias de carpintería y un ejemplo ligado a armaduras.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs útil para reconocer apoyos salientes históricos que pueden aparecer como can, anal, zapata o ménsula. La comparación permite evitar una equivalencia mecánica con canecillo y atender a la escala, el material y el elemento sustentado.\nRELACIONADO CON\nCanes; Canecillo; Anal; Zapata; Ménsula; Modillón; Alero; Arquitrabe\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+    "url": "terminos/can/",
+    "academic_pdf": "documentos/fichas/can.pdf"
+  },
+  {
+    "num": 1231,
+    "cen": "CEN-0098",
+    "term": "Acanalar",
+    "slug": "acanalar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Abrir o formar canales o estrías en la superficie de un elemento, especialmente columnas y pilastras. Los textos explican tanto la acción como la geometría de canal y estría, y muestran que el acanalado se usa para articular y enriquecer superficies arquitectónicas.",
+    "authors_text": "Atanasio Genaro Brizguz y Bru (1738); Benito Bails (1802); Benito Bails (1796).",
+    "authors": [
+      "Atanasio Genaro Brizguz y Bru",
+      "Benito Bails"
+    ],
+    "years": [
+      1738,
+      1802,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Escuela de arquitectura civil. Valencia: Joseph de Orga, 1738.",
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Variantes y equivalencias: acanalar / acanelar; relación frecuente con estriar. Canal nombra el hueco producido y estría puede designar la labor longitudinal según el autor.",
+    "comparison": "Brizguz y Bru (1738) presenta acanalar junto a estriar como operación aplicada a columnas. Bails (1796) extiende expresamente el acanalado a las pilastras para animar su superficie plana, y su diccionario de 1802 equipara acanalar con estriar. La secuencia combina procedimiento, finalidad compositiva y equivalencia terminológica.",
+    "coverage": "Tres testimonios entre 1738 y 1802 documentan la operación en columnas y pilastras. Dos proceden de tratados arquitectónicos y uno de un diccionario que fija la relación con estriar.",
+    "utility": "Permite identificar en descripciones de órdenes la operación de abrir canales o estrías y diferenciarla del simple dibujo lineal o de otras labores de talla. También ayuda a leer la elección de acanalar pilastras como recurso para modificar la percepción de superficies planas.",
+    "related": [
+      "Canal",
+      "Estría",
+      "Columna",
+      "Pilastra",
+      "Fuste",
+      "Moldura",
+      "Tallista"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Materiales y acabados"
+    ],
+    "quotes": [
+      {
+        "text": "Explicase el modo de acanalar, y estriar las colunas.",
+        "author": "Atanasio Genaro Brizguz y Bru",
+        "year": "1738",
+        "source": "Escuela de arquitectura civil. Valencia: Joseph de Orga, 1738. PDF p. 130."
+      },
+      {
+        "text": "ACANALAR. v. a. Lo mismo que ESTRIAR.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 115."
+      }
+    ],
+    "search_text": "Acanalar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nAbrir o formar canales o estrías en la superficie de un elemento, especialmente columnas y pilastras. Los textos explican tanto la acción como la geometría de canal y estría, y muestran que el acanalado se usa para articular y enriquecer superficies arquitectónicas.\nCOMPARADOR TEXTUAL COMPLETO\nAtanasio Genaro Brizguz y Bru · 1738\n1. Acanalar y estriar columnas\n«Explicase el modo de acanalar, y estriar las colunas.»\nEscuela de arquitectura civil. Valencia: Joseph de Orga, 1738. PDF p. 130.\nMR-P039-18-01 · CEN-0098. El tratado dedica una proposición específica a la operación y diferencia canal de estría.\nBenito Bails · 1802\n2. Equivalencia con estriar\n«ACANALAR. v. a. Lo mismo que ESTRIAR.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 115.\nMR-P039-18-02 · CEN-0098. Entrada lexicográfica del suplemento que fija la equivalencia histórica.\nBenito Bails · 1796\n3. Acanalar pilastras\n«Tambien se estila acanalar las pilastras igualmente que las columnas, para quitar la insipidez de la superficie plana…»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 779.\nMR-P039-18-03 · CEN-0098. Muestra aplicación concreta, criterio visual y distribución del acanalado.\nLECTURA COMPARADA\nBrizguz y Bru (1738) presenta acanalar junto a estriar como operación aplicada a columnas. Bails (1796) extiende expresamente el acanalado a las pilastras para animar su superficie plana, y su diccionario de 1802 equipara acanalar con estriar. La secuencia combina procedimiento, finalidad compositiva y equivalencia terminológica.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Variantes y equivalencias: acanalar / acanelar; relación frecuente con estriar. Canal nombra el hueco producido y estría puede designar la labor longitudinal según el autor.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres testimonios entre 1738 y 1802 documentan la operación en columnas y pilastras. Dos proceden de tratados arquitectónicos y uno de un diccionario que fija la relación con estriar.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar en descripciones de órdenes la operación de abrir canales o estrías y diferenciarla del simple dibujo lineal o de otras labores de talla. También ayuda a leer la elección de acanalar pilastras como recurso para modificar la percepción de superficies planas.\nRELACIONADO CON\nCanal; Estría; Columna; Pilastra; Fuste; Moldura; Tallista\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Escuela de arquitectura civil. Valencia: Joseph de Orga, 1738.\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/acanalar/",
+    "academic_pdf": "documentos/fichas/acanalar.pdf"
+  },
+  {
+    "num": 1232,
+    "cen": "CEN-0356",
+    "term": "Alabeado",
+    "slug": "alabeado",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Cualidad de una pieza o superficie que ha perdido el plano y presenta alabeo, torcedura o deformación. Se aplica especialmente a madera y elementos planos, pero en cantería el concepto se relaciona con superficies cuyos puntos no pertenecen a un mismo plano.",
+    "authors_text": "Mariano Matallana (1848); Jules Adeline / José Ramón Mélida (1887); Benito Bails (1796).",
+    "authors": [
+      "Mariano Matallana",
+      "J. Adeline",
+      "José Ramón Mélida",
+      "Benito Bails"
+    ],
+    "years": [
+      1848,
+      1887,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+      "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Familia terminológica: alabeado, alabear, alabeo y desalabear. La tradición de cantería relaciona la corrección de la falta de plano con desengauchar; las formas gráficas deben leerse según cada impreso.",
+    "comparison": "Matallana (1848) define alabeado por remisión directa a alabeo; Adeline/Mélida (1887) concreta la deformación en madera torcida y papel mal extendido. Bails (1796), mediante el verbo desalabear, aporta el reverso operativo en cantería: conseguir que los puntos de una cara de sillar queden en un mismo plano. La voz enlaza deformación geométrica y corrección material en soportes distintos.",
+    "coverage": "Tres fuentes de 1796, 1848 y 1887 sostienen la ficha. La evidencia abarca cantería, vocabulario constructivo y artes decorativas, con materiales distintos pero un mismo problema de pérdida de planitud.",
+    "utility": "Facilita diagnosticar en textos históricos una deformación fuera de plano y reconocer operaciones destinadas a corregirla. Es especialmente útil para distinguir alabeo de simples irregularidades superficiales en madera, papel o caras de sillar.",
+    "related": [
+      "Alabeo",
+      "Alabear",
+      "Desalabear",
+      "Gaucho",
+      "Paramento",
+      "Madera",
+      "Sillar"
+    ],
+    "themes": [
+      "Trazado y cantería",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ALABEADO.- Lo que tiene alabeo.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 21."
+      },
+      {
+        "text": "Alabeado.-(Gondolé.)- Dícese de la madera torcida, del papel mal extendido…",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 18."
+      }
+    ],
+    "search_text": "Alabeado\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nCualidad de una pieza o superficie que ha perdido el plano y presenta alabeo, torcedura o deformación. Se aplica especialmente a madera y elementos planos, pero en cantería el concepto se relaciona con superficies cuyos puntos no pertenecen a un mismo plano.\nCOMPARADOR TEXTUAL COMPLETO\nMariano Matallana · 1848\n1. Definición por alabeo\n«ALABEADO.- Lo que tiene alabeo.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 21.\nMR-P039-19-01 · CEN-0356. Entrada directa que conserva la voz como adjetivo técnico.\nJules Adeline / José Ramón Mélida · 1887\n2. Madera torcida y papel deformado\n«Alabeado.-(Gondolé.)- Dícese de la madera torcida, del papel mal extendido…»\nVocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 18.\nMR-P039-19-02 · CEN-0356. Extiende el uso a materiales planos deformados.\nBenito Bails · 1796\n3. Desalabear una superficie de sillar\n«…hacer que todos los puntos de una cara de sillar estén en un mismo plano, ó desengauchar dicha cara ó paramento es todo uno…»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 454.\nMR-P039-19-03 · CEN-0356. Aporta la operación inversa y la condición geométrica que caracteriza el defecto.\nLECTURA COMPARADA\nMatallana (1848) define alabeado por remisión directa a alabeo; Adeline/Mélida (1887) concreta la deformación en madera torcida y papel mal extendido. Bails (1796), mediante el verbo desalabear, aporta el reverso operativo en cantería: conseguir que los puntos de una cara de sillar queden en un mismo plano. La voz enlaza deformación geométrica y corrección material en soportes distintos.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Familia terminológica: alabeado, alabear, alabeo y desalabear. La tradición de cantería relaciona la corrección de la falta de plano con desengauchar; las formas gráficas deben leerse según cada impreso.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes de 1796, 1848 y 1887 sostienen la ficha. La evidencia abarca cantería, vocabulario constructivo y artes decorativas, con materiales distintos pero un mismo problema de pérdida de planitud.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nFacilita diagnosticar en textos históricos una deformación fuera de plano y reconocer operaciones destinadas a corregirla. Es especialmente útil para distinguir alabeo de simples irregularidades superficiales en madera, papel o caras de sillar.\nRELACIONADO CON\nAlabeo; Alabear; Desalabear; Gaucho; Paramento; Madera; Sillar\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.\n• Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/alabeado/",
+    "academic_pdf": "documentos/fichas/alabeado.pdf"
+  },
+  {
+    "num": 1233,
+    "cen": "CEN-0542",
+    "term": "Aljibe",
+    "slug": "aljibe",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Depósito o cisterna para recoger y conservar agua, especialmente agua de lluvia. La grafía histórica oscila entre algibe y aljibe; la documentación también conserva voces de origen árabe relacionadas y expresiones como bóveda o vuelta de aljibe.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1788,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876."
+    ],
+    "variants": "• Grafías: algibe / aljibe. Rejón de Silva y Bails usan algibe; Mariátegui documenta aljibe dentro de la equivalencia «alchúpe = pozo, aljibe». Cisterna pertenece al mismo campo funcional.",
+    "comparison": "Bails (1802) registra «algibe» como equivalente de cisterna; Rejón de Silva (1788) lo menciona como depósito apropiado para conservar agua llovediza. Mariátegui (1876), bajo alchúpe, remite a «pozo, aljibe» y aporta una grafía ya próxima a la moderna. El significado de depósito de agua permanece estable mientras cambia la forma gráfica y se amplía la red de voces de origen histórico.",
+    "coverage": "Tres repertorios de 1788, 1802 y 1876 documentan la voz o su equivalencia. Los dos primeros usan algibe en relación con cisterna y almacenamiento de lluvia; el glosario de 1876 registra aljibe dentro de la equivalencia con alchúpe.",
+    "utility": "Permite reconocer depósitos de agua en documentación que alterna algibe, aljibe, cisterna o alchúpe. La distinción ayuda a vincular menciones léxicas con sistemas históricos de captación y conservación de agua de lluvia.",
+    "related": [
+      "Cisterna",
+      "Pozo",
+      "Alchúpe",
+      "Agua llovediza",
+      "Bóveda de aljibe",
+      "Depósito"
+    ],
+    "themes": [
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ALGIBE. s. m. Lo mismo que CISTERNA.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 6."
+      },
+      {
+        "text": "…entre todas las aguas la mas sana es la llovediza guardada en cisternas ó algibes.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 76."
+      }
+    ],
+    "search_text": "Aljibe\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDepósito o cisterna para recoger y conservar agua, especialmente agua de lluvia. La grafía histórica oscila entre algibe y aljibe; la documentación también conserva voces de origen árabe relacionadas y expresiones como bóveda o vuelta de aljibe.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Algibe como cisterna\n«ALGIBE. s. m. Lo mismo que CISTERNA.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 6.\nMR-P039-20-01 · CEN-0542. La grafía del impreso conserva g; la equivalencia define la función de depósito de agua.\nDiego Antonio Rejón de Silva · 1788\n2. Agua llovediza guardada en algibes\n«…entre todas las aguas la mas sana es la llovediza guardada en cisternas ó algibes.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 76.\nMR-P039-20-02 · CEN-0542. Acredita uso funcional y conservación del agua de lluvia.\nEduardo Mariátegui · 1876\n3. Alchúpe como pozo o aljibe\n«ALCHUPE. Del árabe al-djobb. “Pozo, aljibe.”»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 11.\nMR-P039-20-03 · CEN-0542. Registra la forma aljibe y su red léxica de origen árabe.\nLECTURA COMPARADA\nBails (1802) registra «algibe» como equivalente de cisterna; Rejón de Silva (1788) lo menciona como depósito apropiado para conservar agua llovediza. Mariátegui (1876), bajo alchúpe, remite a «pozo, aljibe» y aporta una grafía ya próxima a la moderna. El significado de depósito de agua permanece estable mientras cambia la forma gráfica y se amplía la red de voces de origen histórico.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Grafías: algibe / aljibe. Rejón de Silva y Bails usan algibe; Mariátegui documenta aljibe dentro de la equivalencia «alchúpe = pozo, aljibe». Cisterna pertenece al mismo campo funcional.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres repertorios de 1788, 1802 y 1876 documentan la voz o su equivalencia. Los dos primeros usan algibe en relación con cisterna y almacenamiento de lluvia; el glosario de 1876 registra aljibe dentro de la equivalencia con alchúpe.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer depósitos de agua en documentación que alterna algibe, aljibe, cisterna o alchúpe. La distinción ayuda a vincular menciones léxicas con sistemas históricos de captación y conservación de agua de lluvia.\nRELACIONADO CON\nCisterna; Pozo; Alchúpe; Agua llovediza; Bóveda de aljibe; Depósito\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+    "url": "terminos/aljibe/",
+    "academic_pdf": "documentos/fichas/aljibe.pdf"
+  },
+  {
+    "num": 1234,
+    "cen": "CEN-0581",
+    "term": "Almenar",
+    "slug": "almenar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Guarnecer o coronar un edificio con almenas. Es un verbo de acción constructiva y compositiva, distinto de almenado, que nombra el conjunto o estado de una coronación provista de almenas.",
+    "authors_text": "Benito Bails (1802).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• Familia: almena, almenado y almenar. Almenar es verbo; almena nombra el elemento y almenado el estado o conjunto provisto de almenas.",
+    "comparison": "El testimonio de Bails (1802) define almenar como verbo de acción: guarnecer o coronar un edificio con almenas. Su alcance es constructivo y compositivo; no nombra la pieza almena ni el estado resultante de un coronamiento almenado.",
+    "coverage": "La documentación integrada se concentra en una única definición lexicográfica de 1802. El pasaje es suficiente para fijar la categoría verbal y su relación directa con la coronación de edificios, sin aportar otras acepciones en la ficha.",
+    "utility": "Permite leer almenar como operación y no como sustantivo. Esta distinción es útil en descripciones de fortificación y coronamientos para separar la acción de disponer almenas del elemento individual y del conjunto almenado.",
+    "related": [
+      "Almena",
+      "Almenado",
+      "Coronación",
+      "Parapeto",
+      "Muro",
+      "Fortaleza"
+    ],
+    "themes": [
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "ALMENAR. v. a. Guarnecer, ó coronar de almenas algun edificio.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 117."
+      }
+    ],
+    "search_text": "Almenar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nGuarnecer o coronar un edificio con almenas. Es un verbo de acción constructiva y compositiva, distinto de almenado, que nombra el conjunto o estado de una coronación provista de almenas.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición verbal de almenar\n«ALMENAR. v. a. Guarnecer, ó coronar de almenas algun edificio.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 117.\nMR-P039-21-01 · CEN-0581. Define almenar como la acción de guarnecer o coronar un edificio con almenas.\nLECTURA COMPARADA\nEl testimonio de Bails (1802) define almenar como verbo de acción: guarnecer o coronar un edificio con almenas. Su alcance es constructivo y compositivo; no nombra la pieza almena ni el estado resultante de un coronamiento almenado.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Familia: almena, almenado y almenar. Almenar es verbo; almena nombra el elemento y almenado el estado o conjunto provisto de almenas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa documentación integrada se concentra en una única definición lexicográfica de 1802. El pasaje es suficiente para fijar la categoría verbal y su relación directa con la coronación de edificios, sin aportar otras acepciones en la ficha.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite leer almenar como operación y no como sustantivo. Esta distinción es útil en descripciones de fortificación y coronamientos para separar la acción de disponer almenas del elemento individual y del conjunto almenado.\nRELACIONADO CON\nAlmena; Almenado; Coronación; Parapeto; Muro; Fortaleza\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/almenar/",
+    "academic_pdf": "documentos/fichas/almenar.pdf"
+  },
+  {
+    "num": 1235,
+    "cen": "CEN-0848",
+    "term": "Apagar",
+    "slug": "apagar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En el vocabulario de materiales, apagar la cal es humedecerla o ponerla en agua para reducir su viveza y transformarla en una pasta o masa apta para morteros y enlucidos. Las fuentes distinguen procedimientos y grados de hidratación, y también emplean matar la cal como equivalente contextual.",
+    "authors_text": "Benito Bails (1802); Diego Antonio Rejón de Silva (1788); Benito Bails (1796).",
+    "authors": [
+      "Benito Bails",
+      "Diego Antonio Rejón de Silva"
+    ],
+    "years": [
+      1802,
+      1788,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Acepción constructiva: apagar la cal; equivalente contextual: matarla. El verbo posee usos generales distintos, pero aquí designa específicamente la preparación de la cal con agua.",
+    "comparison": "Rejón de Silva (1788) describe el apagado como adición gradual de agua hasta quitar actividad a la cal. Bails (1802) subraya el resultado material, una masa semejante a cuajada, y su tratado de 1796 registra «apagarla» o «matarla» para el procedimiento de inmersión y maceración. Los tres pasajes muestran etapas complementarias del mismo proceso de hidratación: adición de agua, pérdida de viveza y transformación en pasta.",
+    "coverage": "Tres testimonios de 1788, 1796 y 1802 concentran la evidencia en la cal. Dos proceden de Bails, uno doctrinal y otro lexicográfico; Rejón aporta una formulación paralela del proceso de desactivación por agua.",
+    "utility": "Es fundamental para interpretar recetas de mortero y enlucido, porque «apagar» no significa extinguir fuego sino preparar la cal mediante agua. La equivalencia histórica con «matar la cal» permite reconocer el mismo proceso bajo dos expresiones de oficio.",
+    "related": [
+      "Cal",
+      "Matar la cal",
+      "Mortero",
+      "Mezcla",
+      "Enlucido",
+      "Agua",
+      "Calera"
+    ],
+    "themes": [
+      "Materiales y acabados",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "APAGAR. v. a. Poner la cal en remojo, ó deshacerla en el agua hasta quedar hecha como una quaxada.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 7."
+      },
+      {
+        "text": "APAGAR LA CAL. A. Ir echando agua sobre ella hasta que se le quite su actividad evaporándose.",
+        "author": "Diego Antonio Rejón de Silva",
+        "year": "1788",
+        "source": "Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 34."
+      }
+    ],
+    "search_text": "Apagar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn el vocabulario de materiales, apagar la cal es humedecerla o ponerla en agua para reducir su viveza y transformarla en una pasta o masa apta para morteros y enlucidos. Las fuentes distinguen procedimientos y grados de hidratación, y también emplean matar la cal como equivalente contextual.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Apagar la cal por remojo\n«APAGAR. v. a. Poner la cal en remojo, ó deshacerla en el agua hasta quedar hecha como una quaxada.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 7.\nMR-P039-22-01 · CEN-0848. Entrada directa que define el procedimiento material.\nDiego Antonio Rejón de Silva · 1788\n2. Pérdida de actividad de la cal\n«APAGAR LA CAL. A. Ir echando agua sobre ella hasta que se le quite su actividad evaporándose.»\nDiccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788. PDF p. 34.\nMR-P039-22-02 · CEN-0848. Expresa el resultado físico del proceso en vocabulario académico.\nBenito Bails · 1796\n3. Dos modos históricos de apagar la cal\n«…los modernos llaman por antonomasia apagarla ó matarla, consiste en echarla en agua donde esté como en infusion, y se macere y deshaga toda ella.»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 184.\nMR-P039-22-03 · CEN-0848. Aporta distinción de procedimiento y equivalencia con matar.\nLECTURA COMPARADA\nRejón de Silva (1788) describe el apagado como adición gradual de agua hasta quitar actividad a la cal. Bails (1802) subraya el resultado material, una masa semejante a cuajada, y su tratado de 1796 registra «apagarla» o «matarla» para el procedimiento de inmersión y maceración. Los tres pasajes muestran etapas complementarias del mismo proceso de hidratación: adición de agua, pérdida de viveza y transformación en pasta.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Acepción constructiva: apagar la cal; equivalente contextual: matarla. El verbo posee usos generales distintos, pero aquí designa específicamente la preparación de la cal con agua.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres testimonios de 1788, 1796 y 1802 concentran la evidencia en la cal. Dos proceden de Bails, uno doctrinal y otro lexicográfico; Rejón aporta una formulación paralela del proceso de desactivación por agua.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nEs fundamental para interpretar recetas de mortero y enlucido, porque «apagar» no significa extinguir fuego sino preparar la cal mediante agua. La equivalencia histórica con «matar la cal» permite reconocer el mismo proceso bajo dos expresiones de oficio.\nRELACIONADO CON\nCal; Matar la cal; Mortero; Mezcla; Enlucido; Agua; Calera\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Diccionario de las Nobles Artes para instrucción de los aficionados y uso de los profesores. Segovia, 1788.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/apagar/",
+    "academic_pdf": "documentos/fichas/apagar.pdf"
+  },
+  {
+    "num": 1236,
+    "cen": "CEN-0873",
+    "term": "Apartamiento Doble",
+    "slug": "apartamiento-doble",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Organización distributiva que ocupa el fondo de un edificio o cuerpo principal y se divide longitudinalmente mediante una pared de traviesa en dos series de piezas aproximadamente equivalentes. Se asocia a los cuerpos principales y a una distribución de mayor jerarquía.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Forma documentada: apartamiento doble. El adjetivo doble alude a dos bandas longitudinales de piezas aproximadamente equivalentes y lo distingue de los tipos semidoble y sencillo.",
+    "comparison": "Bails (1796) define el apartamiento doble por una pared de traviesa que corre entre las dos fachadas y organiza dos series de piezas de dimensiones semejantes. En 1802 formula la misma lógica desde el conjunto: el apartamiento ocupa todo el fondo y queda dividido longitudinalmente en dos quartos casi equivalentes. Un testimonio explica el dispositivo separador y el otro la configuración espacial resultante.",
+    "coverage": "Dos testimonios de Bails, fechados en 1796 y 1802, documentan la misma categoría distributiva desde un tratado y un diccionario. La evidencia es concentrada en un autor, pero complementaria en formulación y detalle.",
+    "utility": "Permite reconstruir esquemas de distribución doméstica a partir de la presencia de una pared longitudinal de traviesa y dos bandas de piezas semejantes. Es clave para diferenciar este tipo de los apartamientos semidoble y sencillo.",
+    "related": [
+      "Apartamiento",
+      "Apartamiento semidoble",
+      "Apartamiento sencillo",
+      "Pared de traviesa",
+      "Fachada",
+      "Distribución"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "APARTAMIENTO DOBLE. El que coge todo el fondo de un edificio ó cuerpo suyo principal, y está dividido casi por medio en la direccion de su longitud en dos quartos, siendo las piezas del uno casi iguales con las del otro.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8."
+      },
+      {
+        "text": "Un apartamiento es doble quando entre sus dos paredes de fachada corre una pared de traviesa, siendo con corta diferencia iguales entre sí las mas de las piezas repartidas en su longitud.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 87."
+      }
+    ],
+    "search_text": "Apartamiento Doble\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nOrganización distributiva que ocupa el fondo de un edificio o cuerpo principal y se divide longitudinalmente mediante una pared de traviesa en dos series de piezas aproximadamente equivalentes. Se asocia a los cuerpos principales y a una distribución de mayor jerarquía.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición del apartamiento doble\n«APARTAMIENTO DOBLE. El que coge todo el fondo de un edificio ó cuerpo suyo principal, y está dividido casi por medio en la direccion de su longitud en dos quartos, siendo las piezas del uno casi iguales con las del otro.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8.\nMR-P039-23-01 · CEN-0873. Fija el fondo ocupado, el eje longitudinal de división y la semejanza entre las dos series de piezas.\nBenito Bails · 1796\n2. Pared de traviesa y piezas semejantes\n«Un apartamiento es doble quando entre sus dos paredes de fachada corre una pared de traviesa, siendo con corta diferencia iguales entre sí las mas de las piezas repartidas en su longitud.»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 87.\nMR-P039-23-02 · CEN-0873. Aporta la explicación doctrinal del sistema distributivo.\nLECTURA COMPARADA\nBails (1796) define el apartamiento doble por una pared de traviesa que corre entre las dos fachadas y organiza dos series de piezas de dimensiones semejantes. En 1802 formula la misma lógica desde el conjunto: el apartamiento ocupa todo el fondo y queda dividido longitudinalmente en dos quartos casi equivalentes. Un testimonio explica el dispositivo separador y el otro la configuración espacial resultante.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: apartamiento doble. El adjetivo doble alude a dos bandas longitudinales de piezas aproximadamente equivalentes y lo distingue de los tipos semidoble y sencillo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos testimonios de Bails, fechados en 1796 y 1802, documentan la misma categoría distributiva desde un tratado y un diccionario. La evidencia es concentrada en un autor, pero complementaria en formulación y detalle.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconstruir esquemas de distribución doméstica a partir de la presencia de una pared longitudinal de traviesa y dos bandas de piezas semejantes. Es clave para diferenciar este tipo de los apartamientos semidoble y sencillo.\nRELACIONADO CON\nApartamiento; Apartamiento semidoble; Apartamiento sencillo; Pared de traviesa; Fachada; Distribución\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/apartamiento-doble/",
+    "academic_pdf": "documentos/fichas/apartamiento-doble.pdf"
+  },
+  {
+    "num": 1237,
+    "cen": "CEN-0874",
+    "term": "Apartamiento Semidoble",
+    "slug": "apartamiento-semidoble",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Distribución dividida en dos cuartos o bandas longitudinales de desigual jerarquía y tamaño: una formada por piezas grandes y otra por piezas pequeñas de servicio. En Bails se propone especialmente para cuerpos laterales.",
+    "authors_text": "Benito Bails (1802); Benito Bails (1796).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802,
+      1796
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796."
+    ],
+    "variants": "• Forma documentada: apartamiento semidoble. Se caracteriza por dos bandas longitudinales desiguales: piezas grandes de uso principal y piezas pequeñas vinculadas al servicio.",
+    "comparison": "Bails (1802) resume el apartamiento semidoble como dos quartos desiguales, uno de piezas grandes y otro de piezas pequeñas. El tratado de 1796 añade la lógica funcional: los cuartos menores sirven a los mayores y el esquema puede ocupar los cuerpos laterales. La desigualdad dimensional es, por tanto, también una jerarquía de servicio.",
+    "coverage": "Dos testimonios de Bails, de 1796 y 1802, documentan la categoría. El diccionario fija la diferencia de tamaño; el tratado precisa su localización posible y la función servicial de la banda menor.",
+    "utility": "Ayuda a interpretar plantas históricas con una franja principal de habitaciones y otra secundaria de servicio. La categoría permite reconocer una organización intermedia entre el apartamiento doble de bandas semejantes y el sencillo de una sola banda.",
+    "related": [
+      "Apartamiento doble",
+      "Apartamiento sencillo",
+      "Cuarto servicial",
+      "Pared de traviesa",
+      "Distribución"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "APARTAMIENTO SEMIDOBLE. El que está dividido en dos quartos, siendo las piezas del uno grandes, y pequeñas las del otro.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8."
+      },
+      {
+        "text": "Los apartamientos semidobles, que pueden colocarse en los lados, son aquellos que por una parte tienen piezas grandes, y por la otra piezas chicas para el servicio de las primeras.",
+        "author": "Benito Bails",
+        "year": "1796",
+        "source": "Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 87."
+      }
+    ],
+    "search_text": "Apartamiento Semidoble\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDistribución dividida en dos cuartos o bandas longitudinales de desigual jerarquía y tamaño: una formada por piezas grandes y otra por piezas pequeñas de servicio. En Bails se propone especialmente para cuerpos laterales.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición del apartamiento semidoble\n«APARTAMIENTO SEMIDOBLE. El que está dividido en dos quartos, siendo las piezas del uno grandes, y pequeñas las del otro.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8.\nMR-P039-24-01 · CEN-0874. Define la asimetría funcional entre las dos bandas.\nBenito Bails · 1796\n2. Semidobles para cuerpos laterales\n«Los apartamientos semidobles, que pueden colocarse en los lados, son aquellos que por una parte tienen piezas grandes, y por la otra piezas chicas para el servicio de las primeras.»\nElementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796. PDF p. 87.\nMR-P039-24-02 · CEN-0874. Añade localización y función servicial de la banda menor.\nLECTURA COMPARADA\nBails (1802) resume el apartamiento semidoble como dos quartos desiguales, uno de piezas grandes y otro de piezas pequeñas. El tratado de 1796 añade la lógica funcional: los cuartos menores sirven a los mayores y el esquema puede ocupar los cuerpos laterales. La desigualdad dimensional es, por tanto, también una jerarquía de servicio.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: apartamiento semidoble. Se caracteriza por dos bandas longitudinales desiguales: piezas grandes de uso principal y piezas pequeñas vinculadas al servicio.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos testimonios de Bails, de 1796 y 1802, documentan la categoría. El diccionario fija la diferencia de tamaño; el tratado precisa su localización posible y la función servicial de la banda menor.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar plantas históricas con una franja principal de habitaciones y otra secundaria de servicio. La categoría permite reconocer una organización intermedia entre el apartamiento doble de bandas semejantes y el sencillo de una sola banda.\nRELACIONADO CON\nApartamiento doble; Apartamiento sencillo; Cuarto servicial; Pared de traviesa; Distribución\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Elementos de Matemática, tomo IX, parte I: Arquitectura civil. 2.ª ed. Madrid: Viuda de Joaquín Ibarra, 1796.",
+    "url": "terminos/apartamiento-semidoble/",
+    "academic_pdf": "documentos/fichas/apartamiento-semidoble.pdf"
+  },
+  {
+    "num": 1238,
+    "cen": "CEN-0875",
+    "term": "Apartamiento sencillo",
+    "slug": "apartamiento-sencillo",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Organización distributiva que ocupa todo el fondo entre las paredes de fachada sin una pared de traviesa en la dirección longitudinal. Su rasgo definitorio es una sola banda de piezas en profundidad, frente a los esquemas doble y semidoble.",
+    "authors_text": "Benito Bails (1802).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• Forma documentada: apartamiento sencillo. El adjetivo sencillo describe la ausencia de una pared longitudinal de traviesa y, por tanto, la organización en una sola banda de piezas.",
+    "comparison": "Bails (1802) define el apartamiento sencillo por un criterio geométrico negativo preciso: ocupa todo el fondo entre las paredes de fachada sin pared de traviesa en la dirección longitudinal. La ausencia de esa división produce una sola banda de piezas y lo diferencia estructuralmente de los apartamientos doble y semidoble.",
+    "coverage": "La ficha se apoya en una definición lexicográfica de 1802. El testimonio establece de manera suficiente la relación entre profundidad del edificio, paredes de fachada y ausencia de división longitudinal.",
+    "utility": "Permite reconocer en plantas y descripciones una distribución de una sola banda en profundidad. Es especialmente útil para clasificar esquemas domésticos de Bails sin confundir «sencillo» con una valoración de pobreza, economía o escasa elaboración material.",
+    "related": [
+      "Apartamiento doble",
+      "Apartamiento semidoble",
+      "Pared de traviesa",
+      "Fachada",
+      "Distribución",
+      "Pieza"
+    ],
+    "themes": [
+      "Teoría y composición",
+      "Proporción"
+    ],
+    "quotes": [
+      {
+        "text": "APARTAMIENTO SENCILLO. El que coge todo el fondo del edificio entre sus dos paredes de fachada, sin pared alguna de traviesa en la direccion de su longitud.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8."
+      }
+    ],
+    "search_text": "Apartamiento sencillo\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nOrganización distributiva que ocupa todo el fondo entre las paredes de fachada sin una pared de traviesa en la dirección longitudinal. Su rasgo definitorio es una sola banda de piezas en profundidad, frente a los esquemas doble y semidoble.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición del apartamiento sencillo\n«APARTAMIENTO SENCILLO. El que coge todo el fondo del edificio entre sus dos paredes de fachada, sin pared alguna de traviesa en la direccion de su longitud.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 8.\nMR-P039-25-01 · CEN-0875. Define el tipo por la ausencia de una pared de traviesa en la dirección longitudinal.\nLECTURA COMPARADA\nBails (1802) define el apartamiento sencillo por un criterio geométrico negativo preciso: ocupa todo el fondo entre las paredes de fachada sin pared de traviesa en la dirección longitudinal. La ausencia de esa división produce una sola banda de piezas y lo diferencia estructuralmente de los apartamientos doble y semidoble.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Forma documentada: apartamiento sencillo. El adjetivo sencillo describe la ausencia de una pared longitudinal de traviesa y, por tanto, la organización en una sola banda de piezas.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa ficha se apoya en una definición lexicográfica de 1802. El testimonio establece de manera suficiente la relación entre profundidad del edificio, paredes de fachada y ausencia de división longitudinal.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer en plantas y descripciones una distribución de una sola banda en profundidad. Es especialmente útil para clasificar esquemas domésticos de Bails sin confundir «sencillo» con una valoración de pobreza, economía o escasa elaboración material.\nRELACIONADO CON\nApartamiento doble; Apartamiento semidoble; Pared de traviesa; Fachada; Distribución; Pieza\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/apartamiento-sencillo/",
+    "academic_pdf": "documentos/fichas/apartamiento-sencillo.pdf"
+  },
+  {
+    "num": 1239,
+    "cen": "CEN-0888",
+    "term": "Aperaltar",
+    "slug": "aperaltar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Dar peralte o elevar una forma por encima de la proporción semicircular o de otra referencia geométrica; en los repertorios consultados se presenta como equivalente directo de peraltar. La voz pertenece al campo de arcos y bóvedas y a la modificación de su flecha o altura.",
+    "authors_text": "Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Equivalencia documentada: aperaltar = peraltar. Se relaciona con peralte, arco peraltado y bóveda peraltada; la voz expresa la acción de dar mayor elevación o peralte.",
+    "comparison": "Bails (1802) y Matallana (1848) coinciden sin matices en remitir aperaltar a peraltar. La continuidad de la equivalencia durante la primera mitad del siglo XIX indica estabilidad lexicográfica, sin que los testimonios integrados introduzcan una especialización distinta para aperaltar.",
+    "coverage": "Dos diccionarios, de 1802 y 1848, documentan la voz mediante remisión directa a peraltar. La cobertura es breve pero concordante y mantiene la misma equivalencia en ambos repertorios.",
+    "utility": "Permite reconocer aperaltar como variante verbal de peraltar en textos sobre arcos y bóvedas y evita tratarla como operación distinta. Esta equivalencia es útil al rastrear cambios en flecha o altura de formas curvas.",
+    "related": [
+      "Peraltar",
+      "Peralte",
+      "Arco peraltado",
+      "Bóveda",
+      "Flecha",
+      "Montea"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "APERALTAR. v. a. Lo mismo que PERALTAR.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 118."
+      },
+      {
+        "text": "APERALTAR.=PERALTAR.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 31."
+      }
+    ],
+    "search_text": "Aperaltar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDar peralte o elevar una forma por encima de la proporción semicircular o de otra referencia geométrica; en los repertorios consultados se presenta como equivalente directo de peraltar. La voz pertenece al campo de arcos y bóvedas y a la modificación de su flecha o altura.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Equivalencia con peraltar\n«APERALTAR. v. a. Lo mismo que PERALTAR.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 118.\nMR-P039-26-01 · CEN-0888. Entrada inequívoca del suplemento de Bails.\nMariano Matallana · 1848\n2. Continuidad de la equivalencia\n«APERALTAR.=PERALTAR.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 31.\nMR-P039-26-02 · CEN-0888. Confirma la equivalencia lexicográfica en 1848.\nLECTURA COMPARADA\nBails (1802) y Matallana (1848) coinciden sin matices en remitir aperaltar a peraltar. La continuidad de la equivalencia durante la primera mitad del siglo XIX indica estabilidad lexicográfica, sin que los testimonios integrados introduzcan una especialización distinta para aperaltar.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Equivalencia documentada: aperaltar = peraltar. Se relaciona con peralte, arco peraltado y bóveda peraltada; la voz expresa la acción de dar mayor elevación o peralte.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos diccionarios, de 1802 y 1848, documentan la voz mediante remisión directa a peraltar. La cobertura es breve pero concordante y mantiene la misma equivalencia en ambos repertorios.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer aperaltar como variante verbal de peraltar en textos sobre arcos y bóvedas y evita tratarla como operación distinta. Esta equivalencia es útil al rastrear cambios en flecha o altura de formas curvas.\nRELACIONADO CON\nPeraltar; Peralte; Arco peraltado; Bóveda; Flecha; Montea\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/aperaltar/",
+    "academic_pdf": "documentos/fichas/aperaltar.pdf"
+  },
+  {
+    "num": 1240,
+    "cen": "CEN-0892",
+    "term": "Apilar",
+    "slug": "apilar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Disponer o acumular piezas unas sobre otras formando una pila. La documentación lo documenta en operaciones de carga de hornos cerámicos y en la preparación de cal, donde el apilado concentra calor y ordena el material antes o durante su tratamiento.",
+    "authors_text": "Jules Adeline / José Ramón Mélida (1887); Pedro Celestino Espinosa (1859).",
+    "authors": [
+      "J. Adeline",
+      "José Ramón Mélida",
+      "P. C. Espinosa"
+    ],
+    "years": [
+      1887,
+      1859
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.",
+      "Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859."
+    ],
+    "variants": "• Familia: pila, apilar y apilado. El verbo describe la disposición de materiales unos sobre otros; por sí solo no implica unión, trabazón ni estabilidad propia de un aparejo constructivo.",
+    "comparison": "Espinosa (1859) prescribe apilar la cal inmediatamente para conservar calor y favorecer su apagado; Adeline/Mélida (1887) usa el mismo verbo para disponer piezas durante el enhornado «en carga». La acción básica de formar una pila se mantiene, pero su finalidad cambia según el proceso material: control térmico de la cal o organización de piezas cerámicas en el horno.",
+    "coverage": "Dos fuentes del siglo XIX, de 1859 y 1887, aportan los testimonios. La documentación procede de contextos productivos distintos —cal y cocción cerámica— y muestra un uso técnico compartido del verbo.",
+    "utility": "Permite identificar una operación de acopio temporal ligada a procesos térmicos y productivos, no un aparejo permanente de fábrica. Es útil para interpretar secuencias de preparación de cal y carga de hornos.",
+    "related": [
+      "Pila",
+      "Apilado",
+      "Horno",
+      "Cal",
+      "Ladrillo",
+      "Material",
+      "Acopio"
+    ],
+    "themes": [
+      "Proceso constructivo",
+      "Sistemas constructivos"
+    ],
+    "quotes": [
+      {
+        "text": "El enhornado “en carga” consiste en apilar las piezas…",
+        "author": "Jules Adeline / José Ramón Mélida",
+        "year": "1887",
+        "source": "Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 206."
+      },
+      {
+        "text": "Debe apilarse la cal inmediatamente para concentrar el calor y facilitar el apagado.",
+        "author": "Pedro Celestino Espinosa",
+        "year": "1859",
+        "source": "Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859. PDF p. 78."
+      }
+    ],
+    "search_text": "Apilar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDisponer o acumular piezas unas sobre otras formando una pila. La documentación lo documenta en operaciones de carga de hornos cerámicos y en la preparación de cal, donde el apilado concentra calor y ordena el material antes o durante su tratamiento.\nCOMPARADOR TEXTUAL COMPLETO\nJules Adeline / José Ramón Mélida · 1887\n1. Apilar piezas en el enhornado\n«El enhornado “en carga” consiste en apilar las piezas…»\nVocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887. PDF p. 206.\nMR-P039-27-01 · CEN-0892. Documenta la operación en el campo de la cerámica y los hornos.\nPedro Celestino Espinosa · 1859\n2. Apilar cal para conservar el calor\n«Debe apilarse la cal inmediatamente para concentrar el calor y facilitar el apagado.»\nManual de construcciones de albañilería. Madrid: Severiano Baz, 1859. PDF p. 78.\nMR-P039-27-02 · CEN-0892. Aporta una aplicación constructiva directa a la preparación de cal.\nLECTURA COMPARADA\nEspinosa (1859) prescribe apilar la cal inmediatamente para conservar calor y favorecer su apagado; Adeline/Mélida (1887) usa el mismo verbo para disponer piezas durante el enhornado «en carga». La acción básica de formar una pila se mantiene, pero su finalidad cambia según el proceso material: control térmico de la cal o organización de piezas cerámicas en el horno.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Familia: pila, apilar y apilado. El verbo describe la disposición de materiales unos sobre otros; por sí solo no implica unión, trabazón ni estabilidad propia de un aparejo constructivo.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos fuentes del siglo XIX, de 1859 y 1887, aportan los testimonios. La documentación procede de contextos productivos distintos —cal y cocción cerámica— y muestra un uso técnico compartido del verbo.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar una operación de acopio temporal ligada a procesos térmicos y productivos, no un aparejo permanente de fábrica. Es útil para interpretar secuencias de preparación de cal y carga de hornos.\nRELACIONADO CON\nPila; Apilado; Horno; Cal; Ladrillo; Material; Acopio\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Vocabulario de términos de arte. Madrid: La Ilustración Española y Americana, 1887.\n• Manual de construcciones de albañilería. Madrid: Severiano Baz, 1859.",
+    "url": "terminos/apilar/",
+    "academic_pdf": "documentos/fichas/apilar.pdf"
+  },
+  {
+    "num": 1241,
+    "cen": "CEN-0988",
+    "term": "Arcaduzar",
+    "slug": "arcaduzar",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Conducir o dirigir agua mediante arcaduces, caños o conductos. La voz expresa una operación hidráulica: organizar el transporte del agua por piezas tubulares o canales cerrados, no el elemento arcaduz en sí.",
+    "authors_text": "Benito Bails (1802); Mariano Matallana (1848).",
+    "authors": [
+      "Benito Bails",
+      "Mariano Matallana"
+    ],
+    "years": [
+      1802,
+      1848
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848."
+    ],
+    "variants": "• Familia: arcaduz, arcaduzado y arcaduzar. Caño y conducto aparecen como elementos funcionalmente equivalentes dentro de la acción de conducir agua; el verbo no nombra el recipiente o tubo individual.",
+    "comparison": "Bails (1802) define arcaduzar como conducir agua por arcaduces o caños. Matallana (1848) conserva la definición y amplía la formulación con «dirigir» y «conductos». La acción hidráulica permanece estable: el verbo se refiere al transporte del agua por elementos de conducción, no al arcaduz como pieza aislada.",
+    "coverage": "Dos diccionarios de 1802 y 1848 documentan la voz con definiciones muy próximas. La segunda fuente amplía el vocabulario equivalente, pero no modifica el núcleo hidráulico de conducción de agua.",
+    "utility": "Permite reconocer en textos de abastecimiento la acción de conducir agua mediante arcaduces, caños o conductos y distinguirla del nombre del elemento tubular. Es útil para reconstruir operaciones y redes hidráulicas a partir de verbos de oficio.",
+    "related": [
+      "Arcaduz",
+      "Caño",
+      "Conducto",
+      "Cañería",
+      "Agua",
+      "Noria",
+      "Hidráulica"
+    ],
+    "themes": [
+      "Sistemas constructivos",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ARCADUZAR. v. a. Conducir el agua por arcaduces ó caños.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 119."
+      },
+      {
+        "text": "ARCADUZAR.=Conducir, dirigir el agua por arcaduces, por conductos ó caños.",
+        "author": "Mariano Matallana",
+        "year": "1848",
+        "source": "Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 34."
+      }
+    ],
+    "search_text": "Arcaduzar\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nConducir o dirigir agua mediante arcaduces, caños o conductos. La voz expresa una operación hidráulica: organizar el transporte del agua por piezas tubulares o canales cerrados, no el elemento arcaduz en sí.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Conducción por arcaduces o caños\n«ARCADUZAR. v. a. Conducir el agua por arcaduces ó caños.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 119.\nMR-P039-28-01 · CEN-0988. Entrada directa y definición operativa.\nMariano Matallana · 1848\n2. Conducir o dirigir agua por conductos\n«ARCADUZAR.=Conducir, dirigir el agua por arcaduces, por conductos ó caños.»\nVocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848. PDF p. 34.\nMR-P039-28-02 · CEN-0988. Amplía los equivalentes funcionales sin alterar el núcleo hidráulico.\nLECTURA COMPARADA\nBails (1802) define arcaduzar como conducir agua por arcaduces o caños. Matallana (1848) conserva la definición y amplía la formulación con «dirigir» y «conductos». La acción hidráulica permanece estable: el verbo se refiere al transporte del agua por elementos de conducción, no al arcaduz como pieza aislada.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Familia: arcaduz, arcaduzado y arcaduzar. Caño y conducto aparecen como elementos funcionalmente equivalentes dentro de la acción de conducir agua; el verbo no nombra el recipiente o tubo individual.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nDos diccionarios de 1802 y 1848 documentan la voz con definiciones muy próximas. La segunda fuente amplía el vocabulario equivalente, pero no modifica el núcleo hidráulico de conducción de agua.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite reconocer en textos de abastecimiento la acción de conducir agua mediante arcaduces, caños o conductos y distinguirla del nombre del elemento tubular. Es útil para reconstruir operaciones y redes hidráulicas a partir de verbos de oficio.\nRELACIONADO CON\nArcaduz; Caño; Conducto; Cañería; Agua; Noria; Hidráulica\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Vocabulario de arquitectura civil. Madrid: Francisco Rodríguez, 1848.",
+    "url": "terminos/arcaduzar/",
+    "academic_pdf": "documentos/fichas/arcaduzar.pdf"
+  },
+  {
+    "num": 1242,
+    "cen": "CEN-1198",
+    "term": "Arista de Encuentro",
+    "slug": "arista-de-encuentro",
+    "start_page": null,
+    "end_page": null,
+    "sense": "En una bóveda por arista, esquina o línea saliente del intradós producida por el encuentro de dos témpanos inmediatos. Es una arista geométrica de intersección entre superficies de la bóveda y no una junta material cualquiera.",
+    "authors_text": "Benito Bails (1802).",
+    "authors": [
+      "Benito Bails"
+    ],
+    "years": [
+      1802
+    ],
+    "centuries": [
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802."
+    ],
+    "variants": "• Locución técnica: arista de encuentro. En Bails designa específicamente la esquina del intradós formada por dos témpanos inmediatos de una bóveda por arista.",
+    "comparison": "Bails (1802) define la arista de encuentro dentro de una bóveda por arista como la esquina del intradós producida por el concurso de dos témpanos inmediatos. El pasaje fija simultáneamente geometría, localización y superficies participantes, por lo que la locución no debe extenderse a cualquier arista o junta entre piezas.",
+    "coverage": "La evidencia integrada consiste en una definición lexicográfica de 1802. Aunque es un único testimonio, delimita con precisión la locución mediante tres referencias técnicas: bóveda por arista, intradós y encuentro de témpanos.",
+    "utility": "Permite identificar la línea geométrica saliente que resulta del encuentro de dos témpanos en el intradós de una bóveda por arista. La precisión evita confundirla con aristas de sillares, juntas materiales o encuentros exteriores.",
+    "related": [
+      "Arista",
+      "Bóveda por arista",
+      "Témpano",
+      "Intradós",
+      "Encuentro",
+      "Intersección"
+    ],
+    "themes": [
+      "Cantería",
+      "Trazado y cantería"
+    ],
+    "quotes": [
+      {
+        "text": "ARISTA DE ENCUENTRO. En una bóveda por arista es la esquina que se forma en su intrados del concurso de dos témpanos inmediatos.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 11."
+      }
+    ],
+    "search_text": "Arista de Encuentro\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nEn una bóveda por arista, esquina o línea saliente del intradós producida por el encuentro de dos témpanos inmediatos. Es una arista geométrica de intersección entre superficies de la bóveda y no una junta material cualquiera.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Arista formada por dos témpanos de bóveda\n«ARISTA DE ENCUENTRO. En una bóveda por arista es la esquina que se forma en su intrados del concurso de dos témpanos inmediatos.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 11.\nMR-P039-29-01 · CEN-1198. Define la arista como esquina del intradós producida por el encuentro de dos témpanos inmediatos.\nLECTURA COMPARADA\nBails (1802) define la arista de encuentro dentro de una bóveda por arista como la esquina del intradós producida por el concurso de dos témpanos inmediatos. El pasaje fija simultáneamente geometría, localización y superficies participantes, por lo que la locución no debe extenderse a cualquier arista o junta entre piezas.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Locución técnica: arista de encuentro. En Bails designa específicamente la esquina del intradós formada por dos témpanos inmediatos de una bóveda por arista.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nLa evidencia integrada consiste en una definición lexicográfica de 1802. Aunque es un único testimonio, delimita con precisión la locución mediante tres referencias técnicas: bóveda por arista, intradós y encuentro de témpanos.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nPermite identificar la línea geométrica saliente que resulta del encuentro de dos témpanos en el intradós de una bóveda por arista. La precisión evita confundirla con aristas de sillares, juntas materiales o encuentros exteriores.\nRELACIONADO CON\nArista; Bóveda por arista; Témpano; Intradós; Encuentro; Intersección\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+    "url": "terminos/arista-de-encuentro/",
+    "academic_pdf": "documentos/fichas/arista-de-encuentro.pdf"
+  },
+  {
+    "num": 1243,
+    "cen": "CEN-1269",
+    "term": "Arquear",
+    "slug": "arquear",
+    "start_page": null,
+    "end_page": null,
+    "sense": "Dar a una cosa forma de arco o curvatura arqueada. En arquitectura se aplica a elementos que se curvan o vuelan conforme a una línea de arco; textos doctrinales lo emplean también junto a volear y dentro de las leyes de construcción de arcos y bóvedas.",
+    "authors_text": "Benito Bails (1802); Christian Rieger / Miguel Benavente (1763); Eduardo Mariátegui (1876).",
+    "authors": [
+      "Benito Bails",
+      "Christian Rieger",
+      "Miguel Benavente",
+      "Eduardo Mariátegui"
+    ],
+    "years": [
+      1802,
+      1763,
+      1876
+    ],
+    "centuries": [
+      "XVIII",
+      "XIX"
+    ],
+    "works": [
+      "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.",
+      "Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763.",
+      "Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876."
+    ],
+    "variants": "• Familia: arco, arqueado, arqueo y arquear. Volear aparece como equivalente contextual de la acción de curvar en forma de arco; arqueo en sentidos contables o inventariales pertenece a otro campo semántico.",
+    "comparison": "Rieger/Benavente (1763) documenta arquear como operación aplicada al friso y la aproxima a volear. Bails (1802) abstrae la acción en una definición general: formar algo en figura de arco. Mariátegui (1876) confirma la equivalencia inversa «volear = arquear». La secuencia va del uso constructivo concreto a la definición general y conserva una relación terminológica persistente con volear.",
+    "coverage": "Tres fuentes entre 1763 y 1876 documentan la voz o su equivalente. El testimonio temprano es doctrinal y aplicado; Bails ofrece la definición verbal; Mariátegui mantiene la equivalencia con volear en el siglo XIX.",
+    "utility": "Ayuda a interpretar instrucciones donde una pieza, friso u otro elemento debe adquirir curvatura de arco y a reconocer volear como equivalente histórico contextual. También permite separar esta acepción constructiva de otros sentidos modernos de arqueo.",
+    "related": [
+      "Arco",
+      "Arqueado",
+      "Arqueo",
+      "Volear",
+      "Bóveda",
+      "Curvatura",
+      "Friso"
+    ],
+    "themes": [
+      "Estructuras curvas",
+      "Proceso constructivo"
+    ],
+    "quotes": [
+      {
+        "text": "ARQUEAR. v. a. Formar alguna cosa en figura de arco.",
+        "author": "Benito Bails",
+        "year": "1802",
+        "source": "Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 120."
+      },
+      {
+        "text": "…convendrá segun la méthodo de Palladio arquear, ó volear el Friso…",
+        "author": "Christian Rieger / Miguel Benavente",
+        "year": "1763",
+        "source": "Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763. PDF p. 228."
+      }
+    ],
+    "search_text": "Arquear\nFICHA MADRE · TESTIMONIOS TEXTUALES COMPARADOS\nSENTIDO HISTÓRICO DOCUMENTADO\nDar a una cosa forma de arco o curvatura arqueada. En arquitectura se aplica a elementos que se curvan o vuelan conforme a una línea de arco; textos doctrinales lo emplean también junto a volear y dentro de las leyes de construcción de arcos y bóvedas.\nCOMPARADOR TEXTUAL COMPLETO\nBenito Bails · 1802\n1. Definición directa del verbo\n«ARQUEAR. v. a. Formar alguna cosa en figura de arco.»\nDiccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802. PDF p. 120.\nMR-P039-30-01 · CEN-1269. Entrada inequívoca que fija el sentido geométrico-constructivo.\nChristian Rieger / Miguel Benavente · 1763\n2. Arquear y volear el friso\n«…convendrá segun la méthodo de Palladio arquear, ó volear el Friso…»\nElementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763. PDF p. 228.\nMR-P039-30-02 · CEN-1269. Muestra una aplicación compositiva concreta y equivalencia contextual con volear.\nEduardo Mariátegui · 1876\n3. Volear como equivalente histórico\n«VOLEAR.=ARQUEAR.»\nGlosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876. PDF p. 116.\nMR-P039-30-03 · CEN-1269. El glosario histórico confirma la relación terminológica y conserva citas de uso.\nLECTURA COMPARADA\nRieger/Benavente (1763) documenta arquear como operación aplicada al friso y la aproxima a volear. Bails (1802) abstrae la acción en una definición general: formar algo en figura de arco. Mariátegui (1876) confirma la equivalencia inversa «volear = arquear». La secuencia va del uso constructivo concreto a la definición general y conserva una relación terminológica persistente con volear.\nVARIANTES Y CONTROL TERMINOLÓGICO\n• Familia: arco, arqueado, arqueo y arquear. Volear aparece como equivalente contextual de la acción de curvar en forma de arco; arqueo en sentidos contables o inventariales pertenece a otro campo semántico.\nCOBERTURA DOCUMENTAL Y CONTROL DE EXHAUSTIVIDAD\nTres fuentes entre 1763 y 1876 documentan la voz o su equivalente. El testimonio temprano es doctrinal y aplicado; Bails ofrece la definición verbal; Mariátegui mantiene la equivalencia con volear en el siglo XIX.\nUTILIDAD PARA INVESTIGACIÓN Y MARCO CONCEPTUAL\nAyuda a interpretar instrucciones donde una pieza, friso u otro elemento debe adquirir curvatura de arco y a reconocer volear como equivalente histórico contextual. También permite separar esta acepción constructiva de otros sentidos modernos de arqueo.\nRELACIONADO CON\nArco; Arqueado; Arqueo; Volear; Bóveda; Curvatura; Friso\nREFERENCIAS BIBLIOGRÁFICAS DE LA FICHA\n• Diccionario de arquitectura civil. Madrid: Viuda de Ibarra, 1802.\n• Elementos de toda la Architectura Civil. Madrid: Joaquín Ibarra, 1763.\n• Glosario de algunos antiguos vocablos de Arquitectura y de sus artes auxiliares. Madrid: Memorial de Ingenieros, 1876.",
+    "url": "terminos/arquear/",
+    "academic_pdf": "documentos/fichas/arquear.pdf"
   }
 ]
